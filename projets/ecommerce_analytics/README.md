@@ -10,10 +10,10 @@
 
 | # | Étape | Outils | Notebook |
 |---|---|---|---|
-| 1 | Contexte métier & exploration des données | Python, pandas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprojectlabs/DataProjectLab-projects/refs/heads/main/projets/ecommerce_analytics/enonce/nb1_exploration.ipynb) |
-| 2 | Data Cleaning & Feature Engineering | Python, pandas, sqlalchemy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprojectlabs/DataProjectLab-projects/refs/heads/main/projets/ecommerce_analytics/enonce/nb2_data_cleaning.ipynb) |
-| 3 | SQL Analytics, KPIs & Segmentation RFM | Python, DuckDB, matplotlib | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprojectlabs/DataProjectLab-projects/refs/heads/main/projets/ecommerce_analytics/enonce/nb3_sql_rfm.ipynb) |
-| 4 | Power BI Design Guide | Power BI Desktop | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprojectlabs/DataProjectLab-projects/refs/heads/main/projets/ecommerce_analytics/enonce/nb4_powerbi.ipynb) |
+| 1 | Contexte métier & exploration des données | Python, pandas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprojectlabs/DataProjectLab-projects/blob/main/projets/ecommerce_analytics/enonce/nb1_exploration.ipynb) |
+| 2 | Data Cleaning & Feature Engineering | Python, pandas, sqlalchemy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprojectlabs/DataProjectLab-projects/blob/main/projets/ecommerce_analytics/enonce/nb2_data_cleaning.ipynb) |
+| 3 | SQL Analytics, KPIs & Segmentation RFM | Python, DuckDB, matplotlib | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprojectlabs/DataProjectLab-projects/blob/main/projets/ecommerce_analytics/enonce/nb3_sql_rfm.ipynb) |
+| 4 | Power BI Design Guide | Power BI Desktop | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dataprojectlabs/DataProjectLab-projects/blob/main/projets/ecommerce_analytics/enonce/nb4_powerbi.ipynb) |
 
 
 
