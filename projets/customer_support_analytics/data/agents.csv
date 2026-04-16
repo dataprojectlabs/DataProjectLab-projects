@@ -1,0 +1,13 @@
+agent_id,nom,tier,bureau,csat_moyen,taux_resolution_pct,tickets_actifs
+AGT001,Aminata Diallo,Tier 1,Abidjan,4.2,88,42
+AGT002,Kofi Mensah,Tier 1,Accra,3.8,72,38
+AGT003,Fatou Sow,Tier 2,Dakar,4.5,94,28
+AGT004,Moussa Kone,Tier 1,Abidjan,3.5,65,55
+AGT005,Aya Touré,Tier 2,Abidjan,4.7,96,22
+AGT006,Jean-Marc Dubois,Tier 3,Paris,4.8,98,12
+AGT007,Aissatou Ba,Tier 1,Dakar,3.9,78,48
+AGT008,Ibrahim Coulibaly,Tier 2,Bamako,4.3,90,30
+AGT009,Nadia Benhaddou,Tier 1,Casablanca,4.0,80,45
+AGT010,Olivier Martin,Tier 3,Paris,4.6,97,15
+AGT011,Ramatou Diaby,Tier 1,Ouagadougou,3.6,68,52
+AGT012,Samuel Acheampong,Tier 2,Accra,4.4,92,26

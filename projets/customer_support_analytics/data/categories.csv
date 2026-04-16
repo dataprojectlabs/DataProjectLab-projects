@@ -1,0 +1,11 @@
+category_id,nom,domaine,priorite_defaut,sla_strict,sla_heures,taux_resolution_historique
+CAT001,Facturation,Billing,4,True,240,0.92
+CAT002,Panne technique,Technical,2,True,120,0.88
+CAT003,Livraison retardee,Delivery,3,True,180,0.85
+CAT004,Remboursement,Billing,3,True,240,0.9
+CAT005,Acces compte,Technical,1,True,60,0.95
+CAT006,Qualite produit,Product,3,False,360,0.78
+CAT007,Demande info,General,5,False,480,0.98
+CAT008,Probleme paiement,Billing,2,True,120,0.87
+CAT009,Escalade juridique,Legal,1,True,480,0.7
+CAT010,Fraude signalée,Security,1,True,60,0.8
