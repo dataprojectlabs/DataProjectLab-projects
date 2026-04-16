@@ -1,0 +1,31 @@
+product_id,nom_produit,categorie,marque,prix_unitaire,cout_produit
+PRD001,iPhone 15 Pro,Smartphones,Apple,1299.0,780.0
+PRD002,Samsung Galaxy S24,Smartphones,Samsung,999.0,600.0
+PRD003,Tecno Spark 20,Smartphones,Tecno,189.0,95.0
+PRD004,MacBook Air M3,Ordinateurs,Apple,1499.0,900.0
+PRD005,Dell Inspiron 15,Ordinateurs,Dell,749.0,420.0
+PRD006,HP Pavilion 14,Ordinateurs,HP,649.0,380.0
+PRD007,AirPods Pro,Audio,Apple,279.0,130.0
+PRD008,Sony WH-1000XM5,Audio,Sony,349.0,180.0
+PRD009,Casque JBL Tune,Audio,JBL,79.0,32.0
+PRD010,iPad Air,Tablettes,Apple,749.0,430.0
+PRD011,Samsung Tab S9,Tablettes,Samsung,649.0,370.0
+PRD012,Nike Air Max 270,Chaussures,Nike,149.0,55.0
+PRD013,Adidas Ultra Boost,Chaussures,Adidas,180.0,68.0
+PRD014,Puma RS-X,Chaussures,Puma,99.0,38.0
+PRD015,T-shirt Premium,Vetements,H&M,29.0,9.0
+PRD016,Jeans Slim Fit,Vetements,Zara,59.0,18.0
+PRD017,Montre Casio G-Shock,Montres,Casio,149.0,60.0
+PRD018,Samsung Watch 6,Montres,Samsung,299.0,140.0
+PRD019,Parfum Hugo Boss,Beaute,Hugo Boss,89.0,22.0
+PRD020,Creme Nivea,Beaute,Nivea,15.0,4.0
+PRD021,Livre Python,Livres,O'Reilly,45.0,12.0
+PRD022,Roman bestseller,Livres,Penguin,18.0,5.0
+PRD023,Machine Nespresso,Cuisine,Nespresso,199.0,85.0
+PRD024,Blender Philips,Cuisine,Philips,89.0,32.0
+PRD025,Batterie Anker,Accessoires,Anker,39.0,14.0
+PRD026,Coque iPhone,Accessoires,Generic,12.0,2.5
+PRD027,Chargeur USB-C,Accessoires,Belkin,29.0,8.0
+PRD028,Enceinte JBL Flip,Audio,JBL,129.0,52.0
+PRD029,GoPro Hero 12,Cameras,GoPro,399.0,210.0
+PRD030,Imprimante HP,Bureautique,HP,149.0,68.0

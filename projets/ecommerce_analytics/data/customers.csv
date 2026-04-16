@@ -1,0 +1,3001 @@
+customer_id,pays,ville,segment_client,date_inscription
+CUS00001,Senegal,Dakar,Occasionnel,2022-05-17
+CUS00002,Cameroun,Douala,Occasionnel,2024-01-22
+CUS00003,Senegal,Saint-Louis,Standard,2021-03-03
+CUS00004,Senegal,Dakar,Standard,2024-05-17
+CUS00005,Cote d'Ivoire,Bouake,Occasionnel,2024-01-22
+CUS00006,Ghana,Accra,Standard,2022-07-24
+CUS00007,Cote d'Ivoire,Bouake,Occasionnel,2022-11-28
+CUS00008,Maroc,Casablanca,Standard,2022-11-21
+CUS00009,Senegal,Dakar,Standard,2023-01-06
+CUS00010,Nigeria,Kano,Standard,2021-03-30
+CUS00011,Belgique,Bruxelles,Nouveau,2023-02-15
+CUS00012,Senegal,Saint-Louis,Standard,2024-06-20
+CUS00013,Nigeria,Kano,Standard,2021-05-23
+CUS00014,Cote d'Ivoire,Bouake,Occasionnel,2021-06-13
+CUS00015,Cameroun,Douala,Standard,2023-07-18
+CUS00016,Nigeria,Lagos,Standard,2022-03-06
+CUS00017,Maroc,Marrakech,Nouveau,2021-05-27
+CUS00018,France,Lyon,Standard,2023-02-17
+CUS00019,Maroc,Marrakech,Occasionnel,2022-03-26
+CUS00020,Nigeria,Lagos,Standard,2021-03-07
+CUS00021,Nigeria,Abuja,Standard,2022-03-09
+CUS00022,Nigeria,Lagos,Occasionnel,2023-03-22
+CUS00023,Belgique,Bruxelles,Standard,2022-05-21
+CUS00024,Maroc,Marrakech,Occasionnel,2024-04-10
+CUS00025,Ghana,Kumasi,Standard,2021-10-11
+CUS00026,Belgique,Bruxelles,Occasionnel,2021-08-13
+CUS00027,France,Lyon,Occasionnel,2023-05-15
+CUS00028,Senegal,Thies,Standard,2023-08-17
+CUS00029,Maroc,Marrakech,Nouveau,2021-01-24
+CUS00030,Senegal,Saint-Louis,Nouveau,2022-07-01
+CUS00031,Nigeria,Lagos,Standard,2021-11-20
+CUS00032,Belgique,Bruxelles,Nouveau,2022-06-24
+CUS00033,France,Paris,Nouveau,2022-09-04
+CUS00034,Cameroun,Douala,Standard,2021-11-27
+CUS00035,Cote d'Ivoire,Yamoussoukro,Standard,2021-08-18
+CUS00036,Nigeria,Abuja,Standard,2022-05-09
+CUS00037,Senegal,Dakar,Occasionnel,2021-05-22
+CUS00038,France,Lyon,Occasionnel,2024-01-31
+CUS00039,France,Marseille,Occasionnel,2024-05-27
+CUS00040,Ghana,Accra,Nouveau,2022-02-16
+CUS00041,Maroc,Rabat,Nouveau,2023-02-04
+CUS00042,Belgique,Liege,Premium,2022-04-06
+CUS00043,Senegal,Thies,Premium,2024-02-09
+CUS00044,Cameroun,Douala,Premium,2021-05-01
+CUS00045,Cameroun,Douala,Nouveau,2022-11-08
+CUS00046,Senegal,Saint-Louis,Standard,2023-09-22
+CUS00047,Cameroun,Douala,Occasionnel,2024-03-15
+CUS00048,Belgique,Bruxelles,Occasionnel,2023-04-14
+CUS00049,Cameroun,Douala,Premium,2023-06-02
+CUS00050,Nigeria,Abuja,Standard,2021-04-21
+CUS00051,Senegal,Dakar,Standard,2022-11-26
+CUS00052,Senegal,Dakar,Standard,2024-01-04
+CUS00053,Belgique,Bruxelles,Standard,2022-07-25
+CUS00054,Belgique,Bruxelles,Nouveau,2021-06-04
+CUS00055,Belgique,Bruxelles,Premium,2024-01-13
+CUS00056,Cote d'Ivoire,Abidjan,Nouveau,2022-04-30
+CUS00057,France,Bordeaux,Standard,2022-03-14
+CUS00058,Ghana,Accra,Standard,2021-01-05
+CUS00059,Ghana,Kumasi,Nouveau,2023-07-21
+CUS00060,Maroc,Rabat,Occasionnel,2024-02-13
+CUS00061,Belgique,Bruxelles,Standard,2022-03-22
+CUS00062,Cote d'Ivoire,Abidjan,Occasionnel,2021-04-28
+CUS00063,Cote d'Ivoire,Daloa,Occasionnel,2023-12-24
+CUS00064,France,Paris,Nouveau,2021-06-14
+CUS00065,France,Paris,Occasionnel,2022-04-27
+CUS00066,Ghana,Accra,Nouveau,2024-03-12
+CUS00067,Cameroun,Douala,Occasionnel,2023-05-09
+CUS00068,Nigeria,Abuja,Standard,2022-10-06
+CUS00069,Cameroun,Yaounde,Standard,2022-09-07
+CUS00070,Belgique,Liege,Nouveau,2021-05-29
+CUS00071,Cote d'Ivoire,Daloa,Occasionnel,2024-02-28
+CUS00072,Senegal,Dakar,Occasionnel,2023-11-03
+CUS00073,Maroc,Casablanca,Nouveau,2021-05-21
+CUS00074,Cameroun,Yaounde,Standard,2023-06-17
+CUS00075,Maroc,Marrakech,Nouveau,2023-12-20
+CUS00076,Cote d'Ivoire,Yamoussoukro,Nouveau,2021-08-01
+CUS00077,France,Marseille,Premium,2021-08-08
+CUS00078,France,Marseille,Standard,2022-03-08
+CUS00079,Nigeria,Lagos,Occasionnel,2022-06-25
+CUS00080,Belgique,Liege,Nouveau,2021-04-15
+CUS00081,Senegal,Saint-Louis,Standard,2022-07-21
+CUS00082,Cote d'Ivoire,Abidjan,Standard,2021-09-25
+CUS00083,Maroc,Casablanca,Occasionnel,2024-02-04
+CUS00084,Ghana,Accra,Premium,2021-11-02
+CUS00085,Cote d'Ivoire,Yamoussoukro,Occasionnel,2021-10-31
+CUS00086,Ghana,Accra,Premium,2023-01-17
+CUS00087,Cote d'Ivoire,Yamoussoukro,Standard,2022-05-27
+CUS00088,Senegal,Thies,Occasionnel,2023-04-13
+CUS00089,France,Lyon,Nouveau,2021-12-29
+CUS00090,Ghana,Accra,Standard,2022-11-12
+CUS00091,Ghana,Accra,Standard,2021-08-10
+CUS00092,Ghana,Accra,Nouveau,2022-04-01
+CUS00093,Cameroun,Yaounde,Standard,2022-04-12
+CUS00094,Cameroun,Douala,Occasionnel,2023-03-28
+CUS00095,Nigeria,Abuja,Nouveau,2022-07-26
+CUS00096,Nigeria,Kano,Occasionnel,2024-01-04
+CUS00097,Nigeria,Lagos,Premium,2022-06-19
+CUS00098,France,Marseille,Premium,2024-05-06
+CUS00099,Ghana,Kumasi,Occasionnel,2022-10-05
+CUS00100,Ghana,Accra,Standard,2024-03-26
+CUS00101,Cameroun,Yaounde,Premium,2023-06-13
+CUS00102,Cote d'Ivoire,Bouake,Standard,2021-05-24
+CUS00103,Nigeria,Kano,Standard,2021-09-13
+CUS00104,Maroc,Marrakech,Standard,2023-04-17
+CUS00105,Nigeria,Abuja,Occasionnel,2024-02-10
+CUS00106,France,Lyon,Standard,2023-02-16
+CUS00107,France,Marseille,Standard,2021-01-01
+CUS00108,Maroc,Rabat,Standard,2024-04-02
+CUS00109,Nigeria,Abuja,Standard,2022-03-14
+CUS00110,Belgique,Bruxelles,Occasionnel,2022-08-05
+CUS00111,Nigeria,Lagos,Occasionnel,2022-04-27
+CUS00112,Maroc,Casablanca,Occasionnel,2021-10-29
+CUS00113,Cote d'Ivoire,Abidjan,Standard,2023-09-01
+CUS00114,Senegal,Thies,Standard,2024-03-24
+CUS00115,Cameroun,Yaounde,Standard,2022-05-15
+CUS00116,France,Paris,Nouveau,2021-08-07
+CUS00117,Ghana,Accra,Standard,2023-11-27
+CUS00118,Belgique,Bruxelles,Occasionnel,2021-09-06
+CUS00119,Belgique,Bruxelles,Occasionnel,2023-12-24
+CUS00120,Nigeria,Abuja,Occasionnel,2023-10-31
+CUS00121,Ghana,Kumasi,Nouveau,2023-08-31
+CUS00122,Belgique,Liege,Occasionnel,2022-07-22
+CUS00123,Belgique,Bruxelles,Standard,2021-06-08
+CUS00124,Maroc,Casablanca,Standard,2022-10-17
+CUS00125,Senegal,Dakar,Standard,2023-02-24
+CUS00126,France,Lyon,Premium,2023-04-15
+CUS00127,Nigeria,Kano,Standard,2021-05-08
+CUS00128,Cameroun,Yaounde,Standard,2024-04-11
+CUS00129,Cote d'Ivoire,Daloa,Standard,2022-12-22
+CUS00130,Maroc,Rabat,Nouveau,2023-05-09
+CUS00131,Cameroun,Yaounde,Standard,2023-06-12
+CUS00132,Belgique,Bruxelles,Standard,2023-04-09
+CUS00133,France,Bordeaux,Nouveau,2024-06-28
+CUS00134,Cote d'Ivoire,Daloa,Occasionnel,2021-02-25
+CUS00135,Senegal,Saint-Louis,Standard,2023-08-04
+CUS00136,France,Paris,Standard,2022-11-02
+CUS00137,Cameroun,Yaounde,Standard,2023-02-16
+CUS00138,Maroc,Rabat,Standard,2021-06-17
+CUS00139,Belgique,Bruxelles,Occasionnel,2021-04-17
+CUS00140,Nigeria,Lagos,Occasionnel,2021-03-24
+CUS00141,Cote d'Ivoire,Bouake,Standard,2021-02-11
+CUS00142,France,Lyon,Premium,2021-08-23
+CUS00143,Cameroun,Yaounde,Occasionnel,2023-01-26
+CUS00144,France,Paris,Occasionnel,2021-12-02
+CUS00145,Maroc,Casablanca,Occasionnel,2022-10-01
+CUS00146,Ghana,Kumasi,Nouveau,2022-02-11
+CUS00147,Senegal,Saint-Louis,Occasionnel,2022-05-13
+CUS00148,Senegal,Saint-Louis,Occasionnel,2024-05-14
+CUS00149,Senegal,Saint-Louis,Occasionnel,2022-12-13
+CUS00150,Ghana,Kumasi,Premium,2022-11-30
+CUS00151,Cote d'Ivoire,Daloa,Occasionnel,2021-08-05
+CUS00152,Ghana,Kumasi,Occasionnel,2023-07-31
+CUS00153,France,Bordeaux,Standard,2023-12-05
+CUS00154,Maroc,Marrakech,Occasionnel,2024-01-08
+CUS00155,Belgique,Liege,Standard,2024-04-28
+CUS00156,Maroc,Rabat,Nouveau,2021-06-27
+CUS00157,Maroc,Rabat,Standard,2023-08-10
+CUS00158,Ghana,Kumasi,Premium,2022-10-28
+CUS00159,France,Bordeaux,Standard,2022-06-14
+CUS00160,Nigeria,Abuja,Nouveau,2022-07-20
+CUS00161,Cote d'Ivoire,Bouake,Premium,2023-04-13
+CUS00162,Belgique,Bruxelles,Occasionnel,2023-10-03
+CUS00163,Belgique,Bruxelles,Premium,2022-03-30
+CUS00164,Ghana,Accra,Standard,2024-04-06
+CUS00165,Nigeria,Abuja,Occasionnel,2022-12-06
+CUS00166,Ghana,Kumasi,Standard,2023-07-19
+CUS00167,Maroc,Rabat,Standard,2021-09-05
+CUS00168,Cameroun,Yaounde,Premium,2024-01-03
+CUS00169,France,Lyon,Standard,2023-09-19
+CUS00170,Maroc,Marrakech,Occasionnel,2023-12-11
+CUS00171,Maroc,Casablanca,Occasionnel,2022-08-30
+CUS00172,Cameroun,Yaounde,Standard,2021-01-29
+CUS00173,France,Marseille,Premium,2021-04-22
+CUS00174,Maroc,Marrakech,Nouveau,2023-10-03
+CUS00175,Senegal,Dakar,Occasionnel,2023-08-20
+CUS00176,Belgique,Liege,Standard,2021-04-16
+CUS00177,Maroc,Rabat,Premium,2021-05-14
+CUS00178,Ghana,Kumasi,Premium,2021-04-20
+CUS00179,France,Lyon,Occasionnel,2022-09-15
+CUS00180,Senegal,Dakar,Premium,2023-05-03
+CUS00181,Cameroun,Yaounde,Standard,2023-06-26
+CUS00182,Maroc,Marrakech,Nouveau,2022-09-18
+CUS00183,Cote d'Ivoire,Abidjan,Nouveau,2022-03-02
+CUS00184,Cameroun,Yaounde,Occasionnel,2021-11-18
+CUS00185,Cameroun,Douala,Occasionnel,2021-11-17
+CUS00186,Cote d'Ivoire,Daloa,Standard,2024-05-01
+CUS00187,Belgique,Liege,Premium,2022-08-14
+CUS00188,Maroc,Marrakech,Nouveau,2021-05-26
+CUS00189,Cameroun,Yaounde,Occasionnel,2024-04-22
+CUS00190,Cameroun,Yaounde,Premium,2022-04-06
+CUS00191,France,Marseille,Occasionnel,2021-05-27
+CUS00192,Cote d'Ivoire,Bouake,Occasionnel,2024-05-03
+CUS00193,Maroc,Rabat,Premium,2022-09-15
+CUS00194,Ghana,Kumasi,Occasionnel,2023-10-09
+CUS00195,Belgique,Bruxelles,Occasionnel,2023-06-04
+CUS00196,Nigeria,Kano,Standard,2021-07-07
+CUS00197,Cameroun,Douala,Nouveau,2022-07-06
+CUS00198,Cote d'Ivoire,Bouake,Standard,2023-06-25
+CUS00199,Maroc,Casablanca,Nouveau,2023-06-12
+CUS00200,Belgique,Bruxelles,Standard,2023-04-17
+CUS00201,Nigeria,Abuja,Occasionnel,2021-11-26
+CUS00202,Nigeria,Abuja,Occasionnel,2022-08-14
+CUS00203,Ghana,Accra,Standard,2022-10-07
+CUS00204,Maroc,Rabat,Premium,2023-04-08
+CUS00205,Cote d'Ivoire,Daloa,Standard,2022-01-20
+CUS00206,Nigeria,Kano,Occasionnel,2023-06-25
+CUS00207,Cote d'Ivoire,Bouake,Standard,2021-09-26
+CUS00208,Maroc,Rabat,Nouveau,2023-09-20
+CUS00209,Senegal,Dakar,Nouveau,2024-05-31
+CUS00210,Cameroun,Douala,Standard,2021-01-29
+CUS00211,Ghana,Accra,Standard,2021-08-21
+CUS00212,Belgique,Bruxelles,Occasionnel,2021-11-12
+CUS00213,Belgique,Liege,Occasionnel,2022-07-14
+CUS00214,Ghana,Kumasi,Nouveau,2022-05-15
+CUS00215,Belgique,Bruxelles,Standard,2024-05-12
+CUS00216,France,Paris,Standard,2023-04-30
+CUS00217,Nigeria,Kano,Standard,2021-01-06
+CUS00218,Maroc,Marrakech,Standard,2024-04-17
+CUS00219,Belgique,Bruxelles,Standard,2023-09-19
+CUS00220,Nigeria,Abuja,Occasionnel,2024-01-18
+CUS00221,Ghana,Kumasi,Nouveau,2022-01-22
+CUS00222,Cameroun,Yaounde,Standard,2023-04-22
+CUS00223,Cote d'Ivoire,Yamoussoukro,Occasionnel,2023-02-20
+CUS00224,Ghana,Accra,Standard,2021-03-17
+CUS00225,France,Marseille,Nouveau,2023-06-21
+CUS00226,Senegal,Saint-Louis,Nouveau,2021-02-01
+CUS00227,France,Bordeaux,Nouveau,2021-11-13
+CUS00228,Senegal,Thies,Occasionnel,2022-06-27
+CUS00229,Nigeria,Kano,Occasionnel,2021-06-14
+CUS00230,Nigeria,Kano,Nouveau,2023-02-18
+CUS00231,Nigeria,Kano,Occasionnel,2023-09-27
+CUS00232,Cote d'Ivoire,Abidjan,Standard,2022-08-12
+CUS00233,Cameroun,Douala,Standard,2021-07-21
+CUS00234,Senegal,Thies,Standard,2022-09-06
+CUS00235,Cote d'Ivoire,Abidjan,Standard,2021-04-25
+CUS00236,Maroc,Rabat,Standard,2021-10-26
+CUS00237,Cameroun,Yaounde,Occasionnel,2022-01-04
+CUS00238,France,Lyon,Premium,2023-02-23
+CUS00239,Cameroun,Yaounde,Nouveau,2021-10-21
+CUS00240,Cameroun,Yaounde,Occasionnel,2023-07-31
+CUS00241,Maroc,Marrakech,Premium,2023-08-11
+CUS00242,Maroc,Marrakech,Occasionnel,2021-06-01
+CUS00243,Belgique,Liege,Nouveau,2022-09-05
+CUS00244,Ghana,Kumasi,Standard,2022-09-11
+CUS00245,Cameroun,Yaounde,Nouveau,2021-08-07
+CUS00246,Cameroun,Yaounde,Occasionnel,2024-03-23
+CUS00247,Maroc,Marrakech,Standard,2023-03-22
+CUS00248,Maroc,Casablanca,Occasionnel,2021-04-11
+CUS00249,Belgique,Liege,Occasionnel,2022-04-17
+CUS00250,Nigeria,Lagos,Occasionnel,2024-06-25
+CUS00251,Maroc,Marrakech,Occasionnel,2021-10-08
+CUS00252,Senegal,Saint-Louis,Occasionnel,2022-09-25
+CUS00253,Belgique,Bruxelles,Occasionnel,2021-09-27
+CUS00254,Senegal,Thies,Standard,2023-05-01
+CUS00255,France,Lyon,Premium,2024-01-10
+CUS00256,Nigeria,Kano,Occasionnel,2022-07-13
+CUS00257,France,Marseille,Nouveau,2023-09-14
+CUS00258,Maroc,Marrakech,Nouveau,2021-08-24
+CUS00259,Belgique,Bruxelles,Premium,2022-04-08
+CUS00260,Ghana,Kumasi,Premium,2023-03-20
+CUS00261,Cote d'Ivoire,Yamoussoukro,Occasionnel,2023-07-21
+CUS00262,Nigeria,Kano,Occasionnel,2022-06-21
+CUS00263,Ghana,Kumasi,Premium,2022-04-24
+CUS00264,Belgique,Bruxelles,Occasionnel,2024-02-24
+CUS00265,Nigeria,Kano,Standard,2021-05-10
+CUS00266,Belgique,Liege,Occasionnel,2021-08-27
+CUS00267,France,Paris,Nouveau,2022-09-16
+CUS00268,Belgique,Bruxelles,Premium,2024-01-06
+CUS00269,France,Bordeaux,Standard,2024-01-12
+CUS00270,Ghana,Accra,Nouveau,2021-07-22
+CUS00271,Belgique,Liege,Nouveau,2022-07-27
+CUS00272,Cote d'Ivoire,Yamoussoukro,Standard,2023-06-30
+CUS00273,Cameroun,Yaounde,Premium,2023-01-23
+CUS00274,Nigeria,Lagos,Standard,2022-01-24
+CUS00275,Senegal,Thies,Premium,2022-03-11
+CUS00276,Cote d'Ivoire,Abidjan,Occasionnel,2022-05-14
+CUS00277,France,Lyon,Premium,2024-02-10
+CUS00278,Cameroun,Douala,Occasionnel,2022-04-23
+CUS00279,Nigeria,Lagos,Occasionnel,2024-05-05
+CUS00280,Cote d'Ivoire,Yamoussoukro,Nouveau,2021-10-24
+CUS00281,France,Marseille,Occasionnel,2021-08-14
+CUS00282,Cote d'Ivoire,Bouake,Premium,2022-05-03
+CUS00283,Nigeria,Lagos,Standard,2021-04-18
+CUS00284,France,Bordeaux,Occasionnel,2021-05-11
+CUS00285,Belgique,Liege,Occasionnel,2023-11-18
+CUS00286,Senegal,Thies,Occasionnel,2024-06-13
+CUS00287,Cote d'Ivoire,Yamoussoukro,Standard,2021-03-05
+CUS00288,Cote d'Ivoire,Daloa,Occasionnel,2023-05-24
+CUS00289,Senegal,Thies,Occasionnel,2023-06-28
+CUS00290,Senegal,Dakar,Standard,2021-10-31
+CUS00291,Senegal,Dakar,Standard,2024-04-13
+CUS00292,Nigeria,Abuja,Nouveau,2023-12-23
+CUS00293,Maroc,Rabat,Occasionnel,2023-06-01
+CUS00294,Senegal,Saint-Louis,Premium,2024-02-04
+CUS00295,Cameroun,Yaounde,Standard,2022-04-13
+CUS00296,Ghana,Kumasi,Occasionnel,2023-03-28
+CUS00297,Ghana,Accra,Standard,2022-10-03
+CUS00298,Maroc,Rabat,Nouveau,2023-08-30
+CUS00299,Senegal,Dakar,Occasionnel,2021-07-10
+CUS00300,Ghana,Accra,Occasionnel,2023-02-03
+CUS00301,France,Paris,Occasionnel,2024-02-25
+CUS00302,Nigeria,Kano,Premium,2022-12-26
+CUS00303,Ghana,Accra,Nouveau,2024-05-14
+CUS00304,Maroc,Rabat,Premium,2023-11-06
+CUS00305,Cameroun,Douala,Occasionnel,2022-04-05
+CUS00306,Senegal,Thies,Occasionnel,2023-01-23
+CUS00307,Senegal,Thies,Occasionnel,2023-05-29
+CUS00308,Cote d'Ivoire,Yamoussoukro,Premium,2022-07-14
+CUS00309,Maroc,Rabat,Standard,2022-01-07
+CUS00310,France,Bordeaux,Premium,2021-03-04
+CUS00311,Senegal,Saint-Louis,Occasionnel,2023-02-10
+CUS00312,Ghana,Kumasi,Standard,2023-01-28
+CUS00313,Maroc,Marrakech,Standard,2024-03-08
+CUS00314,Senegal,Dakar,Standard,2024-06-19
+CUS00315,Cote d'Ivoire,Abidjan,Standard,2023-05-19
+CUS00316,Belgique,Liege,Standard,2022-03-18
+CUS00317,Senegal,Thies,Standard,2022-08-04
+CUS00318,Belgique,Liege,Premium,2023-03-21
+CUS00319,Cote d'Ivoire,Abidjan,Standard,2022-03-09
+CUS00320,France,Marseille,Standard,2021-09-03
+CUS00321,Cote d'Ivoire,Daloa,Occasionnel,2021-12-26
+CUS00322,France,Bordeaux,Occasionnel,2022-04-17
+CUS00323,Nigeria,Lagos,Standard,2021-03-28
+CUS00324,Ghana,Accra,Standard,2021-06-09
+CUS00325,Nigeria,Kano,Standard,2023-04-09
+CUS00326,Ghana,Kumasi,Premium,2021-02-12
+CUS00327,Nigeria,Lagos,Occasionnel,2024-06-19
+CUS00328,Belgique,Liege,Premium,2021-08-05
+CUS00329,Cameroun,Yaounde,Occasionnel,2023-12-10
+CUS00330,Senegal,Thies,Nouveau,2022-11-27
+CUS00331,Cameroun,Yaounde,Occasionnel,2021-06-06
+CUS00332,Senegal,Saint-Louis,Occasionnel,2022-12-17
+CUS00333,Nigeria,Kano,Nouveau,2021-10-30
+CUS00334,Cameroun,Douala,Premium,2022-02-09
+CUS00335,France,Lyon,Occasionnel,2021-06-04
+CUS00336,France,Bordeaux,Standard,2024-02-29
+CUS00337,Belgique,Liege,Nouveau,2022-10-10
+CUS00338,France,Bordeaux,Premium,2023-06-25
+CUS00339,Maroc,Rabat,Occasionnel,2022-12-22
+CUS00340,Senegal,Thies,Standard,2021-03-19
+CUS00341,Cote d'Ivoire,Yamoussoukro,Occasionnel,2021-06-07
+CUS00342,Senegal,Saint-Louis,Occasionnel,2023-02-27
+CUS00343,Belgique,Bruxelles,Standard,2024-03-16
+CUS00344,Cameroun,Yaounde,Occasionnel,2023-10-24
+CUS00345,France,Paris,Standard,2022-12-05
+CUS00346,Senegal,Saint-Louis,Occasionnel,2021-03-22
+CUS00347,Cameroun,Yaounde,Nouveau,2023-12-10
+CUS00348,France,Marseille,Standard,2022-08-03
+CUS00349,Ghana,Kumasi,Occasionnel,2024-05-09
+CUS00350,Cote d'Ivoire,Yamoussoukro,Premium,2021-07-13
+CUS00351,Ghana,Kumasi,Standard,2024-05-19
+CUS00352,France,Marseille,Premium,2021-10-17
+CUS00353,Nigeria,Abuja,Nouveau,2023-03-14
+CUS00354,France,Paris,Standard,2023-02-11
+CUS00355,Nigeria,Lagos,Occasionnel,2023-12-15
+CUS00356,Senegal,Saint-Louis,Occasionnel,2023-11-08
+CUS00357,Nigeria,Lagos,Standard,2022-01-05
+CUS00358,Cameroun,Yaounde,Nouveau,2023-09-23
+CUS00359,Cameroun,Douala,Nouveau,2021-11-14
+CUS00360,Senegal,Thies,Occasionnel,2021-07-27
+CUS00361,Cote d'Ivoire,Yamoussoukro,Nouveau,2024-06-19
+CUS00362,France,Bordeaux,Standard,2022-01-06
+CUS00363,France,Bordeaux,Premium,2023-01-17
+CUS00364,Cameroun,Yaounde,Occasionnel,2023-07-09
+CUS00365,Cameroun,Douala,Standard,2023-08-19
+CUS00366,Cameroun,Yaounde,Occasionnel,2024-03-14
+CUS00367,Belgique,Liege,Occasionnel,2023-02-22
+CUS00368,Ghana,Accra,Occasionnel,2024-05-23
+CUS00369,France,Marseille,Premium,2023-09-12
+CUS00370,Nigeria,Kano,Nouveau,2023-11-23
+CUS00371,Senegal,Thies,Premium,2021-11-25
+CUS00372,Maroc,Rabat,Nouveau,2021-10-29
+CUS00373,Ghana,Accra,Nouveau,2022-03-31
+CUS00374,Belgique,Liege,Nouveau,2023-04-30
+CUS00375,Cote d'Ivoire,Daloa,Occasionnel,2022-04-28
+CUS00376,Ghana,Accra,Standard,2021-02-27
+CUS00377,Nigeria,Lagos,Occasionnel,2022-11-18
+CUS00378,France,Lyon,Premium,2023-08-26
+CUS00379,France,Bordeaux,Standard,2021-01-11
+CUS00380,Senegal,Dakar,Standard,2021-11-03
+CUS00381,Ghana,Accra,Occasionnel,2022-05-02
+CUS00382,Maroc,Casablanca,Premium,2023-05-10
+CUS00383,Belgique,Bruxelles,Premium,2023-10-21
+CUS00384,Cote d'Ivoire,Bouake,Occasionnel,2022-08-20
+CUS00385,Ghana,Accra,Occasionnel,2022-05-08
+CUS00386,Ghana,Accra,Occasionnel,2021-06-25
+CUS00387,Nigeria,Lagos,Nouveau,2024-01-20
+CUS00388,Cote d'Ivoire,Daloa,Nouveau,2021-03-31
+CUS00389,Ghana,Kumasi,Standard,2021-02-03
+CUS00390,Nigeria,Lagos,Standard,2021-08-01
+CUS00391,Nigeria,Lagos,Premium,2024-01-24
+CUS00392,Nigeria,Kano,Standard,2023-08-10
+CUS00393,Belgique,Bruxelles,Occasionnel,2021-05-10
+CUS00394,Belgique,Bruxelles,Standard,2021-03-31
+CUS00395,Cameroun,Douala,Standard,2022-09-28
+CUS00396,Ghana,Kumasi,Standard,2022-01-27
+CUS00397,Maroc,Rabat,Nouveau,2021-04-08
+CUS00398,Nigeria,Abuja,Premium,2023-01-24
+CUS00399,Ghana,Kumasi,Occasionnel,2023-03-03
+CUS00400,Nigeria,Lagos,Standard,2023-10-16
+CUS00401,Nigeria,Kano,Standard,2021-06-19
+CUS00402,Ghana,Accra,Standard,2022-01-05
+CUS00403,Maroc,Rabat,Premium,2022-11-03
+CUS00404,Maroc,Rabat,Standard,2023-05-23
+CUS00405,France,Bordeaux,Standard,2021-03-28
+CUS00406,Nigeria,Kano,Nouveau,2022-07-17
+CUS00407,Cote d'Ivoire,Abidjan,Occasionnel,2023-04-12
+CUS00408,Nigeria,Kano,Occasionnel,2021-11-24
+CUS00409,Cote d'Ivoire,Bouake,Occasionnel,2023-06-17
+CUS00410,Cote d'Ivoire,Bouake,Premium,2023-01-21
+CUS00411,Nigeria,Abuja,Nouveau,2021-03-08
+CUS00412,France,Bordeaux,Nouveau,2023-02-01
+CUS00413,Belgique,Bruxelles,Occasionnel,2023-12-21
+CUS00414,Nigeria,Abuja,Standard,2022-07-25
+CUS00415,Cameroun,Douala,Premium,2022-01-17
+CUS00416,Belgique,Liege,Nouveau,2021-08-30
+CUS00417,Maroc,Rabat,Occasionnel,2022-03-16
+CUS00418,Maroc,Marrakech,Nouveau,2023-10-03
+CUS00419,Cameroun,Douala,Premium,2021-06-01
+CUS00420,Belgique,Bruxelles,Nouveau,2023-07-01
+CUS00421,Senegal,Saint-Louis,Nouveau,2022-10-17
+CUS00422,Nigeria,Kano,Premium,2024-01-16
+CUS00423,Maroc,Rabat,Nouveau,2021-12-23
+CUS00424,Nigeria,Kano,Standard,2022-02-16
+CUS00425,France,Lyon,Occasionnel,2021-02-23
+CUS00426,Nigeria,Kano,Occasionnel,2023-08-16
+CUS00427,France,Paris,Premium,2023-03-27
+CUS00428,Belgique,Liege,Occasionnel,2024-03-23
+CUS00429,Senegal,Dakar,Nouveau,2021-06-01
+CUS00430,Belgique,Liege,Occasionnel,2022-12-07
+CUS00431,France,Lyon,Occasionnel,2021-09-22
+CUS00432,Ghana,Accra,Occasionnel,2023-11-28
+CUS00433,France,Marseille,Standard,2022-10-23
+CUS00434,Cameroun,Yaounde,Nouveau,2023-11-29
+CUS00435,Maroc,Casablanca,Standard,2024-02-03
+CUS00436,Maroc,Casablanca,Occasionnel,2024-06-12
+CUS00437,Senegal,Saint-Louis,Occasionnel,2024-04-27
+CUS00438,France,Lyon,Occasionnel,2024-05-24
+CUS00439,Nigeria,Kano,Premium,2021-02-28
+CUS00440,Senegal,Dakar,Nouveau,2024-03-27
+CUS00441,Maroc,Marrakech,Standard,2024-03-17
+CUS00442,Ghana,Accra,Standard,2024-01-23
+CUS00443,Maroc,Marrakech,Nouveau,2023-09-17
+CUS00444,Cameroun,Yaounde,Standard,2021-05-30
+CUS00445,Cote d'Ivoire,Bouake,Standard,2023-09-19
+CUS00446,Belgique,Bruxelles,Standard,2021-10-22
+CUS00447,Nigeria,Kano,Standard,2022-12-09
+CUS00448,Ghana,Accra,Occasionnel,2023-11-21
+CUS00449,Senegal,Thies,Standard,2021-09-08
+CUS00450,Maroc,Rabat,Standard,2021-07-18
+CUS00451,Cote d'Ivoire,Yamoussoukro,Nouveau,2024-06-14
+CUS00452,Ghana,Accra,Nouveau,2021-11-24
+CUS00453,Nigeria,Kano,Occasionnel,2022-01-24
+CUS00454,France,Bordeaux,Nouveau,2023-08-15
+CUS00455,Belgique,Liege,Standard,2021-07-04
+CUS00456,Ghana,Kumasi,Nouveau,2022-03-17
+CUS00457,Nigeria,Lagos,Premium,2023-10-11
+CUS00458,Belgique,Liege,Occasionnel,2021-08-09
+CUS00459,Ghana,Accra,Nouveau,2023-01-20
+CUS00460,Ghana,Kumasi,Premium,2021-04-15
+CUS00461,Cameroun,Yaounde,Occasionnel,2021-05-31
+CUS00462,Ghana,Kumasi,Occasionnel,2022-07-27
+CUS00463,Senegal,Dakar,Nouveau,2023-03-18
+CUS00464,Nigeria,Abuja,Occasionnel,2023-01-19
+CUS00465,France,Lyon,Occasionnel,2023-04-03
+CUS00466,Cote d'Ivoire,Abidjan,Premium,2022-11-14
+CUS00467,Belgique,Liege,Premium,2023-11-22
+CUS00468,France,Marseille,Nouveau,2022-10-15
+CUS00469,France,Bordeaux,Nouveau,2022-09-05
+CUS00470,Nigeria,Kano,Occasionnel,2023-12-27
+CUS00471,Belgique,Liege,Standard,2021-02-04
+CUS00472,Nigeria,Abuja,Occasionnel,2023-05-04
+CUS00473,Maroc,Marrakech,Nouveau,2021-02-24
+CUS00474,Belgique,Liege,Nouveau,2024-03-30
+CUS00475,Cameroun,Douala,Occasionnel,2021-12-16
+CUS00476,Ghana,Accra,Occasionnel,2022-05-12
+CUS00477,Cote d'Ivoire,Abidjan,Standard,2023-06-23
+CUS00478,Nigeria,Abuja,Standard,2022-02-22
+CUS00479,Ghana,Kumasi,Nouveau,2021-05-08
+CUS00480,France,Lyon,Occasionnel,2023-09-07
+CUS00481,Ghana,Kumasi,Nouveau,2023-07-31
+CUS00482,Nigeria,Kano,Standard,2022-06-26
+CUS00483,Belgique,Bruxelles,Nouveau,2022-07-26
+CUS00484,Maroc,Casablanca,Nouveau,2022-09-02
+CUS00485,Maroc,Marrakech,Standard,2023-09-29
+CUS00486,Nigeria,Abuja,Standard,2022-07-15
+CUS00487,Maroc,Casablanca,Occasionnel,2024-01-18
+CUS00488,Ghana,Kumasi,Occasionnel,2021-10-27
+CUS00489,Maroc,Casablanca,Standard,2021-06-11
+CUS00490,Nigeria,Abuja,Occasionnel,2023-09-09
+CUS00491,Cameroun,Douala,Occasionnel,2022-07-10
+CUS00492,Maroc,Casablanca,Premium,2024-04-16
+CUS00493,Cameroun,Douala,Premium,2023-12-24
+CUS00494,Cameroun,Douala,Premium,2023-04-27
+CUS00495,Nigeria,Kano,Standard,2021-10-09
+CUS00496,Cote d'Ivoire,Bouake,Standard,2023-09-02
+CUS00497,Belgique,Bruxelles,Occasionnel,2022-08-12
+CUS00498,Nigeria,Abuja,Occasionnel,2021-07-03
+CUS00499,Cameroun,Douala,Nouveau,2021-12-25
+CUS00500,Ghana,Accra,Nouveau,2021-03-16
+CUS00501,Ghana,Kumasi,Standard,2022-08-16
+CUS00502,Cote d'Ivoire,Abidjan,Standard,2024-05-19
+CUS00503,Senegal,Thies,Standard,2024-01-18
+CUS00504,Belgique,Bruxelles,Nouveau,2023-08-17
+CUS00505,Maroc,Casablanca,Occasionnel,2022-11-09
+CUS00506,France,Bordeaux,Occasionnel,2022-01-17
+CUS00507,Cote d'Ivoire,Yamoussoukro,Occasionnel,2024-03-08
+CUS00508,Cameroun,Douala,Occasionnel,2023-04-11
+CUS00509,Ghana,Kumasi,Premium,2021-07-15
+CUS00510,France,Lyon,Standard,2022-05-24
+CUS00511,Cote d'Ivoire,Yamoussoukro,Standard,2023-07-04
+CUS00512,Maroc,Rabat,Standard,2024-03-19
+CUS00513,Cote d'Ivoire,Yamoussoukro,Occasionnel,2022-04-29
+CUS00514,Cote d'Ivoire,Abidjan,Standard,2021-11-24
+CUS00515,Ghana,Kumasi,Occasionnel,2022-08-28
+CUS00516,Nigeria,Kano,Standard,2021-10-01
+CUS00517,Belgique,Bruxelles,Standard,2024-05-25
+CUS00518,Nigeria,Abuja,Occasionnel,2023-08-23
+CUS00519,Cameroun,Douala,Occasionnel,2024-05-05
+CUS00520,Senegal,Saint-Louis,Standard,2023-01-11
+CUS00521,Senegal,Saint-Louis,Premium,2024-01-27
+CUS00522,Cameroun,Douala,Standard,2023-12-02
+CUS00523,Belgique,Bruxelles,Occasionnel,2024-04-09
+CUS00524,Belgique,Bruxelles,Nouveau,2023-07-02
+CUS00525,Cote d'Ivoire,Daloa,Premium,2023-05-01
+CUS00526,Belgique,Bruxelles,Occasionnel,2022-09-24
+CUS00527,Cote d'Ivoire,Daloa,Standard,2021-01-07
+CUS00528,Cameroun,Douala,Premium,2022-12-07
+CUS00529,Senegal,Saint-Louis,Nouveau,2021-05-22
+CUS00530,Belgique,Bruxelles,Standard,2022-01-04
+CUS00531,France,Bordeaux,Standard,2023-02-23
+CUS00532,Belgique,Liege,Standard,2024-01-10
+CUS00533,France,Marseille,Premium,2024-01-06
+CUS00534,Ghana,Accra,Occasionnel,2022-04-02
+CUS00535,Cote d'Ivoire,Abidjan,Nouveau,2023-08-07
+CUS00536,Ghana,Kumasi,Occasionnel,2022-05-22
+CUS00537,Belgique,Liege,Standard,2022-01-22
+CUS00538,Senegal,Dakar,Occasionnel,2023-05-09
+CUS00539,Cote d'Ivoire,Bouake,Standard,2021-07-26
+CUS00540,Cote d'Ivoire,Daloa,Occasionnel,2021-04-10
+CUS00541,Cameroun,Douala,Standard,2022-04-25
+CUS00542,Cameroun,Douala,Premium,2022-08-16
+CUS00543,Cameroun,Yaounde,Occasionnel,2022-10-19
+CUS00544,Cameroun,Yaounde,Nouveau,2023-12-04
+CUS00545,Cameroun,Yaounde,Standard,2021-05-05
+CUS00546,France,Bordeaux,Occasionnel,2021-04-07
+CUS00547,Nigeria,Kano,Occasionnel,2023-12-11
+CUS00548,Nigeria,Kano,Standard,2021-11-02
+CUS00549,Maroc,Rabat,Standard,2024-01-07
+CUS00550,Belgique,Bruxelles,Occasionnel,2022-09-08
+CUS00551,France,Bordeaux,Nouveau,2024-02-26
+CUS00552,Ghana,Kumasi,Occasionnel,2021-10-02
+CUS00553,Ghana,Accra,Standard,2022-11-08
+CUS00554,Senegal,Thies,Occasionnel,2021-07-09
+CUS00555,Cameroun,Douala,Standard,2024-05-23
+CUS00556,Cote d'Ivoire,Abidjan,Standard,2024-04-18
+CUS00557,Cameroun,Yaounde,Standard,2022-11-13
+CUS00558,Maroc,Casablanca,Standard,2022-01-25
+CUS00559,Senegal,Saint-Louis,Nouveau,2023-09-08
+CUS00560,Cameroun,Douala,Standard,2022-05-06
+CUS00561,Nigeria,Abuja,Standard,2023-12-29
+CUS00562,Nigeria,Abuja,Standard,2023-11-17
+CUS00563,Belgique,Liege,Premium,2023-08-20
+CUS00564,Nigeria,Lagos,Standard,2023-04-28
+CUS00565,Cote d'Ivoire,Bouake,Occasionnel,2021-02-03
+CUS00566,Maroc,Marrakech,Nouveau,2024-04-01
+CUS00567,Ghana,Kumasi,Standard,2022-11-07
+CUS00568,Cameroun,Yaounde,Occasionnel,2022-05-19
+CUS00569,Belgique,Liege,Standard,2023-09-28
+CUS00570,Belgique,Liege,Standard,2022-12-23
+CUS00571,France,Lyon,Occasionnel,2023-09-28
+CUS00572,France,Paris,Occasionnel,2021-06-02
+CUS00573,Cote d'Ivoire,Abidjan,Standard,2022-04-19
+CUS00574,Senegal,Saint-Louis,Standard,2022-03-24
+CUS00575,Belgique,Liege,Premium,2024-06-16
+CUS00576,Belgique,Liege,Premium,2023-12-26
+CUS00577,Ghana,Accra,Premium,2022-07-17
+CUS00578,Maroc,Casablanca,Occasionnel,2023-06-01
+CUS00579,France,Paris,Nouveau,2023-12-10
+CUS00580,France,Lyon,Standard,2023-12-15
+CUS00581,Maroc,Rabat,Standard,2023-03-24
+CUS00582,Senegal,Thies,Nouveau,2023-07-30
+CUS00583,Cameroun,Douala,Standard,2021-06-15
+CUS00584,Cote d'Ivoire,Abidjan,Standard,2023-02-12
+CUS00585,Belgique,Bruxelles,Occasionnel,2021-12-17
+CUS00586,Senegal,Thies,Occasionnel,2022-11-10
+CUS00587,Senegal,Saint-Louis,Nouveau,2022-04-16
+CUS00588,Cameroun,Yaounde,Standard,2021-06-02
+CUS00589,Maroc,Marrakech,Occasionnel,2021-03-09
+CUS00590,France,Marseille,Premium,2022-03-01
+CUS00591,France,Bordeaux,Nouveau,2022-09-05
+CUS00592,France,Lyon,Occasionnel,2023-03-08
+CUS00593,Nigeria,Abuja,Occasionnel,2021-10-14
+CUS00594,Senegal,Saint-Louis,Occasionnel,2022-12-10
+CUS00595,Cote d'Ivoire,Abidjan,Standard,2021-06-05
+CUS00596,Nigeria,Kano,Occasionnel,2024-05-04
+CUS00597,Ghana,Kumasi,Premium,2022-07-14
+CUS00598,Belgique,Liege,Standard,2024-02-07
+CUS00599,Ghana,Kumasi,Standard,2024-04-14
+CUS00600,Ghana,Accra,Occasionnel,2022-08-28
+CUS00601,Cameroun,Douala,Premium,2021-11-12
+CUS00602,Ghana,Accra,Occasionnel,2022-10-11
+CUS00603,Nigeria,Lagos,Premium,2022-09-24
+CUS00604,Belgique,Liege,Occasionnel,2021-07-29
+CUS00605,France,Paris,Standard,2023-07-09
+CUS00606,Ghana,Accra,Premium,2022-12-26
+CUS00607,Senegal,Saint-Louis,Occasionnel,2022-10-27
+CUS00608,Ghana,Accra,Standard,2023-03-06
+CUS00609,Senegal,Saint-Louis,Nouveau,2022-05-13
+CUS00610,France,Bordeaux,Standard,2022-07-05
+CUS00611,Maroc,Rabat,Standard,2021-05-10
+CUS00612,France,Bordeaux,Standard,2022-09-06
+CUS00613,Belgique,Bruxelles,Standard,2022-05-21
+CUS00614,Belgique,Bruxelles,Standard,2021-10-05
+CUS00615,Maroc,Casablanca,Nouveau,2022-11-12
+CUS00616,Ghana,Kumasi,Standard,2023-06-01
+CUS00617,France,Marseille,Standard,2022-02-16
+CUS00618,Belgique,Liege,Standard,2023-03-27
+CUS00619,Nigeria,Abuja,Occasionnel,2023-10-03
+CUS00620,Cameroun,Yaounde,Standard,2023-03-16
+CUS00621,Nigeria,Lagos,Nouveau,2022-02-14
+CUS00622,France,Paris,Nouveau,2023-08-04
+CUS00623,Cameroun,Yaounde,Occasionnel,2021-05-22
+CUS00624,Ghana,Kumasi,Premium,2022-09-13
+CUS00625,Cameroun,Yaounde,Occasionnel,2023-05-17
+CUS00626,Ghana,Accra,Standard,2024-05-09
+CUS00627,Belgique,Liege,Occasionnel,2023-05-07
+CUS00628,Cote d'Ivoire,Yamoussoukro,Occasionnel,2024-01-05
+CUS00629,Senegal,Dakar,Occasionnel,2022-12-29
+CUS00630,France,Paris,Occasionnel,2023-03-30
+CUS00631,Nigeria,Abuja,Premium,2021-07-21
+CUS00632,Maroc,Casablanca,Occasionnel,2023-11-29
+CUS00633,Cameroun,Yaounde,Standard,2023-08-07
+CUS00634,France,Marseille,Nouveau,2023-09-16
+CUS00635,Senegal,Thies,Standard,2021-06-25
+CUS00636,Senegal,Saint-Louis,Premium,2022-10-01
+CUS00637,Nigeria,Abuja,Occasionnel,2023-12-04
+CUS00638,Belgique,Liege,Standard,2023-06-17
+CUS00639,Belgique,Liege,Premium,2021-04-02
+CUS00640,Senegal,Dakar,Occasionnel,2021-08-12
+CUS00641,France,Lyon,Occasionnel,2024-02-05
+CUS00642,France,Marseille,Occasionnel,2023-08-05
+CUS00643,Cameroun,Yaounde,Occasionnel,2022-01-17
+CUS00644,Ghana,Kumasi,Premium,2024-06-11
+CUS00645,Cameroun,Yaounde,Occasionnel,2023-03-08
+CUS00646,Cote d'Ivoire,Bouake,Standard,2021-05-09
+CUS00647,Senegal,Saint-Louis,Standard,2022-10-30
+CUS00648,Cameroun,Yaounde,Premium,2023-09-30
+CUS00649,Nigeria,Kano,Standard,2023-03-15
+CUS00650,Senegal,Thies,Standard,2023-07-27
+CUS00651,France,Marseille,Nouveau,2024-04-23
+CUS00652,Senegal,Saint-Louis,Premium,2021-08-30
+CUS00653,Cameroun,Yaounde,Premium,2023-02-04
+CUS00654,France,Bordeaux,Standard,2021-10-10
+CUS00655,Ghana,Kumasi,Standard,2024-01-06
+CUS00656,France,Lyon,Standard,2021-10-15
+CUS00657,France,Marseille,Occasionnel,2024-06-22
+CUS00658,Cote d'Ivoire,Yamoussoukro,Nouveau,2023-09-20
+CUS00659,France,Lyon,Occasionnel,2024-02-25
+CUS00660,Belgique,Liege,Occasionnel,2023-05-02
+CUS00661,Belgique,Liege,Standard,2024-03-03
+CUS00662,Cote d'Ivoire,Bouake,Standard,2022-07-17
+CUS00663,Cameroun,Yaounde,Standard,2023-07-26
+CUS00664,Belgique,Bruxelles,Occasionnel,2022-07-03
+CUS00665,Nigeria,Kano,Occasionnel,2021-03-27
+CUS00666,Belgique,Bruxelles,Nouveau,2021-07-29
+CUS00667,Cameroun,Yaounde,Nouveau,2021-03-08
+CUS00668,Belgique,Liege,Standard,2021-06-28
+CUS00669,Belgique,Bruxelles,Occasionnel,2022-05-01
+CUS00670,Cameroun,Yaounde,Nouveau,2024-06-03
+CUS00671,Ghana,Accra,Occasionnel,2022-02-28
+CUS00672,Cameroun,Douala,Occasionnel,2023-12-27
+CUS00673,Maroc,Marrakech,Occasionnel,2022-10-25
+CUS00674,Maroc,Rabat,Occasionnel,2023-11-20
+CUS00675,Senegal,Dakar,Nouveau,2023-04-23
+CUS00676,Cote d'Ivoire,Yamoussoukro,Nouveau,2021-09-17
+CUS00677,France,Lyon,Premium,2022-10-22
+CUS00678,Cameroun,Yaounde,Standard,2024-03-28
+CUS00679,Maroc,Marrakech,Standard,2023-07-15
+CUS00680,Senegal,Saint-Louis,Occasionnel,2021-07-10
+CUS00681,Ghana,Kumasi,Occasionnel,2023-01-26
+CUS00682,Belgique,Liege,Standard,2021-01-06
+CUS00683,Senegal,Saint-Louis,Nouveau,2023-01-04
+CUS00684,Senegal,Saint-Louis,Standard,2023-05-30
+CUS00685,Cameroun,Yaounde,Standard,2022-08-04
+CUS00686,Nigeria,Kano,Occasionnel,2024-03-05
+CUS00687,Belgique,Liege,Nouveau,2021-04-10
+CUS00688,Cote d'Ivoire,Abidjan,Occasionnel,2023-07-31
+CUS00689,Cote d'Ivoire,Abidjan,Nouveau,2021-11-20
+CUS00690,Belgique,Liege,Premium,2023-05-27
+CUS00691,Cameroun,Douala,Nouveau,2022-09-11
+CUS00692,France,Marseille,Premium,2023-01-09
+CUS00693,Maroc,Casablanca,Standard,2021-12-05
+CUS00694,Cote d'Ivoire,Daloa,Occasionnel,2022-04-25
+CUS00695,Ghana,Accra,Occasionnel,2021-01-03
+CUS00696,Cameroun,Yaounde,Premium,2024-04-30
+CUS00697,Cameroun,Yaounde,Premium,2022-12-05
+CUS00698,Senegal,Thies,Occasionnel,2023-09-06
+CUS00699,Senegal,Dakar,Standard,2021-07-29
+CUS00700,Senegal,Thies,Standard,2022-09-05
+CUS00701,France,Bordeaux,Occasionnel,2021-09-30
+CUS00702,France,Paris,Occasionnel,2021-01-18
+CUS00703,France,Bordeaux,Standard,2022-03-13
+CUS00704,France,Bordeaux,Occasionnel,2023-06-26
+CUS00705,Cameroun,Douala,Nouveau,2021-10-14
+CUS00706,Senegal,Saint-Louis,Occasionnel,2022-12-21
+CUS00707,Ghana,Kumasi,Occasionnel,2022-05-23
+CUS00708,Maroc,Marrakech,Premium,2024-02-08
+CUS00709,Maroc,Marrakech,Premium,2022-09-10
+CUS00710,Cameroun,Douala,Occasionnel,2022-08-29
+CUS00711,Cote d'Ivoire,Bouake,Standard,2021-08-19
+CUS00712,Cameroun,Yaounde,Occasionnel,2021-05-26
+CUS00713,Cote d'Ivoire,Yamoussoukro,Nouveau,2021-09-28
+CUS00714,Ghana,Kumasi,Standard,2021-12-20
+CUS00715,Belgique,Bruxelles,Premium,2021-05-19
+CUS00716,Cote d'Ivoire,Yamoussoukro,Standard,2021-05-04
+CUS00717,Ghana,Kumasi,Occasionnel,2023-10-24
+CUS00718,Ghana,Kumasi,Occasionnel,2021-06-18
+CUS00719,France,Marseille,Premium,2021-06-11
+CUS00720,Cameroun,Douala,Occasionnel,2023-03-12
+CUS00721,Senegal,Thies,Occasionnel,2022-05-04
+CUS00722,Cote d'Ivoire,Bouake,Premium,2023-06-09
+CUS00723,Senegal,Thies,Occasionnel,2021-04-23
+CUS00724,Maroc,Marrakech,Occasionnel,2021-12-26
+CUS00725,Senegal,Dakar,Occasionnel,2021-01-24
+CUS00726,France,Bordeaux,Nouveau,2023-12-08
+CUS00727,Maroc,Casablanca,Standard,2022-07-05
+CUS00728,Senegal,Dakar,Standard,2023-05-30
+CUS00729,Maroc,Marrakech,Premium,2024-03-26
+CUS00730,Senegal,Thies,Standard,2023-01-08
+CUS00731,Cote d'Ivoire,Daloa,Nouveau,2021-12-08
+CUS00732,Nigeria,Lagos,Standard,2021-07-30
+CUS00733,Senegal,Dakar,Occasionnel,2021-01-06
+CUS00734,Cote d'Ivoire,Abidjan,Standard,2023-08-25
+CUS00735,Nigeria,Abuja,Nouveau,2022-01-02
+CUS00736,Cote d'Ivoire,Daloa,Standard,2022-05-24
+CUS00737,Ghana,Kumasi,Standard,2021-06-09
+CUS00738,Nigeria,Lagos,Occasionnel,2021-04-18
+CUS00739,France,Lyon,Occasionnel,2021-04-05
+CUS00740,Ghana,Accra,Nouveau,2022-08-02
+CUS00741,Maroc,Rabat,Premium,2023-07-25
+CUS00742,Cote d'Ivoire,Yamoussoukro,Standard,2024-02-29
+CUS00743,Maroc,Marrakech,Occasionnel,2023-08-09
+CUS00744,Nigeria,Kano,Nouveau,2022-02-05
+CUS00745,Cameroun,Douala,Premium,2023-04-20
+CUS00746,Cote d'Ivoire,Bouake,Occasionnel,2021-01-20
+CUS00747,Nigeria,Lagos,Occasionnel,2023-02-10
+CUS00748,Maroc,Casablanca,Standard,2022-05-03
+CUS00749,Ghana,Kumasi,Nouveau,2021-10-19
+CUS00750,Maroc,Casablanca,Premium,2022-04-20
+CUS00751,Ghana,Kumasi,Standard,2021-06-23
+CUS00752,Senegal,Saint-Louis,Premium,2023-03-19
+CUS00753,Senegal,Saint-Louis,Occasionnel,2023-06-10
+CUS00754,France,Lyon,Standard,2022-10-08
+CUS00755,Ghana,Kumasi,Standard,2022-07-11
+CUS00756,Cameroun,Douala,Nouveau,2021-10-06
+CUS00757,Senegal,Dakar,Premium,2023-07-10
+CUS00758,Belgique,Liege,Standard,2024-01-03
+CUS00759,Nigeria,Lagos,Standard,2023-08-07
+CUS00760,Maroc,Casablanca,Premium,2022-09-16
+CUS00761,Cote d'Ivoire,Bouake,Occasionnel,2022-11-03
+CUS00762,France,Paris,Occasionnel,2022-12-30
+CUS00763,Ghana,Accra,Occasionnel,2022-06-17
+CUS00764,France,Paris,Nouveau,2023-07-16
+CUS00765,Cameroun,Douala,Standard,2021-10-14
+CUS00766,Senegal,Dakar,Premium,2022-04-01
+CUS00767,France,Lyon,Occasionnel,2023-02-02
+CUS00768,Senegal,Saint-Louis,Occasionnel,2021-06-03
+CUS00769,Cote d'Ivoire,Abidjan,Standard,2023-06-28
+CUS00770,France,Paris,Nouveau,2022-11-11
+CUS00771,Senegal,Dakar,Nouveau,2021-04-14
+CUS00772,France,Bordeaux,Occasionnel,2023-03-20
+CUS00773,Belgique,Bruxelles,Standard,2023-05-24
+CUS00774,France,Marseille,Standard,2022-01-19
+CUS00775,Maroc,Rabat,Standard,2021-11-01
+CUS00776,Cote d'Ivoire,Bouake,Occasionnel,2023-10-19
+CUS00777,Ghana,Kumasi,Premium,2022-07-27
+CUS00778,Ghana,Accra,Standard,2023-12-13
+CUS00779,Cameroun,Douala,Nouveau,2023-01-06
+CUS00780,Belgique,Liege,Standard,2024-03-04
+CUS00781,Nigeria,Abuja,Standard,2021-02-23
+CUS00782,Nigeria,Kano,Standard,2022-07-30
+CUS00783,Cote d'Ivoire,Daloa,Occasionnel,2024-04-11
+CUS00784,Cameroun,Douala,Premium,2022-05-09
+CUS00785,Maroc,Marrakech,Occasionnel,2021-04-25
+CUS00786,Cameroun,Yaounde,Standard,2021-12-22
+CUS00787,France,Lyon,Occasionnel,2023-01-05
+CUS00788,Cote d'Ivoire,Yamoussoukro,Nouveau,2024-02-29
+CUS00789,France,Lyon,Occasionnel,2023-10-06
+CUS00790,Maroc,Casablanca,Standard,2021-07-04
+CUS00791,Cote d'Ivoire,Bouake,Occasionnel,2021-02-10
+CUS00792,Belgique,Bruxelles,Standard,2024-06-11
+CUS00793,Cameroun,Douala,Standard,2021-12-30
+CUS00794,Nigeria,Lagos,Premium,2024-04-16
+CUS00795,France,Paris,Occasionnel,2023-01-18
+CUS00796,Senegal,Thies,Occasionnel,2023-03-22
+CUS00797,Senegal,Thies,Standard,2021-10-07
+CUS00798,France,Bordeaux,Occasionnel,2023-09-25
+CUS00799,Nigeria,Lagos,Occasionnel,2024-02-25
+CUS00800,Nigeria,Lagos,Occasionnel,2021-12-26
+CUS00801,Ghana,Kumasi,Occasionnel,2022-08-27
+CUS00802,France,Lyon,Occasionnel,2024-03-19
+CUS00803,Ghana,Accra,Standard,2022-10-14
+CUS00804,Cameroun,Douala,Nouveau,2021-10-16
+CUS00805,Nigeria,Kano,Premium,2022-12-12
+CUS00806,Nigeria,Lagos,Occasionnel,2021-07-01
+CUS00807,Nigeria,Abuja,Premium,2022-03-06
+CUS00808,Cameroun,Douala,Standard,2021-08-10
+CUS00809,Cote d'Ivoire,Abidjan,Standard,2023-05-10
+CUS00810,France,Bordeaux,Standard,2023-02-15
+CUS00811,Nigeria,Kano,Standard,2023-09-09
+CUS00812,Cameroun,Douala,Standard,2021-03-10
+CUS00813,Maroc,Casablanca,Standard,2021-08-03
+CUS00814,Senegal,Thies,Standard,2023-02-08
+CUS00815,France,Paris,Occasionnel,2021-07-10
+CUS00816,Nigeria,Kano,Nouveau,2023-09-16
+CUS00817,Cote d'Ivoire,Daloa,Nouveau,2021-12-04
+CUS00818,Ghana,Accra,Premium,2022-11-10
+CUS00819,Cameroun,Douala,Standard,2024-02-09
+CUS00820,Maroc,Marrakech,Standard,2022-05-02
+CUS00821,Senegal,Dakar,Standard,2024-01-31
+CUS00822,Belgique,Bruxelles,Premium,2021-01-08
+CUS00823,Ghana,Accra,Standard,2024-05-14
+CUS00824,Belgique,Bruxelles,Premium,2022-02-28
+CUS00825,France,Marseille,Nouveau,2023-08-28
+CUS00826,Senegal,Thies,Occasionnel,2023-08-23
+CUS00827,Belgique,Liege,Premium,2024-01-20
+CUS00828,Ghana,Accra,Standard,2023-02-21
+CUS00829,Nigeria,Lagos,Standard,2022-06-24
+CUS00830,Belgique,Liege,Standard,2022-07-05
+CUS00831,Cote d'Ivoire,Bouake,Occasionnel,2021-07-18
+CUS00832,Senegal,Saint-Louis,Standard,2024-01-14
+CUS00833,Ghana,Accra,Occasionnel,2023-03-04
+CUS00834,Ghana,Kumasi,Occasionnel,2022-04-28
+CUS00835,Belgique,Liege,Premium,2021-03-13
+CUS00836,France,Paris,Nouveau,2023-07-09
+CUS00837,France,Lyon,Nouveau,2022-01-30
+CUS00838,France,Paris,Standard,2023-06-11
+CUS00839,Cameroun,Douala,Occasionnel,2022-06-13
+CUS00840,Nigeria,Kano,Nouveau,2021-05-18
+CUS00841,Senegal,Thies,Occasionnel,2024-02-05
+CUS00842,Nigeria,Abuja,Occasionnel,2021-01-26
+CUS00843,Ghana,Accra,Standard,2021-10-31
+CUS00844,Senegal,Dakar,Occasionnel,2021-07-26
+CUS00845,Maroc,Marrakech,Nouveau,2023-04-22
+CUS00846,Maroc,Rabat,Occasionnel,2024-03-17
+CUS00847,Belgique,Bruxelles,Standard,2023-04-06
+CUS00848,France,Bordeaux,Premium,2022-11-10
+CUS00849,Cameroun,Douala,Occasionnel,2022-07-05
+CUS00850,Nigeria,Lagos,Standard,2022-09-13
+CUS00851,Maroc,Rabat,Occasionnel,2021-07-21
+CUS00852,Cameroun,Douala,Standard,2023-06-27
+CUS00853,Nigeria,Abuja,Occasionnel,2024-05-23
+CUS00854,Senegal,Dakar,Standard,2023-04-14
+CUS00855,Belgique,Liege,Occasionnel,2023-11-22
+CUS00856,France,Paris,Standard,2023-11-04
+CUS00857,Ghana,Accra,Occasionnel,2023-12-10
+CUS00858,Cote d'Ivoire,Bouake,Standard,2022-02-16
+CUS00859,Cote d'Ivoire,Bouake,Premium,2021-04-14
+CUS00860,Nigeria,Kano,Standard,2023-01-25
+CUS00861,Belgique,Liege,Occasionnel,2021-09-11
+CUS00862,Cote d'Ivoire,Bouake,Standard,2024-05-01
+CUS00863,Belgique,Bruxelles,Nouveau,2023-08-30
+CUS00864,Nigeria,Abuja,Standard,2022-06-14
+CUS00865,Senegal,Thies,Premium,2021-04-12
+CUS00866,France,Lyon,Nouveau,2022-04-07
+CUS00867,Cameroun,Yaounde,Occasionnel,2023-11-18
+CUS00868,Cote d'Ivoire,Abidjan,Standard,2021-09-28
+CUS00869,France,Paris,Standard,2024-05-30
+CUS00870,Maroc,Marrakech,Nouveau,2022-07-18
+CUS00871,Ghana,Kumasi,Nouveau,2023-07-30
+CUS00872,Maroc,Casablanca,Standard,2023-12-03
+CUS00873,Ghana,Accra,Premium,2023-02-06
+CUS00874,Maroc,Rabat,Occasionnel,2023-09-14
+CUS00875,Senegal,Thies,Nouveau,2022-10-28
+CUS00876,Maroc,Rabat,Occasionnel,2022-09-04
+CUS00877,Cameroun,Douala,Occasionnel,2022-05-08
+CUS00878,Cote d'Ivoire,Daloa,Occasionnel,2021-10-14
+CUS00879,Cote d'Ivoire,Daloa,Nouveau,2022-06-16
+CUS00880,Ghana,Kumasi,Standard,2021-03-14
+CUS00881,Cameroun,Yaounde,Occasionnel,2022-04-01
+CUS00882,Belgique,Liege,Occasionnel,2021-12-15
+CUS00883,France,Marseille,Premium,2021-09-20
+CUS00884,Maroc,Marrakech,Occasionnel,2022-01-10
+CUS00885,Nigeria,Kano,Premium,2022-12-29
+CUS00886,Cameroun,Yaounde,Standard,2022-11-10
+CUS00887,Nigeria,Abuja,Occasionnel,2023-08-08
+CUS00888,Senegal,Thies,Premium,2024-04-10
+CUS00889,Senegal,Thies,Nouveau,2023-10-22
+CUS00890,Senegal,Saint-Louis,Standard,2022-09-04
+CUS00891,Ghana,Accra,Nouveau,2021-11-05
+CUS00892,France,Lyon,Standard,2024-03-12
+CUS00893,Belgique,Bruxelles,Standard,2022-01-05
+CUS00894,Senegal,Thies,Standard,2021-12-29
+CUS00895,Nigeria,Kano,Premium,2023-07-15
+CUS00896,Maroc,Casablanca,Occasionnel,2021-12-12
+CUS00897,France,Bordeaux,Occasionnel,2021-06-30
+CUS00898,France,Bordeaux,Occasionnel,2023-04-07
+CUS00899,Ghana,Kumasi,Standard,2021-03-19
+CUS00900,Cameroun,Yaounde,Nouveau,2022-10-22
+CUS00901,Cameroun,Douala,Occasionnel,2022-05-25
+CUS00902,Cameroun,Yaounde,Standard,2021-07-30
+CUS00903,Ghana,Kumasi,Standard,2021-04-04
+CUS00904,Maroc,Rabat,Standard,2023-12-02
+CUS00905,Nigeria,Abuja,Nouveau,2021-10-02
+CUS00906,Nigeria,Abuja,Standard,2022-01-21
+CUS00907,France,Bordeaux,Premium,2022-04-05
+CUS00908,France,Lyon,Occasionnel,2024-04-22
+CUS00909,France,Paris,Standard,2021-03-18
+CUS00910,Ghana,Kumasi,Occasionnel,2024-06-30
+CUS00911,Cote d'Ivoire,Abidjan,Occasionnel,2021-02-10
+CUS00912,Cote d'Ivoire,Abidjan,Standard,2023-02-18
+CUS00913,Senegal,Saint-Louis,Standard,2021-11-10
+CUS00914,Cameroun,Douala,Standard,2021-07-26
+CUS00915,Maroc,Marrakech,Occasionnel,2021-10-08
+CUS00916,Ghana,Accra,Occasionnel,2024-06-19
+CUS00917,Senegal,Thies,Premium,2021-08-06
+CUS00918,Belgique,Bruxelles,Occasionnel,2022-06-23
+CUS00919,Cameroun,Yaounde,Occasionnel,2022-08-28
+CUS00920,France,Paris,Occasionnel,2022-03-02
+CUS00921,Belgique,Liege,Standard,2021-01-27
+CUS00922,Senegal,Dakar,Occasionnel,2023-10-09
+CUS00923,France,Paris,Occasionnel,2021-06-03
+CUS00924,Senegal,Thies,Occasionnel,2023-07-25
+CUS00925,Maroc,Rabat,Standard,2021-07-24
+CUS00926,France,Paris,Nouveau,2023-01-08
+CUS00927,Nigeria,Abuja,Occasionnel,2021-07-14
+CUS00928,Cote d'Ivoire,Abidjan,Nouveau,2021-12-16
+CUS00929,Nigeria,Abuja,Nouveau,2024-06-27
+CUS00930,Maroc,Marrakech,Premium,2022-12-03
+CUS00931,France,Paris,Standard,2023-07-24
+CUS00932,Maroc,Rabat,Occasionnel,2023-09-07
+CUS00933,Ghana,Accra,Premium,2021-05-01
+CUS00934,France,Paris,Standard,2024-04-24
+CUS00935,Belgique,Liege,Standard,2023-02-17
+CUS00936,Nigeria,Kano,Premium,2021-09-25
+CUS00937,Belgique,Liege,Premium,2023-04-23
+CUS00938,Belgique,Bruxelles,Premium,2022-10-06
+CUS00939,Cote d'Ivoire,Bouake,Nouveau,2022-11-24
+CUS00940,Senegal,Thies,Occasionnel,2022-05-25
+CUS00941,Belgique,Liege,Occasionnel,2023-02-28
+CUS00942,France,Paris,Premium,2021-11-18
+CUS00943,Belgique,Liege,Nouveau,2021-06-03
+CUS00944,Belgique,Liege,Standard,2022-07-24
+CUS00945,Cote d'Ivoire,Bouake,Occasionnel,2023-02-15
+CUS00946,Ghana,Accra,Premium,2023-06-29
+CUS00947,Belgique,Bruxelles,Nouveau,2023-07-05
+CUS00948,Nigeria,Lagos,Nouveau,2021-02-06
+CUS00949,Senegal,Thies,Standard,2024-02-16
+CUS00950,Cote d'Ivoire,Abidjan,Occasionnel,2024-06-21
+CUS00951,Maroc,Marrakech,Occasionnel,2023-07-24
+CUS00952,Nigeria,Abuja,Occasionnel,2022-04-02
+CUS00953,Belgique,Liege,Occasionnel,2024-06-23
+CUS00954,Belgique,Liege,Occasionnel,2021-08-22
+CUS00955,Senegal,Saint-Louis,Standard,2022-12-01
+CUS00956,Nigeria,Kano,Nouveau,2022-08-21
+CUS00957,Nigeria,Kano,Premium,2021-12-03
+CUS00958,Belgique,Bruxelles,Occasionnel,2023-04-19
+CUS00959,Senegal,Thies,Occasionnel,2022-01-20
+CUS00960,Senegal,Thies,Standard,2022-01-26
+CUS00961,Nigeria,Lagos,Occasionnel,2021-04-06
+CUS00962,Senegal,Thies,Standard,2024-04-21
+CUS00963,France,Bordeaux,Premium,2021-04-10
+CUS00964,Ghana,Kumasi,Nouveau,2021-12-29
+CUS00965,France,Lyon,Premium,2024-05-14
+CUS00966,Nigeria,Kano,Nouveau,2023-05-08
+CUS00967,Cameroun,Yaounde,Standard,2022-12-04
+CUS00968,Maroc,Rabat,Occasionnel,2021-10-10
+CUS00969,Ghana,Kumasi,Occasionnel,2024-01-27
+CUS00970,Nigeria,Kano,Occasionnel,2024-02-08
+CUS00971,Cameroun,Douala,Standard,2022-08-19
+CUS00972,Nigeria,Kano,Premium,2021-12-31
+CUS00973,Nigeria,Kano,Premium,2022-12-23
+CUS00974,Belgique,Liege,Occasionnel,2023-12-30
+CUS00975,Maroc,Rabat,Occasionnel,2023-12-07
+CUS00976,Senegal,Dakar,Standard,2021-04-19
+CUS00977,Cote d'Ivoire,Bouake,Standard,2021-11-26
+CUS00978,Maroc,Marrakech,Standard,2021-05-08
+CUS00979,Maroc,Casablanca,Occasionnel,2021-03-08
+CUS00980,Nigeria,Abuja,Premium,2024-02-25
+CUS00981,Cameroun,Yaounde,Standard,2022-08-13
+CUS00982,Cote d'Ivoire,Daloa,Standard,2022-10-03
+CUS00983,Cote d'Ivoire,Abidjan,Occasionnel,2022-02-20
+CUS00984,Belgique,Bruxelles,Nouveau,2023-01-24
+CUS00985,Cameroun,Douala,Standard,2021-12-30
+CUS00986,Senegal,Dakar,Nouveau,2023-11-19
+CUS00987,Senegal,Thies,Premium,2022-07-26
+CUS00988,Maroc,Casablanca,Standard,2022-06-07
+CUS00989,Cote d'Ivoire,Yamoussoukro,Standard,2021-11-14
+CUS00990,Cote d'Ivoire,Bouake,Nouveau,2024-05-07
+CUS00991,Cote d'Ivoire,Yamoussoukro,Standard,2024-03-18
+CUS00992,Nigeria,Lagos,Occasionnel,2022-10-13
+CUS00993,Cameroun,Douala,Occasionnel,2023-11-01
+CUS00994,France,Bordeaux,Occasionnel,2023-04-07
+CUS00995,Senegal,Thies,Standard,2022-03-13
+CUS00996,Nigeria,Abuja,Standard,2022-03-24
+CUS00997,Belgique,Bruxelles,Premium,2022-12-10
+CUS00998,Belgique,Bruxelles,Nouveau,2024-06-10
+CUS00999,Cameroun,Douala,Occasionnel,2022-10-20
+CUS01000,Ghana,Accra,Standard,2024-01-12
+CUS01001,Maroc,Casablanca,Nouveau,2023-02-07
+CUS01002,Belgique,Liege,Premium,2022-01-30
+CUS01003,Nigeria,Kano,Premium,2021-07-16
+CUS01004,France,Paris,Occasionnel,2022-03-08
+CUS01005,Cameroun,Yaounde,Occasionnel,2022-02-26
+CUS01006,Ghana,Accra,Occasionnel,2021-11-11
+CUS01007,Cote d'Ivoire,Daloa,Occasionnel,2021-03-19
+CUS01008,Senegal,Dakar,Premium,2022-05-31
+CUS01009,Senegal,Saint-Louis,Occasionnel,2022-06-14
+CUS01010,Ghana,Kumasi,Standard,2023-04-09
+CUS01011,Ghana,Kumasi,Premium,2021-08-31
+CUS01012,Cote d'Ivoire,Abidjan,Occasionnel,2024-04-14
+CUS01013,Cote d'Ivoire,Abidjan,Standard,2023-10-27
+CUS01014,Senegal,Thies,Occasionnel,2022-09-10
+CUS01015,Senegal,Thies,Occasionnel,2023-06-16
+CUS01016,Ghana,Kumasi,Occasionnel,2021-03-05
+CUS01017,Belgique,Bruxelles,Occasionnel,2021-10-07
+CUS01018,Ghana,Kumasi,Nouveau,2021-10-23
+CUS01019,Maroc,Marrakech,Nouveau,2023-02-04
+CUS01020,Cote d'Ivoire,Bouake,Premium,2021-01-11
+CUS01021,Ghana,Accra,Standard,2022-12-06
+CUS01022,Cameroun,Yaounde,Nouveau,2023-11-16
+CUS01023,France,Lyon,Standard,2024-06-17
+CUS01024,Maroc,Casablanca,Premium,2024-03-07
+CUS01025,Cote d'Ivoire,Daloa,Occasionnel,2021-05-30
+CUS01026,Maroc,Marrakech,Premium,2021-07-21
+CUS01027,Cameroun,Yaounde,Nouveau,2023-01-02
+CUS01028,France,Lyon,Premium,2024-06-22
+CUS01029,Senegal,Dakar,Standard,2023-07-12
+CUS01030,Nigeria,Kano,Occasionnel,2024-04-11
+CUS01031,France,Marseille,Occasionnel,2023-05-28
+CUS01032,France,Paris,Standard,2022-03-30
+CUS01033,Ghana,Kumasi,Occasionnel,2021-10-03
+CUS01034,Nigeria,Abuja,Standard,2023-01-05
+CUS01035,Maroc,Rabat,Occasionnel,2021-12-26
+CUS01036,Senegal,Thies,Nouveau,2021-10-14
+CUS01037,Cameroun,Yaounde,Occasionnel,2021-06-06
+CUS01038,Senegal,Dakar,Occasionnel,2021-03-05
+CUS01039,Ghana,Accra,Nouveau,2024-02-04
+CUS01040,Maroc,Marrakech,Nouveau,2024-01-11
+CUS01041,Belgique,Bruxelles,Standard,2022-04-03
+CUS01042,Maroc,Casablanca,Standard,2023-11-12
+CUS01043,Senegal,Thies,Standard,2021-01-22
+CUS01044,Cameroun,Douala,Occasionnel,2021-10-15
+CUS01045,Belgique,Bruxelles,Standard,2024-03-04
+CUS01046,France,Bordeaux,Nouveau,2021-03-24
+CUS01047,Cameroun,Yaounde,Standard,2022-06-26
+CUS01048,Nigeria,Lagos,Premium,2022-02-28
+CUS01049,Nigeria,Abuja,Standard,2023-07-21
+CUS01050,Cote d'Ivoire,Abidjan,Nouveau,2022-10-26
+CUS01051,Senegal,Saint-Louis,Nouveau,2022-07-15
+CUS01052,Maroc,Marrakech,Occasionnel,2021-12-23
+CUS01053,Ghana,Kumasi,Standard,2021-06-09
+CUS01054,Maroc,Rabat,Nouveau,2022-04-02
+CUS01055,Ghana,Kumasi,Occasionnel,2022-12-08
+CUS01056,Belgique,Liege,Nouveau,2021-01-14
+CUS01057,France,Bordeaux,Standard,2021-06-07
+CUS01058,Maroc,Casablanca,Standard,2021-11-19
+CUS01059,Nigeria,Kano,Occasionnel,2021-08-31
+CUS01060,Cameroun,Yaounde,Occasionnel,2021-08-21
+CUS01061,Belgique,Liege,Standard,2024-04-24
+CUS01062,France,Bordeaux,Premium,2021-03-30
+CUS01063,France,Lyon,Premium,2023-11-16
+CUS01064,Cote d'Ivoire,Bouake,Premium,2022-06-13
+CUS01065,France,Bordeaux,Occasionnel,2024-02-29
+CUS01066,Cote d'Ivoire,Yamoussoukro,Nouveau,2022-03-20
+CUS01067,Belgique,Liege,Nouveau,2021-12-16
+CUS01068,Cameroun,Yaounde,Occasionnel,2024-04-08
+CUS01069,France,Marseille,Standard,2022-12-03
+CUS01070,Belgique,Bruxelles,Standard,2023-03-01
+CUS01071,France,Paris,Premium,2023-12-07
+CUS01072,Ghana,Accra,Occasionnel,2021-12-30
+CUS01073,Belgique,Bruxelles,Nouveau,2023-12-25
+CUS01074,Senegal,Dakar,Standard,2021-09-24
+CUS01075,Cote d'Ivoire,Daloa,Occasionnel,2023-01-29
+CUS01076,Cote d'Ivoire,Daloa,Standard,2023-09-15
+CUS01077,Ghana,Kumasi,Occasionnel,2024-03-25
+CUS01078,Senegal,Thies,Premium,2023-09-05
+CUS01079,Cameroun,Douala,Standard,2024-01-19
+CUS01080,Ghana,Kumasi,Standard,2021-01-15
+CUS01081,Senegal,Saint-Louis,Premium,2022-02-25
+CUS01082,Nigeria,Abuja,Standard,2021-11-13
+CUS01083,Ghana,Kumasi,Standard,2024-01-03
+CUS01084,Ghana,Kumasi,Occasionnel,2023-03-25
+CUS01085,Cameroun,Yaounde,Occasionnel,2024-02-16
+CUS01086,Belgique,Bruxelles,Standard,2024-02-11
+CUS01087,Belgique,Liege,Nouveau,2024-03-29
+CUS01088,Nigeria,Kano,Standard,2021-10-10
+CUS01089,Senegal,Saint-Louis,Standard,2021-11-28
+CUS01090,Senegal,Dakar,Occasionnel,2022-11-25
+CUS01091,Cote d'Ivoire,Bouake,Standard,2021-01-11
+CUS01092,Senegal,Dakar,Standard,2024-05-14
+CUS01093,Ghana,Accra,Premium,2022-03-31
+CUS01094,Nigeria,Lagos,Occasionnel,2023-02-27
+CUS01095,Ghana,Kumasi,Occasionnel,2024-05-08
+CUS01096,Cote d'Ivoire,Bouake,Occasionnel,2023-06-19
+CUS01097,Cote d'Ivoire,Bouake,Nouveau,2023-11-28
+CUS01098,Maroc,Casablanca,Premium,2024-05-12
+CUS01099,Cameroun,Douala,Occasionnel,2023-01-07
+CUS01100,Cameroun,Douala,Nouveau,2021-06-27
+CUS01101,Maroc,Rabat,Standard,2023-03-21
+CUS01102,Ghana,Accra,Occasionnel,2021-05-21
+CUS01103,Senegal,Saint-Louis,Standard,2024-02-20
+CUS01104,Nigeria,Abuja,Nouveau,2022-07-21
+CUS01105,Cameroun,Douala,Standard,2023-04-08
+CUS01106,Cote d'Ivoire,Yamoussoukro,Standard,2023-11-03
+CUS01107,Senegal,Saint-Louis,Premium,2022-08-26
+CUS01108,Nigeria,Lagos,Occasionnel,2022-06-12
+CUS01109,Maroc,Marrakech,Standard,2023-02-12
+CUS01110,Belgique,Bruxelles,Occasionnel,2023-07-29
+CUS01111,Belgique,Bruxelles,Standard,2022-06-13
+CUS01112,Senegal,Thies,Occasionnel,2022-03-28
+CUS01113,Cameroun,Yaounde,Standard,2022-12-25
+CUS01114,Cote d'Ivoire,Yamoussoukro,Standard,2021-07-10
+CUS01115,Ghana,Kumasi,Premium,2022-01-01
+CUS01116,Belgique,Liege,Standard,2024-03-20
+CUS01117,Maroc,Casablanca,Nouveau,2022-01-25
+CUS01118,Belgique,Bruxelles,Standard,2022-05-11
+CUS01119,Maroc,Casablanca,Standard,2022-05-27
+CUS01120,Nigeria,Lagos,Occasionnel,2021-09-03
+CUS01121,Senegal,Saint-Louis,Nouveau,2023-10-06
+CUS01122,Cote d'Ivoire,Abidjan,Occasionnel,2023-01-31
+CUS01123,Nigeria,Abuja,Nouveau,2024-03-22
+CUS01124,Maroc,Rabat,Standard,2023-11-13
+CUS01125,Maroc,Rabat,Standard,2024-03-27
+CUS01126,France,Paris,Occasionnel,2023-05-17
+CUS01127,Belgique,Bruxelles,Occasionnel,2023-03-18
+CUS01128,France,Bordeaux,Nouveau,2023-11-28
+CUS01129,Belgique,Liege,Occasionnel,2021-01-25
+CUS01130,Cameroun,Yaounde,Occasionnel,2022-10-29
+CUS01131,Nigeria,Kano,Nouveau,2022-01-19
+CUS01132,Maroc,Casablanca,Standard,2024-06-09
+CUS01133,Nigeria,Abuja,Standard,2023-05-19
+CUS01134,Cameroun,Yaounde,Occasionnel,2023-02-02
+CUS01135,Nigeria,Abuja,Standard,2022-01-04
+CUS01136,France,Lyon,Occasionnel,2022-07-07
+CUS01137,Cameroun,Yaounde,Nouveau,2022-02-06
+CUS01138,France,Lyon,Standard,2021-01-20
+CUS01139,France,Bordeaux,Standard,2023-11-25
+CUS01140,Nigeria,Abuja,Standard,2024-02-26
+CUS01141,Cote d'Ivoire,Daloa,Premium,2021-12-01
+CUS01142,Cote d'Ivoire,Bouake,Occasionnel,2023-09-03
+CUS01143,Senegal,Thies,Occasionnel,2022-06-17
+CUS01144,Nigeria,Abuja,Occasionnel,2022-06-12
+CUS01145,Nigeria,Lagos,Standard,2022-12-21
+CUS01146,Cameroun,Douala,Nouveau,2022-08-06
+CUS01147,Nigeria,Abuja,Occasionnel,2023-09-26
+CUS01148,Belgique,Bruxelles,Standard,2022-08-10
+CUS01149,Belgique,Bruxelles,Nouveau,2022-11-22
+CUS01150,Ghana,Kumasi,Occasionnel,2021-05-27
+CUS01151,Senegal,Dakar,Standard,2022-10-05
+CUS01152,Nigeria,Kano,Standard,2022-07-02
+CUS01153,Ghana,Kumasi,Nouveau,2023-01-14
+CUS01154,Belgique,Liege,Standard,2021-02-17
+CUS01155,France,Lyon,Occasionnel,2021-06-13
+CUS01156,Cameroun,Douala,Standard,2021-07-15
+CUS01157,Senegal,Thies,Occasionnel,2021-02-23
+CUS01158,Ghana,Accra,Premium,2024-06-19
+CUS01159,France,Paris,Occasionnel,2023-03-10
+CUS01160,Maroc,Casablanca,Standard,2022-08-05
+CUS01161,Belgique,Bruxelles,Premium,2021-12-16
+CUS01162,Cote d'Ivoire,Abidjan,Occasionnel,2022-10-29
+CUS01163,Belgique,Liege,Nouveau,2024-01-13
+CUS01164,Maroc,Marrakech,Standard,2024-01-10
+CUS01165,France,Bordeaux,Occasionnel,2024-03-01
+CUS01166,Ghana,Kumasi,Nouveau,2023-09-14
+CUS01167,Cameroun,Douala,Standard,2023-01-20
+CUS01168,Ghana,Kumasi,Standard,2021-01-22
+CUS01169,Cote d'Ivoire,Bouake,Standard,2023-08-19
+CUS01170,Cote d'Ivoire,Daloa,Nouveau,2023-09-05
+CUS01171,Maroc,Casablanca,Occasionnel,2022-08-23
+CUS01172,Cameroun,Douala,Occasionnel,2022-01-22
+CUS01173,Ghana,Kumasi,Standard,2021-12-01
+CUS01174,Ghana,Kumasi,Standard,2021-06-12
+CUS01175,Ghana,Accra,Occasionnel,2024-06-09
+CUS01176,Maroc,Rabat,Occasionnel,2023-12-26
+CUS01177,Maroc,Rabat,Standard,2021-05-21
+CUS01178,France,Lyon,Standard,2023-07-22
+CUS01179,Belgique,Liege,Occasionnel,2023-10-05
+CUS01180,Cameroun,Yaounde,Premium,2021-04-12
+CUS01181,Cote d'Ivoire,Bouake,Nouveau,2022-08-01
+CUS01182,Maroc,Casablanca,Occasionnel,2021-01-17
+CUS01183,Cameroun,Douala,Standard,2023-10-08
+CUS01184,Cameroun,Yaounde,Standard,2023-10-18
+CUS01185,Nigeria,Abuja,Occasionnel,2021-03-06
+CUS01186,Nigeria,Lagos,Occasionnel,2021-10-27
+CUS01187,Cote d'Ivoire,Yamoussoukro,Occasionnel,2021-05-27
+CUS01188,Belgique,Bruxelles,Standard,2022-05-28
+CUS01189,Ghana,Accra,Premium,2022-05-25
+CUS01190,Ghana,Kumasi,Standard,2021-03-10
+CUS01191,Cameroun,Yaounde,Occasionnel,2021-07-12
+CUS01192,Cameroun,Yaounde,Standard,2022-10-02
+CUS01193,Nigeria,Lagos,Occasionnel,2021-03-28
+CUS01194,Senegal,Thies,Standard,2022-09-04
+CUS01195,Cameroun,Yaounde,Nouveau,2022-03-23
+CUS01196,Senegal,Dakar,Occasionnel,2022-10-27
+CUS01197,Cote d'Ivoire,Bouake,Occasionnel,2024-04-12
+CUS01198,Senegal,Thies,Occasionnel,2021-01-19
+CUS01199,Cote d'Ivoire,Daloa,Occasionnel,2021-11-14
+CUS01200,Nigeria,Lagos,Standard,2023-10-21
+CUS01201,Senegal,Saint-Louis,Occasionnel,2021-05-03
+CUS01202,Cote d'Ivoire,Yamoussoukro,Occasionnel,2024-01-04
+CUS01203,Senegal,Dakar,Standard,2022-10-11
+CUS01204,Nigeria,Abuja,Occasionnel,2021-02-13
+CUS01205,Ghana,Kumasi,Occasionnel,2022-05-29
+CUS01206,Cote d'Ivoire,Daloa,Occasionnel,2024-02-19
+CUS01207,Maroc,Marrakech,Occasionnel,2022-01-24
+CUS01208,France,Marseille,Standard,2023-08-18
+CUS01209,Maroc,Marrakech,Nouveau,2024-02-10
+CUS01210,France,Paris,Occasionnel,2023-07-10
+CUS01211,Maroc,Rabat,Occasionnel,2023-07-19
+CUS01212,Cote d'Ivoire,Daloa,Occasionnel,2021-02-08
+CUS01213,Nigeria,Kano,Standard,2021-05-10
+CUS01214,Ghana,Accra,Occasionnel,2023-10-16
+CUS01215,France,Marseille,Standard,2022-10-22
+CUS01216,Senegal,Dakar,Occasionnel,2021-05-17
+CUS01217,Cote d'Ivoire,Bouake,Standard,2021-03-06
+CUS01218,Cameroun,Douala,Standard,2021-07-22
+CUS01219,Cote d'Ivoire,Daloa,Occasionnel,2023-12-13
+CUS01220,Maroc,Casablanca,Standard,2024-05-25
+CUS01221,Senegal,Dakar,Nouveau,2022-03-04
+CUS01222,Belgique,Bruxelles,Standard,2021-05-05
+CUS01223,Nigeria,Kano,Occasionnel,2023-05-02
+CUS01224,Nigeria,Kano,Premium,2024-06-17
+CUS01225,Maroc,Marrakech,Premium,2021-05-25
+CUS01226,Maroc,Casablanca,Nouveau,2023-11-30
+CUS01227,Senegal,Dakar,Occasionnel,2023-12-25
+CUS01228,Ghana,Accra,Standard,2022-05-25
+CUS01229,France,Bordeaux,Occasionnel,2024-03-26
+CUS01230,Nigeria,Kano,Standard,2023-05-25
+CUS01231,Senegal,Dakar,Occasionnel,2024-02-01
+CUS01232,Ghana,Kumasi,Occasionnel,2023-12-30
+CUS01233,Belgique,Liege,Nouveau,2024-02-01
+CUS01234,Nigeria,Abuja,Standard,2023-06-01
+CUS01235,Nigeria,Kano,Standard,2024-01-23
+CUS01236,Cameroun,Yaounde,Occasionnel,2022-06-05
+CUS01237,Nigeria,Abuja,Standard,2023-03-25
+CUS01238,Cote d'Ivoire,Abidjan,Nouveau,2024-05-05
+CUS01239,Cote d'Ivoire,Bouake,Nouveau,2022-09-11
+CUS01240,Cote d'Ivoire,Yamoussoukro,Nouveau,2022-03-16
+CUS01241,Nigeria,Lagos,Occasionnel,2022-07-20
+CUS01242,France,Paris,Premium,2022-12-30
+CUS01243,France,Lyon,Standard,2024-04-07
+CUS01244,Cameroun,Douala,Standard,2022-09-08
+CUS01245,Senegal,Saint-Louis,Standard,2022-03-22
+CUS01246,Senegal,Saint-Louis,Standard,2023-09-16
+CUS01247,France,Bordeaux,Occasionnel,2024-03-26
+CUS01248,Senegal,Saint-Louis,Occasionnel,2021-03-18
+CUS01249,Ghana,Accra,Occasionnel,2022-11-16
+CUS01250,Nigeria,Abuja,Standard,2021-09-04
+CUS01251,Cameroun,Douala,Occasionnel,2023-02-23
+CUS01252,Cote d'Ivoire,Yamoussoukro,Occasionnel,2022-10-16
+CUS01253,France,Marseille,Occasionnel,2022-03-29
+CUS01254,France,Paris,Occasionnel,2023-03-16
+CUS01255,Belgique,Bruxelles,Standard,2022-08-17
+CUS01256,Ghana,Accra,Premium,2021-06-19
+CUS01257,Belgique,Bruxelles,Occasionnel,2022-06-22
+CUS01258,Senegal,Thies,Occasionnel,2021-09-25
+CUS01259,France,Bordeaux,Occasionnel,2023-09-27
+CUS01260,Ghana,Accra,Occasionnel,2023-12-10
+CUS01261,Cameroun,Douala,Premium,2023-05-31
+CUS01262,Nigeria,Kano,Nouveau,2021-07-03
+CUS01263,Senegal,Saint-Louis,Standard,2023-01-19
+CUS01264,Nigeria,Lagos,Standard,2024-05-01
+CUS01265,Cote d'Ivoire,Yamoussoukro,Standard,2022-12-18
+CUS01266,Belgique,Bruxelles,Standard,2022-04-24
+CUS01267,Cameroun,Yaounde,Standard,2021-06-25
+CUS01268,Senegal,Saint-Louis,Premium,2024-06-25
+CUS01269,France,Marseille,Premium,2021-08-16
+CUS01270,Maroc,Rabat,Standard,2022-11-11
+CUS01271,Cameroun,Douala,Standard,2023-12-08
+CUS01272,Maroc,Marrakech,Standard,2021-10-17
+CUS01273,Cote d'Ivoire,Daloa,Occasionnel,2023-12-15
+CUS01274,Cote d'Ivoire,Yamoussoukro,Standard,2022-08-05
+CUS01275,Cameroun,Yaounde,Premium,2021-01-18
+CUS01276,Senegal,Thies,Occasionnel,2023-01-08
+CUS01277,Senegal,Dakar,Standard,2023-03-03
+CUS01278,Cameroun,Yaounde,Occasionnel,2021-07-23
+CUS01279,Nigeria,Abuja,Nouveau,2023-12-25
+CUS01280,Senegal,Dakar,Standard,2023-07-27
+CUS01281,Cote d'Ivoire,Abidjan,Standard,2023-12-21
+CUS01282,Maroc,Rabat,Standard,2021-11-18
+CUS01283,Cote d'Ivoire,Yamoussoukro,Occasionnel,2022-12-29
+CUS01284,Maroc,Casablanca,Nouveau,2023-10-24
+CUS01285,Maroc,Casablanca,Occasionnel,2023-03-04
+CUS01286,Cote d'Ivoire,Yamoussoukro,Standard,2022-12-01
+CUS01287,Ghana,Accra,Premium,2023-02-22
+CUS01288,Cameroun,Yaounde,Standard,2021-11-09
+CUS01289,Ghana,Kumasi,Nouveau,2022-11-06
+CUS01290,Belgique,Bruxelles,Standard,2021-10-11
+CUS01291,Cameroun,Douala,Standard,2023-12-09
+CUS01292,France,Bordeaux,Nouveau,2021-10-25
+CUS01293,France,Marseille,Premium,2023-12-28
+CUS01294,Senegal,Dakar,Standard,2021-10-26
+CUS01295,Cote d'Ivoire,Yamoussoukro,Nouveau,2023-04-28
+CUS01296,Ghana,Kumasi,Standard,2022-07-15
+CUS01297,France,Lyon,Premium,2022-01-14
+CUS01298,Cote d'Ivoire,Yamoussoukro,Occasionnel,2024-06-08
+CUS01299,Cameroun,Douala,Standard,2021-02-23
+CUS01300,Nigeria,Lagos,Occasionnel,2023-09-04
+CUS01301,France,Bordeaux,Occasionnel,2023-02-05
+CUS01302,France,Bordeaux,Standard,2021-10-09
+CUS01303,France,Lyon,Standard,2023-04-17
+CUS01304,Cote d'Ivoire,Yamoussoukro,Nouveau,2022-04-01
+CUS01305,Cameroun,Douala,Premium,2023-06-19
+CUS01306,Belgique,Liege,Nouveau,2022-05-21
+CUS01307,Ghana,Kumasi,Occasionnel,2024-05-30
+CUS01308,Ghana,Kumasi,Standard,2024-03-17
+CUS01309,Cote d'Ivoire,Abidjan,Standard,2021-03-28
+CUS01310,Cameroun,Yaounde,Nouveau,2021-03-22
+CUS01311,Ghana,Accra,Standard,2023-06-20
+CUS01312,Ghana,Kumasi,Occasionnel,2022-08-09
+CUS01313,Belgique,Bruxelles,Standard,2024-06-09
+CUS01314,Cote d'Ivoire,Bouake,Standard,2023-07-15
+CUS01315,Senegal,Saint-Louis,Occasionnel,2022-01-04
+CUS01316,France,Bordeaux,Standard,2023-07-13
+CUS01317,Cote d'Ivoire,Bouake,Standard,2022-02-18
+CUS01318,Belgique,Bruxelles,Standard,2021-12-02
+CUS01319,Senegal,Dakar,Premium,2023-07-10
+CUS01320,Nigeria,Lagos,Occasionnel,2023-02-26
+CUS01321,France,Bordeaux,Occasionnel,2021-03-31
+CUS01322,France,Marseille,Occasionnel,2021-11-04
+CUS01323,France,Lyon,Standard,2021-04-16
+CUS01324,Ghana,Kumasi,Standard,2023-07-03
+CUS01325,Maroc,Marrakech,Standard,2021-09-27
+CUS01326,Cameroun,Douala,Occasionnel,2022-06-03
+CUS01327,Cote d'Ivoire,Daloa,Standard,2023-10-19
+CUS01328,Cote d'Ivoire,Daloa,Standard,2024-04-20
+CUS01329,Belgique,Liege,Standard,2021-06-12
+CUS01330,Cote d'Ivoire,Bouake,Nouveau,2022-07-24
+CUS01331,Cameroun,Douala,Standard,2021-04-23
+CUS01332,Nigeria,Lagos,Premium,2021-03-08
+CUS01333,Maroc,Rabat,Nouveau,2021-04-11
+CUS01334,Senegal,Thies,Nouveau,2021-11-27
+CUS01335,Maroc,Marrakech,Occasionnel,2024-05-03
+CUS01336,France,Bordeaux,Occasionnel,2023-01-08
+CUS01337,Cote d'Ivoire,Abidjan,Occasionnel,2022-10-24
+CUS01338,Nigeria,Abuja,Occasionnel,2023-05-26
+CUS01339,Senegal,Thies,Standard,2021-09-07
+CUS01340,Maroc,Rabat,Occasionnel,2023-12-11
+CUS01341,Cameroun,Douala,Occasionnel,2021-08-12
+CUS01342,Senegal,Thies,Occasionnel,2024-05-23
+CUS01343,Maroc,Rabat,Occasionnel,2022-10-11
+CUS01344,Maroc,Marrakech,Occasionnel,2024-06-30
+CUS01345,Nigeria,Lagos,Occasionnel,2023-10-14
+CUS01346,Belgique,Liege,Occasionnel,2024-06-02
+CUS01347,Cameroun,Yaounde,Nouveau,2021-01-04
+CUS01348,Senegal,Dakar,Standard,2021-08-30
+CUS01349,Cameroun,Yaounde,Standard,2022-11-15
+CUS01350,Nigeria,Kano,Occasionnel,2022-03-11
+CUS01351,Cote d'Ivoire,Bouake,Occasionnel,2022-06-06
+CUS01352,Senegal,Thies,Standard,2024-02-01
+CUS01353,Nigeria,Lagos,Premium,2022-11-14
+CUS01354,Nigeria,Abuja,Occasionnel,2024-06-15
+CUS01355,Cote d'Ivoire,Bouake,Standard,2022-11-24
+CUS01356,Belgique,Liege,Occasionnel,2021-10-06
+CUS01357,Belgique,Bruxelles,Occasionnel,2024-01-05
+CUS01358,Nigeria,Abuja,Occasionnel,2023-04-28
+CUS01359,Cote d'Ivoire,Yamoussoukro,Occasionnel,2022-10-09
+CUS01360,Cote d'Ivoire,Bouake,Occasionnel,2022-11-11
+CUS01361,Nigeria,Lagos,Nouveau,2022-07-29
+CUS01362,Cote d'Ivoire,Yamoussoukro,Nouveau,2023-12-31
+CUS01363,France,Bordeaux,Standard,2021-08-28
+CUS01364,Maroc,Marrakech,Nouveau,2021-03-06
+CUS01365,Maroc,Rabat,Premium,2022-05-02
+CUS01366,Nigeria,Abuja,Occasionnel,2022-09-12
+CUS01367,Cameroun,Yaounde,Standard,2023-02-06
+CUS01368,Cote d'Ivoire,Bouake,Nouveau,2023-06-28
+CUS01369,Cote d'Ivoire,Daloa,Nouveau,2021-11-12
+CUS01370,Cameroun,Yaounde,Nouveau,2023-12-09
+CUS01371,Maroc,Rabat,Premium,2021-07-21
+CUS01372,France,Lyon,Occasionnel,2023-07-30
+CUS01373,Ghana,Accra,Premium,2021-04-01
+CUS01374,Senegal,Thies,Standard,2021-04-05
+CUS01375,Senegal,Saint-Louis,Occasionnel,2022-10-02
+CUS01376,Cote d'Ivoire,Yamoussoukro,Occasionnel,2022-03-06
+CUS01377,Nigeria,Lagos,Standard,2022-07-21
+CUS01378,Nigeria,Abuja,Occasionnel,2022-07-13
+CUS01379,France,Lyon,Standard,2021-02-01
+CUS01380,Senegal,Dakar,Occasionnel,2024-01-31
+CUS01381,Nigeria,Abuja,Premium,2022-08-04
+CUS01382,Cameroun,Douala,Premium,2024-06-09
+CUS01383,Nigeria,Kano,Standard,2021-09-24
+CUS01384,Cote d'Ivoire,Daloa,Nouveau,2021-04-14
+CUS01385,Senegal,Thies,Premium,2023-05-24
+CUS01386,Ghana,Accra,Occasionnel,2024-04-28
+CUS01387,Belgique,Liege,Standard,2022-02-10
+CUS01388,Senegal,Thies,Occasionnel,2021-07-10
+CUS01389,Belgique,Bruxelles,Standard,2023-08-12
+CUS01390,Belgique,Bruxelles,Nouveau,2021-10-22
+CUS01391,Maroc,Rabat,Standard,2022-11-08
+CUS01392,Nigeria,Abuja,Standard,2021-05-14
+CUS01393,Belgique,Bruxelles,Standard,2023-08-03
+CUS01394,France,Marseille,Occasionnel,2024-05-22
+CUS01395,France,Paris,Standard,2021-08-08
+CUS01396,Nigeria,Kano,Occasionnel,2022-09-11
+CUS01397,Belgique,Liege,Occasionnel,2022-05-04
+CUS01398,Cameroun,Douala,Nouveau,2023-02-26
+CUS01399,Senegal,Thies,Standard,2024-04-25
+CUS01400,Ghana,Kumasi,Occasionnel,2022-12-02
+CUS01401,Cameroun,Douala,Occasionnel,2021-06-09
+CUS01402,Belgique,Bruxelles,Occasionnel,2023-08-07
+CUS01403,Nigeria,Kano,Premium,2023-07-01
+CUS01404,France,Marseille,Nouveau,2021-05-23
+CUS01405,Senegal,Saint-Louis,Occasionnel,2023-02-16
+CUS01406,Nigeria,Abuja,Occasionnel,2021-05-06
+CUS01407,Senegal,Dakar,Occasionnel,2024-04-04
+CUS01408,Cote d'Ivoire,Bouake,Occasionnel,2023-07-17
+CUS01409,Maroc,Rabat,Occasionnel,2023-07-05
+CUS01410,Cameroun,Douala,Occasionnel,2022-10-11
+CUS01411,Maroc,Marrakech,Occasionnel,2022-09-16
+CUS01412,Ghana,Kumasi,Nouveau,2024-04-08
+CUS01413,Cote d'Ivoire,Daloa,Occasionnel,2022-08-26
+CUS01414,Cote d'Ivoire,Yamoussoukro,Nouveau,2021-04-19
+CUS01415,Cote d'Ivoire,Yamoussoukro,Premium,2022-08-01
+CUS01416,Cote d'Ivoire,Bouake,Standard,2024-04-23
+CUS01417,Ghana,Kumasi,Occasionnel,2023-04-12
+CUS01418,Ghana,Kumasi,Occasionnel,2021-12-22
+CUS01419,Belgique,Bruxelles,Standard,2023-02-27
+CUS01420,Nigeria,Abuja,Standard,2021-09-15
+CUS01421,France,Paris,Premium,2021-02-02
+CUS01422,France,Bordeaux,Occasionnel,2021-10-06
+CUS01423,Senegal,Dakar,Occasionnel,2023-05-02
+CUS01424,Belgique,Liege,Occasionnel,2023-07-20
+CUS01425,Ghana,Kumasi,Standard,2022-04-08
+CUS01426,France,Bordeaux,Occasionnel,2024-03-29
+CUS01427,Belgique,Bruxelles,Occasionnel,2022-07-06
+CUS01428,Ghana,Kumasi,Premium,2021-03-19
+CUS01429,Belgique,Liege,Premium,2023-09-14
+CUS01430,Senegal,Dakar,Occasionnel,2023-12-15
+CUS01431,Maroc,Rabat,Occasionnel,2023-12-08
+CUS01432,Senegal,Dakar,Standard,2021-06-09
+CUS01433,Maroc,Marrakech,Premium,2022-12-05
+CUS01434,Cote d'Ivoire,Daloa,Standard,2023-08-19
+CUS01435,Nigeria,Abuja,Standard,2022-08-27
+CUS01436,Maroc,Casablanca,Premium,2024-05-08
+CUS01437,Maroc,Marrakech,Occasionnel,2022-06-18
+CUS01438,Cote d'Ivoire,Daloa,Occasionnel,2024-03-19
+CUS01439,Cote d'Ivoire,Yamoussoukro,Occasionnel,2021-02-25
+CUS01440,Maroc,Rabat,Premium,2023-11-02
+CUS01441,Senegal,Thies,Standard,2024-06-15
+CUS01442,Maroc,Rabat,Nouveau,2021-01-30
+CUS01443,Senegal,Saint-Louis,Standard,2024-04-26
+CUS01444,France,Bordeaux,Standard,2021-12-26
+CUS01445,Maroc,Marrakech,Standard,2022-01-06
+CUS01446,Cote d'Ivoire,Yamoussoukro,Nouveau,2021-10-25
+CUS01447,France,Bordeaux,Occasionnel,2023-04-26
+CUS01448,Ghana,Accra,Occasionnel,2021-12-09
+CUS01449,Cameroun,Yaounde,Premium,2022-06-26
+CUS01450,Senegal,Dakar,Standard,2023-03-28
+CUS01451,Belgique,Liege,Standard,2023-12-27
+CUS01452,Cameroun,Yaounde,Occasionnel,2023-03-10
+CUS01453,Belgique,Liege,Premium,2023-06-10
+CUS01454,Cote d'Ivoire,Yamoussoukro,Nouveau,2023-07-09
+CUS01455,Ghana,Kumasi,Nouveau,2021-03-26
+CUS01456,Senegal,Saint-Louis,Occasionnel,2023-06-04
+CUS01457,Maroc,Rabat,Standard,2021-07-21
+CUS01458,Maroc,Marrakech,Occasionnel,2023-08-03
+CUS01459,Cameroun,Douala,Occasionnel,2022-01-04
+CUS01460,Nigeria,Kano,Premium,2021-01-18
+CUS01461,Senegal,Dakar,Standard,2023-12-12
+CUS01462,Senegal,Saint-Louis,Standard,2022-03-26
+CUS01463,Maroc,Rabat,Standard,2021-02-18
+CUS01464,Senegal,Dakar,Nouveau,2022-03-21
+CUS01465,Senegal,Saint-Louis,Nouveau,2021-06-26
+CUS01466,France,Bordeaux,Occasionnel,2024-03-05
+CUS01467,France,Paris,Occasionnel,2022-06-03
+CUS01468,Maroc,Rabat,Occasionnel,2021-06-05
+CUS01469,Belgique,Liege,Occasionnel,2022-10-25
+CUS01470,Maroc,Casablanca,Occasionnel,2022-07-22
+CUS01471,Cote d'Ivoire,Daloa,Standard,2021-05-04
+CUS01472,Maroc,Rabat,Standard,2021-05-23
+CUS01473,Belgique,Bruxelles,Occasionnel,2022-01-01
+CUS01474,Belgique,Bruxelles,Premium,2023-06-03
+CUS01475,Cameroun,Douala,Nouveau,2022-06-15
+CUS01476,Senegal,Dakar,Premium,2024-03-16
+CUS01477,Maroc,Rabat,Premium,2023-10-17
+CUS01478,France,Paris,Nouveau,2023-03-11
+CUS01479,Maroc,Casablanca,Occasionnel,2023-03-13
+CUS01480,Cote d'Ivoire,Daloa,Standard,2023-04-08
+CUS01481,Senegal,Saint-Louis,Standard,2023-02-27
+CUS01482,Belgique,Bruxelles,Occasionnel,2023-01-06
+CUS01483,Nigeria,Kano,Standard,2021-04-24
+CUS01484,Senegal,Thies,Occasionnel,2022-11-28
+CUS01485,Senegal,Thies,Occasionnel,2022-08-17
+CUS01486,Cameroun,Douala,Occasionnel,2023-02-26
+CUS01487,Cameroun,Yaounde,Occasionnel,2021-08-07
+CUS01488,Nigeria,Abuja,Premium,2023-06-16
+CUS01489,Cameroun,Douala,Premium,2021-02-21
+CUS01490,Cameroun,Yaounde,Standard,2024-01-13
+CUS01491,Maroc,Rabat,Occasionnel,2023-07-10
+CUS01492,Cote d'Ivoire,Abidjan,Standard,2022-11-23
+CUS01493,Cote d'Ivoire,Daloa,Premium,2023-12-08
+CUS01494,Belgique,Bruxelles,Occasionnel,2022-04-23
+CUS01495,Senegal,Dakar,Occasionnel,2023-09-29
+CUS01496,Cote d'Ivoire,Daloa,Nouveau,2024-06-20
+CUS01497,Cote d'Ivoire,Bouake,Occasionnel,2021-09-25
+CUS01498,Cote d'Ivoire,Bouake,Occasionnel,2022-09-22
+CUS01499,Senegal,Thies,Occasionnel,2024-04-25
+CUS01500,Senegal,Dakar,Premium,2024-05-03
+CUS01501,Cameroun,Douala,Occasionnel,2023-05-23
+CUS01502,Nigeria,Kano,Occasionnel,2022-10-27
+CUS01503,Senegal,Saint-Louis,Occasionnel,2021-10-09
+CUS01504,Nigeria,Lagos,Occasionnel,2024-04-29
+CUS01505,France,Marseille,Premium,2022-07-15
+CUS01506,France,Bordeaux,Standard,2023-01-28
+CUS01507,France,Bordeaux,Standard,2024-04-06
+CUS01508,Cote d'Ivoire,Bouake,Premium,2024-06-08
+CUS01509,Ghana,Accra,Premium,2023-09-25
+CUS01510,Senegal,Dakar,Premium,2021-07-02
+CUS01511,Maroc,Rabat,Occasionnel,2023-09-02
+CUS01512,France,Lyon,Premium,2022-07-09
+CUS01513,Belgique,Liege,Standard,2021-12-24
+CUS01514,Cote d'Ivoire,Bouake,Occasionnel,2024-06-07
+CUS01515,Senegal,Saint-Louis,Occasionnel,2022-09-09
+CUS01516,Nigeria,Abuja,Premium,2022-04-28
+CUS01517,Cameroun,Douala,Nouveau,2021-07-15
+CUS01518,Nigeria,Kano,Occasionnel,2023-08-09
+CUS01519,Cameroun,Yaounde,Premium,2021-08-19
+CUS01520,France,Bordeaux,Standard,2021-11-24
+CUS01521,Cote d'Ivoire,Abidjan,Occasionnel,2022-08-07
+CUS01522,Cameroun,Yaounde,Standard,2024-06-17
+CUS01523,Belgique,Bruxelles,Premium,2021-04-18
+CUS01524,France,Lyon,Occasionnel,2023-09-21
+CUS01525,Senegal,Dakar,Nouveau,2023-06-30
+CUS01526,Nigeria,Abuja,Standard,2022-10-30
+CUS01527,Cameroun,Douala,Standard,2021-07-20
+CUS01528,Cameroun,Yaounde,Nouveau,2023-02-09
+CUS01529,Cameroun,Douala,Standard,2023-09-20
+CUS01530,Cote d'Ivoire,Daloa,Premium,2024-06-02
+CUS01531,Belgique,Bruxelles,Standard,2021-10-07
+CUS01532,Belgique,Bruxelles,Occasionnel,2022-07-07
+CUS01533,Cameroun,Yaounde,Premium,2024-03-10
+CUS01534,Cote d'Ivoire,Yamoussoukro,Premium,2023-08-12
+CUS01535,Belgique,Liege,Standard,2022-12-05
+CUS01536,Cameroun,Yaounde,Occasionnel,2024-06-06
+CUS01537,France,Lyon,Premium,2023-12-05
+CUS01538,Belgique,Bruxelles,Occasionnel,2023-08-06
+CUS01539,Maroc,Casablanca,Occasionnel,2022-05-21
+CUS01540,Cameroun,Yaounde,Standard,2022-04-01
+CUS01541,France,Paris,Standard,2021-04-01
+CUS01542,Cote d'Ivoire,Daloa,Occasionnel,2023-10-30
+CUS01543,Cote d'Ivoire,Daloa,Occasionnel,2023-09-09
+CUS01544,Senegal,Thies,Standard,2021-06-20
+CUS01545,Cote d'Ivoire,Daloa,Nouveau,2021-09-29
+CUS01546,Nigeria,Abuja,Standard,2021-07-05
+CUS01547,Cote d'Ivoire,Daloa,Occasionnel,2021-11-28
+CUS01548,Belgique,Bruxelles,Nouveau,2023-08-08
+CUS01549,France,Bordeaux,Standard,2023-01-29
+CUS01550,Belgique,Bruxelles,Nouveau,2021-05-25
+CUS01551,Ghana,Kumasi,Occasionnel,2022-08-31
+CUS01552,Ghana,Kumasi,Occasionnel,2024-06-08
+CUS01553,Cameroun,Douala,Occasionnel,2022-11-19
+CUS01554,Cote d'Ivoire,Yamoussoukro,Nouveau,2021-08-16
+CUS01555,Ghana,Kumasi,Standard,2021-03-25
+CUS01556,Nigeria,Abuja,Standard,2024-02-19
+CUS01557,Senegal,Saint-Louis,Occasionnel,2022-02-24
+CUS01558,France,Marseille,Standard,2021-08-21
+CUS01559,Belgique,Bruxelles,Occasionnel,2022-04-07
+CUS01560,Nigeria,Abuja,Nouveau,2023-10-29
+CUS01561,Ghana,Kumasi,Premium,2023-02-03
+CUS01562,Nigeria,Abuja,Standard,2023-12-15
+CUS01563,Senegal,Thies,Occasionnel,2023-12-28
+CUS01564,Maroc,Rabat,Occasionnel,2021-05-15
+CUS01565,Cameroun,Yaounde,Premium,2023-03-12
+CUS01566,France,Marseille,Nouveau,2021-06-07
+CUS01567,Senegal,Dakar,Standard,2021-10-31
+CUS01568,Belgique,Bruxelles,Nouveau,2023-12-03
+CUS01569,Cote d'Ivoire,Yamoussoukro,Standard,2024-01-14
+CUS01570,France,Bordeaux,Standard,2023-06-29
+CUS01571,Cote d'Ivoire,Yamoussoukro,Standard,2021-02-15
+CUS01572,Cameroun,Yaounde,Standard,2022-12-04
+CUS01573,Nigeria,Abuja,Occasionnel,2023-12-22
+CUS01574,Belgique,Liege,Standard,2021-09-28
+CUS01575,Maroc,Casablanca,Occasionnel,2022-04-10
+CUS01576,Belgique,Liege,Nouveau,2021-04-07
+CUS01577,France,Marseille,Standard,2021-12-07
+CUS01578,France,Marseille,Standard,2021-12-26
+CUS01579,France,Lyon,Standard,2021-03-26
+CUS01580,Nigeria,Kano,Premium,2022-06-18
+CUS01581,Nigeria,Lagos,Standard,2021-03-13
+CUS01582,Nigeria,Abuja,Premium,2023-07-08
+CUS01583,France,Marseille,Premium,2021-02-21
+CUS01584,Ghana,Kumasi,Occasionnel,2023-07-28
+CUS01585,Nigeria,Lagos,Premium,2024-01-24
+CUS01586,Nigeria,Kano,Occasionnel,2023-08-29
+CUS01587,Maroc,Marrakech,Occasionnel,2024-03-03
+CUS01588,Belgique,Liege,Occasionnel,2023-09-08
+CUS01589,Cote d'Ivoire,Bouake,Occasionnel,2021-08-28
+CUS01590,Maroc,Casablanca,Standard,2022-03-28
+CUS01591,Belgique,Liege,Premium,2021-04-23
+CUS01592,Cameroun,Douala,Occasionnel,2022-07-24
+CUS01593,Cameroun,Douala,Premium,2023-07-02
+CUS01594,Senegal,Saint-Louis,Standard,2023-10-02
+CUS01595,Nigeria,Kano,Occasionnel,2021-04-25
+CUS01596,Nigeria,Abuja,Premium,2023-05-26
+CUS01597,Nigeria,Abuja,Standard,2022-08-06
+CUS01598,Nigeria,Abuja,Standard,2023-07-02
+CUS01599,Senegal,Dakar,Occasionnel,2023-06-29
+CUS01600,Ghana,Kumasi,Standard,2023-05-19
+CUS01601,Ghana,Accra,Occasionnel,2024-05-09
+CUS01602,Senegal,Dakar,Standard,2023-08-31
+CUS01603,Nigeria,Lagos,Nouveau,2024-04-24
+CUS01604,Ghana,Accra,Premium,2022-07-14
+CUS01605,Ghana,Accra,Occasionnel,2024-03-09
+CUS01606,France,Lyon,Standard,2023-02-21
+CUS01607,Maroc,Marrakech,Standard,2022-09-11
+CUS01608,Maroc,Rabat,Occasionnel,2023-08-08
+CUS01609,Cameroun,Douala,Occasionnel,2021-11-12
+CUS01610,Maroc,Rabat,Nouveau,2023-08-26
+CUS01611,Senegal,Saint-Louis,Occasionnel,2022-08-13
+CUS01612,Ghana,Accra,Standard,2022-05-17
+CUS01613,Cote d'Ivoire,Abidjan,Occasionnel,2023-10-07
+CUS01614,Senegal,Saint-Louis,Occasionnel,2024-04-05
+CUS01615,Belgique,Liege,Nouveau,2023-09-02
+CUS01616,Senegal,Thies,Occasionnel,2024-03-24
+CUS01617,Cote d'Ivoire,Yamoussoukro,Standard,2021-04-30
+CUS01618,France,Marseille,Standard,2021-10-05
+CUS01619,Nigeria,Lagos,Premium,2023-01-10
+CUS01620,Ghana,Kumasi,Premium,2022-08-21
+CUS01621,Senegal,Saint-Louis,Standard,2022-01-11
+CUS01622,Senegal,Saint-Louis,Occasionnel,2024-01-19
+CUS01623,Nigeria,Abuja,Occasionnel,2022-09-09
+CUS01624,Maroc,Marrakech,Occasionnel,2023-01-13
+CUS01625,Senegal,Saint-Louis,Occasionnel,2021-10-22
+CUS01626,Cote d'Ivoire,Bouake,Occasionnel,2023-02-03
+CUS01627,Belgique,Liege,Standard,2021-11-30
+CUS01628,Senegal,Dakar,Standard,2022-03-29
+CUS01629,Cameroun,Douala,Standard,2021-06-06
+CUS01630,Senegal,Dakar,Nouveau,2023-09-10
+CUS01631,Nigeria,Abuja,Occasionnel,2021-10-12
+CUS01632,Belgique,Liege,Standard,2022-09-16
+CUS01633,Cote d'Ivoire,Abidjan,Standard,2021-10-19
+CUS01634,Cameroun,Yaounde,Premium,2021-09-24
+CUS01635,Senegal,Thies,Occasionnel,2021-08-17
+CUS01636,Senegal,Dakar,Occasionnel,2023-06-03
+CUS01637,Cote d'Ivoire,Bouake,Premium,2023-11-18
+CUS01638,Cote d'Ivoire,Daloa,Premium,2022-06-03
+CUS01639,Cote d'Ivoire,Abidjan,Standard,2021-01-22
+CUS01640,Senegal,Dakar,Nouveau,2022-02-25
+CUS01641,Cameroun,Douala,Occasionnel,2021-03-01
+CUS01642,Senegal,Dakar,Occasionnel,2022-07-23
+CUS01643,Nigeria,Abuja,Standard,2023-10-23
+CUS01644,Cameroun,Douala,Premium,2024-03-30
+CUS01645,Cote d'Ivoire,Bouake,Occasionnel,2022-08-01
+CUS01646,France,Paris,Nouveau,2021-07-22
+CUS01647,Cameroun,Yaounde,Standard,2024-04-22
+CUS01648,France,Bordeaux,Occasionnel,2021-08-08
+CUS01649,France,Marseille,Nouveau,2023-05-19
+CUS01650,Cameroun,Douala,Standard,2022-10-06
+CUS01651,Senegal,Thies,Premium,2021-10-06
+CUS01652,Belgique,Liege,Occasionnel,2024-02-16
+CUS01653,Cote d'Ivoire,Abidjan,Standard,2021-08-25
+CUS01654,Ghana,Kumasi,Standard,2022-10-01
+CUS01655,Belgique,Bruxelles,Occasionnel,2022-08-19
+CUS01656,Ghana,Accra,Nouveau,2023-09-02
+CUS01657,Nigeria,Lagos,Premium,2023-10-04
+CUS01658,Senegal,Thies,Standard,2021-06-24
+CUS01659,Senegal,Dakar,Standard,2024-04-24
+CUS01660,Senegal,Saint-Louis,Nouveau,2021-12-12
+CUS01661,Senegal,Thies,Nouveau,2022-11-25
+CUS01662,Cameroun,Yaounde,Premium,2023-05-20
+CUS01663,Belgique,Liege,Occasionnel,2024-04-06
+CUS01664,Maroc,Marrakech,Nouveau,2022-12-31
+CUS01665,Belgique,Liege,Nouveau,2023-11-14
+CUS01666,Maroc,Casablanca,Occasionnel,2021-08-10
+CUS01667,Senegal,Thies,Standard,2022-04-18
+CUS01668,France,Paris,Premium,2021-04-19
+CUS01669,Senegal,Thies,Occasionnel,2022-01-02
+CUS01670,Ghana,Kumasi,Standard,2024-06-27
+CUS01671,Senegal,Dakar,Occasionnel,2023-12-01
+CUS01672,Belgique,Liege,Standard,2023-10-17
+CUS01673,Belgique,Liege,Occasionnel,2024-01-13
+CUS01674,Cote d'Ivoire,Abidjan,Nouveau,2021-09-01
+CUS01675,Ghana,Kumasi,Standard,2023-02-10
+CUS01676,Belgique,Liege,Premium,2021-12-29
+CUS01677,Maroc,Marrakech,Standard,2023-06-02
+CUS01678,France,Marseille,Occasionnel,2023-09-26
+CUS01679,Senegal,Saint-Louis,Occasionnel,2024-02-09
+CUS01680,Belgique,Liege,Occasionnel,2021-11-17
+CUS01681,Cote d'Ivoire,Daloa,Standard,2024-04-25
+CUS01682,Ghana,Kumasi,Occasionnel,2022-08-06
+CUS01683,Nigeria,Lagos,Premium,2021-04-03
+CUS01684,France,Marseille,Standard,2024-04-10
+CUS01685,Cote d'Ivoire,Yamoussoukro,Standard,2023-05-27
+CUS01686,Nigeria,Abuja,Standard,2021-04-26
+CUS01687,Cameroun,Douala,Standard,2022-10-02
+CUS01688,Senegal,Saint-Louis,Premium,2022-09-17
+CUS01689,Senegal,Thies,Standard,2024-01-08
+CUS01690,Nigeria,Lagos,Standard,2023-05-16
+CUS01691,Ghana,Kumasi,Premium,2023-08-20
+CUS01692,Cote d'Ivoire,Yamoussoukro,Standard,2023-03-11
+CUS01693,Nigeria,Kano,Premium,2023-09-28
+CUS01694,Senegal,Saint-Louis,Occasionnel,2022-11-20
+CUS01695,Belgique,Liege,Standard,2022-09-06
+CUS01696,Nigeria,Abuja,Standard,2021-06-04
+CUS01697,Cameroun,Yaounde,Standard,2022-09-01
+CUS01698,Ghana,Accra,Occasionnel,2021-07-08
+CUS01699,Senegal,Saint-Louis,Standard,2021-05-18
+CUS01700,Belgique,Liege,Standard,2021-06-07
+CUS01701,Maroc,Marrakech,Occasionnel,2023-06-06
+CUS01702,Nigeria,Lagos,Standard,2022-05-30
+CUS01703,Belgique,Bruxelles,Nouveau,2023-11-24
+CUS01704,France,Bordeaux,Standard,2023-08-16
+CUS01705,Maroc,Marrakech,Occasionnel,2024-06-12
+CUS01706,Ghana,Accra,Occasionnel,2023-01-17
+CUS01707,Belgique,Bruxelles,Standard,2022-09-07
+CUS01708,Ghana,Kumasi,Standard,2021-05-12
+CUS01709,Cameroun,Yaounde,Standard,2022-08-11
+CUS01710,France,Marseille,Occasionnel,2022-04-29
+CUS01711,Ghana,Accra,Premium,2022-01-29
+CUS01712,Cote d'Ivoire,Bouake,Occasionnel,2022-09-28
+CUS01713,Belgique,Liege,Occasionnel,2023-06-13
+CUS01714,Ghana,Accra,Standard,2022-07-13
+CUS01715,France,Paris,Standard,2022-07-23
+CUS01716,France,Paris,Nouveau,2023-09-23
+CUS01717,Cote d'Ivoire,Abidjan,Nouveau,2021-06-21
+CUS01718,Nigeria,Kano,Standard,2021-05-11
+CUS01719,Ghana,Kumasi,Occasionnel,2021-07-04
+CUS01720,Ghana,Accra,Standard,2024-03-15
+CUS01721,Senegal,Saint-Louis,Occasionnel,2024-04-03
+CUS01722,Maroc,Rabat,Nouveau,2022-05-03
+CUS01723,Senegal,Thies,Standard,2024-04-11
+CUS01724,Ghana,Accra,Nouveau,2022-03-23
+CUS01725,France,Paris,Standard,2022-07-17
+CUS01726,Belgique,Liege,Standard,2024-04-22
+CUS01727,Cote d'Ivoire,Daloa,Occasionnel,2021-08-20
+CUS01728,Nigeria,Kano,Standard,2022-05-20
+CUS01729,Maroc,Casablanca,Standard,2023-01-24
+CUS01730,Maroc,Casablanca,Occasionnel,2024-05-25
+CUS01731,Cote d'Ivoire,Abidjan,Occasionnel,2022-05-06
+CUS01732,Maroc,Marrakech,Standard,2023-01-14
+CUS01733,Senegal,Saint-Louis,Nouveau,2023-06-26
+CUS01734,Ghana,Accra,Nouveau,2023-03-16
+CUS01735,Maroc,Rabat,Premium,2022-04-28
+CUS01736,Maroc,Casablanca,Nouveau,2021-11-25
+CUS01737,Belgique,Liege,Nouveau,2023-04-13
+CUS01738,Cote d'Ivoire,Yamoussoukro,Nouveau,2023-10-04
+CUS01739,Belgique,Liege,Nouveau,2022-11-13
+CUS01740,Ghana,Accra,Occasionnel,2022-06-19
+CUS01741,Senegal,Thies,Standard,2024-01-27
+CUS01742,Nigeria,Abuja,Occasionnel,2021-04-17
+CUS01743,France,Bordeaux,Occasionnel,2021-10-06
+CUS01744,Cote d'Ivoire,Daloa,Standard,2022-09-18
+CUS01745,Nigeria,Kano,Premium,2021-11-20
+CUS01746,Cameroun,Douala,Occasionnel,2023-04-21
+CUS01747,Nigeria,Abuja,Standard,2021-10-01
+CUS01748,Maroc,Casablanca,Occasionnel,2022-11-02
+CUS01749,Maroc,Casablanca,Premium,2023-01-23
+CUS01750,France,Bordeaux,Nouveau,2024-03-14
+CUS01751,Cameroun,Douala,Nouveau,2024-02-18
+CUS01752,Cameroun,Douala,Nouveau,2022-02-11
+CUS01753,Maroc,Marrakech,Nouveau,2021-04-12
+CUS01754,Ghana,Kumasi,Occasionnel,2021-11-02
+CUS01755,Senegal,Thies,Standard,2024-03-07
+CUS01756,Senegal,Dakar,Occasionnel,2023-06-11
+CUS01757,Belgique,Liege,Premium,2022-02-21
+CUS01758,Cameroun,Yaounde,Standard,2023-10-10
+CUS01759,Ghana,Accra,Standard,2022-02-28
+CUS01760,Cameroun,Yaounde,Occasionnel,2022-01-23
+CUS01761,Ghana,Accra,Standard,2021-10-26
+CUS01762,Cote d'Ivoire,Yamoussoukro,Nouveau,2022-04-28
+CUS01763,Belgique,Bruxelles,Standard,2023-07-28
+CUS01764,Senegal,Dakar,Standard,2022-10-25
+CUS01765,Ghana,Accra,Occasionnel,2023-05-17
+CUS01766,Maroc,Casablanca,Premium,2021-05-01
+CUS01767,Cote d'Ivoire,Yamoussoukro,Nouveau,2023-08-23
+CUS01768,Nigeria,Kano,Nouveau,2024-05-10
+CUS01769,Cote d'Ivoire,Abidjan,Standard,2024-06-23
+CUS01770,Ghana,Kumasi,Nouveau,2023-01-30
+CUS01771,France,Paris,Occasionnel,2022-06-18
+CUS01772,France,Bordeaux,Nouveau,2023-08-17
+CUS01773,France,Paris,Standard,2023-12-23
+CUS01774,Ghana,Accra,Standard,2022-10-04
+CUS01775,Cote d'Ivoire,Bouake,Standard,2022-07-30
+CUS01776,Nigeria,Abuja,Standard,2022-06-24
+CUS01777,Maroc,Marrakech,Standard,2021-12-04
+CUS01778,Nigeria,Kano,Nouveau,2021-11-06
+CUS01779,Belgique,Bruxelles,Standard,2021-04-22
+CUS01780,Cameroun,Douala,Premium,2022-06-17
+CUS01781,France,Bordeaux,Standard,2023-10-11
+CUS01782,Cote d'Ivoire,Daloa,Standard,2024-02-23
+CUS01783,Belgique,Liege,Standard,2021-10-31
+CUS01784,Senegal,Thies,Premium,2022-08-05
+CUS01785,France,Lyon,Occasionnel,2022-07-13
+CUS01786,Cameroun,Douala,Occasionnel,2024-03-14
+CUS01787,France,Bordeaux,Nouveau,2022-05-20
+CUS01788,Belgique,Bruxelles,Nouveau,2021-02-23
+CUS01789,Maroc,Marrakech,Nouveau,2021-09-07
+CUS01790,Ghana,Kumasi,Occasionnel,2021-08-06
+CUS01791,Nigeria,Lagos,Premium,2023-08-01
+CUS01792,Belgique,Liege,Occasionnel,2022-07-06
+CUS01793,Cote d'Ivoire,Yamoussoukro,Nouveau,2024-06-28
+CUS01794,Belgique,Liege,Nouveau,2024-03-11
+CUS01795,France,Lyon,Nouveau,2022-08-03
+CUS01796,Nigeria,Lagos,Occasionnel,2024-01-26
+CUS01797,Ghana,Accra,Standard,2021-12-31
+CUS01798,Cameroun,Yaounde,Premium,2022-03-03
+CUS01799,France,Bordeaux,Occasionnel,2022-08-07
+CUS01800,France,Paris,Standard,2023-06-05
+CUS01801,Maroc,Marrakech,Occasionnel,2023-01-06
+CUS01802,Senegal,Thies,Occasionnel,2023-09-30
+CUS01803,Belgique,Liege,Standard,2024-02-28
+CUS01804,Ghana,Accra,Occasionnel,2023-01-25
+CUS01805,France,Bordeaux,Occasionnel,2021-07-10
+CUS01806,Cote d'Ivoire,Yamoussoukro,Nouveau,2022-04-05
+CUS01807,France,Bordeaux,Occasionnel,2023-12-11
+CUS01808,Senegal,Thies,Standard,2021-06-12
+CUS01809,Belgique,Liege,Premium,2021-09-19
+CUS01810,Maroc,Casablanca,Occasionnel,2022-08-29
+CUS01811,Cote d'Ivoire,Abidjan,Nouveau,2023-11-18
+CUS01812,Senegal,Saint-Louis,Standard,2021-07-13
+CUS01813,Belgique,Liege,Standard,2024-04-14
+CUS01814,Senegal,Saint-Louis,Premium,2023-08-06
+CUS01815,France,Lyon,Occasionnel,2021-04-03
+CUS01816,Senegal,Thies,Nouveau,2022-09-02
+CUS01817,Nigeria,Kano,Occasionnel,2023-07-11
+CUS01818,Maroc,Rabat,Nouveau,2022-01-19
+CUS01819,Cameroun,Douala,Premium,2024-05-22
+CUS01820,Maroc,Marrakech,Premium,2023-12-31
+CUS01821,Cote d'Ivoire,Abidjan,Standard,2021-01-28
+CUS01822,France,Bordeaux,Standard,2023-04-10
+CUS01823,Belgique,Liege,Occasionnel,2024-06-17
+CUS01824,Nigeria,Kano,Occasionnel,2023-03-20
+CUS01825,Maroc,Casablanca,Premium,2021-01-29
+CUS01826,Cameroun,Douala,Occasionnel,2022-01-21
+CUS01827,Cote d'Ivoire,Bouake,Standard,2021-10-25
+CUS01828,Cameroun,Yaounde,Occasionnel,2024-01-09
+CUS01829,Cameroun,Douala,Standard,2023-08-08
+CUS01830,France,Bordeaux,Standard,2021-08-27
+CUS01831,France,Lyon,Occasionnel,2023-07-01
+CUS01832,Belgique,Liege,Premium,2023-07-10
+CUS01833,Cameroun,Douala,Standard,2023-03-14
+CUS01834,Cote d'Ivoire,Yamoussoukro,Premium,2023-06-04
+CUS01835,Ghana,Kumasi,Occasionnel,2024-05-05
+CUS01836,Maroc,Casablanca,Standard,2023-09-23
+CUS01837,Belgique,Bruxelles,Occasionnel,2023-12-18
+CUS01838,Cote d'Ivoire,Daloa,Occasionnel,2024-02-08
+CUS01839,Senegal,Thies,Nouveau,2023-05-05
+CUS01840,Belgique,Bruxelles,Standard,2022-12-12
+CUS01841,Belgique,Liege,Premium,2022-08-13
+CUS01842,Cameroun,Yaounde,Standard,2022-04-21
+CUS01843,Cameroun,Yaounde,Nouveau,2023-08-18
+CUS01844,France,Marseille,Occasionnel,2023-03-11
+CUS01845,Ghana,Kumasi,Occasionnel,2021-11-28
+CUS01846,Cameroun,Yaounde,Occasionnel,2021-06-26
+CUS01847,Belgique,Bruxelles,Standard,2021-11-17
+CUS01848,Belgique,Bruxelles,Occasionnel,2023-10-09
+CUS01849,Maroc,Casablanca,Standard,2021-04-07
+CUS01850,Cote d'Ivoire,Yamoussoukro,Nouveau,2023-01-02
+CUS01851,France,Lyon,Occasionnel,2023-10-29
+CUS01852,Cote d'Ivoire,Abidjan,Standard,2021-08-22
+CUS01853,Cameroun,Douala,Occasionnel,2023-09-24
+CUS01854,Maroc,Rabat,Occasionnel,2021-04-06
+CUS01855,Maroc,Casablanca,Nouveau,2023-11-22
+CUS01856,Senegal,Saint-Louis,Premium,2023-06-16
+CUS01857,Belgique,Bruxelles,Nouveau,2024-06-04
+CUS01858,Senegal,Saint-Louis,Premium,2021-08-04
+CUS01859,France,Paris,Nouveau,2023-01-11
+CUS01860,France,Marseille,Occasionnel,2023-11-03
+CUS01861,Belgique,Bruxelles,Standard,2023-01-15
+CUS01862,Nigeria,Lagos,Premium,2022-02-18
+CUS01863,Belgique,Liege,Occasionnel,2021-01-14
+CUS01864,Cameroun,Yaounde,Standard,2023-11-01
+CUS01865,France,Paris,Standard,2023-04-30
+CUS01866,Nigeria,Kano,Occasionnel,2021-11-07
+CUS01867,Ghana,Accra,Premium,2023-05-29
+CUS01868,Ghana,Kumasi,Nouveau,2023-11-24
+CUS01869,Nigeria,Lagos,Standard,2021-01-21
+CUS01870,Senegal,Dakar,Standard,2023-04-03
+CUS01871,France,Bordeaux,Premium,2021-03-17
+CUS01872,France,Paris,Nouveau,2023-12-01
+CUS01873,Maroc,Rabat,Standard,2024-02-08
+CUS01874,Maroc,Marrakech,Occasionnel,2022-12-06
+CUS01875,Cote d'Ivoire,Yamoussoukro,Nouveau,2024-06-04
+CUS01876,France,Bordeaux,Standard,2022-02-25
+CUS01877,Belgique,Liege,Nouveau,2023-04-09
+CUS01878,Cameroun,Yaounde,Premium,2024-01-06
+CUS01879,Nigeria,Abuja,Occasionnel,2021-09-16
+CUS01880,Maroc,Casablanca,Premium,2024-02-05
+CUS01881,Maroc,Marrakech,Standard,2021-11-24
+CUS01882,Cote d'Ivoire,Abidjan,Nouveau,2024-01-11
+CUS01883,Maroc,Casablanca,Occasionnel,2022-09-15
+CUS01884,Ghana,Accra,Occasionnel,2023-02-03
+CUS01885,Maroc,Marrakech,Occasionnel,2021-09-11
+CUS01886,Cote d'Ivoire,Abidjan,Standard,2024-03-18
+CUS01887,Cote d'Ivoire,Daloa,Standard,2022-04-29
+CUS01888,Cameroun,Yaounde,Standard,2024-03-19
+CUS01889,France,Bordeaux,Occasionnel,2022-05-23
+CUS01890,Senegal,Thies,Occasionnel,2022-01-30
+CUS01891,Nigeria,Abuja,Premium,2023-05-22
+CUS01892,Ghana,Accra,Premium,2023-05-21
+CUS01893,France,Bordeaux,Standard,2021-06-09
+CUS01894,Nigeria,Kano,Occasionnel,2024-04-19
+CUS01895,Ghana,Kumasi,Occasionnel,2023-05-18
+CUS01896,Belgique,Liege,Occasionnel,2023-05-04
+CUS01897,France,Lyon,Occasionnel,2023-09-20
+CUS01898,Belgique,Bruxelles,Nouveau,2023-11-18
+CUS01899,Senegal,Saint-Louis,Standard,2023-08-28
+CUS01900,Cote d'Ivoire,Bouake,Nouveau,2023-01-27
+CUS01901,Senegal,Saint-Louis,Nouveau,2021-08-14
+CUS01902,Senegal,Thies,Occasionnel,2021-03-24
+CUS01903,France,Paris,Standard,2023-02-06
+CUS01904,Maroc,Rabat,Standard,2021-10-20
+CUS01905,France,Bordeaux,Premium,2022-09-17
+CUS01906,Maroc,Casablanca,Standard,2023-09-29
+CUS01907,Cote d'Ivoire,Abidjan,Occasionnel,2021-05-19
+CUS01908,Cote d'Ivoire,Daloa,Standard,2022-09-27
+CUS01909,Belgique,Liege,Occasionnel,2023-09-01
+CUS01910,France,Lyon,Occasionnel,2023-08-02
+CUS01911,Belgique,Liege,Premium,2022-10-29
+CUS01912,Senegal,Saint-Louis,Occasionnel,2023-04-19
+CUS01913,Ghana,Accra,Nouveau,2022-11-26
+CUS01914,Cote d'Ivoire,Daloa,Occasionnel,2021-07-01
+CUS01915,France,Paris,Occasionnel,2022-09-25
+CUS01916,Senegal,Saint-Louis,Occasionnel,2022-01-30
+CUS01917,Cote d'Ivoire,Bouake,Occasionnel,2023-10-27
+CUS01918,Cote d'Ivoire,Abidjan,Occasionnel,2023-12-26
+CUS01919,France,Paris,Standard,2022-02-26
+CUS01920,Cameroun,Yaounde,Premium,2023-12-29
+CUS01921,Nigeria,Abuja,Occasionnel,2023-10-04
+CUS01922,Cote d'Ivoire,Yamoussoukro,Standard,2023-04-30
+CUS01923,Cote d'Ivoire,Yamoussoukro,Standard,2021-07-06
+CUS01924,Senegal,Dakar,Occasionnel,2022-08-08
+CUS01925,France,Lyon,Standard,2021-07-03
+CUS01926,France,Marseille,Nouveau,2021-12-13
+CUS01927,Cote d'Ivoire,Yamoussoukro,Standard,2021-04-30
+CUS01928,Maroc,Rabat,Premium,2021-10-19
+CUS01929,Ghana,Kumasi,Standard,2021-09-05
+CUS01930,Cote d'Ivoire,Bouake,Standard,2024-05-07
+CUS01931,Cameroun,Yaounde,Occasionnel,2023-10-31
+CUS01932,Ghana,Accra,Standard,2022-10-14
+CUS01933,Belgique,Liege,Premium,2021-03-01
+CUS01934,Ghana,Accra,Nouveau,2021-02-08
+CUS01935,Maroc,Marrakech,Nouveau,2021-07-27
+CUS01936,Cameroun,Douala,Standard,2023-04-14
+CUS01937,Belgique,Bruxelles,Occasionnel,2023-10-22
+CUS01938,Cameroun,Douala,Standard,2021-12-11
+CUS01939,Cameroun,Yaounde,Nouveau,2024-02-11
+CUS01940,Belgique,Bruxelles,Premium,2023-08-10
+CUS01941,Maroc,Marrakech,Nouveau,2021-01-02
+CUS01942,Cote d'Ivoire,Daloa,Standard,2022-05-29
+CUS01943,Ghana,Kumasi,Occasionnel,2022-03-12
+CUS01944,Maroc,Casablanca,Standard,2023-12-30
+CUS01945,Senegal,Thies,Premium,2021-09-09
+CUS01946,France,Marseille,Nouveau,2022-03-08
+CUS01947,Nigeria,Kano,Nouveau,2022-06-20
+CUS01948,Belgique,Liege,Standard,2022-10-21
+CUS01949,Nigeria,Lagos,Standard,2024-05-12
+CUS01950,Nigeria,Lagos,Nouveau,2021-10-01
+CUS01951,Cote d'Ivoire,Daloa,Premium,2021-01-20
+CUS01952,France,Bordeaux,Occasionnel,2023-09-29
+CUS01953,Ghana,Accra,Occasionnel,2021-06-08
+CUS01954,Cote d'Ivoire,Daloa,Occasionnel,2022-12-24
+CUS01955,Ghana,Kumasi,Standard,2021-01-18
+CUS01956,Senegal,Thies,Standard,2022-01-31
+CUS01957,Belgique,Bruxelles,Standard,2021-02-10
+CUS01958,Maroc,Marrakech,Nouveau,2023-01-03
+CUS01959,Cameroun,Douala,Occasionnel,2022-09-13
+CUS01960,Cameroun,Douala,Nouveau,2023-01-14
+CUS01961,Cote d'Ivoire,Yamoussoukro,Standard,2024-05-26
+CUS01962,Cameroun,Douala,Standard,2023-03-23
+CUS01963,Senegal,Thies,Occasionnel,2023-10-09
+CUS01964,France,Lyon,Occasionnel,2024-03-04
+CUS01965,France,Paris,Occasionnel,2021-05-14
+CUS01966,France,Marseille,Nouveau,2022-04-12
+CUS01967,Maroc,Casablanca,Occasionnel,2021-02-17
+CUS01968,Maroc,Marrakech,Occasionnel,2023-07-19
+CUS01969,Cote d'Ivoire,Daloa,Occasionnel,2021-04-17
+CUS01970,Nigeria,Abuja,Occasionnel,2023-04-14
+CUS01971,Maroc,Casablanca,Occasionnel,2023-08-14
+CUS01972,Belgique,Liege,Occasionnel,2021-03-31
+CUS01973,Cameroun,Douala,Standard,2023-05-11
+CUS01974,Belgique,Liege,Premium,2022-02-03
+CUS01975,Nigeria,Lagos,Nouveau,2021-02-21
+CUS01976,Cameroun,Yaounde,Nouveau,2022-05-27
+CUS01977,Cameroun,Douala,Standard,2021-05-09
+CUS01978,Senegal,Dakar,Standard,2021-02-19
+CUS01979,Nigeria,Abuja,Standard,2023-08-28
+CUS01980,Cameroun,Yaounde,Occasionnel,2022-11-15
+CUS01981,Cameroun,Douala,Occasionnel,2024-06-22
+CUS01982,Belgique,Bruxelles,Occasionnel,2024-03-31
+CUS01983,Senegal,Dakar,Nouveau,2021-03-10
+CUS01984,Ghana,Kumasi,Nouveau,2021-05-14
+CUS01985,France,Paris,Nouveau,2023-06-25
+CUS01986,Cote d'Ivoire,Yamoussoukro,Occasionnel,2023-06-04
+CUS01987,Senegal,Dakar,Occasionnel,2024-02-20
+CUS01988,Cote d'Ivoire,Yamoussoukro,Occasionnel,2023-04-03
+CUS01989,Senegal,Saint-Louis,Occasionnel,2022-04-23
+CUS01990,Cote d'Ivoire,Daloa,Standard,2023-05-27
+CUS01991,Senegal,Thies,Occasionnel,2021-02-23
+CUS01992,Belgique,Liege,Occasionnel,2021-08-10
+CUS01993,Senegal,Dakar,Occasionnel,2021-05-19
+CUS01994,Cameroun,Douala,Occasionnel,2022-06-09
+CUS01995,Nigeria,Abuja,Standard,2024-06-25
+CUS01996,Belgique,Bruxelles,Standard,2021-04-01
+CUS01997,Cote d'Ivoire,Bouake,Standard,2023-06-12
+CUS01998,Nigeria,Abuja,Occasionnel,2024-01-14
+CUS01999,France,Lyon,Standard,2024-05-20
+CUS02000,Nigeria,Abuja,Standard,2021-01-17
+CUS02001,France,Paris,Standard,2024-02-20
+CUS02002,Cote d'Ivoire,Daloa,Standard,2022-02-15
+CUS02003,Cameroun,Douala,Standard,2023-09-02
+CUS02004,Belgique,Liege,Nouveau,2024-03-05
+CUS02005,Nigeria,Kano,Standard,2022-11-05
+CUS02006,France,Paris,Standard,2021-03-28
+CUS02007,Belgique,Bruxelles,Nouveau,2022-04-02
+CUS02008,Cameroun,Yaounde,Occasionnel,2022-05-05
+CUS02009,Belgique,Liege,Occasionnel,2023-02-09
+CUS02010,Cameroun,Yaounde,Standard,2021-01-14
+CUS02011,Nigeria,Lagos,Premium,2021-03-03
+CUS02012,Senegal,Dakar,Standard,2022-02-03
+CUS02013,Nigeria,Lagos,Nouveau,2022-02-12
+CUS02014,Cameroun,Yaounde,Standard,2022-06-21
+CUS02015,France,Marseille,Occasionnel,2022-05-19
+CUS02016,France,Lyon,Premium,2022-06-21
+CUS02017,Senegal,Dakar,Occasionnel,2021-10-09
+CUS02018,Ghana,Accra,Standard,2022-03-07
+CUS02019,Maroc,Rabat,Standard,2023-02-02
+CUS02020,France,Bordeaux,Nouveau,2021-05-14
+CUS02021,Senegal,Dakar,Nouveau,2021-09-25
+CUS02022,Cameroun,Douala,Occasionnel,2023-02-06
+CUS02023,Nigeria,Kano,Standard,2022-05-16
+CUS02024,Cote d'Ivoire,Bouake,Nouveau,2022-08-26
+CUS02025,France,Marseille,Standard,2022-07-28
+CUS02026,France,Bordeaux,Standard,2021-06-16
+CUS02027,Belgique,Bruxelles,Standard,2023-03-06
+CUS02028,Nigeria,Abuja,Occasionnel,2022-01-02
+CUS02029,Nigeria,Kano,Standard,2023-09-17
+CUS02030,Belgique,Liege,Standard,2023-04-02
+CUS02031,Cote d'Ivoire,Bouake,Standard,2022-02-20
+CUS02032,Belgique,Bruxelles,Standard,2022-09-19
+CUS02033,Ghana,Kumasi,Occasionnel,2023-02-06
+CUS02034,Maroc,Marrakech,Premium,2021-06-22
+CUS02035,Maroc,Rabat,Occasionnel,2022-04-17
+CUS02036,Cote d'Ivoire,Daloa,Occasionnel,2022-11-20
+CUS02037,Ghana,Kumasi,Standard,2023-04-18
+CUS02038,Nigeria,Abuja,Standard,2023-02-23
+CUS02039,Cote d'Ivoire,Bouake,Standard,2022-06-28
+CUS02040,Senegal,Thies,Nouveau,2022-08-27
+CUS02041,Senegal,Thies,Nouveau,2021-07-21
+CUS02042,Senegal,Dakar,Standard,2024-01-24
+CUS02043,Cameroun,Yaounde,Standard,2022-11-06
+CUS02044,Maroc,Rabat,Occasionnel,2022-07-17
+CUS02045,Cameroun,Douala,Nouveau,2024-01-18
+CUS02046,Maroc,Casablanca,Occasionnel,2022-08-01
+CUS02047,Nigeria,Abuja,Nouveau,2024-04-02
+CUS02048,Cote d'Ivoire,Daloa,Occasionnel,2021-11-02
+CUS02049,Ghana,Accra,Standard,2022-03-06
+CUS02050,Belgique,Bruxelles,Occasionnel,2024-02-06
+CUS02051,Belgique,Liege,Standard,2021-06-25
+CUS02052,Nigeria,Lagos,Standard,2023-05-06
+CUS02053,Cameroun,Yaounde,Standard,2024-02-18
+CUS02054,Cote d'Ivoire,Yamoussoukro,Premium,2021-09-20
+CUS02055,Maroc,Marrakech,Premium,2022-12-28
+CUS02056,Nigeria,Lagos,Standard,2023-04-07
+CUS02057,Maroc,Rabat,Occasionnel,2024-03-08
+CUS02058,Cote d'Ivoire,Bouake,Standard,2022-11-08
+CUS02059,Ghana,Kumasi,Standard,2023-03-12
+CUS02060,Senegal,Saint-Louis,Standard,2023-08-31
+CUS02061,Senegal,Thies,Occasionnel,2023-07-14
+CUS02062,Maroc,Casablanca,Standard,2024-02-07
+CUS02063,France,Paris,Occasionnel,2024-05-20
+CUS02064,Belgique,Bruxelles,Standard,2021-05-23
+CUS02065,Ghana,Kumasi,Standard,2022-08-20
+CUS02066,Senegal,Thies,Premium,2023-11-28
+CUS02067,Cote d'Ivoire,Bouake,Standard,2023-04-22
+CUS02068,Ghana,Accra,Nouveau,2021-09-22
+CUS02069,Ghana,Kumasi,Occasionnel,2023-03-08
+CUS02070,Cameroun,Douala,Nouveau,2022-09-27
+CUS02071,Ghana,Kumasi,Standard,2024-03-23
+CUS02072,Maroc,Marrakech,Standard,2023-07-29
+CUS02073,Maroc,Casablanca,Premium,2021-10-20
+CUS02074,Belgique,Bruxelles,Occasionnel,2024-05-23
+CUS02075,Cameroun,Yaounde,Nouveau,2023-10-03
+CUS02076,Belgique,Liege,Occasionnel,2021-07-06
+CUS02077,Maroc,Marrakech,Nouveau,2023-07-24
+CUS02078,Nigeria,Kano,Occasionnel,2022-09-02
+CUS02079,Ghana,Accra,Standard,2022-01-03
+CUS02080,Ghana,Kumasi,Standard,2022-01-11
+CUS02081,Senegal,Thies,Occasionnel,2021-03-31
+CUS02082,Cameroun,Douala,Standard,2024-01-07
+CUS02083,Maroc,Marrakech,Nouveau,2022-03-21
+CUS02084,Belgique,Liege,Nouveau,2024-02-07
+CUS02085,Senegal,Thies,Premium,2021-08-04
+CUS02086,Nigeria,Abuja,Standard,2022-06-02
+CUS02087,Cameroun,Douala,Standard,2021-05-30
+CUS02088,Belgique,Liege,Standard,2023-03-29
+CUS02089,Cameroun,Yaounde,Premium,2022-05-29
+CUS02090,Senegal,Saint-Louis,Nouveau,2022-11-01
+CUS02091,Belgique,Liege,Standard,2021-06-19
+CUS02092,Cameroun,Yaounde,Premium,2022-07-26
+CUS02093,France,Lyon,Occasionnel,2024-05-28
+CUS02094,Senegal,Dakar,Standard,2023-12-31
+CUS02095,Ghana,Accra,Premium,2021-01-23
+CUS02096,Maroc,Casablanca,Standard,2021-12-31
+CUS02097,Cameroun,Douala,Nouveau,2023-12-27
+CUS02098,Cameroun,Yaounde,Occasionnel,2023-12-07
+CUS02099,Senegal,Thies,Occasionnel,2023-06-29
+CUS02100,Cote d'Ivoire,Abidjan,Premium,2023-02-12
+CUS02101,Cameroun,Douala,Standard,2022-05-04
+CUS02102,Cameroun,Douala,Premium,2021-02-27
+CUS02103,Cote d'Ivoire,Yamoussoukro,Occasionnel,2021-05-10
+CUS02104,Cameroun,Douala,Occasionnel,2021-12-10
+CUS02105,France,Paris,Standard,2021-08-09
+CUS02106,Nigeria,Abuja,Occasionnel,2022-01-24
+CUS02107,Cameroun,Yaounde,Nouveau,2021-09-05
+CUS02108,Cameroun,Douala,Premium,2022-10-25
+CUS02109,France,Paris,Standard,2022-10-10
+CUS02110,Cote d'Ivoire,Daloa,Standard,2022-03-27
+CUS02111,Senegal,Saint-Louis,Occasionnel,2023-01-26
+CUS02112,Cote d'Ivoire,Abidjan,Nouveau,2023-04-22
+CUS02113,Maroc,Marrakech,Standard,2021-07-28
+CUS02114,France,Marseille,Nouveau,2024-05-13
+CUS02115,Nigeria,Kano,Occasionnel,2021-09-30
+CUS02116,Nigeria,Lagos,Occasionnel,2022-10-14
+CUS02117,Belgique,Bruxelles,Standard,2024-05-31
+CUS02118,Belgique,Liege,Occasionnel,2022-04-22
+CUS02119,Cote d'Ivoire,Bouake,Premium,2021-09-12
+CUS02120,Maroc,Casablanca,Occasionnel,2022-05-14
+CUS02121,Senegal,Dakar,Premium,2023-10-19
+CUS02122,Maroc,Casablanca,Standard,2022-02-23
+CUS02123,Cote d'Ivoire,Bouake,Nouveau,2024-05-09
+CUS02124,Belgique,Liege,Premium,2022-10-13
+CUS02125,Cote d'Ivoire,Daloa,Occasionnel,2022-08-14
+CUS02126,Cote d'Ivoire,Bouake,Occasionnel,2022-11-10
+CUS02127,Nigeria,Lagos,Standard,2021-04-21
+CUS02128,Cameroun,Douala,Occasionnel,2023-02-21
+CUS02129,Nigeria,Lagos,Standard,2021-01-13
+CUS02130,Senegal,Thies,Premium,2022-01-30
+CUS02131,Cote d'Ivoire,Bouake,Nouveau,2021-09-15
+CUS02132,Senegal,Dakar,Occasionnel,2022-02-23
+CUS02133,Cameroun,Douala,Standard,2023-08-15
+CUS02134,Maroc,Casablanca,Occasionnel,2022-05-17
+CUS02135,Ghana,Accra,Occasionnel,2022-09-13
+CUS02136,Maroc,Marrakech,Standard,2022-02-17
+CUS02137,Maroc,Rabat,Premium,2023-01-07
+CUS02138,Ghana,Kumasi,Standard,2023-06-23
+CUS02139,Ghana,Kumasi,Occasionnel,2023-09-15
+CUS02140,Cote d'Ivoire,Daloa,Standard,2021-06-20
+CUS02141,Maroc,Marrakech,Occasionnel,2024-02-07
+CUS02142,France,Marseille,Standard,2022-09-19
+CUS02143,Belgique,Liege,Standard,2024-05-26
+CUS02144,Belgique,Bruxelles,Standard,2023-08-20
+CUS02145,Cameroun,Douala,Nouveau,2021-01-09
+CUS02146,Cote d'Ivoire,Yamoussoukro,Standard,2023-05-02
+CUS02147,Ghana,Kumasi,Standard,2022-09-23
+CUS02148,Senegal,Thies,Nouveau,2021-09-12
+CUS02149,Ghana,Accra,Standard,2023-06-13
+CUS02150,Maroc,Marrakech,Standard,2023-09-28
+CUS02151,Nigeria,Kano,Premium,2023-03-01
+CUS02152,Ghana,Accra,Standard,2021-03-12
+CUS02153,Nigeria,Kano,Occasionnel,2021-02-27
+CUS02154,France,Marseille,Occasionnel,2021-10-29
+CUS02155,Maroc,Casablanca,Occasionnel,2021-11-27
+CUS02156,Cote d'Ivoire,Abidjan,Occasionnel,2023-02-27
+CUS02157,Ghana,Accra,Occasionnel,2022-01-22
+CUS02158,Ghana,Accra,Occasionnel,2022-06-02
+CUS02159,Maroc,Marrakech,Nouveau,2023-02-23
+CUS02160,Maroc,Marrakech,Standard,2021-07-02
+CUS02161,Senegal,Saint-Louis,Occasionnel,2022-12-07
+CUS02162,France,Marseille,Occasionnel,2023-03-27
+CUS02163,Maroc,Casablanca,Nouveau,2023-10-05
+CUS02164,Cote d'Ivoire,Abidjan,Premium,2023-05-06
+CUS02165,Ghana,Kumasi,Occasionnel,2021-12-16
+CUS02166,France,Marseille,Standard,2021-10-03
+CUS02167,Cameroun,Yaounde,Standard,2021-08-14
+CUS02168,Belgique,Bruxelles,Standard,2021-05-01
+CUS02169,France,Lyon,Standard,2023-04-18
+CUS02170,Belgique,Bruxelles,Nouveau,2021-12-07
+CUS02171,Senegal,Thies,Premium,2021-09-13
+CUS02172,Maroc,Casablanca,Standard,2024-04-14
+CUS02173,Cameroun,Yaounde,Standard,2021-07-26
+CUS02174,Cote d'Ivoire,Abidjan,Standard,2021-01-15
+CUS02175,Cote d'Ivoire,Abidjan,Standard,2021-01-15
+CUS02176,Ghana,Kumasi,Nouveau,2023-08-28
+CUS02177,Nigeria,Kano,Standard,2023-01-30
+CUS02178,Nigeria,Abuja,Occasionnel,2023-01-10
+CUS02179,Ghana,Kumasi,Occasionnel,2022-12-31
+CUS02180,Nigeria,Lagos,Premium,2023-04-03
+CUS02181,France,Paris,Occasionnel,2023-12-23
+CUS02182,Maroc,Marrakech,Occasionnel,2022-05-25
+CUS02183,Nigeria,Abuja,Occasionnel,2023-09-01
+CUS02184,Ghana,Accra,Premium,2022-10-22
+CUS02185,Cote d'Ivoire,Yamoussoukro,Nouveau,2022-10-29
+CUS02186,Belgique,Bruxelles,Occasionnel,2023-03-31
+CUS02187,Senegal,Thies,Standard,2023-09-03
+CUS02188,Senegal,Saint-Louis,Standard,2024-05-28
+CUS02189,Cameroun,Douala,Nouveau,2024-03-17
+CUS02190,Cote d'Ivoire,Bouake,Standard,2021-06-28
+CUS02191,Maroc,Marrakech,Nouveau,2023-08-15
+CUS02192,France,Bordeaux,Nouveau,2023-09-15
+CUS02193,Cameroun,Douala,Standard,2021-07-03
+CUS02194,Senegal,Thies,Nouveau,2021-03-01
+CUS02195,France,Marseille,Nouveau,2022-07-29
+CUS02196,Cameroun,Yaounde,Occasionnel,2021-09-10
+CUS02197,France,Bordeaux,Premium,2022-11-13
+CUS02198,Cameroun,Douala,Occasionnel,2023-02-12
+CUS02199,Ghana,Kumasi,Occasionnel,2022-04-03
+CUS02200,Maroc,Casablanca,Standard,2021-08-17
+CUS02201,Senegal,Thies,Occasionnel,2022-01-21
+CUS02202,Senegal,Saint-Louis,Standard,2022-10-04
+CUS02203,Ghana,Accra,Standard,2024-04-23
+CUS02204,Cameroun,Yaounde,Nouveau,2022-10-17
+CUS02205,Nigeria,Kano,Nouveau,2021-09-16
+CUS02206,Cameroun,Douala,Standard,2024-01-08
+CUS02207,Belgique,Liege,Premium,2022-08-31
+CUS02208,Cameroun,Yaounde,Occasionnel,2021-10-29
+CUS02209,Maroc,Casablanca,Occasionnel,2021-03-12
+CUS02210,Nigeria,Abuja,Occasionnel,2021-09-10
+CUS02211,Maroc,Marrakech,Occasionnel,2022-03-18
+CUS02212,Belgique,Liege,Occasionnel,2023-02-11
+CUS02213,Cote d'Ivoire,Yamoussoukro,Standard,2022-03-08
+CUS02214,Cameroun,Douala,Nouveau,2022-01-02
+CUS02215,Belgique,Liege,Standard,2021-11-23
+CUS02216,Cote d'Ivoire,Daloa,Standard,2023-08-28
+CUS02217,Nigeria,Abuja,Standard,2023-12-18
+CUS02218,Maroc,Rabat,Occasionnel,2022-02-04
+CUS02219,Ghana,Accra,Premium,2024-04-03
+CUS02220,Cote d'Ivoire,Yamoussoukro,Standard,2021-12-02
+CUS02221,France,Bordeaux,Occasionnel,2022-08-20
+CUS02222,France,Lyon,Standard,2022-02-05
+CUS02223,Cote d'Ivoire,Yamoussoukro,Occasionnel,2024-03-24
+CUS02224,Senegal,Saint-Louis,Occasionnel,2021-10-30
+CUS02225,Ghana,Kumasi,Occasionnel,2021-12-11
+CUS02226,Cote d'Ivoire,Abidjan,Standard,2023-08-29
+CUS02227,France,Paris,Premium,2023-11-22
+CUS02228,Nigeria,Kano,Standard,2021-11-01
+CUS02229,Ghana,Accra,Premium,2022-05-09
+CUS02230,Ghana,Kumasi,Standard,2024-05-05
+CUS02231,France,Bordeaux,Occasionnel,2021-07-03
+CUS02232,Belgique,Liege,Standard,2023-07-01
+CUS02233,Nigeria,Lagos,Premium,2021-06-19
+CUS02234,Senegal,Thies,Occasionnel,2023-11-10
+CUS02235,Cameroun,Douala,Occasionnel,2024-03-18
+CUS02236,Belgique,Liege,Occasionnel,2021-07-13
+CUS02237,France,Bordeaux,Standard,2023-06-08
+CUS02238,Maroc,Marrakech,Premium,2022-10-29
+CUS02239,Senegal,Saint-Louis,Nouveau,2024-01-06
+CUS02240,France,Bordeaux,Occasionnel,2021-02-10
+CUS02241,Ghana,Kumasi,Premium,2024-04-12
+CUS02242,Senegal,Dakar,Nouveau,2021-08-29
+CUS02243,France,Lyon,Premium,2023-07-05
+CUS02244,Nigeria,Lagos,Premium,2024-03-23
+CUS02245,Cameroun,Douala,Premium,2022-06-10
+CUS02246,Cote d'Ivoire,Abidjan,Nouveau,2023-11-03
+CUS02247,Maroc,Rabat,Nouveau,2021-12-18
+CUS02248,Ghana,Accra,Standard,2021-04-05
+CUS02249,Maroc,Marrakech,Occasionnel,2021-10-14
+CUS02250,Belgique,Liege,Occasionnel,2022-12-23
+CUS02251,Cameroun,Douala,Occasionnel,2021-04-02
+CUS02252,Cameroun,Douala,Standard,2022-09-06
+CUS02253,Cameroun,Douala,Occasionnel,2022-03-19
+CUS02254,Nigeria,Abuja,Premium,2024-06-28
+CUS02255,Ghana,Accra,Occasionnel,2022-06-18
+CUS02256,Ghana,Accra,Standard,2021-06-20
+CUS02257,Maroc,Marrakech,Standard,2021-10-21
+CUS02258,Cameroun,Douala,Occasionnel,2022-07-06
+CUS02259,Cameroun,Yaounde,Occasionnel,2023-11-14
+CUS02260,France,Bordeaux,Occasionnel,2022-10-10
+CUS02261,Ghana,Kumasi,Premium,2024-05-21
+CUS02262,Cameroun,Douala,Standard,2023-12-25
+CUS02263,Senegal,Saint-Louis,Occasionnel,2021-05-16
+CUS02264,Nigeria,Kano,Premium,2022-11-15
+CUS02265,Maroc,Casablanca,Nouveau,2022-04-08
+CUS02266,Maroc,Casablanca,Premium,2022-04-01
+CUS02267,Ghana,Accra,Occasionnel,2021-09-10
+CUS02268,France,Marseille,Occasionnel,2023-09-30
+CUS02269,Senegal,Saint-Louis,Standard,2024-03-17
+CUS02270,Maroc,Marrakech,Standard,2021-07-22
+CUS02271,Cote d'Ivoire,Bouake,Standard,2023-03-09
+CUS02272,France,Marseille,Occasionnel,2023-12-25
+CUS02273,Ghana,Kumasi,Occasionnel,2022-06-15
+CUS02274,Cote d'Ivoire,Bouake,Occasionnel,2021-10-20
+CUS02275,Ghana,Kumasi,Premium,2023-01-29
+CUS02276,Cameroun,Yaounde,Occasionnel,2022-01-10
+CUS02277,Belgique,Liege,Occasionnel,2023-10-26
+CUS02278,Maroc,Rabat,Nouveau,2023-12-03
+CUS02279,Cameroun,Yaounde,Occasionnel,2021-06-28
+CUS02280,Maroc,Rabat,Occasionnel,2021-07-04
+CUS02281,Senegal,Dakar,Occasionnel,2021-07-11
+CUS02282,France,Paris,Premium,2022-08-09
+CUS02283,Belgique,Bruxelles,Nouveau,2023-05-19
+CUS02284,France,Bordeaux,Standard,2023-12-27
+CUS02285,Senegal,Thies,Premium,2022-01-25
+CUS02286,Cote d'Ivoire,Daloa,Occasionnel,2022-12-08
+CUS02287,Cameroun,Douala,Occasionnel,2021-12-12
+CUS02288,Cameroun,Douala,Premium,2021-10-01
+CUS02289,Nigeria,Lagos,Standard,2023-02-16
+CUS02290,France,Marseille,Nouveau,2022-11-24
+CUS02291,Cameroun,Douala,Standard,2023-09-17
+CUS02292,Maroc,Rabat,Standard,2024-03-10
+CUS02293,Ghana,Accra,Nouveau,2023-11-22
+CUS02294,Cote d'Ivoire,Daloa,Nouveau,2023-09-27
+CUS02295,Cote d'Ivoire,Yamoussoukro,Premium,2023-08-01
+CUS02296,Nigeria,Abuja,Standard,2021-01-11
+CUS02297,Nigeria,Kano,Standard,2022-12-28
+CUS02298,Cote d'Ivoire,Abidjan,Standard,2022-02-09
+CUS02299,Senegal,Saint-Louis,Occasionnel,2021-11-11
+CUS02300,Ghana,Accra,Nouveau,2021-01-15
+CUS02301,France,Marseille,Standard,2023-03-21
+CUS02302,Nigeria,Abuja,Standard,2022-01-09
+CUS02303,Maroc,Casablanca,Nouveau,2023-06-19
+CUS02304,France,Lyon,Standard,2023-06-08
+CUS02305,Cote d'Ivoire,Yamoussoukro,Nouveau,2022-02-11
+CUS02306,Senegal,Dakar,Standard,2021-10-01
+CUS02307,Ghana,Kumasi,Occasionnel,2021-03-06
+CUS02308,France,Lyon,Nouveau,2022-06-29
+CUS02309,Senegal,Thies,Standard,2023-10-12
+CUS02310,France,Marseille,Occasionnel,2023-03-30
+CUS02311,Ghana,Accra,Premium,2021-08-09
+CUS02312,Cote d'Ivoire,Bouake,Standard,2023-10-22
+CUS02313,Cote d'Ivoire,Bouake,Premium,2022-12-02
+CUS02314,Ghana,Accra,Standard,2022-08-16
+CUS02315,Maroc,Rabat,Premium,2023-05-29
+CUS02316,Cameroun,Douala,Occasionnel,2022-01-18
+CUS02317,Cameroun,Yaounde,Occasionnel,2022-06-24
+CUS02318,Cameroun,Yaounde,Standard,2021-07-31
+CUS02319,France,Lyon,Nouveau,2024-04-25
+CUS02320,France,Lyon,Premium,2023-04-02
+CUS02321,Cote d'Ivoire,Yamoussoukro,Nouveau,2021-10-27
+CUS02322,Ghana,Accra,Occasionnel,2021-07-06
+CUS02323,Cote d'Ivoire,Daloa,Standard,2022-09-20
+CUS02324,Cameroun,Douala,Standard,2023-09-09
+CUS02325,Cote d'Ivoire,Daloa,Occasionnel,2022-09-16
+CUS02326,Senegal,Thies,Standard,2022-12-20
+CUS02327,Ghana,Accra,Standard,2021-04-08
+CUS02328,France,Paris,Premium,2022-10-21
+CUS02329,Cameroun,Yaounde,Standard,2024-05-27
+CUS02330,Senegal,Thies,Standard,2023-10-04
+CUS02331,Nigeria,Abuja,Standard,2021-07-18
+CUS02332,Cote d'Ivoire,Bouake,Standard,2023-01-11
+CUS02333,Nigeria,Lagos,Occasionnel,2022-03-07
+CUS02334,Ghana,Accra,Nouveau,2021-09-25
+CUS02335,Senegal,Dakar,Occasionnel,2022-01-26
+CUS02336,Cameroun,Yaounde,Nouveau,2021-06-03
+CUS02337,Nigeria,Abuja,Occasionnel,2022-02-18
+CUS02338,France,Paris,Premium,2023-05-07
+CUS02339,Maroc,Marrakech,Nouveau,2023-01-20
+CUS02340,Belgique,Bruxelles,Nouveau,2021-05-19
+CUS02341,Belgique,Liege,Occasionnel,2023-10-29
+CUS02342,Cote d'Ivoire,Bouake,Occasionnel,2021-09-22
+CUS02343,Maroc,Casablanca,Nouveau,2021-05-05
+CUS02344,Cameroun,Yaounde,Standard,2023-12-27
+CUS02345,Senegal,Dakar,Standard,2023-11-10
+CUS02346,Ghana,Kumasi,Standard,2022-07-11
+CUS02347,Cameroun,Douala,Premium,2024-03-17
+CUS02348,Cameroun,Douala,Nouveau,2023-11-17
+CUS02349,Belgique,Liege,Standard,2022-03-28
+CUS02350,Maroc,Marrakech,Standard,2021-09-01
+CUS02351,France,Lyon,Premium,2022-05-03
+CUS02352,Maroc,Casablanca,Occasionnel,2022-07-23
+CUS02353,France,Marseille,Nouveau,2021-04-16
+CUS02354,Cameroun,Douala,Occasionnel,2021-01-03
+CUS02355,Nigeria,Kano,Occasionnel,2023-01-26
+CUS02356,Nigeria,Lagos,Nouveau,2024-01-30
+CUS02357,Maroc,Marrakech,Premium,2024-06-06
+CUS02358,Maroc,Rabat,Nouveau,2021-01-22
+CUS02359,Nigeria,Lagos,Occasionnel,2022-07-27
+CUS02360,France,Marseille,Nouveau,2024-01-06
+CUS02361,Senegal,Saint-Louis,Occasionnel,2023-02-22
+CUS02362,Maroc,Marrakech,Occasionnel,2024-02-03
+CUS02363,Cameroun,Yaounde,Standard,2022-07-05
+CUS02364,Cameroun,Yaounde,Standard,2022-04-20
+CUS02365,Ghana,Kumasi,Premium,2023-09-09
+CUS02366,Senegal,Thies,Standard,2022-01-14
+CUS02367,France,Lyon,Occasionnel,2022-01-05
+CUS02368,Maroc,Casablanca,Standard,2021-12-30
+CUS02369,Ghana,Accra,Premium,2021-05-28
+CUS02370,Ghana,Accra,Standard,2023-04-05
+CUS02371,Senegal,Saint-Louis,Occasionnel,2021-01-25
+CUS02372,Senegal,Thies,Standard,2021-08-14
+CUS02373,Cote d'Ivoire,Abidjan,Premium,2021-06-21
+CUS02374,Maroc,Casablanca,Nouveau,2024-05-13
+CUS02375,Cote d'Ivoire,Abidjan,Nouveau,2021-08-06
+CUS02376,Nigeria,Kano,Premium,2021-10-13
+CUS02377,Belgique,Liege,Occasionnel,2022-09-22
+CUS02378,Nigeria,Abuja,Standard,2021-04-25
+CUS02379,Maroc,Marrakech,Occasionnel,2021-02-13
+CUS02380,Cote d'Ivoire,Abidjan,Occasionnel,2021-07-30
+CUS02381,Ghana,Accra,Premium,2022-04-05
+CUS02382,Cote d'Ivoire,Bouake,Standard,2021-10-29
+CUS02383,Nigeria,Kano,Standard,2023-02-27
+CUS02384,Senegal,Thies,Standard,2021-08-14
+CUS02385,Cameroun,Douala,Nouveau,2022-08-01
+CUS02386,Nigeria,Lagos,Occasionnel,2021-08-31
+CUS02387,Nigeria,Lagos,Nouveau,2024-05-23
+CUS02388,France,Lyon,Standard,2022-11-17
+CUS02389,France,Bordeaux,Standard,2022-09-10
+CUS02390,Maroc,Rabat,Nouveau,2022-07-10
+CUS02391,Belgique,Liege,Nouveau,2021-06-06
+CUS02392,Cote d'Ivoire,Bouake,Occasionnel,2021-10-28
+CUS02393,Nigeria,Lagos,Standard,2023-09-07
+CUS02394,Senegal,Dakar,Occasionnel,2022-07-25
+CUS02395,France,Paris,Standard,2021-09-19
+CUS02396,France,Bordeaux,Standard,2023-10-10
+CUS02397,Ghana,Kumasi,Occasionnel,2023-04-28
+CUS02398,Nigeria,Lagos,Occasionnel,2022-05-19
+CUS02399,Ghana,Kumasi,Occasionnel,2024-01-09
+CUS02400,Belgique,Bruxelles,Standard,2024-04-04
+CUS02401,Ghana,Accra,Occasionnel,2022-04-27
+CUS02402,Nigeria,Lagos,Standard,2021-02-05
+CUS02403,Nigeria,Kano,Standard,2021-10-01
+CUS02404,Senegal,Dakar,Nouveau,2023-01-10
+CUS02405,France,Marseille,Standard,2024-02-04
+CUS02406,Ghana,Accra,Standard,2022-04-05
+CUS02407,Cote d'Ivoire,Bouake,Premium,2021-10-21
+CUS02408,Ghana,Accra,Occasionnel,2023-05-20
+CUS02409,Nigeria,Lagos,Occasionnel,2024-04-06
+CUS02410,Senegal,Thies,Occasionnel,2021-11-20
+CUS02411,Cote d'Ivoire,Bouake,Standard,2021-06-11
+CUS02412,Cameroun,Douala,Premium,2023-05-03
+CUS02413,France,Lyon,Standard,2021-10-14
+CUS02414,Maroc,Rabat,Standard,2022-11-22
+CUS02415,Belgique,Bruxelles,Standard,2021-11-16
+CUS02416,Cote d'Ivoire,Abidjan,Occasionnel,2021-12-22
+CUS02417,France,Paris,Standard,2023-05-18
+CUS02418,Belgique,Liege,Nouveau,2023-10-25
+CUS02419,Maroc,Marrakech,Standard,2021-11-18
+CUS02420,Maroc,Casablanca,Occasionnel,2021-09-14
+CUS02421,Cameroun,Yaounde,Occasionnel,2022-03-25
+CUS02422,Ghana,Accra,Occasionnel,2024-02-20
+CUS02423,Senegal,Saint-Louis,Standard,2022-10-04
+CUS02424,Ghana,Kumasi,Standard,2023-01-31
+CUS02425,Ghana,Accra,Standard,2021-08-02
+CUS02426,Senegal,Thies,Occasionnel,2022-11-19
+CUS02427,Cote d'Ivoire,Bouake,Standard,2024-01-15
+CUS02428,Senegal,Dakar,Standard,2021-01-23
+CUS02429,Maroc,Casablanca,Occasionnel,2021-03-08
+CUS02430,Cameroun,Yaounde,Premium,2024-03-13
+CUS02431,Cote d'Ivoire,Daloa,Premium,2022-10-07
+CUS02432,Senegal,Thies,Premium,2023-01-01
+CUS02433,Maroc,Rabat,Occasionnel,2022-10-07
+CUS02434,Ghana,Kumasi,Nouveau,2021-07-19
+CUS02435,Nigeria,Abuja,Nouveau,2023-10-29
+CUS02436,Senegal,Saint-Louis,Occasionnel,2021-11-04
+CUS02437,Cote d'Ivoire,Daloa,Standard,2021-03-18
+CUS02438,Maroc,Casablanca,Standard,2023-08-07
+CUS02439,Senegal,Saint-Louis,Premium,2022-04-20
+CUS02440,Cameroun,Douala,Occasionnel,2021-11-26
+CUS02441,Nigeria,Abuja,Occasionnel,2022-11-26
+CUS02442,Maroc,Rabat,Occasionnel,2023-06-02
+CUS02443,Cote d'Ivoire,Daloa,Standard,2024-06-04
+CUS02444,Senegal,Dakar,Occasionnel,2023-10-16
+CUS02445,Senegal,Dakar,Premium,2022-09-26
+CUS02446,Senegal,Thies,Premium,2022-10-05
+CUS02447,France,Marseille,Standard,2022-07-28
+CUS02448,Nigeria,Abuja,Premium,2022-01-02
+CUS02449,Belgique,Liege,Nouveau,2022-06-09
+CUS02450,Belgique,Bruxelles,Nouveau,2024-03-10
+CUS02451,Belgique,Bruxelles,Standard,2022-08-11
+CUS02452,Ghana,Kumasi,Nouveau,2021-09-22
+CUS02453,Belgique,Liege,Occasionnel,2022-10-05
+CUS02454,Nigeria,Lagos,Occasionnel,2023-11-03
+CUS02455,Belgique,Liege,Nouveau,2021-03-29
+CUS02456,Cote d'Ivoire,Bouake,Occasionnel,2024-02-23
+CUS02457,Cote d'Ivoire,Bouake,Nouveau,2022-08-19
+CUS02458,Ghana,Accra,Occasionnel,2021-05-30
+CUS02459,Cameroun,Yaounde,Nouveau,2021-07-11
+CUS02460,Nigeria,Abuja,Standard,2024-01-01
+CUS02461,Belgique,Bruxelles,Premium,2021-08-10
+CUS02462,Ghana,Kumasi,Standard,2022-11-05
+CUS02463,Senegal,Thies,Standard,2024-05-22
+CUS02464,Belgique,Bruxelles,Occasionnel,2023-09-03
+CUS02465,Senegal,Thies,Standard,2024-01-22
+CUS02466,France,Bordeaux,Premium,2022-03-14
+CUS02467,Nigeria,Kano,Premium,2024-05-16
+CUS02468,Ghana,Accra,Nouveau,2023-01-11
+CUS02469,Ghana,Kumasi,Standard,2022-03-10
+CUS02470,Cote d'Ivoire,Daloa,Standard,2021-12-27
+CUS02471,Senegal,Dakar,Premium,2023-04-10
+CUS02472,Senegal,Thies,Nouveau,2023-07-14
+CUS02473,Ghana,Accra,Occasionnel,2022-06-16
+CUS02474,France,Paris,Premium,2023-05-28
+CUS02475,Nigeria,Abuja,Standard,2022-12-17
+CUS02476,Ghana,Kumasi,Standard,2021-11-26
+CUS02477,Ghana,Kumasi,Nouveau,2024-03-14
+CUS02478,Ghana,Accra,Occasionnel,2024-05-07
+CUS02479,Cameroun,Douala,Occasionnel,2024-03-30
+CUS02480,France,Marseille,Occasionnel,2022-10-11
+CUS02481,Cote d'Ivoire,Bouake,Nouveau,2021-10-30
+CUS02482,Belgique,Liege,Premium,2023-04-13
+CUS02483,Maroc,Marrakech,Occasionnel,2023-07-12
+CUS02484,France,Bordeaux,Occasionnel,2024-03-30
+CUS02485,Senegal,Dakar,Standard,2022-01-20
+CUS02486,Ghana,Accra,Occasionnel,2022-03-19
+CUS02487,Nigeria,Lagos,Nouveau,2024-03-27
+CUS02488,Cote d'Ivoire,Yamoussoukro,Occasionnel,2021-02-03
+CUS02489,Maroc,Rabat,Occasionnel,2021-09-13
+CUS02490,Belgique,Liege,Standard,2022-12-22
+CUS02491,Nigeria,Kano,Standard,2022-11-19
+CUS02492,Senegal,Dakar,Standard,2023-02-04
+CUS02493,France,Lyon,Occasionnel,2023-02-21
+CUS02494,Maroc,Marrakech,Occasionnel,2023-06-15
+CUS02495,Maroc,Marrakech,Occasionnel,2021-07-23
+CUS02496,Senegal,Dakar,Premium,2021-02-03
+CUS02497,Ghana,Accra,Standard,2024-01-21
+CUS02498,Senegal,Saint-Louis,Standard,2024-04-05
+CUS02499,Cote d'Ivoire,Yamoussoukro,Nouveau,2022-03-10
+CUS02500,Cameroun,Yaounde,Occasionnel,2021-08-23
+CUS02501,Cameroun,Yaounde,Nouveau,2022-12-20
+CUS02502,Belgique,Liege,Nouveau,2023-03-22
+CUS02503,Cote d'Ivoire,Yamoussoukro,Occasionnel,2023-11-06
+CUS02504,Maroc,Rabat,Nouveau,2022-06-26
+CUS02505,Maroc,Rabat,Occasionnel,2021-01-09
+CUS02506,Ghana,Accra,Premium,2021-11-11
+CUS02507,Nigeria,Kano,Occasionnel,2024-05-13
+CUS02508,Nigeria,Abuja,Standard,2024-03-17
+CUS02509,Ghana,Accra,Occasionnel,2023-03-13
+CUS02510,Cameroun,Yaounde,Occasionnel,2024-03-29
+CUS02511,Ghana,Accra,Nouveau,2023-03-11
+CUS02512,France,Bordeaux,Nouveau,2023-11-26
+CUS02513,France,Bordeaux,Standard,2021-09-16
+CUS02514,Senegal,Saint-Louis,Occasionnel,2023-03-14
+CUS02515,Maroc,Marrakech,Standard,2022-10-23
+CUS02516,Cameroun,Douala,Premium,2023-06-15
+CUS02517,Cote d'Ivoire,Bouake,Premium,2024-01-19
+CUS02518,Senegal,Saint-Louis,Standard,2021-09-25
+CUS02519,Belgique,Liege,Standard,2022-03-31
+CUS02520,Maroc,Casablanca,Occasionnel,2022-05-18
+CUS02521,Ghana,Kumasi,Occasionnel,2022-07-18
+CUS02522,Senegal,Dakar,Occasionnel,2024-04-01
+CUS02523,Senegal,Dakar,Standard,2024-05-05
+CUS02524,Senegal,Dakar,Premium,2022-06-21
+CUS02525,France,Paris,Premium,2023-01-11
+CUS02526,Cameroun,Yaounde,Premium,2021-02-14
+CUS02527,Ghana,Accra,Standard,2021-06-06
+CUS02528,Cameroun,Yaounde,Standard,2022-10-05
+CUS02529,Belgique,Bruxelles,Standard,2021-01-21
+CUS02530,France,Paris,Premium,2022-12-04
+CUS02531,Nigeria,Abuja,Nouveau,2024-05-13
+CUS02532,Cote d'Ivoire,Bouake,Occasionnel,2022-06-06
+CUS02533,Senegal,Dakar,Occasionnel,2024-01-03
+CUS02534,Cote d'Ivoire,Bouake,Standard,2023-01-18
+CUS02535,Senegal,Dakar,Premium,2021-10-11
+CUS02536,Cameroun,Douala,Occasionnel,2021-09-17
+CUS02537,Maroc,Rabat,Standard,2021-07-08
+CUS02538,Nigeria,Kano,Occasionnel,2022-08-26
+CUS02539,Belgique,Liege,Standard,2023-03-31
+CUS02540,Cameroun,Yaounde,Standard,2022-07-30
+CUS02541,Ghana,Accra,Occasionnel,2024-04-18
+CUS02542,Maroc,Casablanca,Occasionnel,2023-09-27
+CUS02543,Ghana,Kumasi,Standard,2022-07-11
+CUS02544,Nigeria,Kano,Premium,2023-02-24
+CUS02545,Ghana,Accra,Occasionnel,2023-02-05
+CUS02546,Senegal,Thies,Standard,2021-03-11
+CUS02547,Maroc,Marrakech,Standard,2024-05-21
+CUS02548,Nigeria,Abuja,Premium,2022-01-04
+CUS02549,Nigeria,Abuja,Occasionnel,2023-01-03
+CUS02550,Cameroun,Douala,Standard,2023-02-01
+CUS02551,Nigeria,Lagos,Occasionnel,2021-09-08
+CUS02552,Cote d'Ivoire,Yamoussoukro,Occasionnel,2022-11-05
+CUS02553,Cameroun,Yaounde,Occasionnel,2022-10-21
+CUS02554,Cameroun,Douala,Standard,2024-05-17
+CUS02555,Cameroun,Douala,Premium,2022-07-24
+CUS02556,Senegal,Saint-Louis,Nouveau,2023-05-14
+CUS02557,Ghana,Kumasi,Occasionnel,2022-02-10
+CUS02558,Cameroun,Douala,Occasionnel,2023-10-19
+CUS02559,Cote d'Ivoire,Yamoussoukro,Standard,2021-09-12
+CUS02560,Belgique,Bruxelles,Occasionnel,2024-04-25
+CUS02561,Ghana,Accra,Occasionnel,2022-08-07
+CUS02562,Cote d'Ivoire,Abidjan,Nouveau,2022-08-06
+CUS02563,France,Bordeaux,Premium,2023-12-29
+CUS02564,Cote d'Ivoire,Yamoussoukro,Occasionnel,2021-05-23
+CUS02565,Belgique,Bruxelles,Occasionnel,2023-05-01
+CUS02566,Maroc,Rabat,Standard,2022-12-10
+CUS02567,Ghana,Accra,Occasionnel,2022-10-04
+CUS02568,Belgique,Bruxelles,Standard,2023-07-20
+CUS02569,Belgique,Bruxelles,Occasionnel,2024-06-19
+CUS02570,Senegal,Dakar,Standard,2021-01-22
+CUS02571,France,Paris,Nouveau,2023-06-12
+CUS02572,Cameroun,Douala,Premium,2023-01-26
+CUS02573,Cote d'Ivoire,Abidjan,Standard,2021-03-30
+CUS02574,Senegal,Dakar,Nouveau,2021-06-03
+CUS02575,Maroc,Rabat,Occasionnel,2023-02-17
+CUS02576,Maroc,Marrakech,Standard,2021-10-10
+CUS02577,Belgique,Bruxelles,Premium,2021-10-31
+CUS02578,Ghana,Kumasi,Occasionnel,2023-12-05
+CUS02579,Cameroun,Yaounde,Occasionnel,2022-07-29
+CUS02580,Nigeria,Kano,Standard,2021-07-08
+CUS02581,Maroc,Rabat,Occasionnel,2022-12-24
+CUS02582,Cameroun,Douala,Occasionnel,2021-06-03
+CUS02583,Belgique,Bruxelles,Standard,2022-03-19
+CUS02584,Belgique,Liege,Standard,2021-08-03
+CUS02585,Nigeria,Lagos,Occasionnel,2023-12-17
+CUS02586,Nigeria,Abuja,Occasionnel,2021-11-12
+CUS02587,Senegal,Dakar,Standard,2023-01-15
+CUS02588,Ghana,Kumasi,Nouveau,2023-11-18
+CUS02589,Cameroun,Yaounde,Standard,2022-07-24
+CUS02590,Ghana,Accra,Occasionnel,2024-03-28
+CUS02591,Senegal,Dakar,Standard,2021-08-08
+CUS02592,Senegal,Dakar,Premium,2023-08-02
+CUS02593,France,Marseille,Premium,2023-12-24
+CUS02594,Belgique,Liege,Standard,2024-02-02
+CUS02595,Senegal,Thies,Standard,2021-11-05
+CUS02596,Ghana,Kumasi,Occasionnel,2021-04-19
+CUS02597,Belgique,Liege,Standard,2021-04-11
+CUS02598,Ghana,Kumasi,Standard,2022-01-23
+CUS02599,Ghana,Accra,Occasionnel,2023-12-21
+CUS02600,Belgique,Liege,Premium,2021-04-13
+CUS02601,Cameroun,Douala,Standard,2021-04-19
+CUS02602,Cote d'Ivoire,Yamoussoukro,Standard,2023-12-26
+CUS02603,Senegal,Thies,Standard,2024-06-24
+CUS02604,Ghana,Kumasi,Standard,2022-03-27
+CUS02605,Maroc,Rabat,Standard,2022-02-21
+CUS02606,Nigeria,Kano,Standard,2024-05-06
+CUS02607,Maroc,Marrakech,Premium,2022-01-15
+CUS02608,Belgique,Liege,Nouveau,2022-05-04
+CUS02609,France,Marseille,Occasionnel,2021-12-08
+CUS02610,France,Marseille,Nouveau,2021-10-18
+CUS02611,Cote d'Ivoire,Daloa,Standard,2021-02-12
+CUS02612,France,Marseille,Nouveau,2021-12-16
+CUS02613,Cote d'Ivoire,Yamoussoukro,Nouveau,2024-04-09
+CUS02614,Cote d'Ivoire,Daloa,Nouveau,2023-08-26
+CUS02615,Senegal,Dakar,Occasionnel,2024-03-07
+CUS02616,Maroc,Casablanca,Occasionnel,2021-12-09
+CUS02617,France,Paris,Premium,2022-11-19
+CUS02618,Belgique,Liege,Occasionnel,2024-01-23
+CUS02619,Maroc,Marrakech,Standard,2023-01-17
+CUS02620,Belgique,Bruxelles,Occasionnel,2022-09-09
+CUS02621,Nigeria,Kano,Occasionnel,2024-05-05
+CUS02622,Belgique,Bruxelles,Standard,2023-11-30
+CUS02623,Cote d'Ivoire,Bouake,Nouveau,2022-03-28
+CUS02624,France,Marseille,Standard,2022-05-16
+CUS02625,Ghana,Kumasi,Standard,2021-07-02
+CUS02626,Cameroun,Yaounde,Occasionnel,2022-07-15
+CUS02627,Belgique,Bruxelles,Standard,2022-12-16
+CUS02628,Nigeria,Abuja,Occasionnel,2022-07-20
+CUS02629,Maroc,Casablanca,Premium,2023-12-02
+CUS02630,Nigeria,Kano,Premium,2023-07-21
+CUS02631,Nigeria,Abuja,Premium,2021-01-18
+CUS02632,Belgique,Bruxelles,Standard,2021-11-04
+CUS02633,Maroc,Marrakech,Occasionnel,2021-11-30
+CUS02634,Maroc,Rabat,Standard,2022-08-27
+CUS02635,Cote d'Ivoire,Daloa,Premium,2022-08-03
+CUS02636,Senegal,Dakar,Standard,2021-01-11
+CUS02637,Ghana,Kumasi,Occasionnel,2021-01-02
+CUS02638,Cote d'Ivoire,Yamoussoukro,Premium,2022-08-04
+CUS02639,France,Paris,Occasionnel,2021-10-20
+CUS02640,Cameroun,Yaounde,Occasionnel,2021-06-15
+CUS02641,Maroc,Casablanca,Premium,2022-12-28
+CUS02642,Cameroun,Yaounde,Standard,2021-07-20
+CUS02643,Maroc,Rabat,Occasionnel,2021-12-21
+CUS02644,Ghana,Kumasi,Occasionnel,2021-10-13
+CUS02645,Cameroun,Yaounde,Premium,2024-02-10
+CUS02646,Cameroun,Yaounde,Standard,2022-09-01
+CUS02647,Belgique,Bruxelles,Standard,2023-06-14
+CUS02648,Senegal,Dakar,Occasionnel,2022-10-04
+CUS02649,Nigeria,Abuja,Standard,2023-08-14
+CUS02650,Ghana,Kumasi,Standard,2024-02-19
+CUS02651,Cote d'Ivoire,Daloa,Premium,2021-10-15
+CUS02652,Maroc,Casablanca,Occasionnel,2023-02-04
+CUS02653,France,Marseille,Premium,2023-03-16
+CUS02654,France,Bordeaux,Occasionnel,2023-08-06
+CUS02655,Belgique,Bruxelles,Premium,2022-07-08
+CUS02656,Senegal,Thies,Occasionnel,2022-08-19
+CUS02657,Belgique,Liege,Nouveau,2021-09-06
+CUS02658,Cote d'Ivoire,Bouake,Occasionnel,2024-02-26
+CUS02659,Belgique,Bruxelles,Standard,2021-11-13
+CUS02660,Maroc,Marrakech,Standard,2021-01-14
+CUS02661,Belgique,Bruxelles,Premium,2021-01-01
+CUS02662,France,Paris,Occasionnel,2022-05-22
+CUS02663,Cameroun,Douala,Standard,2023-11-02
+CUS02664,Belgique,Liege,Premium,2021-09-07
+CUS02665,Maroc,Rabat,Standard,2022-01-12
+CUS02666,Cameroun,Yaounde,Occasionnel,2023-06-19
+CUS02667,Senegal,Thies,Premium,2021-02-14
+CUS02668,France,Lyon,Occasionnel,2022-05-08
+CUS02669,France,Lyon,Standard,2022-08-17
+CUS02670,Maroc,Marrakech,Premium,2024-04-20
+CUS02671,Belgique,Liege,Occasionnel,2023-03-13
+CUS02672,Ghana,Accra,Standard,2023-05-21
+CUS02673,France,Paris,Standard,2021-09-04
+CUS02674,Ghana,Accra,Occasionnel,2021-03-11
+CUS02675,Belgique,Bruxelles,Nouveau,2022-12-28
+CUS02676,France,Bordeaux,Nouveau,2023-07-28
+CUS02677,Maroc,Casablanca,Nouveau,2023-01-03
+CUS02678,Cameroun,Yaounde,Nouveau,2023-12-12
+CUS02679,Ghana,Accra,Standard,2021-11-07
+CUS02680,Nigeria,Kano,Occasionnel,2022-11-26
+CUS02681,Belgique,Bruxelles,Standard,2022-09-13
+CUS02682,Ghana,Accra,Nouveau,2023-09-18
+CUS02683,Ghana,Kumasi,Occasionnel,2022-01-05
+CUS02684,Maroc,Casablanca,Occasionnel,2024-04-20
+CUS02685,Nigeria,Kano,Occasionnel,2023-04-07
+CUS02686,Senegal,Dakar,Premium,2021-11-22
+CUS02687,Cameroun,Douala,Occasionnel,2023-10-20
+CUS02688,Belgique,Liege,Occasionnel,2022-04-30
+CUS02689,Senegal,Dakar,Occasionnel,2023-02-26
+CUS02690,Ghana,Accra,Premium,2022-05-28
+CUS02691,Senegal,Dakar,Occasionnel,2021-05-30
+CUS02692,Belgique,Liege,Occasionnel,2021-03-02
+CUS02693,France,Marseille,Premium,2023-07-10
+CUS02694,Ghana,Accra,Nouveau,2024-03-21
+CUS02695,Cameroun,Douala,Standard,2023-06-16
+CUS02696,Maroc,Casablanca,Standard,2021-11-28
+CUS02697,Ghana,Accra,Premium,2021-02-19
+CUS02698,Senegal,Dakar,Premium,2021-10-15
+CUS02699,Cote d'Ivoire,Yamoussoukro,Occasionnel,2024-03-09
+CUS02700,Senegal,Thies,Standard,2023-12-18
+CUS02701,Belgique,Bruxelles,Occasionnel,2024-03-14
+CUS02702,Belgique,Liege,Standard,2024-02-19
+CUS02703,France,Paris,Standard,2023-02-10
+CUS02704,Senegal,Saint-Louis,Premium,2023-11-26
+CUS02705,Maroc,Casablanca,Premium,2022-04-18
+CUS02706,Cote d'Ivoire,Yamoussoukro,Premium,2022-08-17
+CUS02707,Maroc,Rabat,Occasionnel,2021-05-20
+CUS02708,France,Marseille,Premium,2024-03-24
+CUS02709,Cameroun,Yaounde,Standard,2021-04-27
+CUS02710,Senegal,Saint-Louis,Standard,2022-06-23
+CUS02711,Cote d'Ivoire,Abidjan,Standard,2022-06-19
+CUS02712,Cameroun,Yaounde,Nouveau,2021-05-02
+CUS02713,France,Lyon,Occasionnel,2022-11-07
+CUS02714,Cote d'Ivoire,Bouake,Standard,2024-02-29
+CUS02715,Cote d'Ivoire,Yamoussoukro,Nouveau,2023-05-03
+CUS02716,Senegal,Saint-Louis,Standard,2021-09-23
+CUS02717,Maroc,Marrakech,Premium,2021-03-14
+CUS02718,Belgique,Bruxelles,Occasionnel,2023-06-03
+CUS02719,Belgique,Liege,Occasionnel,2022-04-12
+CUS02720,Cote d'Ivoire,Abidjan,Premium,2022-02-06
+CUS02721,Ghana,Accra,Occasionnel,2021-04-17
+CUS02722,Ghana,Kumasi,Occasionnel,2023-05-31
+CUS02723,Ghana,Accra,Premium,2021-08-30
+CUS02724,Nigeria,Abuja,Standard,2023-06-14
+CUS02725,Cote d'Ivoire,Bouake,Standard,2024-04-20
+CUS02726,Cote d'Ivoire,Bouake,Standard,2024-01-04
+CUS02727,Cote d'Ivoire,Abidjan,Nouveau,2022-05-27
+CUS02728,Cote d'Ivoire,Abidjan,Premium,2023-06-18
+CUS02729,France,Marseille,Premium,2022-12-18
+CUS02730,Cameroun,Yaounde,Premium,2023-03-26
+CUS02731,Belgique,Bruxelles,Occasionnel,2021-06-06
+CUS02732,Maroc,Marrakech,Standard,2023-01-02
+CUS02733,Cameroun,Yaounde,Occasionnel,2023-01-22
+CUS02734,Maroc,Marrakech,Standard,2022-07-02
+CUS02735,Nigeria,Kano,Occasionnel,2021-08-02
+CUS02736,Cote d'Ivoire,Yamoussoukro,Nouveau,2024-06-27
+CUS02737,Belgique,Liege,Premium,2021-10-08
+CUS02738,Cameroun,Yaounde,Occasionnel,2022-03-08
+CUS02739,Senegal,Thies,Occasionnel,2021-10-18
+CUS02740,Cote d'Ivoire,Bouake,Occasionnel,2023-07-19
+CUS02741,Senegal,Dakar,Standard,2021-03-11
+CUS02742,Maroc,Rabat,Occasionnel,2022-09-08
+CUS02743,Senegal,Dakar,Standard,2024-06-02
+CUS02744,Ghana,Kumasi,Premium,2023-02-23
+CUS02745,Ghana,Kumasi,Premium,2022-02-26
+CUS02746,Ghana,Accra,Occasionnel,2023-12-27
+CUS02747,Cote d'Ivoire,Yamoussoukro,Premium,2022-12-14
+CUS02748,Cote d'Ivoire,Yamoussoukro,Nouveau,2022-06-22
+CUS02749,Cameroun,Douala,Standard,2024-06-26
+CUS02750,Ghana,Kumasi,Occasionnel,2021-04-27
+CUS02751,Senegal,Saint-Louis,Standard,2022-08-12
+CUS02752,Belgique,Liege,Occasionnel,2024-03-09
+CUS02753,Maroc,Casablanca,Nouveau,2023-08-16
+CUS02754,Cameroun,Douala,Nouveau,2022-07-29
+CUS02755,Maroc,Casablanca,Nouveau,2024-01-17
+CUS02756,Maroc,Rabat,Occasionnel,2021-03-21
+CUS02757,Maroc,Rabat,Standard,2022-05-29
+CUS02758,Cote d'Ivoire,Abidjan,Standard,2022-10-20
+CUS02759,Maroc,Casablanca,Standard,2021-02-05
+CUS02760,Belgique,Bruxelles,Standard,2023-01-05
+CUS02761,Belgique,Bruxelles,Standard,2024-04-01
+CUS02762,Senegal,Thies,Nouveau,2024-02-04
+CUS02763,Nigeria,Lagos,Standard,2022-06-13
+CUS02764,Maroc,Rabat,Nouveau,2021-09-18
+CUS02765,Cameroun,Douala,Premium,2024-06-19
+CUS02766,Cote d'Ivoire,Bouake,Premium,2021-03-20
+CUS02767,France,Bordeaux,Occasionnel,2021-03-27
+CUS02768,Cameroun,Douala,Nouveau,2022-06-15
+CUS02769,Maroc,Casablanca,Occasionnel,2022-12-25
+CUS02770,Cote d'Ivoire,Bouake,Standard,2021-06-08
+CUS02771,Belgique,Bruxelles,Occasionnel,2022-05-01
+CUS02772,Cameroun,Yaounde,Occasionnel,2023-05-02
+CUS02773,Senegal,Saint-Louis,Standard,2022-08-03
+CUS02774,France,Paris,Standard,2023-01-08
+CUS02775,Nigeria,Abuja,Nouveau,2023-02-07
+CUS02776,Belgique,Liege,Occasionnel,2021-11-25
+CUS02777,Nigeria,Lagos,Standard,2021-11-04
+CUS02778,Cote d'Ivoire,Abidjan,Occasionnel,2022-10-04
+CUS02779,Nigeria,Lagos,Standard,2024-04-08
+CUS02780,Cote d'Ivoire,Bouake,Standard,2021-06-10
+CUS02781,Senegal,Dakar,Occasionnel,2024-03-22
+CUS02782,Ghana,Accra,Occasionnel,2023-12-17
+CUS02783,Cote d'Ivoire,Daloa,Occasionnel,2023-12-02
+CUS02784,Belgique,Liege,Standard,2024-03-24
+CUS02785,Maroc,Casablanca,Standard,2023-01-12
+CUS02786,Cameroun,Yaounde,Standard,2021-08-25
+CUS02787,Cameroun,Yaounde,Occasionnel,2023-04-20
+CUS02788,Nigeria,Lagos,Standard,2023-11-02
+CUS02789,Senegal,Thies,Occasionnel,2024-05-24
+CUS02790,Cameroun,Yaounde,Occasionnel,2022-04-16
+CUS02791,France,Lyon,Occasionnel,2023-04-15
+CUS02792,France,Marseille,Occasionnel,2022-12-01
+CUS02793,Nigeria,Lagos,Premium,2023-05-13
+CUS02794,France,Bordeaux,Occasionnel,2022-02-10
+CUS02795,France,Bordeaux,Premium,2021-09-05
+CUS02796,Ghana,Kumasi,Occasionnel,2023-08-21
+CUS02797,Senegal,Dakar,Nouveau,2023-06-03
+CUS02798,Cote d'Ivoire,Bouake,Nouveau,2021-09-29
+CUS02799,Ghana,Kumasi,Standard,2023-04-04
+CUS02800,Cameroun,Yaounde,Premium,2022-11-21
+CUS02801,Senegal,Saint-Louis,Premium,2022-12-28
+CUS02802,Belgique,Liege,Occasionnel,2023-06-12
+CUS02803,Maroc,Rabat,Occasionnel,2022-01-11
+CUS02804,Senegal,Dakar,Nouveau,2024-04-30
+CUS02805,Nigeria,Kano,Occasionnel,2023-02-16
+CUS02806,Nigeria,Abuja,Standard,2024-04-19
+CUS02807,Maroc,Casablanca,Standard,2023-10-08
+CUS02808,Nigeria,Lagos,Occasionnel,2023-12-12
+CUS02809,Ghana,Kumasi,Standard,2022-10-15
+CUS02810,France,Lyon,Premium,2022-03-08
+CUS02811,Ghana,Kumasi,Occasionnel,2024-06-14
+CUS02812,Nigeria,Lagos,Standard,2021-12-06
+CUS02813,Senegal,Thies,Standard,2023-06-18
+CUS02814,Cameroun,Douala,Standard,2022-06-16
+CUS02815,Senegal,Dakar,Occasionnel,2021-10-16
+CUS02816,Senegal,Dakar,Occasionnel,2023-11-08
+CUS02817,France,Paris,Occasionnel,2021-03-23
+CUS02818,Cameroun,Douala,Standard,2021-02-22
+CUS02819,Nigeria,Lagos,Standard,2024-03-15
+CUS02820,Ghana,Kumasi,Occasionnel,2023-07-19
+CUS02821,Maroc,Casablanca,Occasionnel,2021-09-03
+CUS02822,Belgique,Liege,Standard,2021-06-27
+CUS02823,France,Marseille,Occasionnel,2021-08-27
+CUS02824,Nigeria,Lagos,Occasionnel,2022-04-01
+CUS02825,Senegal,Thies,Standard,2022-11-18
+CUS02826,Maroc,Rabat,Occasionnel,2023-11-17
+CUS02827,Senegal,Saint-Louis,Occasionnel,2021-03-20
+CUS02828,Ghana,Accra,Nouveau,2023-12-04
+CUS02829,Nigeria,Lagos,Occasionnel,2021-03-14
+CUS02830,Cote d'Ivoire,Bouake,Premium,2023-02-10
+CUS02831,Cameroun,Douala,Standard,2021-11-07
+CUS02832,Belgique,Bruxelles,Occasionnel,2022-08-02
+CUS02833,France,Lyon,Occasionnel,2021-07-01
+CUS02834,Cameroun,Douala,Standard,2023-10-02
+CUS02835,Cameroun,Douala,Premium,2022-06-23
+CUS02836,Ghana,Accra,Occasionnel,2023-09-19
+CUS02837,France,Marseille,Occasionnel,2022-08-22
+CUS02838,Belgique,Liege,Occasionnel,2023-03-15
+CUS02839,Nigeria,Kano,Standard,2021-07-17
+CUS02840,Cameroun,Douala,Nouveau,2022-08-12
+CUS02841,Ghana,Kumasi,Standard,2023-05-21
+CUS02842,Senegal,Dakar,Standard,2022-10-16
+CUS02843,Senegal,Thies,Occasionnel,2021-09-20
+CUS02844,Belgique,Liege,Occasionnel,2022-04-26
+CUS02845,Cote d'Ivoire,Yamoussoukro,Standard,2022-03-17
+CUS02846,Ghana,Accra,Occasionnel,2022-10-24
+CUS02847,Maroc,Marrakech,Standard,2023-03-13
+CUS02848,Belgique,Liege,Standard,2021-04-22
+CUS02849,Maroc,Rabat,Occasionnel,2022-11-27
+CUS02850,Cote d'Ivoire,Yamoussoukro,Standard,2022-03-30
+CUS02851,France,Lyon,Occasionnel,2021-08-14
+CUS02852,Nigeria,Lagos,Occasionnel,2021-02-10
+CUS02853,Cote d'Ivoire,Daloa,Premium,2022-11-14
+CUS02854,Nigeria,Kano,Premium,2021-04-11
+CUS02855,Cameroun,Yaounde,Occasionnel,2021-11-18
+CUS02856,Ghana,Accra,Standard,2021-11-27
+CUS02857,Nigeria,Abuja,Standard,2024-02-07
+CUS02858,Cameroun,Douala,Premium,2021-02-11
+CUS02859,Senegal,Saint-Louis,Standard,2023-09-21
+CUS02860,Cote d'Ivoire,Bouake,Standard,2021-02-19
+CUS02861,Cameroun,Douala,Premium,2021-09-11
+CUS02862,Ghana,Kumasi,Premium,2022-07-07
+CUS02863,Senegal,Dakar,Premium,2023-05-01
+CUS02864,Cote d'Ivoire,Abidjan,Occasionnel,2024-01-15
+CUS02865,France,Paris,Occasionnel,2023-03-13
+CUS02866,Cameroun,Yaounde,Occasionnel,2023-05-21
+CUS02867,Cote d'Ivoire,Yamoussoukro,Standard,2022-02-20
+CUS02868,Senegal,Thies,Nouveau,2024-03-26
+CUS02869,Belgique,Liege,Standard,2021-07-10
+CUS02870,Cameroun,Yaounde,Occasionnel,2023-09-17
+CUS02871,Maroc,Marrakech,Occasionnel,2022-05-16
+CUS02872,Ghana,Accra,Nouveau,2023-03-18
+CUS02873,Nigeria,Kano,Occasionnel,2023-07-16
+CUS02874,Cameroun,Douala,Standard,2022-04-21
+CUS02875,Belgique,Liege,Standard,2021-08-12
+CUS02876,Maroc,Rabat,Premium,2021-06-21
+CUS02877,Senegal,Saint-Louis,Standard,2023-10-01
+CUS02878,Cameroun,Douala,Premium,2024-06-16
+CUS02879,Belgique,Bruxelles,Premium,2023-10-08
+CUS02880,Maroc,Rabat,Standard,2022-11-23
+CUS02881,France,Paris,Standard,2024-03-03
+CUS02882,Ghana,Accra,Standard,2022-03-05
+CUS02883,Belgique,Liege,Standard,2022-04-28
+CUS02884,Nigeria,Abuja,Occasionnel,2023-11-20
+CUS02885,Senegal,Dakar,Standard,2021-06-08
+CUS02886,Ghana,Accra,Occasionnel,2021-11-28
+CUS02887,Senegal,Dakar,Standard,2021-08-21
+CUS02888,Cote d'Ivoire,Daloa,Standard,2023-12-11
+CUS02889,Belgique,Bruxelles,Occasionnel,2024-01-26
+CUS02890,Ghana,Kumasi,Premium,2021-08-29
+CUS02891,Ghana,Kumasi,Occasionnel,2022-07-10
+CUS02892,Nigeria,Kano,Nouveau,2024-02-29
+CUS02893,France,Lyon,Standard,2022-02-23
+CUS02894,Nigeria,Kano,Occasionnel,2023-08-25
+CUS02895,Belgique,Bruxelles,Nouveau,2021-10-05
+CUS02896,France,Bordeaux,Premium,2023-05-03
+CUS02897,France,Lyon,Standard,2021-01-12
+CUS02898,Maroc,Marrakech,Standard,2021-07-12
+CUS02899,Belgique,Liege,Premium,2023-08-18
+CUS02900,France,Paris,Standard,2024-02-20
+CUS02901,Cameroun,Yaounde,Occasionnel,2022-01-30
+CUS02902,Maroc,Rabat,Occasionnel,2023-05-23
+CUS02903,Maroc,Rabat,Occasionnel,2023-04-06
+CUS02904,Maroc,Marrakech,Occasionnel,2022-02-19
+CUS02905,Senegal,Saint-Louis,Standard,2022-03-20
+CUS02906,Maroc,Casablanca,Standard,2021-07-29
+CUS02907,France,Bordeaux,Standard,2024-04-27
+CUS02908,Maroc,Marrakech,Nouveau,2023-08-28
+CUS02909,Cameroun,Douala,Premium,2022-04-20
+CUS02910,Cameroun,Douala,Nouveau,2024-06-13
+CUS02911,France,Lyon,Standard,2021-01-01
+CUS02912,Nigeria,Lagos,Nouveau,2021-04-17
+CUS02913,France,Bordeaux,Standard,2023-08-25
+CUS02914,Nigeria,Abuja,Occasionnel,2021-08-29
+CUS02915,Cameroun,Yaounde,Standard,2023-03-01
+CUS02916,Belgique,Liege,Standard,2023-12-06
+CUS02917,Nigeria,Kano,Premium,2024-05-24
+CUS02918,Cameroun,Douala,Nouveau,2022-07-23
+CUS02919,France,Bordeaux,Occasionnel,2023-10-01
+CUS02920,Maroc,Marrakech,Premium,2023-06-11
+CUS02921,Nigeria,Lagos,Premium,2023-01-19
+CUS02922,Belgique,Liege,Occasionnel,2022-03-14
+CUS02923,Cameroun,Yaounde,Standard,2021-01-22
+CUS02924,Cameroun,Yaounde,Standard,2022-02-04
+CUS02925,Cote d'Ivoire,Yamoussoukro,Standard,2023-01-26
+CUS02926,Maroc,Marrakech,Nouveau,2024-05-27
+CUS02927,Maroc,Casablanca,Occasionnel,2023-09-08
+CUS02928,Ghana,Accra,Nouveau,2022-06-03
+CUS02929,Maroc,Marrakech,Premium,2024-03-17
+CUS02930,Cote d'Ivoire,Daloa,Nouveau,2023-07-20
+CUS02931,Belgique,Bruxelles,Standard,2024-01-23
+CUS02932,Senegal,Dakar,Standard,2024-06-09
+CUS02933,France,Lyon,Nouveau,2021-09-27
+CUS02934,Senegal,Thies,Occasionnel,2021-09-02
+CUS02935,Cote d'Ivoire,Daloa,Occasionnel,2021-05-08
+CUS02936,Nigeria,Lagos,Nouveau,2022-07-23
+CUS02937,Cameroun,Douala,Standard,2022-10-11
+CUS02938,France,Marseille,Occasionnel,2023-04-06
+CUS02939,Ghana,Accra,Premium,2023-10-25
+CUS02940,France,Marseille,Premium,2023-06-28
+CUS02941,Cote d'Ivoire,Yamoussoukro,Occasionnel,2023-11-02
+CUS02942,Ghana,Accra,Occasionnel,2021-01-07
+CUS02943,Maroc,Rabat,Occasionnel,2021-08-30
+CUS02944,Nigeria,Abuja,Occasionnel,2021-06-26
+CUS02945,Belgique,Bruxelles,Premium,2021-07-05
+CUS02946,France,Paris,Standard,2024-04-25
+CUS02947,Cote d'Ivoire,Bouake,Occasionnel,2022-03-22
+CUS02948,Nigeria,Abuja,Premium,2022-05-21
+CUS02949,Maroc,Marrakech,Occasionnel,2022-01-27
+CUS02950,France,Marseille,Premium,2022-08-11
+CUS02951,France,Marseille,Premium,2022-10-09
+CUS02952,Ghana,Accra,Occasionnel,2022-07-13
+CUS02953,Cameroun,Douala,Nouveau,2022-06-16
+CUS02954,Belgique,Liege,Premium,2022-12-29
+CUS02955,Nigeria,Abuja,Occasionnel,2023-12-08
+CUS02956,Belgique,Bruxelles,Premium,2024-04-13
+CUS02957,Ghana,Accra,Occasionnel,2022-03-08
+CUS02958,Ghana,Kumasi,Occasionnel,2022-08-15
+CUS02959,Cameroun,Yaounde,Occasionnel,2023-10-29
+CUS02960,Maroc,Casablanca,Occasionnel,2022-03-08
+CUS02961,Maroc,Casablanca,Standard,2021-03-06
+CUS02962,Senegal,Saint-Louis,Occasionnel,2022-01-17
+CUS02963,Belgique,Bruxelles,Standard,2022-10-24
+CUS02964,Nigeria,Kano,Standard,2024-04-20
+CUS02965,Cote d'Ivoire,Yamoussoukro,Occasionnel,2023-01-05
+CUS02966,Cote d'Ivoire,Bouake,Standard,2022-11-17
+CUS02967,Nigeria,Kano,Nouveau,2022-01-19
+CUS02968,Nigeria,Abuja,Standard,2024-01-25
+CUS02969,France,Paris,Standard,2024-06-16
+CUS02970,Belgique,Liege,Occasionnel,2023-08-28
+CUS02971,Cameroun,Yaounde,Occasionnel,2024-05-15
+CUS02972,Nigeria,Abuja,Occasionnel,2022-09-07
+CUS02973,Cote d'Ivoire,Bouake,Occasionnel,2023-11-05
+CUS02974,Senegal,Thies,Standard,2022-07-06
+CUS02975,Ghana,Accra,Standard,2021-12-07
+CUS02976,Maroc,Marrakech,Nouveau,2023-12-10
+CUS02977,Cameroun,Douala,Premium,2022-11-14
+CUS02978,Cote d'Ivoire,Abidjan,Standard,2021-10-17
+CUS02979,Nigeria,Abuja,Standard,2023-08-02
+CUS02980,Cote d'Ivoire,Bouake,Standard,2021-12-19
+CUS02981,Maroc,Rabat,Premium,2022-04-29
+CUS02982,Cameroun,Yaounde,Premium,2022-05-17
+CUS02983,France,Marseille,Premium,2021-11-23
+CUS02984,Nigeria,Lagos,Standard,2023-03-19
+CUS02985,Cameroun,Yaounde,Occasionnel,2023-08-08
+CUS02986,Cameroun,Douala,Standard,2022-10-14
+CUS02987,France,Bordeaux,Occasionnel,2022-08-03
+CUS02988,Ghana,Kumasi,Occasionnel,2022-12-12
+CUS02989,Belgique,Bruxelles,Standard,2024-05-31
+CUS02990,France,Lyon,Standard,2022-11-28
+CUS02991,Cote d'Ivoire,Daloa,Nouveau,2022-04-17
+CUS02992,France,Bordeaux,Standard,2022-03-09
+CUS02993,Maroc,Rabat,Premium,2023-02-26
+CUS02994,France,Bordeaux,Standard,2022-09-30
+CUS02995,Ghana,Kumasi,Premium,2023-05-14
+CUS02996,France,Lyon,Standard,2023-11-26
+CUS02997,Senegal,Thies,Occasionnel,2022-12-11
+CUS02998,Senegal,Saint-Louis,Nouveau,2021-01-26
+CUS02999,France,Marseille,Premium,2023-11-05
+CUS03000,Ghana,Kumasi,Premium,2023-04-03
