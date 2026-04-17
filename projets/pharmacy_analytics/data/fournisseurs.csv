@@ -1,0 +1,6 @@
+id_fournisseur,nom,ville,pays,delai_livraison_jours,taux_service,fournisseur_local
+FRN001,PharmaDistrib CI,Abidjan,Côte d'Ivoire,3,0.95,True
+FRN002,MediSupply Dakar,Dakar,Sénégal,7,0.88,True
+FRN003,SantéPro Cameroun,Douala,Cameroun,10,0.92,True
+FRN004,EuroPharma Import,Paris,France,21,0.98,False
+FRN005,AfricaMed Logistics,Abidjan,Côte d'Ivoire,5,0.85,True

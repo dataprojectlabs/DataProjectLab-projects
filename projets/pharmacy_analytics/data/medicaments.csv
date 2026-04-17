@@ -1,0 +1,26 @@
+id_medicament,nom,categorie,forme,stock_actuel,prix_unitaire_euro,stock_securite,stock_max,medicament_critique
+MED001,Amoxicilline 500mg,Antibiotique,Gélule,30,2.5,15,90,True
+MED002,Paracétamol 1g,Analgésique,Comprimé,50,0.8,20,150,True
+MED003,Ibuprofène 400mg,Anti-inflammatoire,Comprimé,40,1.2,15,100,True
+MED004,Metformine 850mg,Antidiabétique,Comprimé,60,1.5,25,120,True
+MED005,Amlodipine 5mg,Antihypertenseur,Comprimé,45,3.2,20,90,True
+MED006,Oméprazole 20mg,Gastroprotecteur,Gélule,35,2.8,15,80,True
+MED007,Salbutamol 100µg,Bronchodilatateur,Spray,25,8.5,10,40,True
+MED008,Insuline Glargine,Antidiabétique,Injectable,20,45.0,8,30,True
+MED009,Furosémide 40mg,Diurétique,Comprimé,30,1.8,12,60,True
+MED010,Atorvastatine 20mg,Hypolipémiant,Comprimé,40,4.2,15,75,True
+MED011,Ceftriaxone 1g,Antibiotique,Injectable,15,12.0,8,25,True
+MED012,Morphine 10mg,Analgésique opioïde,Injectable,10,18.5,5,15,True
+MED013,Dexaméthasone 4mg,Corticoïde,Injectable,20,6.8,8,30,True
+MED014,Héparine 5000UI,Anticoagulant,Injectable,18,22.0,7,20,True
+MED015,Azithromycine 250mg,Antibiotique,Comprimé,28,5.5,12,50,True
+MED016,Lisinopril 10mg,Antihypertenseur,Comprimé,35,2.9,15,70,False
+MED017,Lorazépam 1mg,Anxiolytique,Comprimé,12,4.1,5,20,True
+MED018,Pantoprazole 40mg,Gastroprotecteur,Comprimé,30,3.5,12,65,False
+MED019,Ciprofloxacine 500mg,Antibiotique,Comprimé,25,4.8,10,45,True
+MED020,Paracétamol Pédiatrique,Analgésique,Sirop,20,3.2,10,40,True
+MED021,Vitamine D3 1000UI,Supplément,Comprimé,50,1.1,20,100,False
+MED022,Acide folique 5mg,Supplément,Comprimé,40,0.9,15,80,False
+MED023,Érythropoïétine 4000UI,Hématologique,Injectable,8,85.0,4,12,True
+MED024,Vancomycine 500mg,Antibiotique,Injectable,10,35.0,5,15,True
+MED025,Digoxine 0.25mg,Cardiologique,Comprimé,15,3.8,6,25,True

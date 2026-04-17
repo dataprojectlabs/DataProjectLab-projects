@@ -1,0 +1,11 @@
+id_service,nom_service,departement,capacite_lits
+SRV001,Urgences,Urgences,80
+SRV002,Cardiologie,Médecine interne,45
+SRV003,Pédiatrie,Pédiatrie,60
+SRV004,Chirurgie générale,Chirurgie,55
+SRV005,Diabétologie,Médecine interne,40
+SRV006,Pneumologie,Médecine interne,35
+SRV007,Réanimation,Réanimation,20
+SRV008,Oncologie,Oncologie,30
+SRV009,Neurologie,Médecine interne,38
+SRV010,Maternité,Gynécologie,50
