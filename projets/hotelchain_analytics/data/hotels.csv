@@ -1,0 +1,6 @@
+hotel_id,nom,ville,pays,etoiles,nb_chambres,date_ouverture,directeur
+HTL001,HotelChain Plateau,Abidjan,Cote d'Ivoire,4,120,2018-01-01,Kofi Mensah
+HTL002,HotelChain Cocody,Abidjan,Cote d'Ivoire,3,80,2018-01-01,Kofi Mensah
+HTL003,HotelChain Dakar,Dakar,Senegal,4,95,2018-01-01,Jean Kouassi
+HTL004,HotelChain Douala,Douala,Cameroun,3,70,2018-01-01,Aminata Diallo
+HTL005,HotelChain Accra,Accra,Ghana,5,150,2018-01-01,Aminata Diallo
