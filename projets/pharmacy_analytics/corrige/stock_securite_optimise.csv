@@ -1,0 +1,21 @@
+medicament,categorie,prix_unitaire_eur,conso_moy_jour,conso_std_jour,fournisseur_principal,delai_livraison_j,stock_securite_calc,stock_securite_actuel,point_commande_ROP,qte_commande_EOQ,stock_max_recommande,alerte
+Amoxicilline 500mg,Antibiotique,2.5,5.8,2.3,SantéPro Cameroun,10,12,15,70,652,722,OK
+Paracétamol 1g,Analgésique,0.8,8.5,4.0,MediSupply Dakar,7,18,20,77,1389,1466,OK
+Ibuprofène 400mg,Anti-inflammatoire,1.2,10.6,2.8,AfricaMed Logistics,5,10,15,63,1270,1333,OK
+Metformine 850mg,Antidiabétique,1.5,19.3,5.2,MediSupply Dakar,7,23,25,158,1534,1692,OK
+Amlodipine 5mg,Antihypertenseur,3.2,9.0,3.7,MediSupply Dakar,7,16,20,79,718,797,OK
+Salbutamol 100µg,Bronchodilatateur,8.5,10.0,3.9,EuroPharma Import,21,29,10,239,464,703,SOUS-DIMENSIONNE
+Insuline Glargine,Antidiabétique,45.0,10.5,3.6,SantéPro Cameroun,10,19,8,124,206,330,SOUS-DIMENSIONNE
+Furosémide 40mg,Diurétique,1.8,5.4,2.6,PharmaDistrib CI,3,8,12,24,740,764,OK
+Atorvastatine 20mg,Hypolipémiant,4.2,7.2,3.2,EuroPharma Import,21,24,15,176,561,737,SOUS-DIMENSIONNE
+Ceftriaxone 1g,Antibiotique,12.0,6.9,2.2,PharmaDistrib CI,3,6,8,27,323,350,OK
+Morphine 10mg,Analgésique opioïde,18.5,6.5,2.3,AfricaMed Logistics,5,9,5,42,254,296,SOUS-DIMENSIONNE
+Dexaméthasone 4mg,Corticoïde,6.8,6.5,3.0,PharmaDistrib CI,3,9,8,29,418,447,LEGEREMENT BAS
+Héparine 5000UI,Anticoagulant,22.0,8.1,3.8,AfricaMed Logistics,5,14,7,54,259,313,SOUS-DIMENSIONNE
+Azithromycine 250mg,Antibiotique,5.5,5.0,1.8,SantéPro Cameroun,10,9,12,59,408,467,OK
+Lorazépam 1mg,Anxiolytique,4.1,3.9,1.6,AfricaMed Logistics,5,6,5,26,417,443,LEGEREMENT BAS
+Ciprofloxacine 500mg,Antibiotique,4.8,3.9,1.2,AfricaMed Logistics,5,4,10,23,384,407,OK
+Paracétamol Pédiatrique,Analgésique,3.2,10.5,2.8,EuroPharma Import,21,22,10,243,775,1018,SOUS-DIMENSIONNE
+Érythropoïétine 4000UI,Hématologique,85.0,3.9,1.6,MediSupply Dakar,7,7,4,35,92,127,SOUS-DIMENSIONNE
+Vancomycine 500mg,Antibiotique,35.0,3.9,1.2,AfricaMed Logistics,5,4,5,24,143,167,OK
+Digoxine 0.25mg,Cardiologique,3.8,5.0,1.4,PharmaDistrib CI,3,4,6,19,491,510,OK
