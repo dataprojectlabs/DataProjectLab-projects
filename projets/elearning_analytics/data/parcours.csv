@@ -1,0 +1,13 @@
+parcours_id,titre,domaine,niveau,duree_semaines,prix_fcfa,instructeur,note_moyenne
+PAR001,Data Analyse avec Python,Data & IA,Intermediaire,12,149000,Kouassi Yao,4.6
+PAR002,Machine Learning Applique,Data & IA,Avance,16,199000,Kouassi Yao,4.7
+PAR003,SQL & Bases de Donnees,Data & IA,Debutant,8,89000,Ndoye Cheick,4.4
+PAR004,Power BI & Dashboards,Data & IA,Intermediaire,10,129000,Diallo Fatoumata,4.5
+PAR005,HTML CSS JavaScript,Developpement Web,Debutant,10,99000,Camara Luc,4.3
+PAR006,React & Node.js Fullstack,Developpement Web,Avance,20,249000,Camara Luc,4.6
+PAR007,Python Web avec Django,Developpement Web,Intermediaire,14,179000,Traore Eric,4.4
+PAR008,Marketing Digital,Marketing Digital,Debutant,8,79000,Bamba Clarisse,4.5
+PAR009,SEO & Growth Hacking,Marketing Digital,Intermediaire,10,119000,Bamba Clarisse,4.3
+PAR010,Community Management,Marketing Digital,Debutant,6,69000,Konaté Aida,4.2
+PAR011,Management de Projet,Management,Intermediaire,10,109000,Ouattara Serge,4.4
+PAR012,Leadership & Soft Skills,Management,Avance,8,89000,Ouattara Serge,4.5

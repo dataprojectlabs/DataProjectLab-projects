@@ -1,0 +1,6 @@
+canal,nb_reservations,revenu_total,revenu_moyen,taux_annulation_pct,rang_revenu,rang_rentabilite
+Direct,2967,913164000.0,319847.0,2.8,1,1
+Booking.com,2834,834846075.0,308973.0,3.4,2,3
+Agence voyage,1444,431070140.0,312823.0,2.8,3,2
+Expedia,1534,419761760.0,289691.0,3.8,4,5
+Corporate,996,275496047.0,289996.0,2.9,5,4

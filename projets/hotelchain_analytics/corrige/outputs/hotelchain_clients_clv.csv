@@ -1,0 +1,2727 @@
+client_id,client_nom,nationalite,client_fidele,nb_sejours,revenu_total,duree_moy,csat_moy,quartile,segment
+CLI0188,Yao Ndoye,Ivoirien,0,8,5814675.0,3.9,4.5,1,VIP Top 10%
+CLI2067,Sophie Koné,Ivoirien,0,9,5576200.0,2.8,4.0,1,VIP Top 10%
+CLI2595,Fatou Bamba,Allemand,0,6,5254700.0,3.8,3.5,1,VIP Top 10%
+CLI1334,Paul Koné,Ivoirien,0,6,5089320.0,4.5,5.0,1,VIP Top 10%
+CLI0508,Marie Diallo,Ghaneeen,0,6,4990250.0,4.2,4.5,1,VIP Top 10%
+CLI0102,Awa Kouassi,Britannique,0,8,4824270.0,3.6,4.0,1,VIP Top 10%
+CLI0749,Binta Bamba,Senegalais,1,8,4619920.0,3.0,4.3,1,VIP Top 10%
+CLI2512,Eric Koné,Ghaneeen,1,8,4305450.0,2.1,3.5,1,VIP Top 10%
+CLI1089,Marie Koné,Senegalais,0,9,4161440.0,2.4,3.9,1,VIP Top 10%
+CLI0877,Marie Camara,Americain,0,4,4117460.0,4.3,3.8,1,VIP Top 10%
+CLI0334,Jean Traore,Ivoirien,0,7,4077300.0,2.4,4.2,1,VIP Top 10%
+CLI1034,Cheick Nkomo,Senegalais,0,4,4037900.0,5.3,4.3,1,VIP Top 10%
+CLI2355,Yao Sow,Senegalais,0,4,4011100.0,4.5,4.3,1,VIP Top 10%
+CLI1988,Awa Mensah,Americain,0,4,3943920.0,3.8,4.0,1,VIP Top 10%
+CLI2401,Serge Bamba,Ivoirien,0,6,3940640.0,3.2,3.7,1,VIP Top 10%
+CLI1779,Eric Camara,Americain,0,7,3935700.0,4.3,4.6,1,VIP Top 10%
+CLI2916,Eric Traore,Senegalais,1,6,3864920.0,2.8,3.0,1,VIP Top 10%
+CLI0590,Jean Kouassi,Americain,0,5,3852800.0,2.8,3.4,1,VIP Top 10%
+CLI0982,Awa Diallo,Ivoirien,1,6,3847860.0,3.3,3.5,1,VIP Top 10%
+CLI0101,Rokia Traore,Senegalais,0,4,3719950.0,4.5,3.3,1,VIP Top 10%
+CLI1907,Moussa Kouassi,Autre,0,3,3717480.0,3.3,4.7,1,VIP Top 10%
+CLI2543,Serge Kouassi,Ivoirien,0,5,3717000.0,3.8,4.0,1,VIP Top 10%
+CLI0934,Clarisse Ndoye,Senegalais,0,10,3682250.0,2.3,4.1,1,VIP Top 10%
+CLI2249,Moussa Mensah,Autre,0,6,3652355.0,2.8,3.2,1,VIP Top 10%
+CLI2796,Adjoua Bamba,Senegalais,1,8,3588160.0,4.0,4.4,1,VIP Top 10%
+CLI1918,Yao Kouassi,Ivoirien,0,6,3571100.0,3.0,4.0,1,VIP Top 10%
+CLI1954,Moussa Nkomo,Britannique,0,3,3552500.0,5.0,4.0,1,VIP Top 10%
+CLI0562,Kofi Sow,Ghaneeen,0,5,3532140.0,2.6,4.0,1,VIP Top 10%
+CLI2172,Eric Diallo,Ghaneeen,0,7,3489280.0,2.9,4.7,1,VIP Top 10%
+CLI0025,Fatou Nkomo,Autre,0,7,3430080.0,3.9,4.0,1,VIP Top 10%
+CLI2813,Marie Bamba,Ghaneeen,0,6,3399000.0,3.2,3.8,1,VIP Top 10%
+CLI2737,Ibrahim Nkomo,Senegalais,0,8,3368040.0,3.1,4.3,1,VIP Top 10%
+CLI2740,Serge Traore,Britannique,0,5,3347480.0,4.4,4.2,1,VIP Top 10%
+CLI1445,Aida Diallo,Americain,0,11,3344480.0,2.4,4.5,1,VIP Top 10%
+CLI0216,Serge Sow,Camerounais,0,3,3343050.0,3.3,4.0,1,VIP Top 10%
+CLI1986,Kofi Kouassi,Ivoirien,1,5,3329800.0,4.0,3.2,1,VIP Top 10%
+CLI1710,Binta Diallo,Senegalais,0,6,3328300.0,3.0,3.8,1,VIP Top 10%
+CLI1268,Jean Ndoye,Senegalais,0,8,3322960.0,3.1,4.1,1,VIP Top 10%
+CLI1823,Jean Mensah,Camerounais,0,4,3261800.0,5.0,4.0,1,VIP Top 10%
+CLI1321,Ibrahim Ndoye,Ivoirien,0,4,3259400.0,3.0,4.5,1,VIP Top 10%
+CLI1400,Jean Koné,Camerounais,0,7,3252900.0,3.3,4.0,1,VIP Top 10%
+CLI1575,Paul Bamba,Ivoirien,0,5,3248600.0,3.4,4.0,1,VIP Top 10%
+CLI2185,Binta Ndoye,Allemand,0,4,3241200.0,3.8,3.8,1,VIP Top 10%
+CLI1166,Aida Camara,Ghaneeen,0,5,3240200.0,2.8,4.0,1,VIP Top 10%
+CLI1362,Eric Kouassi,Camerounais,0,5,3194000.0,3.6,4.0,1,VIP Top 10%
+CLI0831,Aminata Kouassi,Ghaneeen,0,7,3189040.0,3.3,3.3,1,VIP Top 10%
+CLI2807,Paul Traore,Ghaneeen,0,9,3182120.0,2.6,4.1,1,VIP Top 10%
+CLI0782,Yao Bamba,Ghaneeen,0,9,3157800.0,2.4,4.0,1,VIP Top 10%
+CLI0429,Eric Kouassi,Ivoirien,0,3,3146000.0,5.0,3.7,1,VIP Top 10%
+CLI2402,Luc Sow,Ivoirien,0,7,3127800.0,2.9,2.9,1,VIP Top 10%
+CLI0465,Luc Bamba,Allemand,0,7,3123700.0,3.3,4.1,1,VIP Top 10%
+CLI1118,Clarisse Camara,Ivoirien,0,10,3120560.0,3.3,4.3,1,VIP Top 10%
+CLI0843,Jean Nkomo,Senegalais,1,5,3117000.0,3.2,4.0,1,VIP Top 10%
+CLI1360,Aminata Traore,Ivoirien,0,8,3090770.0,2.3,3.9,1,VIP Top 10%
+CLI0861,Eric Sow,Ivoirien,0,6,3069920.0,2.3,3.5,1,VIP Top 10%
+CLI0251,Cheick Nkomo,Ghaneeen,0,6,3067600.0,3.8,4.3,1,VIP Top 10%
+CLI0550,Yao Diallo,Français,0,9,3059100.0,3.4,3.8,1,VIP Top 10%
+CLI0214,Ibrahim Diallo,Ivoirien,0,7,3047280.0,2.3,3.7,1,VIP Top 10%
+CLI2614,Awa Traore,Ivoirien,0,10,3047000.0,2.8,3.9,1,VIP Top 10%
+CLI0248,Eric Ndoye,Americain,0,7,3041520.0,4.4,3.9,1,VIP Top 10%
+CLI2722,Aida Koné,Camerounais,0,6,3039600.0,3.3,3.5,1,VIP Top 10%
+CLI0902,Kofi Camara,Ivoirien,0,6,3034800.0,4.2,4.3,1,VIP Top 10%
+CLI2245,Cheick Mensah,Ivoirien,1,2,3025880.0,5.0,4.5,1,VIP Top 10%
+CLI2773,Moussa Bamba,Ghaneeen,0,4,3020400.0,5.0,3.8,1,VIP Top 10%
+CLI2493,Eric Bamba,Allemand,0,6,2996990.0,3.0,4.8,1,VIP Top 10%
+CLI0351,Binta Mensah,Français,1,9,2993760.0,3.4,4.2,1,VIP Top 10%
+CLI0623,Cheick Diallo,Ivoirien,0,6,2970450.0,4.2,3.0,1,VIP Top 10%
+CLI0552,Paul Mensah,Ivoirien,0,10,2965950.0,3.3,4.1,1,VIP Top 10%
+CLI2013,Awa Traore,Camerounais,0,6,2964800.0,3.3,3.5,1,VIP Top 10%
+CLI1792,Paul Kouassi,Senegalais,0,7,2959480.0,2.7,3.7,1,VIP Top 10%
+CLI1547,Ibrahim Bamba,Ghaneeen,0,8,2948200.0,2.6,3.8,1,VIP Top 10%
+CLI2948,Paul Camara,Autre,1,5,2940900.0,3.2,4.6,1,VIP Top 10%
+CLI2703,Kofi Sow,Ghaneeen,0,4,2928000.0,3.0,4.5,1,VIP Top 10%
+CLI1370,Eric Traore,Ivoirien,0,7,2927100.0,3.1,4.0,1,VIP Top 10%
+CLI0792,Eric Camara,Camerounais,0,7,2913500.0,2.4,4.0,1,VIP Top 10%
+CLI1430,Adjoua Ndoye,Ivoirien,0,3,2901800.0,3.3,5.0,1,VIP Top 10%
+CLI0140,Awa Camara,Autre,0,5,2895640.0,3.4,4.2,1,VIP Top 10%
+CLI1579,Eric Sow,Français,0,6,2871100.0,2.0,3.5,1,VIP Top 10%
+CLI2666,Awa Mensah,Ghaneeen,0,7,2869000.0,3.0,4.4,1,VIP Top 10%
+CLI1617,Fatou Sow,Français,0,8,2865920.0,3.1,4.1,1,VIP Top 10%
+CLI2764,Cheick Diallo,Ivoirien,0,3,2838600.0,3.7,4.3,1,VIP Top 10%
+CLI0563,Eric Mensah,Camerounais,0,6,2833300.0,2.2,4.5,1,VIP Top 10%
+CLI1143,Adjoua Mensah,Ivoirien,0,6,2811840.0,3.3,4.5,1,VIP Top 10%
+CLI1800,Kofi Ndoye,Ivoirien,1,6,2800780.0,3.7,2.8,1,VIP Top 10%
+CLI2217,Cheick Traore,Autre,1,5,2797950.0,3.4,4.2,1,VIP Top 10%
+CLI2176,Binta Kouassi,Autre,0,7,2788680.0,2.6,4.3,1,VIP Top 10%
+CLI2954,Yao Koné,Britannique,0,7,2780880.0,2.9,3.7,1,VIP Top 10%
+CLI1605,Yao Bamba,Britannique,0,6,2771840.0,4.5,4.6,1,VIP Top 10%
+CLI0989,Paul Sow,Ivoirien,1,4,2771200.0,3.5,4.3,1,VIP Top 10%
+CLI0670,Jean Diallo,Ivoirien,0,4,2764300.0,4.0,4.3,1,VIP Top 10%
+CLI1068,Jean Ndoye,Senegalais,0,6,2748400.0,4.0,3.3,1,VIP Top 10%
+CLI2422,Cheick Ndoye,Senegalais,0,8,2737100.0,2.4,4.4,1,VIP Top 10%
+CLI2062,Clarisse Camara,Ivoirien,0,5,2733300.0,2.6,4.2,1,VIP Top 10%
+CLI0734,Adjoua Ndoye,Autre,0,5,2733040.0,3.0,4.6,1,VIP Top 10%
+CLI1982,Ibrahim Diallo,Senegalais,0,6,2732560.0,2.5,4.8,1,VIP Top 10%
+CLI0850,Paul Kouassi,Ivoirien,0,4,2732400.0,5.3,4.0,1,VIP Top 10%
+CLI0631,Moussa Bamba,Ghaneeen,0,7,2722900.0,3.1,2.9,1,VIP Top 10%
+CLI2544,Eric Kouassi,Senegalais,0,5,2722800.0,3.8,3.0,1,VIP Top 10%
+CLI1787,Sophie Camara,Senegalais,1,3,2714400.0,3.0,4.7,1,VIP Top 10%
+CLI1464,Binta Sow,Britannique,0,6,2712900.0,3.7,4.7,1,VIP Top 10%
+CLI1046,Awa Nkomo,Britannique,0,6,2701920.0,2.5,4.2,1,VIP Top 10%
+CLI2085,Adjoua Mensah,Camerounais,0,5,2700200.0,4.0,3.4,1,VIP Top 10%
+CLI2404,Luc Camara,Senegalais,1,5,2697450.0,2.4,4.2,1,VIP Top 10%
+CLI1650,Aida Nkomo,Britannique,1,6,2685600.0,3.7,4.2,1,VIP Top 10%
+CLI0721,Paul Bamba,Ghaneeen,0,5,2682300.0,3.0,3.4,1,VIP Top 10%
+CLI0467,Binta Traore,Americain,0,3,2668300.0,4.3,3.7,1,VIP Top 10%
+CLI1722,Cheick Diallo,Ivoirien,0,10,2665280.0,2.1,4.4,1,VIP Top 10%
+CLI1376,Luc Ndoye,Ivoirien,0,5,2659200.0,3.4,3.8,1,VIP Top 10%
+CLI0790,Rokia Mensah,Britannique,0,4,2656030.0,3.3,2.8,1,VIP Top 10%
+CLI2621,Adjoua Nkomo,Ivoirien,0,4,2640000.0,4.5,3.3,1,VIP Top 10%
+CLI2480,Moussa Camara,Autre,1,5,2639600.0,2.6,3.2,1,VIP Top 10%
+CLI1558,Cheick Camara,Ghaneeen,1,6,2638840.0,4.3,4.2,1,VIP Top 10%
+CLI2344,Awa Kouassi,Ivoirien,0,5,2635700.0,3.6,3.8,1,VIP Top 10%
+CLI2457,Binta Mensah,Senegalais,0,8,2628900.0,2.3,3.7,1,VIP Top 10%
+CLI2119,Fatou Kouassi,Senegalais,0,5,2627800.0,3.8,4.4,1,VIP Top 10%
+CLI2778,Moussa Diallo,Allemand,0,5,2617920.0,2.8,3.6,1,VIP Top 10%
+CLI0806,Serge Camara,Camerounais,0,8,2617760.0,2.5,3.5,1,VIP Top 10%
+CLI2086,Jean Nkomo,Français,0,6,2613050.0,2.3,4.5,1,VIP Top 10%
+CLI2202,Eric Traore,Ivoirien,1,5,2611720.0,2.6,3.6,1,VIP Top 10%
+CLI1028,Yao Ndoye,Camerounais,0,5,2608700.0,2.8,3.6,1,VIP Top 10%
+CLI0247,Luc Nkomo,Ivoirien,0,4,2606500.0,3.5,4.8,1,VIP Top 10%
+CLI2433,Adjoua Camara,Senegalais,0,5,2603250.0,3.4,4.2,1,VIP Top 10%
+CLI1709,Paul Diallo,Français,0,7,2601360.0,2.6,4.4,1,VIP Top 10%
+CLI0014,Marie Koné,Allemand,1,6,2599340.0,3.0,4.7,1,VIP Top 10%
+CLI1465,Yao Koné,Senegalais,0,5,2598850.0,3.2,3.8,1,VIP Top 10%
+CLI1148,Aminata Sow,Ivoirien,0,7,2594720.0,3.7,3.9,1,VIP Top 10%
+CLI0575,Yao Koné,Ivoirien,0,7,2591600.0,4.4,3.6,1,VIP Top 10%
+CLI2882,Moussa Kouassi,Ivoirien,0,5,2586120.0,3.0,4.2,1,VIP Top 10%
+CLI2281,Serge Ndoye,Americain,0,8,2582040.0,3.4,3.9,1,VIP Top 10%
+CLI1261,Eric Mensah,Senegalais,0,3,2576000.0,4.0,4.3,1,VIP Top 10%
+CLI1133,Sophie Diallo,Senegalais,0,6,2575000.0,2.5,4.2,1,VIP Top 10%
+CLI2979,Clarisse Mensah,Autre,0,4,2570400.0,4.5,5.0,1,VIP Top 10%
+CLI1518,Eric Kouassi,Allemand,1,3,2553000.0,4.0,4.3,1,VIP Top 10%
+CLI1010,Binta Nkomo,Français,0,6,2549440.0,3.7,5.0,1,VIP Top 10%
+CLI2123,Paul Koné,Senegalais,0,4,2534250.0,3.0,4.0,1,VIP Top 10%
+CLI1359,Fatou Camara,Autre,0,5,2533000.0,2.4,4.0,1,VIP Top 10%
+CLI0696,Sophie Bamba,Français,1,2,2531250.0,4.5,5.0,1,VIP Top 10%
+CLI2333,Yao Ndoye,Autre,0,4,2529880.0,3.0,4.0,1,VIP Top 10%
+CLI1535,Kofi Sow,Ivoirien,0,6,2527000.0,4.2,3.8,1,VIP Top 10%
+CLI1745,Jean Kouassi,Camerounais,0,5,2510000.0,3.4,4.4,1,VIP Top 10%
+CLI0131,Clarisse Mensah,Ivoirien,0,5,2509800.0,3.8,4.0,1,VIP Top 10%
+CLI0377,Adjoua Ndoye,Autre,0,4,2501200.0,2.8,3.0,1,VIP Top 10%
+CLI2015,Adjoua Camara,Autre,1,8,2497760.0,3.1,4.5,1,VIP Top 10%
+CLI2864,Cheick Bamba,Ghaneeen,0,7,2495935.0,3.3,4.7,1,VIP Top 10%
+CLI2219,Luc Diallo,Camerounais,1,7,2488520.0,3.4,3.6,1,VIP Top 10%
+CLI0064,Binta Diallo,Camerounais,0,6,2486960.0,2.2,3.8,1,VIP Top 10%
+CLI2867,Aida Diallo,Americain,0,7,2485000.0,2.1,3.6,1,VIP Top 10%
+CLI0588,Adjoua Camara,Autre,0,7,2483900.0,2.9,3.9,1,VIP Top 10%
+CLI0461,Aida Sow,Ivoirien,0,6,2483700.0,2.5,4.0,1,VIP Top 10%
+CLI1250,Eric Kouassi,Americain,1,3,2480000.0,5.7,4.7,1,VIP Top 10%
+CLI2071,Yao Ndoye,Ivoirien,0,5,2473800.0,4.8,4.6,1,VIP Top 10%
+CLI1408,Serge Koné,Autre,0,8,2466100.0,2.6,4.3,1,VIP Top 10%
+CLI2935,Adjoua Ndoye,Ghaneeen,0,8,2461200.0,1.8,4.3,1,VIP Top 10%
+CLI2896,Marie Traore,Camerounais,1,8,2435050.0,2.3,4.4,1,VIP Top 10%
+CLI1366,Yao Nkomo,Allemand,0,5,2434120.0,2.8,2.6,1,VIP Top 10%
+CLI0635,Marie Traore,Americain,0,4,2423700.0,2.5,4.3,1,VIP Top 10%
+CLI1410,Serge Diallo,Français,0,3,2408000.0,3.3,4.0,1,VIP Top 10%
+CLI2759,Rokia Kouassi,Français,0,10,2405780.0,2.8,3.6,1,VIP Top 10%
+CLI2449,Yao Kouassi,Ivoirien,0,5,2398160.0,4.4,4.2,1,VIP Top 10%
+CLI1031,Eric Nkomo,Senegalais,1,5,2391000.0,4.2,3.0,1,VIP Top 10%
+CLI0224,Eric Ndoye,Allemand,0,10,2385600.0,2.9,3.6,1,VIP Top 10%
+CLI0948,Eric Sow,Autre,1,7,2378500.0,2.7,3.6,1,VIP Top 10%
+CLI1728,Luc Bamba,Allemand,1,5,2376400.0,3.6,4.4,1,VIP Top 10%
+CLI2380,Awa Camara,Ivoirien,1,7,2373600.0,3.9,4.1,1,VIP Top 10%
+CLI1762,Eric Camara,Senegalais,1,6,2373400.0,3.0,4.7,1,VIP Top 10%
+CLI0822,Ibrahim Traore,Camerounais,0,5,2371880.0,2.6,4.0,1,VIP Top 10%
+CLI2930,Fatou Sow,Autre,1,4,2368800.0,2.8,4.5,1,VIP Top 10%
+CLI0092,Binta Bamba,Français,0,4,2367600.0,2.5,3.8,1,VIP Top 10%
+CLI1760,Awa Nkomo,Senegalais,0,5,2358400.0,3.0,4.2,1,VIP Top 10%
+CLI1286,Adjoua Kouassi,Ivoirien,0,7,2351500.0,3.1,4.6,1,VIP Top 10%
+CLI2894,Moussa Sow,Ivoirien,0,5,2350000.0,3.8,4.6,1,VIP Top 10%
+CLI0077,Luc Camara,Ivoirien,0,4,2340900.0,5.3,3.8,1,VIP Top 10%
+CLI2633,Marie Koné,Ivoirien,0,3,2338880.0,2.7,4.7,1,VIP Top 10%
+CLI0430,Kofi Traore,Americain,0,4,2334830.0,2.8,4.3,1,VIP Top 10%
+CLI0605,Clarisse Diallo,Ivoirien,0,8,2333580.0,3.0,4.0,1,VIP Top 10%
+CLI1253,Kofi Sow,Ivoirien,0,7,2331800.0,3.1,3.4,1,VIP Top 10%
+CLI2261,Eric Camara,Ghaneeen,1,7,2328200.0,2.3,3.6,1,VIP Top 10%
+CLI1908,Rokia Bamba,Autre,1,3,2327800.0,3.7,4.0,1,VIP Top 10%
+CLI1947,Aida Ndoye,Americain,1,7,2325440.0,2.6,3.7,1,VIP Top 10%
+CLI1337,Fatou Camara,Senegalais,1,8,2322920.0,2.8,4.3,1,VIP Top 10%
+CLI1241,Paul Sow,Senegalais,0,7,2322560.0,3.7,3.3,1,VIP Top 10%
+CLI2470,Jean Bamba,Ivoirien,1,8,2322500.0,2.1,4.4,1,VIP Top 10%
+CLI1364,Yao Koné,Ivoirien,1,3,2322120.0,3.0,4.7,1,VIP Top 10%
+CLI2518,Luc Koné,Senegalais,0,6,2315280.0,3.0,4.8,1,VIP Top 10%
+CLI0596,Eric Traore,Camerounais,0,5,2312880.0,3.6,4.2,1,VIP Top 10%
+CLI1712,Adjoua Ndoye,Ivoirien,0,5,2307880.0,3.6,3.0,1,VIP Top 10%
+CLI0243,Binta Diallo,Camerounais,0,4,2307760.0,2.5,5.0,1,VIP Top 10%
+CLI0945,Ibrahim Traore,Ivoirien,0,6,2305400.0,3.3,3.2,1,VIP Top 10%
+CLI1483,Ibrahim Nkomo,Britannique,0,6,2304000.0,3.5,4.0,1,VIP Top 10%
+CLI1661,Paul Kouassi,Senegalais,0,4,2304000.0,3.0,3.5,1,VIP Top 10%
+CLI0322,Fatou Diallo,Allemand,1,5,2301900.0,3.4,4.4,1,VIP Top 10%
+CLI2911,Ibrahim Traore,Ghaneeen,0,4,2301420.0,5.0,4.8,1,VIP Top 10%
+CLI0236,Eric Diallo,Ghaneeen,0,6,2296720.0,2.5,4.3,1,VIP Top 10%
+CLI2539,Fatou Diallo,Senegalais,0,3,2291100.0,3.0,2.3,1,VIP Top 10%
+CLI0345,Moussa Sow,Senegalais,1,4,2289200.0,3.0,4.0,1,VIP Top 10%
+CLI0993,Ibrahim Ndoye,Autre,0,6,2283400.0,3.5,4.5,1,VIP Top 10%
+CLI1587,Ibrahim Kouassi,Americain,0,8,2282640.0,2.5,4.5,1,VIP Top 10%
+CLI2328,Kofi Koné,Ivoirien,0,4,2271000.0,3.5,4.5,1,VIP Top 10%
+CLI2011,Jean Bamba,Français,1,6,2270320.0,3.0,4.2,1,VIP Top 10%
+CLI2662,Aida Traore,Senegalais,0,9,2267500.0,2.3,3.9,1,VIP Top 10%
+CLI1124,Cheick Bamba,Ghaneeen,0,9,2265360.0,2.2,4.6,1,VIP Top 10%
+CLI0466,Clarisse Kouassi,Allemand,1,9,2257320.0,2.7,4.6,1,VIP Top 10%
+CLI1876,Eric Mensah,Ghaneeen,0,7,2254080.0,2.3,3.9,1,VIP Top 10%
+CLI0312,Luc Mensah,Senegalais,0,5,2250520.0,3.0,3.0,1,VIP Top 10%
+CLI1758,Binta Diallo,Ghaneeen,0,6,2242000.0,3.3,4.7,1,VIP Top 10%
+CLI0223,Eric Camara,Americain,0,5,2240780.0,2.6,4.0,1,VIP Top 10%
+CLI0141,Yao Diallo,Allemand,0,5,2240580.0,3.8,4.4,1,VIP Top 10%
+CLI0723,Kofi Diallo,Ivoirien,0,10,2240320.0,2.8,4.3,1,VIP Top 10%
+CLI2988,Moussa Kouassi,Français,0,3,2239680.0,2.7,4.3,1,VIP Top 10%
+CLI1582,Yao Diallo,Ivoirien,1,7,2222520.0,2.4,3.6,1,VIP Top 10%
+CLI1497,Yao Bamba,Camerounais,0,7,2220840.0,3.0,4.1,1,VIP Top 10%
+CLI0197,Binta Camara,Ivoirien,0,3,2220800.0,3.0,3.3,1,VIP Top 10%
+CLI0777,Binta Diallo,Ivoirien,1,4,2218700.0,2.3,3.3,1,VIP Top 10%
+CLI0285,Clarisse Nkomo,Allemand,0,3,2196480.0,3.7,4.0,1,VIP Top 10%
+CLI1057,Moussa Koné,Français,0,8,2190800.0,3.3,3.4,1,VIP Top 10%
+CLI0233,Cheick Koné,Americain,0,6,2188900.0,3.8,4.2,1,VIP Top 10%
+CLI2089,Binta Traore,Senegalais,1,6,2179080.0,3.8,4.3,1,VIP Top 10%
+CLI1975,Aminata Kouassi,Americain,0,6,2177200.0,3.2,4.5,1,VIP Top 10%
+CLI2702,Jean Kouassi,Ivoirien,1,6,2167400.0,2.3,4.0,1,VIP Top 10%
+CLI0895,Rokia Bamba,Ivoirien,0,8,2164480.0,2.0,4.3,1,VIP Top 10%
+CLI1237,Yao Kouassi,Ivoirien,1,4,2158900.0,4.0,3.5,1,VIP Top 10%
+CLI1606,Moussa Kouassi,Americain,1,4,2157025.0,3.3,4.5,1,VIP Top 10%
+CLI1354,Yao Ndoye,Français,1,6,2154360.0,4.2,3.8,1,VIP Top 10%
+CLI2635,Yao Mensah,Ivoirien,0,5,2149500.0,4.0,3.8,1,VIP Top 10%
+CLI0629,Aminata Traore,Ghaneeen,1,3,2148250.0,2.3,4.3,1,VIP Top 10%
+CLI1643,Kofi Bamba,Ivoirien,0,3,2144550.0,3.0,3.0,1,VIP Top 10%
+CLI0976,Serge Mensah,Britannique,1,6,2142470.0,2.2,2.7,1,VIP Top 10%
+CLI2901,Luc Traore,Senegalais,0,5,2140200.0,2.2,4.0,1,VIP Top 10%
+CLI2906,Sophie Ndoye,Senegalais,0,6,2138760.0,3.0,5.0,1,VIP Top 10%
+CLI2949,Serge Kouassi,Ivoirien,1,8,2138720.0,2.5,4.1,1,VIP Top 10%
+CLI0732,Marie Koné,Français,0,4,2134800.0,3.5,4.0,1,VIP Top 10%
+CLI2970,Aminata Koné,Ghaneeen,1,7,2131720.0,2.6,4.6,1,VIP Top 10%
+CLI2018,Awa Koné,Britannique,0,3,2118760.0,3.3,4.0,1,VIP Top 10%
+CLI1383,Luc Bamba,Ivoirien,1,4,2116860.0,3.5,3.8,1,VIP Top 10%
+CLI2277,Kofi Kouassi,Français,0,7,2115000.0,3.3,4.0,1,VIP Top 10%
+CLI0450,Adjoua Bamba,Senegalais,0,6,2109000.0,2.2,4.2,1,VIP Top 10%
+CLI0471,Rokia Traore,Britannique,1,4,2107800.0,3.3,4.5,1,VIP Top 10%
+CLI0889,Luc Koné,Ivoirien,0,9,2104240.0,2.7,4.3,1,VIP Top 10%
+CLI1962,Paul Mensah,Senegalais,0,3,2102000.0,3.0,5.0,1,VIP Top 10%
+CLI1874,Adjoua Traore,Autre,0,3,2097840.0,2.7,4.7,1,VIP Top 10%
+CLI2439,Rokia Nkomo,Allemand,1,6,2096450.0,2.8,4.0,1,VIP Top 10%
+CLI0606,Adjoua Ndoye,Ivoirien,0,7,2093810.0,1.9,4.4,1,VIP Top 10%
+CLI1033,Awa Diallo,Ivoirien,0,7,2088940.0,3.9,3.7,1,VIP Top 10%
+CLI2914,Marie Mensah,Ivoirien,0,3,2082590.0,2.3,4.3,1,VIP Top 10%
+CLI1970,Marie Camara,Americain,0,7,2075400.0,3.4,4.7,1,VIP Top 10%
+CLI1154,Luc Bamba,Americain,0,10,2073320.0,2.3,4.1,1,VIP Top 10%
+CLI1854,Kofi Bamba,Senegalais,0,7,2070200.0,3.0,3.0,1,VIP Top 10%
+CLI1208,Sophie Kouassi,Senegalais,1,4,2069540.0,3.8,3.8,1,VIP Top 10%
+CLI0526,Jean Bamba,Ivoirien,0,7,2064400.0,2.6,4.0,1,VIP Top 10%
+CLI0328,Cheick Bamba,Ivoirien,0,4,2053500.0,2.5,4.3,1,VIP Top 10%
+CLI2145,Kofi Koné,Senegalais,0,4,2052980.0,2.5,4.8,1,VIP Top 10%
+CLI0955,Jean Traore,Français,0,6,2051400.0,2.7,4.3,1,VIP Top 10%
+CLI0019,Rokia Diallo,Americain,1,8,2050520.0,3.8,4.3,1,VIP Top 10%
+CLI2892,Kofi Koné,Ivoirien,1,1,2047500.0,5.0,5.0,1,VIP Top 10%
+CLI0041,Yao Nkomo,Ivoirien,0,2,2046000.0,4.0,5.0,1,VIP Top 10%
+CLI0059,Marie Diallo,Ivoirien,1,5,2045340.0,2.2,4.2,1,VIP Top 10%
+CLI0364,Binta Camara,Ivoirien,0,6,2044650.0,2.8,3.3,1,VIP Top 10%
+CLI1683,Paul Traore,Britannique,1,4,2033200.0,2.8,4.8,1,VIP Top 10%
+CLI0660,Serge Traore,Autre,0,6,2032090.0,2.8,4.5,1,VIP Top 10%
+CLI2669,Cheick Ndoye,Français,0,10,2028700.0,2.5,4.0,1,VIP Top 10%
+CLI0152,Marie Bamba,Americain,0,6,2027040.0,3.2,4.2,1,VIP Top 10%
+CLI1681,Marie Diallo,Ivoirien,0,7,2023920.0,1.7,3.4,1,VIP Top 10%
+CLI1516,Yao Diallo,Americain,0,7,2022960.0,1.9,4.4,1,VIP Top 10%
+CLI1255,Rokia Kouassi,Americain,0,6,2022160.0,3.5,3.7,1,VIP Top 10%
+CLI2012,Fatou Mensah,Ivoirien,0,3,2015000.0,2.7,4.5,1,VIP Top 10%
+CLI1761,Luc Traore,Camerounais,0,1,2012500.0,5.0,5.0,1,VIP Top 10%
+CLI0001,Cheick Ndoye,Allemand,0,2,2012500.0,5.0,4.0,1,VIP Top 10%
+CLI0053,Serge Sow,Français,0,1,2012500.0,5.0,3.0,1,VIP Top 10%
+CLI2347,Serge Mensah,Senegalais,1,3,2012100.0,3.3,3.7,1,VIP Top 10%
+CLI2343,Luc Diallo,Ivoirien,0,4,2012000.0,3.0,5.0,1,VIP Top 10%
+CLI2994,Aminata Ndoye,Camerounais,0,7,2011810.0,1.6,4.7,1,VIP Top 10%
+CLI1864,Cheick Sow,Senegalais,0,4,2010600.0,3.0,4.3,1,VIP Top 10%
+CLI0907,Luc Nkomo,Ivoirien,0,6,2008000.0,4.3,3.7,1,VIP Top 10%
+CLI0117,Awa Kouassi,Allemand,1,5,2005620.0,3.6,3.2,1,Premium
+CLI2846,Moussa Camara,Français,0,4,2003540.0,3.5,4.5,1,Premium
+CLI1494,Paul Bamba,Allemand,0,6,2003400.0,2.8,4.2,1,Premium
+CLI2121,Eric Koné,Britannique,1,4,2001000.0,3.0,3.5,1,Premium
+CLI2834,Binta Nkomo,Ghaneeen,1,3,2000400.0,3.3,4.0,1,Premium
+CLI1251,Moussa Camara,Ghaneeen,0,6,1999680.0,3.0,4.5,1,Premium
+CLI1361,Binta Diallo,Autre,0,3,1998120.0,4.0,4.7,1,Premium
+CLI0432,Clarisse Sow,Autre,0,8,1996560.0,3.0,3.8,1,Premium
+CLI0106,Rokia Ndoye,Camerounais,0,8,1992900.0,2.4,3.3,1,Premium
+CLI0952,Yao Ndoye,Autre,0,5,1990600.0,4.6,4.0,1,Premium
+CLI0510,Aida Ndoye,Ghaneeen,1,7,1983640.0,2.3,4.1,1,Premium
+CLI2910,Serge Mensah,Ghaneeen,0,3,1978800.0,3.0,3.7,1,Premium
+CLI0333,Adjoua Traore,Ivoirien,0,2,1976560.0,4.0,5.0,1,Premium
+CLI1041,Aminata Ndoye,Ivoirien,0,3,1975700.0,3.7,3.0,1,Premium
+CLI0062,Awa Traore,Camerounais,0,9,1967920.0,2.8,3.8,1,Premium
+CLI1879,Kofi Diallo,Senegalais,0,6,1966500.0,3.5,4.0,1,Premium
+CLI1437,Yao Sow,Senegalais,0,4,1965120.0,2.0,4.5,1,Premium
+CLI0987,Marie Diallo,Senegalais,0,3,1964340.0,4.0,3.3,1,Premium
+CLI2656,Sophie Ndoye,Ivoirien,1,9,1963800.0,2.8,4.6,1,Premium
+CLI2594,Ibrahim Koné,Français,0,5,1963580.0,3.8,4.8,1,Premium
+CLI1952,Aida Bamba,Camerounais,0,2,1960000.0,2.5,4.0,1,Premium
+CLI2029,Moussa Sow,Autre,0,3,1953120.0,4.0,4.0,1,Premium
+CLI0523,Luc Camara,Camerounais,0,6,1952080.0,3.5,4.7,1,Premium
+CLI1123,Fatou Bamba,Senegalais,0,8,1950840.0,2.1,4.2,1,Premium
+CLI0641,Jean Bamba,Ivoirien,0,5,1945000.0,3.4,4.4,1,Premium
+CLI0273,Cheick Mensah,Autre,0,7,1944000.0,3.0,4.0,1,Premium
+CLI1791,Ibrahim Sow,Camerounais,0,9,1936590.0,2.2,4.3,1,Premium
+CLI1096,Moussa Nkomo,Ivoirien,0,6,1935680.0,2.8,3.8,1,Premium
+CLI0246,Fatou Diallo,Ivoirien,0,6,1930840.0,3.2,3.5,1,Premium
+CLI0113,Eric Camara,Autre,0,2,1930400.0,4.0,4.0,1,Premium
+CLI0958,Cheick Koné,Senegalais,0,6,1928600.0,2.8,4.3,1,Premium
+CLI2505,Serge Bamba,Ivoirien,0,8,1928000.0,3.8,4.9,1,Premium
+CLI2783,Serge Koné,Senegalais,0,5,1924900.0,4.4,3.0,1,Premium
+CLI0849,Luc Camara,Americain,1,7,1920240.0,2.7,4.1,1,Premium
+CLI2208,Eric Traore,Senegalais,1,5,1916320.0,4.8,3.6,1,Premium
+CLI1038,Yao Mensah,Camerounais,1,5,1915500.0,2.0,3.8,1,Premium
+CLI0548,Luc Koné,Senegalais,0,4,1913100.0,3.0,3.5,1,Premium
+CLI2242,Awa Bamba,Ivoirien,0,7,1907000.0,3.4,4.6,1,Premium
+CLI0394,Paul Kouassi,Americain,1,3,1905000.0,2.0,4.0,1,Premium
+CLI1629,Aminata Bamba,Ivoirien,0,3,1900600.0,3.0,3.7,1,Premium
+CLI2468,Eric Diallo,Allemand,1,5,1899480.0,3.0,4.0,1,Premium
+CLI1386,Yao Koné,Ivoirien,0,4,1893620.0,2.5,4.3,1,Premium
+CLI1016,Moussa Traore,Senegalais,0,10,1891880.0,2.3,3.9,1,Premium
+CLI2161,Luc Camara,Ivoirien,0,7,1891560.0,2.3,3.7,1,Premium
+CLI0105,Luc Diallo,Ivoirien,0,4,1890600.0,2.8,4.3,1,Premium
+CLI1254,Ibrahim Mensah,Camerounais,0,8,1890560.0,3.8,3.3,1,Premium
+CLI1409,Yao Camara,Ivoirien,1,6,1887280.0,2.7,4.0,1,Premium
+CLI2990,Awa Nkomo,Senegalais,0,6,1886280.0,2.8,4.0,1,Premium
+CLI1875,Moussa Kouassi,Ghaneeen,0,3,1885800.0,2.3,3.7,1,Premium
+CLI1604,Yao Nkomo,Autre,0,4,1884640.0,4.5,3.5,1,Premium
+CLI1438,Rokia Koné,Americain,0,6,1884000.0,2.8,3.3,1,Premium
+CLI0707,Jean Ndoye,Ivoirien,1,4,1883040.0,3.3,3.7,1,Premium
+CLI2841,Paul Koné,Ghaneeen,0,4,1881600.0,3.5,5.0,1,Premium
+CLI1100,Adjoua Traore,Ivoirien,1,5,1865000.0,2.8,3.4,1,Premium
+CLI0715,Yao Bamba,Ivoirien,0,3,1864000.0,2.3,3.3,1,Premium
+CLI0698,Paul Diallo,Senegalais,0,8,1862280.0,2.1,2.8,1,Premium
+CLI2965,Jean Sow,Autre,0,7,1861600.0,4.4,3.0,1,Premium
+CLI0614,Adjoua Bamba,Ghaneeen,0,7,1861500.0,3.3,3.6,1,Premium
+CLI0759,Ibrahim Traore,Britannique,0,7,1858780.0,2.1,4.4,1,Premium
+CLI1819,Kofi Sow,Senegalais,0,3,1857440.0,3.3,4.7,1,Premium
+CLI2226,Ibrahim Mensah,Senegalais,1,3,1856160.0,3.0,4.0,1,Premium
+CLI0431,Kofi Diallo,Camerounais,1,3,1856000.0,2.3,4.3,1,Premium
+CLI0136,Moussa Kouassi,Senegalais,0,4,1844400.0,3.0,4.3,1,Premium
+CLI1055,Serge Mensah,Français,1,6,1843680.0,3.8,3.3,1,Premium
+CLI0124,Rokia Ndoye,Britannique,0,11,1843200.0,2.5,4.5,1,Premium
+CLI2030,Eric Ndoye,Camerounais,0,3,1841500.0,4.3,4.7,1,Premium
+CLI1574,Rokia Ndoye,Français,0,2,1833000.0,5.0,3.5,1,Premium
+CLI2772,Binta Mensah,Camerounais,0,2,1831200.0,2.5,5.0,1,Premium
+CLI1195,Serge Camara,Allemand,0,5,1831080.0,3.0,3.7,1,Premium
+CLI1705,Cheick Sow,Americain,0,7,1826040.0,2.7,3.4,1,Premium
+CLI2459,Awa Bamba,Camerounais,0,4,1825200.0,3.3,4.8,1,Premium
+CLI2446,Adjoua Diallo,Ivoirien,0,6,1823920.0,2.8,4.0,1,Premium
+CLI2005,Cheick Koné,Allemand,0,4,1823760.0,3.5,4.3,1,Premium
+CLI1646,Yao Traore,Ivoirien,0,3,1822980.0,3.0,4.0,1,Premium
+CLI2768,Moussa Ndoye,Allemand,0,2,1822400.0,3.5,4.0,1,Premium
+CLI0228,Aida Nkomo,Ghaneeen,0,4,1821800.0,2.0,3.8,1,Premium
+CLI1061,Serge Ndoye,Camerounais,0,6,1819960.0,3.5,4.3,1,Premium
+CLI2687,Marie Nkomo,Ghaneeen,0,8,1816840.0,2.0,3.8,1,Premium
+CLI0584,Clarisse Nkomo,Ghaneeen,0,7,1816000.0,3.3,4.6,1,Premium
+CLI2519,Paul Koné,Autre,1,2,1814800.0,3.0,4.0,1,Premium
+CLI0242,Yao Koné,Ivoirien,1,5,1814400.0,3.2,4.6,1,Premium
+CLI0258,Serge Kouassi,Ivoirien,0,5,1809640.0,4.4,3.8,1,Premium
+CLI1948,Cheick Kouassi,Ivoirien,0,4,1805700.0,2.5,3.0,1,Premium
+CLI0904,Awa Camara,Camerounais,0,3,1802740.0,3.0,3.3,1,Premium
+CLI1754,Marie Traore,Americain,0,2,1799500.0,3.5,4.5,1,Premium
+CLI1258,Awa Kouassi,Senegalais,0,4,1794150.0,4.8,3.8,1,Premium
+CLI2182,Aminata Camara,Senegalais,0,5,1792160.0,2.6,4.0,1,Premium
+CLI1001,Kofi Diallo,Ivoirien,1,6,1792000.0,2.2,4.5,1,Premium
+CLI0853,Jean Sow,Autre,0,5,1790840.0,3.6,4.0,1,Premium
+CLI2006,Eric Diallo,Ivoirien,0,3,1789100.0,4.0,4.3,1,Premium
+CLI1228,Kofi Bamba,Americain,0,3,1787400.0,3.0,3.7,1,Premium
+CLI2073,Yao Traore,Camerounais,1,5,1785200.0,2.6,4.2,1,Premium
+CLI0928,Luc Traore,Camerounais,0,3,1783500.0,2.3,4.3,1,Premium
+CLI1600,Cheick Camara,Ivoirien,0,3,1782600.0,3.7,4.0,1,Premium
+CLI0685,Fatou Bamba,Ivoirien,0,5,1782530.0,2.6,4.0,1,Premium
+CLI0804,Aminata Traore,Camerounais,0,5,1780650.0,3.2,4.0,1,Premium
+CLI0677,Serge Sow,Britannique,1,3,1779060.0,2.7,4.7,1,Premium
+CLI1946,Aminata Koné,Ivoirien,0,3,1778400.0,4.7,4.3,1,Premium
+CLI0499,Aida Ndoye,Americain,1,3,1777200.0,3.3,5.0,1,Premium
+CLI2757,Serge Traore,Camerounais,0,7,1776000.0,1.9,4.1,1,Premium
+CLI2610,Eric Koné,Camerounais,0,6,1775760.0,2.8,3.7,1,Premium
+CLI2585,Paul Koné,Français,1,4,1775600.0,2.8,4.0,1,Premium
+CLI0947,Paul Nkomo,Ivoirien,0,5,1774400.0,3.0,4.0,1,Premium
+CLI2723,Jean Diallo,Americain,1,5,1773360.0,2.2,4.0,1,Premium
+CLI1562,Aida Mensah,Senegalais,1,1,1771000.0,5.0,5.0,1,Premium
+CLI0800,Yao Diallo,Senegalais,0,5,1769120.0,3.2,4.0,1,Premium
+CLI0217,Luc Kouassi,Ivoirien,0,7,1768960.0,2.6,3.4,1,Premium
+CLI0553,Binta Diallo,Français,0,5,1766960.0,4.2,3.6,1,Premium
+CLI2152,Binta Camara,Ivoirien,0,8,1766500.0,1.9,4.8,1,Premium
+CLI1826,Luc Kouassi,Ivoirien,0,5,1765630.0,2.8,4.2,1,Premium
+CLI0691,Moussa Mensah,Ivoirien,0,3,1761440.0,6.0,4.3,1,Premium
+CLI2223,Jean Koné,Ivoirien,1,4,1759920.0,4.3,4.0,1,Premium
+CLI1149,Paul Mensah,Français,0,8,1756160.0,2.8,4.1,1,Premium
+CLI2736,Marie Sow,Ghaneeen,0,5,1755760.0,3.8,3.4,1,Premium
+CLI1346,Jean Camara,Ivoirien,0,4,1752600.0,4.0,4.5,1,Premium
+CLI2198,Paul Camara,Camerounais,1,2,1748900.0,3.5,3.5,1,Premium
+CLI2285,Clarisse Ndoye,Ivoirien,0,3,1741900.0,3.3,4.3,1,Premium
+CLI2727,Cheick Diallo,Senegalais,1,4,1734000.0,2.3,4.3,1,Premium
+CLI0411,Paul Koné,Ivoirien,0,5,1730080.0,3.6,4.4,1,Premium
+CLI3000,Aminata Ndoye,Ivoirien,1,5,1729700.0,3.6,4.6,1,Premium
+CLI2113,Serge Camara,Ivoirien,0,4,1729400.0,2.8,4.3,1,Premium
+CLI1910,Clarisse Koné,Ivoirien,0,4,1728000.0,4.5,3.5,1,Premium
+CLI0779,Kofi Mensah,Ivoirien,0,8,1727760.0,3.1,4.4,1,Premium
+CLI0009,Adjoua Kouassi,Americain,0,6,1727720.0,2.2,4.3,1,Premium
+CLI0515,Ibrahim Mensah,Senegalais,0,7,1723840.0,2.7,4.0,1,Premium
+CLI2626,Luc Ndoye,Senegalais,1,2,1723500.0,5.0,3.0,1,Premium
+CLI2648,Kofi Traore,Ivoirien,0,4,1719950.0,2.8,5.0,1,Premium
+CLI2674,Eric Kouassi,Français,1,5,1718800.0,2.2,3.2,1,Premium
+CLI2297,Clarisse Ndoye,Ivoirien,0,4,1718400.0,4.0,4.0,1,Premium
+CLI0449,Yao Diallo,Americain,0,4,1715800.0,3.5,4.5,1,Premium
+CLI2823,Aida Traore,Britannique,0,4,1715200.0,2.3,4.3,1,Premium
+CLI2148,Serge Ndoye,Ghaneeen,0,1,1710625.0,5.0,5.0,1,Premium
+CLI2663,Jean Diallo,Ghaneeen,1,9,1707280.0,2.3,4.6,1,Premium
+CLI2502,Clarisse Mensah,Ivoirien,0,6,1705840.0,3.3,3.3,1,Premium
+CLI2365,Eric Koné,Ivoirien,0,4,1705400.0,3.3,3.3,1,Premium
+CLI0022,Ibrahim Koné,Senegalais,0,6,1692170.0,2.0,3.5,1,Premium
+CLI0453,Ibrahim Diallo,Camerounais,0,4,1689800.0,3.5,4.0,1,Premium
+CLI2579,Awa Ndoye,Camerounais,0,5,1689480.0,2.6,4.8,1,Premium
+CLI2836,Ibrahim Bamba,Americain,0,5,1689000.0,3.0,4.6,1,Premium
+CLI0967,Ibrahim Ndoye,Français,0,5,1688220.0,2.8,3.4,1,Premium
+CLI0754,Eric Traore,Ghaneeen,1,3,1687575.0,3.0,4.0,1,Premium
+CLI1531,Kofi Nkomo,Autre,1,6,1685500.0,3.3,4.0,1,Premium
+CLI2534,Marie Mensah,Autre,0,3,1683000.0,2.7,4.3,1,Premium
+CLI1238,Marie Traore,Camerounais,0,4,1682000.0,4.3,3.8,1,Premium
+CLI1456,Cheick Diallo,Camerounais,0,4,1680800.0,3.5,4.0,1,Premium
+CLI1943,Yao Traore,Senegalais,0,6,1679400.0,3.0,4.2,1,Premium
+CLI0970,Sophie Ndoye,Ivoirien,0,7,1679200.0,2.7,4.4,1,Premium
+CLI1568,Awa Ndoye,Camerounais,1,9,1676100.0,2.8,3.4,1,Premium
+CLI1820,Moussa Traore,Ghaneeen,0,6,1675880.0,3.2,4.2,1,Premium
+CLI1678,Sophie Koné,Ivoirien,0,6,1675200.0,2.5,3.0,1,Premium
+CLI2494,Paul Nkomo,Camerounais,0,7,1674240.0,2.7,3.4,1,Premium
+CLI1862,Clarisse Camara,Camerounais,1,5,1670560.0,3.4,2.4,1,Premium
+CLI2923,Moussa Camara,Ivoirien,0,5,1669800.0,2.6,4.2,1,Premium
+CLI1441,Aminata Traore,Camerounais,0,5,1668900.0,3.8,4.0,1,Premium
+CLI2478,Ibrahim Camara,Camerounais,0,4,1666400.0,3.3,3.3,1,Premium
+CLI1343,Eric Nkomo,Ghaneeen,1,4,1665520.0,3.0,4.8,1,Premium
+CLI0096,Cheick Mensah,Autre,0,5,1665000.0,2.8,3.6,1,Premium
+CLI1795,Awa Sow,Français,0,4,1662400.0,2.3,4.0,1,Premium
+CLI2188,Luc Sow,Ivoirien,1,5,1658880.0,3.0,4.4,1,Premium
+CLI1716,Luc Ndoye,Camerounais,0,3,1658560.0,4.0,4.7,1,Premium
+CLI0231,Serge Mensah,Ivoirien,0,5,1658020.0,2.2,4.2,1,Premium
+CLI0488,Yao Camara,Autre,0,4,1658000.0,3.0,4.3,1,Premium
+CLI2972,Binta Sow,Ivoirien,0,3,1656800.0,3.7,2.7,1,Premium
+CLI2620,Aminata Nkomo,Senegalais,0,4,1653400.0,2.5,3.3,1,Premium
+CLI0720,Serge Diallo,Autre,0,2,1650900.0,3.0,4.0,1,Premium
+CLI0803,Eric Koné,Senegalais,0,4,1648800.0,3.0,4.3,1,Premium
+CLI0870,Awa Ndoye,Ivoirien,0,6,1645800.0,3.2,4.2,1,Premium
+CLI0681,Luc Koné,Ivoirien,0,5,1644800.0,2.6,3.8,1,Premium
+CLI0015,Luc Kouassi,Britannique,0,3,1644200.0,2.3,4.3,1,Premium
+CLI0161,Kofi Camara,Camerounais,0,7,1643840.0,2.3,4.1,1,Premium
+CLI0683,Binta Camara,Senegalais,0,3,1641040.0,4.0,3.3,1,Premium
+CLI2889,Binta Nkomo,Français,0,9,1640800.0,2.9,3.8,1,Premium
+CLI2788,Kofi Traore,Français,0,1,1638000.0,4.0,3.0,1,Premium
+CLI0771,Clarisse Diallo,Senegalais,0,1,1638000.0,4.0,5.0,1,Premium
+CLI0719,Fatou Traore,Ghaneeen,1,8,1636840.0,2.5,3.9,1,Premium
+CLI0581,Serge Sow,Ivoirien,0,4,1631880.0,3.0,4.8,1,Premium
+CLI2286,Aida Nkomo,Ivoirien,1,3,1631160.0,3.3,3.0,1,Premium
+CLI2929,Kofi Ndoye,Senegalais,1,4,1630280.0,3.0,5.0,1,Premium
+CLI1764,Sophie Kouassi,Ivoirien,1,2,1628700.0,2.5,5.0,1,Premium
+CLI1543,Cheick Koné,Autre,0,3,1628000.0,3.3,3.3,1,Premium
+CLI0786,Luc Kouassi,Allemand,1,6,1620400.0,2.3,3.8,1,Premium
+CLI1168,Sophie Ndoye,Français,0,5,1619200.0,3.4,4.0,1,Premium
+CLI0643,Luc Camara,Français,0,2,1618280.0,3.0,5.0,1,Premium
+CLI0504,Luc Sow,Camerounais,0,6,1616000.0,2.8,3.7,1,Premium
+CLI1462,Cheick Traore,Ivoirien,1,6,1615360.0,4.2,3.3,1,Premium
+CLI0731,Moussa Koné,Senegalais,1,5,1613920.0,2.0,5.0,1,Premium
+CLI2034,Serge Ndoye,Senegalais,0,2,1611900.0,3.5,4.0,1,Premium
+CLI1457,Aida Ndoye,Camerounais,0,4,1611340.0,3.3,4.3,1,Premium
+CLI2418,Luc Bamba,Ghaneeen,0,2,1611220.0,3.5,3.5,1,Premium
+CLI2228,Moussa Diallo,Ivoirien,1,2,1611200.0,3.5,4.0,1,Premium
+CLI0533,Clarisse Sow,Camerounais,1,1,1610000.0,5.0,5.0,1,Premium
+CLI2883,Ibrahim Koné,Senegalais,0,1,1610000.0,5.0,5.0,1,Premium
+CLI0798,Jean Kouassi,Senegalais,0,2,1610000.0,4.0,4.0,1,Premium
+CLI0071,Clarisse Diallo,Camerounais,1,1,1610000.0,5.0,5.0,1,Premium
+CLI2612,Eric Camara,Français,0,5,1609800.0,2.8,3.4,1,Premium
+CLI2040,Kofi Camara,Camerounais,0,4,1607520.0,2.3,3.8,1,Premium
+CLI2708,Fatou Traore,Senegalais,0,5,1605720.0,3.2,4.2,1,Premium
+CLI1866,Sophie Sow,Camerounais,0,3,1602950.0,3.0,4.3,1,Premium
+CLI1042,Rokia Sow,Senegalais,0,6,1602880.0,2.3,4.3,1,Premium
+CLI1763,Kofi Nkomo,Ghaneeen,1,6,1602360.0,3.3,3.7,1,Premium
+CLI2129,Sophie Mensah,Ghaneeen,0,5,1602200.0,3.0,4.4,1,Premium
+CLI0778,Jean Camara,Camerounais,0,4,1601040.0,3.0,3.5,1,Premium
+CLI2992,Ibrahim Ndoye,Ivoirien,1,6,1599600.0,3.5,4.3,1,Premium
+CLI1906,Cheick Sow,Ghaneeen,0,6,1593000.0,3.3,4.8,1,Premium
+CLI0710,Jean Sow,Camerounais,1,3,1587600.0,2.3,4.3,1,Premium
+CLI1151,Clarisse Nkomo,Camerounais,0,3,1587000.0,3.0,4.3,1,Premium
+CLI0873,Paul Ndoye,Senegalais,0,3,1586400.0,2.7,3.7,1,Premium
+CLI0355,Eric Kouassi,Ghaneeen,0,7,1581920.0,2.7,2.9,1,Premium
+CLI0163,Eric Traore,Camerounais,0,5,1579020.0,2.6,3.4,1,Premium
+CLI0024,Yao Traore,Ivoirien,0,4,1577040.0,3.0,3.8,1,Premium
+CLI0628,Marie Kouassi,Autre,0,3,1575610.0,2.0,3.3,1,Premium
+CLI1578,Cheick Mensah,Senegalais,0,5,1575200.0,3.0,4.4,1,Premium
+CLI0518,Cheick Bamba,Britannique,0,3,1575000.0,2.3,3.7,1,Premium
+CLI0445,Ibrahim Mensah,Camerounais,0,2,1575000.0,3.5,3.0,1,Premium
+CLI2562,Serge Ndoye,Ivoirien,0,3,1574880.0,2.7,4.3,1,Premium
+CLI2312,Cheick Ndoye,Ivoirien,0,10,1570040.0,2.3,4.0,1,Premium
+CLI1396,Jean Ndoye,Senegalais,1,5,1567040.0,2.6,4.0,1,Premium
+CLI2986,Ibrahim Bamba,Ghaneeen,1,3,1566520.0,3.3,5.0,1,Premium
+CLI2541,Ibrahim Diallo,Autre,0,5,1565320.0,2.0,4.2,1,Premium
+CLI1391,Serge Sow,Americain,0,4,1562840.0,3.8,3.3,1,Premium
+CLI1505,Yao Camara,Camerounais,0,5,1561240.0,2.6,3.6,1,Premium
+CLI0829,Jean Traore,Ivoirien,0,2,1561200.0,3.0,3.5,1,Premium
+CLI0020,Eric Traore,Camerounais,0,6,1558000.0,3.5,3.3,1,Premium
+CLI0585,Moussa Ndoye,Americain,1,4,1557200.0,2.5,5.0,1,Premium
+CLI0899,Aida Kouassi,Autre,0,3,1557000.0,2.3,4.0,1,Premium
+CLI0509,Jean Camara,Ivoirien,0,4,1555760.0,3.8,4.0,1,Premium
+CLI1009,Marie Sow,Senegalais,0,3,1555500.0,4.7,4.7,1,Premium
+CLI1019,Aida Diallo,Français,0,6,1554720.0,3.0,4.3,1,Premium
+CLI2299,Eric Mensah,Senegalais,0,3,1552500.0,3.7,4.3,1,Premium
+CLI0271,Ibrahim Nkomo,Americain,0,5,1551600.0,3.0,3.0,1,Premium
+CLI2078,Marie Mensah,Français,0,5,1550400.0,4.0,3.5,1,Premium
+CLI2904,Yao Mensah,Senegalais,0,8,1547440.0,2.5,4.0,1,Premium
+CLI2126,Marie Koné,Ivoirien,0,5,1545600.0,3.6,4.4,1,Premium
+CLI2640,Luc Bamba,Senegalais,0,6,1545560.0,3.0,3.5,1,Premium
+CLI0876,Fatou Camara,Autre,1,6,1545440.0,2.7,3.8,1,Premium
+CLI1804,Cheick Ndoye,Camerounais,0,5,1544400.0,2.2,3.8,1,Premium
+CLI2063,Aminata Camara,Français,0,5,1544150.0,1.6,4.3,1,Premium
+CLI2908,Aminata Kouassi,Ivoirien,0,5,1543920.0,3.0,3.4,1,Premium
+CLI2106,Binta Koné,Ivoirien,0,5,1542200.0,2.2,3.8,1,Premium
+CLI2893,Jean Bamba,Français,0,4,1540000.0,3.0,4.8,1,Premium
+CLI0489,Kofi Camara,Ivoirien,0,8,1538040.0,2.4,4.3,1,Premium
+CLI0796,Paul Kouassi,Allemand,1,6,1538010.0,2.2,4.4,1,Premium
+CLI0277,Yao Nkomo,Camerounais,0,6,1536600.0,3.7,4.3,1,Premium
+CLI2925,Luc Camara,Camerounais,1,4,1532560.0,3.8,4.5,1,Premium
+CLI0154,Kofi Nkomo,Senegalais,1,4,1532320.0,3.5,4.3,1,Premium
+CLI1295,Yao Diallo,Camerounais,0,7,1531800.0,2.3,2.8,1,Premium
+CLI1815,Jean Bamba,Camerounais,1,4,1531200.0,4.0,4.0,1,Premium
+CLI2944,Luc Diallo,Ghaneeen,0,3,1530450.0,2.7,4.3,1,Premium
+CLI0029,Binta Camara,Autre,0,3,1530000.0,3.7,4.0,1,Premium
+CLI0653,Kofi Koné,Allemand,0,5,1529380.0,2.8,3.4,1,Premium
+CLI2095,Luc Koné,Ivoirien,1,5,1529100.0,3.2,3.2,1,Premium
+CLI2583,Ibrahim Nkomo,Ivoirien,0,4,1527650.0,3.0,4.3,1,Premium
+CLI1953,Ibrahim Nkomo,Allemand,1,5,1527600.0,2.6,4.4,1,Premium
+CLI2509,Luc Bamba,Camerounais,0,4,1527600.0,4.0,4.0,1,Premium
+CLI1350,Binta Mensah,Camerounais,0,8,1527040.0,2.1,4.0,1,Premium
+CLI0828,Paul Nkomo,Ivoirien,0,3,1526650.0,2.7,4.0,1,Premium
+CLI0699,Serge Bamba,Ivoirien,0,3,1526580.0,2.3,4.3,1,Premium
+CLI1135,Aminata Kouassi,Ivoirien,0,7,1525440.0,2.9,3.4,1,Premium
+CLI1153,Luc Ndoye,Français,0,6,1523480.0,1.5,3.5,1,Premium
+CLI1107,Yao Kouassi,Britannique,0,3,1521840.0,4.0,4.3,1,Premium
+CLI0767,Moussa Nkomo,Allemand,1,8,1520800.0,3.0,4.1,1,Premium
+CLI1072,Paul Sow,Autre,0,4,1520600.0,3.0,3.3,1,Premium
+CLI0637,Aminata Kouassi,Camerounais,0,4,1520520.0,2.5,3.8,1,Premium
+CLI0384,Paul Diallo,Senegalais,0,5,1517760.0,4.2,4.8,1,Premium
+CLI0592,Cheick Ndoye,Camerounais,0,4,1517400.0,2.5,4.5,1,Premium
+CLI1767,Moussa Mensah,Senegalais,1,5,1516200.0,2.6,4.0,1,Premium
+CLI2445,Adjoua Bamba,Ivoirien,1,4,1515800.0,4.5,3.0,1,Premium
+CLI2775,Paul Diallo,Allemand,0,2,1513920.0,4.5,3.0,1,Premium
+CLI2718,Yao Diallo,Ghaneeen,0,4,1509720.0,5.0,3.0,1,Premium
+CLI0604,Kofi Kouassi,Senegalais,0,4,1507500.0,2.3,3.7,1,Premium
+CLI0210,Moussa Sow,Autre,0,4,1506040.0,2.8,3.3,1,Premium
+CLI0766,Cheick Diallo,Senegalais,0,4,1505600.0,4.3,3.8,1,Premium
+CLI2675,Serge Koné,Ivoirien,0,6,1502960.0,3.0,4.7,1,Premium
+CLI1965,Rokia Koné,Ivoirien,1,4,1501060.0,2.3,4.5,1,Premium
+CLI2215,Awa Sow,Americain,1,6,1498500.0,4.7,4.2,1,Premium
+CLI2489,Fatou Mensah,Autre,0,5,1498220.0,2.0,4.2,1,Premium
+CLI0311,Yao Sow,Allemand,0,5,1497480.0,2.2,4.8,1,Premium
+CLI2838,Ibrahim Koné,Ivoirien,0,5,1497300.0,4.2,4.6,1,Premium
+CLI1809,Moussa Kouassi,Français,0,7,1495260.0,3.1,3.9,1,Premium
+CLI0676,Paul Koné,Senegalais,0,2,1495000.0,2.5,4.5,1,Premium
+CLI2090,Yao Mensah,Français,0,6,1494740.0,2.8,4.5,1,Premium
+CLI0651,Adjoua Diallo,Senegalais,0,6,1492880.0,2.2,3.7,1,Premium
+CLI1835,Moussa Kouassi,Americain,0,6,1492800.0,3.2,4.5,1,Premium
+CLI1502,Cheick Sow,Camerounais,0,8,1491520.0,2.0,4.5,1,Premium
+CLI2791,Serge Diallo,Americain,0,5,1491240.0,4.0,4.0,1,Premium
+CLI1454,Moussa Mensah,Britannique,0,7,1489500.0,1.7,3.7,1,Premium
+CLI2460,Eric Koné,Ivoirien,1,5,1487600.0,2.2,3.4,1,Premium
+CLI0448,Serge Koné,Americain,0,7,1485400.0,2.0,3.1,1,Premium
+CLI0492,Aida Mensah,Autre,1,3,1484550.0,2.3,4.7,1,Premium
+CLI0878,Eric Camara,Français,1,7,1483620.0,2.3,3.7,1,Premium
+CLI0638,Ibrahim Diallo,Camerounais,1,6,1482800.0,2.5,4.0,1,Premium
+CLI2748,Yao Mensah,Senegalais,0,5,1482600.0,2.6,3.2,1,Premium
+CLI2818,Kofi Traore,Allemand,0,5,1482180.0,2.8,4.6,1,Premium
+CLI1136,Serge Ndoye,Français,0,3,1478880.0,3.3,3.3,1,Premium
+CLI1402,Rokia Kouassi,Ivoirien,0,5,1477450.0,2.6,4.2,1,Premium
+CLI1144,Jean Koné,Camerounais,0,5,1477440.0,2.8,4.0,1,Premium
+CLI0352,Awa Mensah,Ivoirien,0,4,1476600.0,3.0,4.0,1,Premium
+CLI2695,Cheick Sow,Ivoirien,0,8,1474480.0,3.0,4.0,1,Premium
+CLI2881,Aminata Sow,Autre,0,4,1474400.0,3.0,2.8,1,Premium
+CLI2673,Fatou Camara,Senegalais,0,2,1474200.0,7.0,5.0,1,Premium
+CLI0282,Paul Nkomo,Ivoirien,1,4,1473600.0,2.8,4.3,1,Premium
+CLI1442,Jean Sow,Ivoirien,0,5,1472440.0,2.0,3.2,1,Premium
+CLI1490,Cheick Bamba,Ivoirien,0,6,1471800.0,2.0,4.3,1,Premium
+CLI2222,Eric Sow,Ghaneeen,1,6,1470570.0,2.5,4.2,1,Premium
+CLI1189,Clarisse Traore,Camerounais,0,7,1468710.0,2.6,4.6,1,Premium
+CLI1619,Aminata Kouassi,Britannique,0,8,1467900.0,2.3,3.6,1,Premium
+CLI0996,Eric Kouassi,Autre,1,3,1467700.0,3.7,4.0,1,Premium
+CLI0347,Awa Sow,Ghaneeen,0,5,1466600.0,2.4,3.8,1,Premium
+CLI1901,Yao Bamba,Allemand,0,3,1465560.0,3.7,5.0,1,Premium
+CLI2628,Fatou Mensah,Americain,1,3,1465120.0,4.3,4.0,1,Premium
+CLI2323,Moussa Bamba,Ivoirien,0,6,1464800.0,4.0,4.7,1,Premium
+CLI0821,Marie Ndoye,Senegalais,1,4,1462600.0,2.8,3.0,1,Premium
+CLI0337,Ibrahim Diallo,Français,0,5,1461840.0,2.4,3.8,1,Premium
+CLI0669,Ibrahim Mensah,Ivoirien,0,5,1461600.0,3.4,3.6,1,Premium
+CLI1567,Eric Mensah,Autre,0,2,1455900.0,2.5,4.5,1,Premium
+CLI1572,Eric Bamba,Camerounais,1,2,1455900.0,3.0,4.5,1,Premium
+CLI1473,Clarisse Camara,Ivoirien,1,5,1455000.0,1.6,4.2,1,Premium
+CLI0263,Jean Koné,Ivoirien,0,8,1454400.0,2.4,4.1,1,Premium
+CLI1106,Luc Koné,Français,1,4,1453840.0,2.8,4.0,1,Premium
+CLI0620,Aida Traore,Français,1,4,1452190.0,2.5,3.5,1,Premium
+CLI2639,Ibrahim Traore,Ivoirien,0,5,1450520.0,2.2,4.2,1,Premium
+CLI1902,Kofi Koné,Ivoirien,0,2,1449000.0,4.5,5.0,1,Premium
+CLI1941,Serge Ndoye,Ghaneeen,0,1,1449000.0,4.0,5.0,1,Premium
+CLI0918,Serge Traore,Ivoirien,1,5,1448200.0,1.8,4.5,1,Premium
+CLI1368,Luc Camara,Ivoirien,0,3,1447680.0,4.0,3.7,1,Premium
+CLI1088,Adjoua Sow,Senegalais,0,6,1447200.0,2.3,4.5,1,Premium
+CLI1616,Luc Camara,Ghaneeen,1,6,1446600.0,2.3,4.0,1,Premium
+CLI2125,Jean Mensah,Autre,0,7,1445100.0,2.9,4.6,1,Premium
+CLI2455,Moussa Traore,Camerounais,1,6,1443540.0,2.3,3.3,1,Premium
+CLI0655,Eric Koné,Camerounais,1,4,1443480.0,3.5,3.5,1,Premium
+CLI2974,Paul Nkomo,Ghaneeen,1,4,1441720.0,3.5,4.0,1,Premium
+CLI2741,Adjoua Bamba,Ivoirien,0,6,1441660.0,2.2,4.3,1,Premium
+CLI1739,Cheick Ndoye,Ivoirien,0,4,1441000.0,2.3,3.3,1,Premium
+CLI2870,Serge Nkomo,Français,1,4,1440600.0,5.5,4.8,1,Premium
+CLI1381,Serge Ndoye,Autre,0,5,1439400.0,3.0,4.6,1,Premium
+CLI0525,Paul Traore,Ghaneeen,0,2,1438400.0,3.5,3.0,1,Premium
+CLI1654,Luc Diallo,Ivoirien,1,3,1437000.0,3.3,3.7,1,Premium
+CLI1677,Jean Koné,Ghaneeen,0,4,1436000.0,1.8,4.8,1,Premium
+CLI0381,Adjoua Koné,Ivoirien,0,4,1436000.0,3.0,4.3,1,Premium
+CLI1670,Moussa Koné,Britannique,0,3,1434080.0,3.3,4.3,1,Premium
+CLI1116,Kofi Sow,Senegalais,0,5,1432560.0,3.0,4.8,1,Premium
+CLI0646,Cheick Kouassi,Ivoirien,0,4,1431000.0,3.0,3.5,1,Premium
+CLI2483,Ibrahim Traore,Camerounais,1,4,1429000.0,2.5,4.3,1,Premium
+CLI1627,Paul Ndoye,Senegalais,0,4,1428800.0,2.5,2.7,1,Premium
+CLI1332,Paul Camara,Français,0,4,1428250.0,2.3,4.8,1,Premium
+CLI0298,Aida Kouassi,Français,0,4,1428000.0,3.5,4.0,1,Premium
+CLI0547,Adjoua Mensah,Autre,0,4,1423800.0,4.0,3.0,1,Premium
+CLI2661,Ibrahim Traore,Ivoirien,1,2,1422600.0,2.5,4.5,1,Premium
+CLI1385,Paul Nkomo,Français,0,7,1421440.0,2.4,3.6,1,Premium
+CLI1673,Serge Kouassi,Autre,0,4,1421280.0,2.5,4.3,1,Premium
+CLI1108,Awa Koné,Autre,0,4,1420200.0,2.8,4.5,1,Premium
+CLI0052,Aminata Koné,Allemand,0,3,1418600.0,2.0,4.0,1,Premium
+CLI2957,Eric Kouassi,Camerounais,0,2,1418000.0,3.5,4.0,1,Premium
+CLI1759,Aminata Bamba,Ivoirien,1,2,1416800.0,3.5,4.0,1,Premium
+CLI1278,Cheick Bamba,Camerounais,0,1,1416800.0,4.0,3.0,1,Premium
+CLI2135,Fatou Sow,Autre,1,4,1416600.0,2.8,4.5,1,Premium
+CLI1895,Awa Diallo,Senegalais,0,2,1413120.0,4.0,3.5,1,Premium
+CLI1610,Moussa Sow,Senegalais,1,3,1412500.0,2.7,3.3,1,Premium
+CLI2637,Paul Sow,Ghaneeen,1,7,1411880.0,2.3,3.9,1,Premium
+CLI1803,Rokia Nkomo,Autre,1,6,1411320.0,3.2,3.2,1,Premium
+CLI2004,Eric Sow,Senegalais,0,4,1411080.0,2.0,4.8,1,Premium
+CLI1178,Eric Koné,Senegalais,0,4,1409680.0,2.0,3.8,1,Premium
+CLI2804,Moussa Kouassi,Français,0,5,1409600.0,2.4,4.0,1,Premium
+CLI1439,Aida Kouassi,Français,1,4,1409440.0,3.3,4.0,1,Premium
+CLI2225,Luc Nkomo,Allemand,0,4,1409440.0,3.5,3.8,1,Premium
+CLI1323,Serge Camara,Senegalais,0,3,1407600.0,3.0,4.3,1,Premium
+CLI0484,Aminata Kouassi,Ivoirien,0,4,1407320.0,3.5,2.8,1,Premium
+CLI1510,Paul Nkomo,Americain,0,7,1405640.0,2.9,3.7,1,Premium
+CLI0857,Sophie Nkomo,Senegalais,0,5,1405300.0,2.4,4.4,1,Premium
+CLI1406,Kofi Kouassi,Ivoirien,0,5,1405020.0,2.0,3.8,1,Premium
+CLI0652,Binta Camara,Français,0,4,1403650.0,2.5,4.5,1,Premium
+CLI1499,Yao Nkomo,Autre,0,8,1401920.0,2.3,4.3,1,Premium
+CLI1742,Clarisse Bamba,Autre,0,5,1401600.0,2.8,3.6,1,Premium
+CLI2984,Yao Diallo,Americain,0,2,1398860.0,2.5,3.5,1,Premium
+CLI2270,Paul Ndoye,Camerounais,0,4,1398560.0,3.0,4.0,1,Premium
+CLI1232,Clarisse Ndoye,Français,0,5,1397920.0,3.4,4.6,1,Premium
+CLI0170,Aida Bamba,Senegalais,0,4,1396900.0,2.0,4.8,1,Premium
+CLI2352,Paul Bamba,Camerounais,0,3,1395000.0,4.3,4.0,1,Premium
+CLI1341,Aida Sow,Autre,0,6,1394720.0,2.5,4.2,1,Premium
+CLI1351,Marie Koné,Ivoirien,0,5,1392400.0,3.2,4.8,1,Premium
+CLI0361,Aida Nkomo,Autre,0,6,1392000.0,2.5,4.7,1,Premium
+CLI0269,Binta Mensah,Senegalais,0,2,1388560.0,3.5,3.0,1,Premium
+CLI1837,Marie Bamba,Ivoirien,1,7,1388160.0,2.3,3.3,1,Premium
+CLI0799,Eric Kouassi,Camerounais,1,3,1386376.0,3.0,5.0,1,Premium
+CLI0750,Eric Diallo,Ivoirien,0,5,1385680.0,2.6,3.8,1,Premium
+CLI1583,Cheick Traore,Senegalais,0,3,1383200.0,2.3,4.0,1,Premium
+CLI0743,Sophie Traore,Ghaneeen,0,3,1380240.0,3.0,4.0,1,Premium
+CLI2939,Kofi Kouassi,Ivoirien,1,6,1380000.0,2.5,3.3,1,Premium
+CLI1770,Kofi Traore,Americain,1,4,1380000.0,3.8,3.8,1,Premium
+CLI2542,Aminata Camara,Allemand,1,3,1378800.0,3.3,3.7,1,Premium
+CLI2801,Eric Bamba,Ivoirien,0,4,1376520.0,3.0,4.5,1,Premium
+CLI1086,Aminata Nkomo,Autre,0,4,1376480.0,3.0,4.0,1,Premium
+CLI2611,Kofi Camara,Senegalais,0,3,1375400.0,2.3,3.0,1,Premium
+CLI0936,Awa Camara,Ghaneeen,0,4,1372900.0,3.5,3.0,1,Premium
+CLI0692,Sophie Mensah,Camerounais,1,8,1371200.0,2.5,4.0,1,Premium
+CLI0078,Yao Bamba,Camerounais,0,6,1371100.0,3.0,3.8,1,Premium
+CLI0245,Luc Koné,Ivoirien,0,5,1370960.0,2.4,4.2,1,Premium
+CLI2467,Yao Diallo,Senegalais,1,4,1366400.0,3.0,4.3,1,Premium
+CLI1513,Yao Diallo,Camerounais,1,4,1366320.0,3.5,3.8,1,Premium
+CLI0118,Cheick Mensah,Senegalais,0,3,1366200.0,3.3,2.7,1,Premium
+CLI0909,Kofi Kouassi,Ivoirien,0,4,1365600.0,2.5,3.3,1,Premium
+CLI1662,Ibrahim Nkomo,Autre,1,2,1365000.0,3.0,5.0,1,Premium
+CLI1455,Paul Diallo,Ivoirien,0,3,1362400.0,4.0,4.0,1,Premium
+CLI0556,Rokia Camara,Ivoirien,0,5,1362060.0,2.4,3.8,1,Premium
+CLI2598,Clarisse Bamba,Autre,1,3,1361400.0,2.3,4.3,1,Premium
+CLI0852,Serge Mensah,Ivoirien,1,5,1359200.0,3.2,4.2,1,Premium
+CLI0697,Fatou Kouassi,Ivoirien,0,4,1358720.0,3.5,4.5,1,Premium
+CLI2712,Rokia Kouassi,Senegalais,0,5,1350800.0,3.4,3.8,1,Premium
+CLI2431,Luc Nkomo,Ivoirien,0,4,1350240.0,2.5,4.3,1,Premium
+CLI1007,Ibrahim Diallo,Autre,1,3,1345600.0,2.7,4.3,2,Standard
+CLI2083,Jean Kouassi,Allemand,0,3,1345200.0,4.3,4.3,2,Standard
+CLI2081,Clarisse Mensah,Ivoirien,1,5,1344000.0,3.2,4.2,2,Standard
+CLI0863,Adjoua Mensah,Senegalais,1,2,1343340.0,4.0,3.0,2,Standard
+CLI1415,Paul Diallo,Français,0,7,1342200.0,1.7,4.6,2,Standard
+CLI0275,Aida Nkomo,Autre,0,3,1341600.0,2.3,5.0,2,Standard
+CLI2617,Adjoua Sow,Senegalais,0,3,1340600.0,2.7,4.3,2,Standard
+CLI1877,Marie Ndoye,Allemand,0,3,1340400.0,4.0,4.3,2,Standard
+CLI2391,Aminata Camara,Camerounais,1,5,1340000.0,2.8,4.0,2,Standard
+CLI1833,Adjoua Sow,Americain,0,4,1339360.0,2.8,4.3,2,Standard
+CLI1294,Cheick Koné,Ivoirien,0,3,1338600.0,2.7,4.0,2,Standard
+CLI0910,Kofi Koné,Ivoirien,1,6,1336320.0,2.5,3.7,2,Standard
+CLI2232,Serge Mensah,Ivoirien,0,4,1336200.0,3.0,4.3,2,Standard
+CLI0805,Adjoua Ndoye,Autre,0,3,1335100.0,1.7,3.3,2,Standard
+CLI0177,Binta Kouassi,Autre,1,8,1334680.0,2.9,3.9,2,Standard
+CLI1239,Rokia Koné,Ivoirien,0,4,1333620.0,2.8,3.5,2,Standard
+CLI1789,Jean Camara,Americain,0,5,1333280.0,2.4,4.0,2,Standard
+CLI0067,Luc Mensah,Ivoirien,1,1,1333080.0,7.0,3.0,2,Standard
+CLI0718,Paul Bamba,Ivoirien,0,5,1332320.0,4.2,5.0,2,Standard
+CLI1623,Rokia Camara,Senegalais,0,4,1330320.0,3.3,4.3,2,Standard
+CLI1111,Binta Traore,Americain,0,6,1330000.0,3.0,4.7,2,Standard
+CLI1327,Cheick Mensah,Autre,0,6,1329760.0,2.3,4.7,2,Standard
+CLI0366,Ibrahim Bamba,Ivoirien,0,7,1329000.0,2.1,3.7,2,Standard
+CLI1729,Cheick Kouassi,Ivoirien,0,2,1327500.0,2.0,5.0,2,Standard
+CLI2268,Adjoua Sow,Senegalais,1,4,1326700.0,1.8,4.5,2,Standard
+CLI0926,Paul Traore,Ivoirien,1,6,1326560.0,1.8,4.7,2,Standard
+CLI1557,Luc Nkomo,Americain,0,3,1326520.0,3.0,4.0,2,Standard
+CLI2706,Eric Ndoye,Ivoirien,0,4,1326400.0,2.3,4.5,2,Standard
+CLI1863,Sophie Bamba,Français,1,2,1323200.0,2.5,5.0,2,Standard
+CLI2266,Yao Nkomo,Ivoirien,0,3,1323000.0,2.7,4.3,2,Standard
+CLI1652,Awa Mensah,Ivoirien,1,4,1322800.0,3.8,4.3,2,Standard
+CLI1018,Yao Camara,Autre,0,2,1322100.0,2.5,4.0,2,Standard
+CLI1288,Moussa Ndoye,Camerounais,1,3,1320000.0,2.3,4.0,2,Standard
+CLI2097,Adjoua Kouassi,Allemand,0,5,1318640.0,2.8,4.4,2,Standard
+CLI1891,Jean Mensah,Français,1,7,1318200.0,1.7,4.0,2,Standard
+CLI2452,Yao Kouassi,Ivoirien,0,5,1318000.0,2.8,4.8,2,Standard
+CLI0818,Kofi Koné,Autre,0,2,1316640.0,4.0,4.0,2,Standard
+CLI1436,Rokia Ndoye,Français,1,2,1316640.0,3.5,4.0,2,Standard
+CLI1398,Adjoua Traore,Ivoirien,0,4,1315680.0,2.8,4.5,2,Standard
+CLI1265,Eric Kouassi,Ivoirien,0,4,1315680.0,3.0,4.3,2,Standard
+CLI0780,Ibrahim Koné,Senegalais,0,5,1313920.0,2.2,3.8,2,Standard
+CLI1097,Aida Koné,Senegalais,0,6,1313920.0,1.5,4.3,2,Standard
+CLI1949,Yao Diallo,Americain,0,3,1313680.0,4.3,5.0,2,Standard
+CLI2435,Fatou Nkomo,Ivoirien,0,4,1312000.0,2.8,3.5,2,Standard
+CLI0424,Sophie Diallo,Autre,0,6,1311700.0,1.7,4.0,2,Standard
+CLI2508,Moussa Koné,Ivoirien,0,3,1310400.0,3.3,5.0,2,Standard
+CLI1129,Cheick Ndoye,Autre,1,3,1308600.0,3.0,3.7,2,Standard
+CLI0808,Kofi Koné,Ghaneeen,1,3,1306200.0,2.3,4.7,2,Standard
+CLI0708,Fatou Camara,Ghaneeen,0,8,1305840.0,2.1,4.3,2,Standard
+CLI1753,Luc Nkomo,Ivoirien,0,5,1305640.0,2.6,4.4,2,Standard
+CLI2820,Ibrahim Bamba,Camerounais,0,5,1305100.0,2.8,3.4,2,Standard
+CLI0527,Rokia Traore,Americain,1,2,1305000.0,2.5,3.5,2,Standard
+CLI0896,Fatou Kouassi,Français,0,3,1304720.0,3.3,4.3,2,Standard
+CLI0810,Moussa Nkomo,Senegalais,0,4,1304200.0,3.0,3.0,2,Standard
+CLI0340,Cheick Camara,Ivoirien,1,1,1304100.0,7.0,2.0,2,Standard
+CLI0436,Paul Camara,Ghaneeen,0,1,1304100.0,7.0,5.0,2,Standard
+CLI0789,Yao Ndoye,Français,0,1,1304100.0,7.0,4.0,2,Standard
+CLI2975,Ibrahim Camara,Ivoirien,0,3,1303840.0,3.0,3.3,2,Standard
+CLI2440,Eric Koné,Autre,0,7,1303595.0,3.0,4.1,2,Standard
+CLI1257,Sophie Koné,Ivoirien,0,4,1302300.0,2.3,4.3,2,Standard
+CLI0522,Eric Traore,Camerounais,0,3,1300800.0,3.7,4.7,2,Standard
+CLI1013,Kofi Bamba,Autre,0,4,1300420.0,2.3,3.3,2,Standard
+CLI1554,Serge Bamba,Ivoirien,1,5,1295400.0,1.6,4.8,2,Standard
+CLI0235,Marie Camara,Camerounais,0,6,1294880.0,3.2,4.2,2,Standard
+CLI2607,Yao Bamba,Autre,0,4,1294200.0,3.3,5.0,2,Standard
+CLI0081,Paul Camara,Ivoirien,1,5,1294100.0,2.2,3.8,2,Standard
+CLI1687,Sophie Nkomo,Français,0,4,1293000.0,3.0,2.8,2,Standard
+CLI0057,Clarisse Kouassi,Senegalais,0,4,1292000.0,2.8,5.0,2,Standard
+CLI1644,Kofi Traore,Ivoirien,0,3,1290600.0,5.3,3.0,2,Standard
+CLI1961,Cheick Kouassi,Ivoirien,1,2,1287900.0,3.5,4.5,2,Standard
+CLI1230,Fatou Sow,Autre,1,8,1287540.0,1.6,4.9,2,Standard
+CLI1990,Paul Diallo,Senegalais,0,5,1286880.0,3.2,4.4,2,Standard
+CLI2485,Eric Kouassi,Ghaneeen,0,6,1285960.0,2.0,3.2,2,Standard
+CLI1746,Adjoua Koné,Ivoirien,0,8,1285600.0,2.9,3.1,2,Standard
+CLI2035,Serge Sow,Ghaneeen,0,2,1283500.0,5.0,4.5,2,Standard
+CLI2465,Aida Traore,Ghaneeen,0,4,1283400.0,2.0,4.5,2,Standard
+CLI2876,Luc Camara,Ivoirien,0,3,1283400.0,4.3,5.0,2,Standard
+CLI0979,Awa Traore,Senegalais,0,5,1282750.0,3.0,4.2,2,Standard
+CLI0940,Luc Diallo,Senegalais,0,5,1281820.0,3.0,4.8,2,Standard
+CLI0483,Eric Diallo,Camerounais,0,4,1281440.0,2.8,4.8,2,Standard
+CLI1387,Ibrahim Traore,Camerounais,1,2,1280250.0,2.0,4.0,2,Standard
+CLI0824,Awa Sow,Camerounais,0,3,1278000.0,2.0,4.0,2,Standard
+CLI2082,Kofi Ndoye,Français,0,2,1277650.0,4.0,4.5,2,Standard
+CLI2209,Serge Koné,Ghaneeen,1,5,1275960.0,2.0,3.4,2,Standard
+CLI2503,Jean Bamba,Camerounais,0,3,1275900.0,3.7,4.0,2,Standard
+CLI0885,Luc Koné,Ivoirien,0,4,1274850.0,2.3,3.5,2,Standard
+CLI0538,Cheick Ndoye,Ivoirien,1,4,1274800.0,3.0,5.0,2,Standard
+CLI2998,Binta Bamba,Français,0,4,1274200.0,1.8,3.8,2,Standard
+CLI2357,Eric Kouassi,Americain,0,4,1273200.0,2.3,3.5,2,Standard
+CLI1772,Clarisse Bamba,Americain,0,4,1272600.0,2.5,5.0,2,Standard
+CLI2671,Serge Koné,Ivoirien,0,2,1272000.0,3.0,3.5,2,Standard
+CLI0393,Yao Sow,Ivoirien,1,4,1272000.0,2.8,3.5,2,Standard
+CLI1897,Aminata Sow,Ivoirien,0,3,1271760.0,4.7,4.7,2,Standard
+CLI0182,Aida Camara,Ivoirien,0,5,1270000.0,3.2,3.8,2,Standard
+CLI1231,Adjoua Diallo,Ghaneeen,1,6,1269480.0,2.3,3.7,2,Standard
+CLI1671,Ibrahim Nkomo,Camerounais,0,3,1269000.0,3.0,4.3,2,Standard
+CLI2311,Clarisse Camara,Français,0,2,1269000.0,3.5,2.0,2,Standard
+CLI1342,Ibrahim Diallo,Americain,0,6,1268880.0,1.7,4.3,2,Standard
+CLI1285,Awa Koné,Ivoirien,0,4,1268800.0,2.0,4.0,2,Standard
+CLI1919,Moussa Bamba,Autre,0,4,1267200.0,4.3,3.5,2,Standard
+CLI1756,Sophie Ndoye,Camerounais,1,3,1267200.0,3.0,3.3,2,Standard
+CLI2985,Binta Koné,Français,0,6,1263160.0,2.2,2.6,2,Standard
+CLI1721,Rokia Kouassi,Ivoirien,0,3,1261800.0,2.7,4.7,2,Standard
+CLI1077,Kofi Kouassi,Camerounais,0,1,1260000.0,4.0,5.0,2,Standard
+CLI1423,Rokia Koné,Français,0,5,1259600.0,2.4,4.0,2,Standard
+CLI0441,Sophie Nkomo,Français,1,4,1257840.0,4.3,3.5,2,Standard
+CLI0541,Clarisse Traore,Français,0,2,1256400.0,3.0,5.0,2,Standard
+CLI1399,Luc Ndoye,Camerounais,1,1,1255800.0,3.0,5.0,2,Standard
+CLI0265,Binta Mensah,Ivoirien,0,4,1253520.0,3.3,2.8,2,Standard
+CLI1530,Adjoua Sow,Français,0,4,1253500.0,2.5,4.3,2,Standard
+CLI0703,Ibrahim Nkomo,Ivoirien,0,3,1253000.0,3.0,4.0,2,Standard
+CLI2819,Serge Bamba,Ghaneeen,1,3,1252920.0,3.0,4.0,2,Standard
+CLI1375,Eric Camara,Britannique,0,3,1252840.0,2.7,3.7,2,Standard
+CLI2545,Moussa Nkomo,Français,0,4,1251160.0,2.8,3.8,2,Standard
+CLI0314,Aminata Mensah,Ghaneeen,0,6,1249440.0,2.7,4.0,2,Standard
+CLI1807,Serge Sow,Ivoirien,0,4,1244200.0,2.8,4.0,2,Standard
+CLI0026,Marie Traore,Ivoirien,0,2,1244000.0,6.0,5.0,2,Standard
+CLI2749,Paul Koné,Ghaneeen,0,9,1244000.0,1.9,4.4,2,Standard
+CLI1526,Cheick Sow,Britannique,0,4,1243200.0,3.8,4.5,2,Standard
+CLI1421,Luc Ndoye,Camerounais,0,3,1242000.0,3.7,4.3,2,Standard
+CLI0359,Eric Nkomo,Ivoirien,0,2,1242000.0,4.5,3.0,2,Standard
+CLI1291,Rokia Traore,Ghaneeen,0,3,1241380.0,2.7,4.3,2,Standard
+CLI2886,Paul Kouassi,Ivoirien,0,5,1241000.0,2.8,4.8,2,Standard
+CLI1509,Paul Mensah,Ivoirien,0,2,1240000.0,3.0,3.5,2,Standard
+CLI1290,Adjoua Kouassi,Ivoirien,0,4,1237400.0,1.5,4.5,2,Standard
+CLI1461,Luc Traore,Senegalais,0,3,1236000.0,5.0,4.7,2,Standard
+CLI2337,Paul Koné,Senegalais,0,3,1234640.0,3.0,4.7,2,Standard
+CLI2206,Paul Nkomo,Camerounais,0,3,1234600.0,2.7,4.0,2,Standard
+CLI2177,Moussa Kouassi,Senegalais,0,2,1233000.0,3.5,3.5,2,Standard
+CLI0975,Cheick Bamba,Autre,0,4,1232800.0,2.8,3.7,2,Standard
+CLI0213,Jean Camara,Ivoirien,1,5,1232800.0,2.2,4.8,2,Standard
+CLI2618,Serge Mensah,Français,0,3,1232400.0,3.0,4.3,2,Standard
+CLI1889,Adjoua Camara,Français,0,2,1232000.0,4.0,4.0,2,Standard
+CLI2273,Yao Bamba,Camerounais,0,8,1231680.0,2.8,4.4,2,Standard
+CLI0644,Luc Bamba,Français,0,4,1231280.0,3.3,4.5,2,Standard
+CLI2905,Sophie Koné,Ivoirien,0,3,1231200.0,3.7,4.7,2,Standard
+CLI0840,Sophie Koné,Camerounais,0,2,1229280.0,4.0,4.0,2,Standard
+CLI0739,Fatou Traore,Ivoirien,0,6,1228800.0,2.8,3.8,2,Standard
+CLI0883,Fatou Nkomo,Ivoirien,0,3,1227600.0,3.0,4.3,2,Standard
+CLI0402,Serge Mensah,Britannique,0,5,1226560.0,2.8,4.4,2,Standard
+CLI0496,Adjoua Traore,Ivoirien,1,4,1226400.0,3.3,4.8,2,Standard
+CLI2837,Jean Camara,Ivoirien,1,3,1226000.0,1.7,3.7,2,Standard
+CLI2822,Eric Nkomo,Senegalais,0,4,1224320.0,4.3,4.5,2,Standard
+CLI2524,Kofi Koné,Senegalais,0,2,1224000.0,4.5,3.5,2,Standard
+CLI1300,Binta Diallo,Ghaneeen,0,3,1224000.0,4.3,5.0,2,Standard
+CLI2322,Binta Traore,Ivoirien,1,3,1223520.0,2.3,3.7,2,Standard
+CLI0111,Serge Bamba,Ivoirien,0,2,1223280.0,3.5,5.0,2,Standard
+CLI2055,Aminata Koné,Senegalais,0,5,1222720.0,2.6,3.8,2,Standard
+CLI0281,Luc Kouassi,Allemand,0,5,1221280.0,3.0,4.0,2,Standard
+CLI0770,Rokia Sow,Ivoirien,0,2,1221000.0,4.0,2.5,2,Standard
+CLI1519,Yao Bamba,Ivoirien,0,4,1217920.0,3.0,3.3,2,Standard
+CLI0953,Kofi Mensah,Camerounais,1,2,1214400.0,2.5,3.5,2,Standard
+CLI1790,Cheick Camara,Ivoirien,0,5,1214200.0,2.4,3.6,2,Standard
+CLI1538,Serge Kouassi,Ivoirien,0,3,1213710.0,1.7,4.3,2,Standard
+CLI1139,Kofi Diallo,Camerounais,0,2,1213000.0,3.0,4.5,2,Standard
+CLI0204,Fatou Kouassi,Senegalais,0,3,1212560.0,4.0,4.0,2,Standard
+CLI2755,Cheick Traore,Camerounais,0,2,1212000.0,3.5,4.5,2,Standard
+CLI1205,Aida Koné,Senegalais,0,3,1212000.0,3.7,4.7,2,Standard
+CLI2229,Aida Nkomo,Ivoirien,0,2,1212000.0,3.0,3.5,2,Standard
+CLI0399,Rokia Camara,Allemand,1,4,1211800.0,3.0,4.0,2,Standard
+CLI2199,Ibrahim Traore,Americain,0,8,1211640.0,2.4,3.3,2,Standard
+CLI0868,Jean Ndoye,Allemand,0,4,1209440.0,2.3,4.8,2,Standard
+CLI0229,Yao Ndoye,Ivoirien,0,5,1208160.0,3.0,3.4,2,Standard
+CLI2947,Awa Bamba,Ivoirien,0,5,1207720.0,2.4,4.2,2,Standard
+CLI1701,Luc Kouassi,Ghaneeen,0,2,1207500.0,3.0,5.0,2,Standard
+CLI0444,Ibrahim Bamba,Ivoirien,0,2,1207500.0,3.0,4.0,2,Standard
+CLI1062,Aminata Diallo,Ivoirien,0,4,1207440.0,3.0,4.3,2,Standard
+CLI2264,Cheick Diallo,Autre,0,2,1205700.0,4.0,3.0,2,Standard
+CLI0095,Kofi Nkomo,Ivoirien,0,4,1204400.0,2.5,5.0,2,Standard
+CLI0664,Luc Bamba,Français,1,3,1203360.0,4.3,3.7,2,Standard
+CLI2516,Marie Bamba,Ivoirien,0,4,1203000.0,2.8,4.0,2,Standard
+CLI1757,Rokia Sow,Ivoirien,0,6,1201600.0,3.3,4.3,2,Standard
+CLI2283,Jean Mensah,Senegalais,0,1,1201200.0,3.0,3.0,2,Standard
+CLI2567,Serge Diallo,Français,1,4,1200800.0,3.8,3.8,2,Standard
+CLI0050,Awa Koné,Senegalais,0,2,1200600.0,2.0,4.5,2,Standard
+CLI0396,Rokia Sow,Autre,1,6,1199440.0,2.7,4.3,2,Standard
+CLI1752,Aminata Ndoye,Ivoirien,1,5,1198920.0,2.4,3.6,2,Standard
+CLI1679,Jean Camara,Camerounais,0,3,1198800.0,3.0,4.0,2,Standard
+CLI2634,Sophie Koné,Ivoirien,1,5,1198660.0,2.6,4.0,2,Standard
+CLI0433,Aminata Traore,Ivoirien,1,3,1197600.0,3.0,4.0,2,Standard
+CLI0776,Yao Traore,Français,0,6,1197500.0,2.7,4.6,2,Standard
+CLI1514,Eric Camara,Camerounais,0,3,1196320.0,3.7,4.3,2,Standard
+CLI2496,Luc Diallo,Autre,0,2,1196000.0,4.5,3.0,2,Standard
+CLI2101,Serge Traore,Camerounais,1,3,1193760.0,4.0,3.3,2,Standard
+CLI0595,Serge Bamba,Allemand,0,6,1193600.0,2.8,4.3,2,Standard
+CLI2582,Yao Koné,Français,0,6,1192960.0,3.0,3.7,2,Standard
+CLI2308,Ibrahim Camara,Allemand,0,2,1191900.0,4.5,5.0,2,Standard
+CLI1432,Paul Sow,Autre,0,5,1191600.0,2.8,4.6,2,Standard
+CLI2114,Ibrahim Koné,Allemand,0,6,1191320.0,2.0,3.8,2,Standard
+CLI0493,Moussa Mensah,Camerounais,0,1,1190000.0,4.0,4.0,2,Standard
+CLI2361,Ibrahim Koné,Senegalais,0,3,1189800.0,2.7,4.3,2,Standard
+CLI0956,Clarisse Bamba,Ivoirien,1,5,1188640.0,3.2,4.0,2,Standard
+CLI0155,Kofi Camara,Ivoirien,0,6,1188560.0,2.8,4.0,2,Standard
+CLI2287,Paul Traore,Autre,0,4,1186920.0,2.3,4.5,2,Standard
+CLI2953,Paul Bamba,Senegalais,0,3,1186800.0,4.3,4.3,2,Standard
+CLI2021,Eric Mensah,Ivoirien,1,5,1185120.0,2.6,4.2,2,Standard
+CLI0317,Cheick Nkomo,Ivoirien,0,3,1182600.0,3.0,5.0,2,Standard
+CLI0893,Paul Sow,Camerounais,0,2,1182000.0,3.0,5.0,2,Standard
+CLI0630,Paul Traore,Ghaneeen,1,4,1180000.0,3.3,5.0,2,Standard
+CLI0034,Sophie Koné,Ivoirien,0,3,1176800.0,1.7,4.0,2,Standard
+CLI1598,Cheick Camara,Britannique,0,4,1176000.0,2.8,4.0,2,Standard
+CLI1329,Aida Camara,Français,0,7,1175320.0,2.0,3.7,2,Standard
+CLI1023,Adjoua Diallo,Senegalais,1,4,1174300.0,2.5,4.5,2,Standard
+CLI0994,Ibrahim Camara,Ivoirien,0,4,1172560.0,2.3,3.8,2,Standard
+CLI1053,Cheick Kouassi,Camerounais,1,2,1170240.0,4.0,4.0,2,Standard
+CLI0382,Serge Nkomo,Ivoirien,0,3,1168200.0,3.3,4.0,2,Standard
+CLI1112,Moussa Camara,Senegalais,0,2,1166750.0,2.0,4.5,2,Standard
+CLI1218,Aminata Ndoye,Senegalais,1,5,1166400.0,3.0,4.8,2,Standard
+CLI1352,Marie Ndoye,Ivoirien,0,4,1165100.0,2.5,4.3,2,Standard
+CLI2244,Clarisse Kouassi,Senegalais,1,4,1164560.0,3.3,4.3,2,Standard
+CLI1664,Eric Traore,Americain,1,5,1164480.0,3.4,4.4,2,Standard
+CLI2159,Eric Camara,Senegalais,0,4,1163280.0,2.8,4.8,2,Standard
+CLI1196,Binta Bamba,Americain,1,3,1163000.0,2.7,3.5,2,Standard
+CLI0222,Moussa Diallo,Camerounais,0,2,1161600.0,4.0,4.0,2,Standard
+CLI2523,Luc Nkomo,Camerounais,0,6,1161280.0,2.2,3.5,2,Standard
+CLI2434,Sophie Nkomo,Autre,0,4,1160760.0,2.8,4.3,2,Standard
+CLI2499,Aminata Mensah,Ivoirien,0,4,1159900.0,2.8,4.3,2,Standard
+CLI0559,Fatou Nkomo,Ivoirien,0,4,1159000.0,1.5,2.8,2,Standard
+CLI1839,Eric Traore,Français,0,4,1158900.0,4.0,4.0,2,Standard
+CLI1591,Fatou Nkomo,Ivoirien,0,4,1158560.0,3.3,3.8,2,Standard
+CLI2189,Clarisse Sow,Ivoirien,1,3,1158560.0,2.7,3.7,2,Standard
+CLI0343,Rokia Koné,Ghaneeen,1,3,1156440.0,5.3,2.7,2,Standard
+CLI2667,Moussa Traore,Senegalais,0,5,1156000.0,2.8,4.2,2,Standard
+CLI2860,Jean Bamba,Camerounais,0,5,1154000.0,2.2,4.8,2,Standard
+CLI1851,Sophie Camara,Camerounais,1,5,1153700.0,1.6,4.8,2,Standard
+CLI2427,Cheick Camara,Ivoirien,0,5,1152960.0,2.6,4.0,2,Standard
+CLI1821,Adjoua Mensah,Ivoirien,0,4,1152000.0,2.0,3.5,2,Standard
+CLI2753,Marie Sow,Autre,0,4,1150500.0,2.8,3.8,2,Standard
+CLI2962,Binta Bamba,Ivoirien,0,5,1148600.0,2.2,4.2,2,Standard
+CLI2169,Luc Ndoye,Ivoirien,0,4,1148400.0,4.0,4.3,2,Standard
+CLI1959,Moussa Ndoye,Ivoirien,1,2,1146420.0,2.5,2.5,2,Standard
+CLI0309,Awa Sow,Ivoirien,0,4,1145000.0,2.5,3.5,2,Standard
+CLI0517,Clarisse Nkomo,Ghaneeen,1,4,1144360.0,2.8,3.3,2,Standard
+CLI1915,Fatou Kouassi,Ivoirien,0,5,1143600.0,3.0,4.6,2,Standard
+CLI2066,Ibrahim Sow,Ivoirien,0,3,1142560.0,3.0,3.0,2,Standard
+CLI0179,Ibrahim Diallo,Senegalais,0,3,1142400.0,3.0,4.7,2,Standard
+CLI0529,Marie Kouassi,Ivoirien,0,4,1141740.0,2.8,4.3,2,Standard
+CLI1913,Adjoua Mensah,Autre,0,4,1141600.0,3.0,4.3,2,Standard
+CLI2500,Jean Koné,Senegalais,0,4,1141120.0,3.0,4.5,2,Standard
+CLI0647,Binta Diallo,Americain,0,2,1140000.0,4.0,3.5,2,Standard
+CLI1534,Moussa Sow,Senegalais,0,3,1138800.0,3.7,4.0,2,Standard
+CLI1680,Ibrahim Diallo,Allemand,0,5,1138620.0,2.2,4.6,2,Standard
+CLI2010,Marie Diallo,Ivoirien,0,5,1138600.0,3.4,4.8,2,Standard
+CLI1150,Awa Ndoye,Ivoirien,1,5,1136400.0,2.6,3.0,2,Standard
+CLI2900,Kofi Camara,Ivoirien,0,6,1135960.0,3.0,4.2,2,Standard
+CLI1546,Aminata Mensah,Ivoirien,0,2,1135800.0,2.0,3.5,2,Standard
+CLI2888,Yao Ndoye,Senegalais,1,5,1135700.0,2.6,3.2,2,Standard
+CLI2689,Aminata Ndoye,Camerounais,0,2,1134360.0,3.0,4.5,2,Standard
+CLI2009,Sophie Bamba,Autre,0,5,1134360.0,2.0,4.0,2,Standard
+CLI2817,Yao Diallo,Ghaneeen,0,5,1134000.0,3.8,3.6,2,Standard
+CLI0516,Cheick Nkomo,Français,0,3,1134000.0,3.7,3.7,2,Standard
+CLI2088,Yao Sow,Ivoirien,1,2,1134000.0,3.5,4.0,2,Standard
+CLI2302,Kofi Mensah,Senegalais,1,5,1133760.0,2.8,3.8,2,Standard
+CLI1015,Paul Camara,Senegalais,0,7,1133500.0,2.4,4.0,2,Standard
+CLI2636,Serge Kouassi,Français,1,3,1133160.0,3.0,4.7,2,Standard
+CLI2999,Adjoua Diallo,Americain,1,4,1132960.0,3.3,3.3,2,Standard
+CLI1101,Serge Bamba,Ivoirien,0,4,1132600.0,3.3,4.5,2,Standard
+CLI2815,Jean Diallo,Français,0,3,1131850.0,3.7,4.0,2,Standard
+CLI2887,Fatou Bamba,Ivoirien,0,3,1130400.0,2.7,4.0,2,Standard
+CLI0416,Cheick Bamba,Britannique,0,4,1130400.0,3.3,3.5,2,Standard
+CLI0969,Eric Mensah,Ivoirien,0,3,1130000.0,3.3,3.0,2,Standard
+CLI1977,Kofi Nkomo,Americain,0,3,1128800.0,3.0,4.3,2,Standard
+CLI0121,Cheick Sow,Ghaneeen,1,3,1128800.0,3.3,4.7,2,Standard
+CLI0795,Fatou Ndoye,Britannique,1,4,1128000.0,4.0,3.5,2,Standard
+CLI0405,Luc Nkomo,Senegalais,0,8,1127920.0,2.1,4.1,2,Standard
+CLI2481,Serge Mensah,Ivoirien,0,3,1126800.0,4.0,3.3,2,Standard
+CLI1017,Luc Mensah,Senegalais,0,2,1126800.0,3.0,5.0,2,Standard
+CLI0735,Fatou Ndoye,Camerounais,1,4,1126080.0,2.5,4.5,2,Standard
+CLI0297,Paul Ndoye,Ivoirien,1,5,1124400.0,3.0,4.2,2,Standard
+CLI2833,Ibrahim Diallo,Allemand,0,6,1123920.0,3.0,4.0,2,Standard
+CLI1078,Aida Koné,Senegalais,0,3,1122000.0,2.3,4.0,2,Standard
+CLI0126,Aida Nkomo,Ivoirien,0,4,1121800.0,2.8,3.0,2,Standard
+CLI1802,Eric Nkomo,Americain,0,5,1120960.0,3.6,4.2,2,Standard
+CLI1169,Cheick Mensah,Camerounais,0,6,1119630.0,3.0,4.8,2,Standard
+CLI2250,Paul Nkomo,Ivoirien,0,4,1118500.0,1.8,3.3,2,Standard
+CLI1045,Fatou Ndoye,Britannique,0,5,1116800.0,3.8,4.2,2,Standard
+CLI1520,Yao Traore,Ivoirien,1,4,1116080.0,1.8,3.5,2,Standard
+CLI0827,Awa Koné,Ivoirien,0,3,1116000.0,4.0,5.0,2,Standard
+CLI1145,Yao Koné,Ivoirien,0,2,1116000.0,4.0,4.0,2,Standard
+CLI0318,Ibrahim Traore,Senegalais,1,6,1115440.0,2.0,4.5,2,Standard
+CLI0881,Yao Mensah,Ivoirien,0,6,1115000.0,2.0,4.8,2,Standard
+CLI1755,Awa Bamba,Ivoirien,0,6,1115000.0,2.3,4.3,2,Standard
+CLI0306,Serge Mensah,Ivoirien,0,2,1114560.0,3.0,3.0,2,Standard
+CLI0874,Marie Nkomo,Autre,0,5,1114360.0,2.2,4.2,2,Standard
+CLI0672,Eric Traore,Senegalais,1,2,1114000.0,2.5,4.0,2,Standard
+CLI0468,Aida Kouassi,Senegalais,0,3,1113600.0,2.7,4.7,2,Standard
+CLI0787,Serge Bamba,Camerounais,0,5,1113200.0,2.6,4.0,2,Standard
+CLI0983,Clarisse Kouassi,Ivoirien,1,2,1110900.0,3.0,4.0,2,Standard
+CLI1472,Cheick Kouassi,Senegalais,0,2,1109520.0,3.5,3.5,2,Standard
+CLI1641,Marie Bamba,Français,0,7,1107800.0,2.4,4.0,2,Standard
+CLI1271,Rokia Koné,Autre,0,5,1106100.0,2.2,3.2,2,Standard
+CLI0125,Aida Ndoye,Senegalais,0,8,1104604.0,1.8,3.9,2,Standard
+CLI0880,Marie Ndoye,Ivoirien,1,2,1104000.0,4.5,4.0,2,Standard
+CLI2890,Aida Camara,Français,0,4,1102800.0,3.8,3.3,2,Standard
+CLI0594,Aminata Sow,Ivoirien,0,2,1099680.0,3.0,4.0,2,Standard
+CLI0262,Aminata Koné,Americain,1,4,1098600.0,3.5,4.0,2,Standard
+CLI2360,Jean Koné,Senegalais,0,4,1098200.0,2.3,4.3,2,Standard
+CLI2638,Cheick Traore,Français,0,3,1097280.0,2.7,4.3,2,Standard
+CLI2879,Jean Mensah,Ghaneeen,0,4,1095040.0,2.0,3.5,2,Standard
+CLI0772,Ibrahim Camara,Ivoirien,0,2,1095000.0,2.0,4.0,2,Standard
+CLI2258,Fatou Bamba,Ivoirien,0,5,1094440.0,1.6,4.8,2,Standard
+CLI1318,Ibrahim Bamba,Ivoirien,0,4,1093200.0,2.5,4.0,2,Standard
+CLI1131,Cheick Kouassi,Ivoirien,0,5,1093120.0,3.0,3.8,2,Standard
+CLI0930,Ibrahim Sow,Ghaneeen,0,5,1092600.0,2.2,3.8,2,Standard
+CLI1379,Ibrahim Kouassi,Ivoirien,0,5,1092600.0,1.4,3.6,2,Standard
+CLI0090,Clarisse Sow,Camerounais,0,2,1092600.0,3.5,4.0,2,Standard
+CLI0788,Rokia Mensah,Camerounais,1,3,1092400.0,2.7,4.3,2,Standard
+CLI2426,Aida Ndoye,Ivoirien,0,4,1091400.0,2.3,4.5,2,Standard
+CLI2941,Clarisse Kouassi,Ivoirien,0,4,1090400.0,2.5,4.7,2,Standard
+CLI2319,Sophie Camara,Ivoirien,0,6,1090240.0,2.2,4.0,2,Standard
+CLI1527,Binta Bamba,Allemand,0,5,1089440.0,2.2,3.6,2,Standard
+CLI1092,Awa Traore,Autre,0,5,1088800.0,2.6,4.4,2,Standard
+CLI0392,Cheick Nkomo,Allemand,0,4,1087200.0,2.3,3.7,2,Standard
+CLI0100,Serge Diallo,Autre,0,1,1086750.0,3.0,2.0,2,Standard
+CLI2588,Sophie Ndoye,Senegalais,0,1,1086750.0,3.0,5.0,2,Standard
+CLI2724,Yao Traore,Ivoirien,1,1,1086750.0,3.0,5.0,2,Standard
+CLI2971,Adjoua Bamba,Senegalais,0,5,1086700.0,1.2,3.0,2,Standard
+CLI2950,Aida Diallo,Ivoirien,0,3,1086600.0,4.3,4.3,2,Standard
+CLI0626,Jean Mensah,Senegalais,0,2,1086400.0,4.5,4.5,2,Standard
+CLI1482,Kofi Ndoye,Ivoirien,0,3,1086000.0,3.3,3.3,2,Standard
+CLI1210,Luc Camara,Camerounais,0,3,1084800.0,3.0,4.7,2,Standard
+CLI0038,Moussa Kouassi,Ivoirien,0,3,1084500.0,2.3,4.3,2,Standard
+CLI2549,Aminata Ndoye,Ivoirien,0,5,1083040.0,2.6,4.6,2,Standard
+CLI1668,Aida Diallo,Camerounais,0,4,1082040.0,2.0,4.3,2,Standard
+CLI2332,Jean Nkomo,Autre,0,3,1081800.0,2.3,4.7,2,Standard
+CLI0185,Jean Ndoye,Ivoirien,1,6,1080200.0,2.7,4.5,2,Standard
+CLI0378,Moussa Traore,Français,0,3,1080080.0,2.0,5.0,2,Standard
+CLI1373,Moussa Camara,Ivoirien,0,2,1080000.0,4.5,5.0,2,Standard
+CLI2810,Binta Traore,Senegalais,1,2,1080000.0,4.5,4.5,2,Standard
+CLI0054,Luc Koné,Camerounais,0,3,1079900.0,5.7,5.0,2,Standard
+CLI1192,Jean Sow,Senegalais,0,6,1079050.0,2.0,4.2,2,Standard
+CLI2454,Moussa Camara,Ivoirien,1,5,1078320.0,1.8,4.2,2,Standard
+CLI2973,Sophie Ndoye,Camerounais,1,5,1076640.0,2.2,4.4,2,Standard
+CLI1245,Marie Bamba,Ivoirien,1,3,1076400.0,4.0,3.0,2,Standard
+CLI2506,Moussa Ndoye,Camerounais,0,5,1076400.0,3.0,3.4,2,Standard
+CLI0051,Clarisse Traore,Senegalais,1,1,1076400.0,5.0,5.0,2,Standard
+CLI0600,Fatou Diallo,Senegalais,0,4,1074000.0,2.3,4.8,2,Standard
+CLI0374,Serge Koné,Ivoirien,1,2,1074000.0,4.5,5.0,2,Standard
+CLI1374,Sophie Sow,Americain,0,4,1073480.0,3.3,4.8,2,Standard
+CLI0645,Clarisse Camara,Autre,0,2,1073400.0,3.5,4.0,2,Standard
+CLI0764,Aminata Kouassi,Senegalais,0,6,1073200.0,2.3,3.3,2,Standard
+CLI0531,Serge Mensah,Ghaneeen,0,5,1073000.0,1.8,3.8,2,Standard
+CLI0521,Marie Ndoye,Senegalais,0,6,1071800.0,2.0,4.8,2,Standard
+CLI2977,Moussa Koné,Ghaneeen,0,4,1071600.0,2.3,4.3,2,Standard
+CLI1553,Awa Nkomo,Ivoirien,0,4,1069760.0,3.5,4.0,2,Standard
+CLI0693,Paul Kouassi,Britannique,0,2,1068000.0,4.0,5.0,2,Standard
+CLI1635,Ibrahim Camara,Senegalais,0,3,1068000.0,3.7,4.0,2,Standard
+CLI2110,Jean Nkomo,Ghaneeen,0,4,1068000.0,3.8,3.3,2,Standard
+CLI2809,Fatou Kouassi,Ivoirien,1,5,1066740.0,3.4,4.2,2,Standard
+CLI1011,Ibrahim Camara,Allemand,0,4,1066400.0,4.5,3.3,2,Standard
+CLI0738,Paul Traore,Camerounais,0,3,1065200.0,2.3,3.3,2,Standard
+CLI1105,Jean Nkomo,Français,0,4,1064500.0,2.3,3.5,2,Standard
+CLI2359,Yao Mensah,Senegalais,0,4,1062800.0,2.8,4.8,2,Standard
+CLI1065,Clarisse Traore,Senegalais,0,1,1062600.0,3.0,5.0,2,Standard
+CLI1141,Jean Mensah,Allemand,0,2,1060560.0,2.0,3.5,2,Standard
+CLI0459,Aminata Kouassi,Ivoirien,0,3,1060320.0,2.3,3.3,2,Standard
+CLI0925,Adjoua Ndoye,Ghaneeen,1,3,1060000.0,5.0,4.3,2,Standard
+CLI0413,Sophie Traore,Camerounais,0,4,1059040.0,3.3,5.0,2,Standard
+CLI2160,Eric Nkomo,Ivoirien,0,4,1057280.0,3.5,5.0,2,Standard
+CLI1137,Paul Sow,Ivoirien,0,3,1055860.0,3.3,4.0,2,Standard
+CLI1960,Luc Camara,Ivoirien,0,2,1054500.0,2.0,4.5,2,Standard
+CLI1485,Luc Koné,Camerounais,0,4,1054400.0,2.3,4.5,2,Standard
+CLI0379,Yao Ndoye,Camerounais,0,5,1053980.0,2.4,4.2,2,Standard
+CLI0946,Clarisse Traore,Camerounais,1,5,1053400.0,1.8,3.4,2,Standard
+CLI2407,Jean Camara,Ivoirien,0,4,1052880.0,3.0,3.5,2,Standard
+CLI1382,Rokia Ndoye,Americain,0,3,1052600.0,2.0,4.3,2,Standard
+CLI2487,Serge Kouassi,Senegalais,0,3,1049000.0,1.7,4.7,2,Standard
+CLI2604,Jean Mensah,Ivoirien,0,5,1048800.0,2.6,4.2,2,Standard
+CLI1840,Moussa Camara,Ghaneeen,0,5,1048800.0,2.2,4.2,2,Standard
+CLI1039,Ibrahim Bamba,Britannique,0,2,1048200.0,2.0,3.5,2,Standard
+CLI0087,Adjoua Diallo,Camerounais,0,4,1047200.0,2.3,5.0,2,Standard
+CLI1227,Luc Kouassi,Camerounais,0,4,1047200.0,2.5,5.0,2,Standard
+CLI1076,Ibrahim Diallo,Camerounais,0,3,1045600.0,2.3,4.7,2,Standard
+CLI2112,Ibrahim Koné,Senegalais,0,2,1044000.0,3.5,5.0,2,Standard
+CLI0128,Moussa Nkomo,Français,1,4,1041480.0,2.8,3.5,2,Standard
+CLI2964,Marie Traore,Ivoirien,0,5,1041240.0,3.0,4.5,2,Standard
+CLI2733,Rokia Sow,Autre,0,6,1041200.0,3.0,3.2,2,Standard
+CLI2224,Sophie Kouassi,Britannique,0,3,1040000.0,4.3,4.3,2,Standard
+CLI0150,Kofi Nkomo,Ivoirien,1,2,1039680.0,3.5,4.5,2,Standard
+CLI1596,Moussa Kouassi,Ivoirien,0,4,1039600.0,3.3,4.5,2,Standard
+CLI2627,Yao Traore,Britannique,1,5,1039360.0,3.4,2.8,2,Standard
+CLI0310,Clarisse Mensah,Ghaneeen,1,2,1038000.0,3.5,3.5,2,Standard
+CLI0296,Jean Mensah,Allemand,0,4,1036800.0,3.0,3.3,2,Standard
+CLI0601,Moussa Diallo,Senegalais,0,4,1036800.0,3.5,5.0,2,Standard
+CLI0984,Kofi Ndoye,Camerounais,0,4,1036620.0,1.8,4.5,2,Standard
+CLI0069,Yao Sow,Ivoirien,0,2,1035000.0,5.0,4.0,2,Standard
+CLI0888,Binta Traore,Ivoirien,0,3,1035000.0,4.3,4.3,2,Standard
+CLI2875,Jean Koné,Ghaneeen,0,6,1033800.0,2.3,3.2,2,Standard
+CLI0959,Serge Koné,Ivoirien,0,5,1033250.0,2.4,3.8,2,Standard
+CLI1270,Jean Koné,Senegalais,0,4,1033200.0,2.5,4.0,2,Standard
+CLI0706,Jean Sow,Ivoirien,0,5,1033200.0,4.4,4.8,2,Standard
+CLI1234,Serge Sow,Ghaneeen,0,2,1030500.0,2.0,5.0,2,Standard
+CLI0464,Jean Koné,Ivoirien,0,2,1029600.0,3.5,2.0,2,Standard
+CLI2571,Paul Camara,Camerounais,0,5,1026720.0,2.6,3.0,2,Standard
+CLI2794,Moussa Kouassi,Camerounais,0,3,1026600.0,3.0,3.7,2,Standard
+CLI0929,Cheick Ndoye,Autre,0,4,1026490.0,2.0,4.3,2,Standard
+CLI1794,Ibrahim Camara,Ivoirien,0,2,1026000.0,3.0,4.0,2,Standard
+CLI0162,Binta Kouassi,Autre,0,6,1024800.0,2.2,4.0,2,Standard
+CLI1934,Luc Ndoye,Ghaneeen,0,3,1024200.0,2.7,4.0,2,Standard
+CLI0593,Paul Bamba,Britannique,0,2,1023500.0,2.0,5.0,2,Standard
+CLI0098,Fatou Nkomo,Ivoirien,0,5,1023200.0,2.4,3.6,2,Standard
+CLI0603,Aminata Bamba,Autre,0,6,1022840.0,2.8,4.5,2,Standard
+CLI1703,Marie Nkomo,Senegalais,0,4,1022000.0,1.5,4.5,2,Standard
+CLI1221,Clarisse Traore,Ghaneeen,0,4,1020800.0,3.8,3.5,2,Standard
+CLI1632,Moussa Ndoye,Ivoirien,0,6,1020200.0,1.5,4.0,2,Standard
+CLI0315,Moussa Traore,Français,0,5,1015280.0,3.2,4.6,2,Standard
+CLI1222,Awa Bamba,Ivoirien,0,3,1014800.0,3.0,3.7,2,Standard
+CLI2473,Kofi Ndoye,Ivoirien,0,4,1014400.0,3.5,3.3,2,Standard
+CLI0344,Luc Sow,Senegalais,1,3,1013400.0,3.0,4.3,2,Standard
+CLI0809,Aminata Sow,Americain,0,4,1012400.0,3.3,3.5,2,Standard
+CLI1049,Fatou Traore,Ivoirien,1,2,1012320.0,3.5,2.5,2,Standard
+CLI2761,Aida Koné,Ivoirien,0,4,1011540.0,2.5,5.0,2,Standard
+CLI1365,Serge Nkomo,Ivoirien,1,3,1010880.0,2.0,3.3,2,Standard
+CLI1487,Luc Bamba,Camerounais,1,5,1010800.0,2.4,4.8,2,Standard
+CLI1738,Yao Bamba,Camerounais,0,3,1010200.0,4.0,3.3,2,Standard
+CLI1040,Eric Kouassi,Ivoirien,0,5,1009920.0,2.4,3.8,2,Standard
+CLI0220,Eric Traore,Ghaneeen,1,5,1009280.0,2.4,4.6,2,Standard
+CLI0491,Luc Camara,Ivoirien,0,4,1008800.0,4.0,3.5,2,Standard
+CLI1339,Adjoua Nkomo,Camerounais,1,4,1008080.0,3.5,4.5,2,Standard
+CLI2349,Serge Camara,Americain,1,3,1008000.0,2.7,4.3,2,Standard
+CLI1480,Kofi Traore,Britannique,1,4,1008000.0,4.0,3.3,2,Standard
+CLI1296,Paul Sow,Allemand,0,5,1006880.0,2.6,3.2,2,Standard
+CLI2734,Clarisse Traore,Ghaneeen,0,6,1006520.0,2.5,2.8,2,Standard
+CLI0225,Luc Camara,Ivoirien,0,4,1006200.0,3.5,4.3,2,Standard
+CLI1448,Paul Traore,Camerounais,1,3,1005840.0,3.0,4.7,2,Standard
+CLI1936,Rokia Ndoye,Americain,0,2,1005000.0,3.0,4.0,2,Standard
+CLI0039,Fatou Camara,Ghaneeen,0,5,1003600.0,3.2,4.8,2,Standard
+CLI1459,Serge Ndoye,Camerounais,1,5,1003200.0,2.6,3.3,2,Standard
+CLI2218,Kofi Kouassi,Allemand,1,4,1003200.0,2.0,2.8,2,Standard
+CLI2417,Ibrahim Diallo,Autre,1,4,1002600.0,2.8,5.0,2,Standard
+CLI0674,Yao Ndoye,Ivoirien,0,3,1002580.0,1.7,2.0,2,Standard
+CLI2491,Sophie Nkomo,Senegalais,0,3,1001880.0,3.0,4.0,2,Standard
+CLI0477,Adjoua Nkomo,Ivoirien,0,4,998400.0,2.0,3.8,2,Standard
+CLI0760,Yao Diallo,Autre,0,2,996500.0,3.0,4.5,2,Standard
+CLI0114,Yao Kouassi,Ivoirien,1,5,996000.0,2.8,4.6,2,Standard
+CLI1307,Serge Koné,Senegalais,0,4,994600.0,2.8,3.8,2,Standard
+CLI1471,Clarisse Nkomo,Ivoirien,0,5,994000.0,1.6,4.0,2,Standard
+CLI0371,Paul Ndoye,Français,0,4,993600.0,3.8,4.8,2,Standard
+CLI0978,Marie Sow,Ivoirien,0,5,992880.0,2.0,4.2,2,Standard
+CLI1603,Jean Camara,Senegalais,0,3,992800.0,3.0,3.7,2,Standard
+CLI1331,Marie Bamba,Ivoirien,0,5,991120.0,2.2,4.2,2,Standard
+CLI1006,Serge Ndoye,Camerounais,1,4,991000.0,1.8,4.0,2,Standard
+CLI0565,Jean Camara,Camerounais,0,3,990740.0,2.3,4.0,2,Standard
+CLI2717,Luc Ndoye,Ivoirien,0,2,990360.0,2.5,3.5,2,Standard
+CLI0300,Jean Nkomo,Ivoirien,0,4,989200.0,3.8,4.8,2,Standard
+CLI1869,Eric Ndoye,Français,0,4,988640.0,2.0,4.8,2,Standard
+CLI2593,Fatou Koné,Ivoirien,1,3,988360.0,3.7,2.0,2,Standard
+CLI1024,Aida Koné,Ghaneeen,0,3,986400.0,3.0,4.0,2,Standard
+CLI1512,Sophie Nkomo,Autre,0,2,984000.0,4.0,5.0,2,Standard
+CLI0546,Fatou Koné,Ivoirien,1,2,984000.0,2.5,4.0,2,Standard
+CLI1082,Luc Ndoye,Britannique,0,2,982560.0,2.5,4.0,2,Standard
+CLI0560,Marie Bamba,Camerounais,0,3,982560.0,2.3,4.0,2,Standard
+CLI2897,Jean Nkomo,Ghaneeen,1,4,981100.0,3.8,3.8,2,Standard
+CLI2420,Rokia Mensah,Ivoirien,0,4,980000.0,2.8,3.8,2,Standard
+CLI2570,Fatou Ndoye,Americain,0,3,979800.0,2.7,3.0,2,Standard
+CLI2092,Clarisse Ndoye,Autre,1,4,979680.0,1.5,2.8,2,Standard
+CLI2300,Kofi Nkomo,Ghaneeen,0,3,978880.0,2.7,3.7,2,Standard
+CLI2364,Moussa Koné,Senegalais,0,2,977760.0,3.0,3.5,2,Standard
+CLI1824,Yao Ndoye,Ivoirien,1,8,976800.0,1.8,3.6,2,Standard
+CLI2501,Rokia Nkomo,Français,0,3,976560.0,3.0,2.7,2,Standard
+CLI1613,Jean Sow,Autre,0,3,975320.0,2.0,3.7,2,Standard
+CLI0199,Aida Ndoye,Autre,0,4,975300.0,2.0,3.0,2,Standard
+CLI2774,Luc Mensah,Ivoirien,0,5,974800.0,2.0,3.4,2,Standard
+CLI0032,Yao Kouassi,Ivoirien,0,3,974560.0,2.0,4.0,2,Standard
+CLI1036,Ibrahim Camara,Ghaneeen,0,3,972800.0,4.3,4.0,2,Standard
+CLI2003,Cheick Traore,Ghaneeen,0,6,972800.0,1.5,3.7,2,Standard
+CLI0398,Awa Koné,Americain,1,3,972400.0,3.3,4.7,2,Standard
+CLI2538,Aida Traore,Ghaneeen,0,2,972000.0,3.5,5.0,2,Standard
+CLI1533,Jean Sow,Autre,1,3,972000.0,3.7,3.7,2,Standard
+CLI0844,Sophie Camara,Senegalais,1,2,972000.0,3.5,4.5,2,Standard
+CLI2026,Luc Ndoye,Français,0,2,971520.0,4.0,3.5,2,Standard
+CLI0304,Awa Ndoye,Ivoirien,1,3,970000.0,3.7,4.7,2,Standard
+CLI0544,Serge Nkomo,Autre,0,4,968400.0,3.3,4.0,2,Standard
+CLI2991,Eric Bamba,Ivoirien,0,5,967760.0,2.0,4.8,2,Standard
+CLI1708,Eric Diallo,Ivoirien,0,5,966720.0,2.4,5.0,2,Standard
+CLI2099,Awa Mensah,Ivoirien,1,5,966600.0,2.2,4.2,2,Standard
+CLI0752,Ibrahim Sow,Ivoirien,1,5,966160.0,2.8,3.2,2,Standard
+CLI1392,Ibrahim Bamba,Français,0,7,966000.0,2.1,4.1,2,Standard
+CLI1844,Binta Bamba,Britannique,0,4,966000.0,2.8,3.8,2,Standard
+CLI0498,Yao Traore,Ivoirien,0,2,966000.0,7.0,5.0,2,Standard
+CLI2183,Serge Koné,Autre,0,1,966000.0,7.0,5.0,2,Standard
+CLI0943,Cheick Sow,Senegalais,1,3,966000.0,3.7,5.0,2,Standard
+CLI2563,Marie Diallo,Autre,0,2,965760.0,4.0,4.5,2,Standard
+CLI1262,Rokia Koné,Ivoirien,1,6,965600.0,3.3,3.3,2,Standard
+CLI2305,Marie Sow,Autre,0,4,964800.0,3.3,4.3,2,Standard
+CLI1989,Rokia Sow,Ivoirien,1,3,964800.0,3.3,3.3,2,Standard
+CLI0846,Clarisse Ndoye,Ghaneeen,0,4,964500.0,2.8,4.5,2,Standard
+CLI2180,Marie Sow,Français,0,3,964000.0,5.7,4.0,2,Standard
+CLI2963,Adjoua Camara,Autre,1,2,962880.0,3.5,4.5,2,Standard
+CLI2592,Jean Kouassi,Camerounais,1,4,962040.0,2.5,4.8,2,Standard
+CLI2862,Paul Koné,Americain,0,4,958720.0,3.5,4.0,2,Standard
+CLI2045,Paul Camara,Senegalais,0,2,958400.0,4.5,5.0,2,Standard
+CLI0745,Binta Koné,Ivoirien,0,2,958320.0,2.5,3.5,2,Standard
+CLI1984,Fatou Diallo,Senegalais,0,4,958200.0,2.5,5.0,2,Standard
+CLI2157,Ibrahim Diallo,Ivoirien,0,3,957920.0,3.0,3.3,2,Standard
+CLI2442,Jean Ndoye,Français,1,4,957760.0,3.5,4.5,2,Standard
+CLI2262,Adjoua Nkomo,Autre,0,4,956650.0,3.0,3.8,2,Standard
+CLI2920,Yao Sow,Ghaneeen,1,6,955000.0,2.8,3.7,2,Standard
+CLI0200,Binta Koné,Ghaneeen,1,4,954080.0,1.8,3.5,2,Standard
+CLI2856,Aminata Sow,Ghaneeen,1,3,954000.0,3.0,4.0,2,Standard
+CLI2556,Cheick Nkomo,Ivoirien,0,2,953840.0,3.0,3.5,2,Standard
+CLI0535,Serge Sow,Ivoirien,0,4,953800.0,2.5,4.3,2,Standard
+CLI0478,Sophie Sow,Americain,0,5,952880.0,1.8,4.2,2,Standard
+CLI2917,Luc Diallo,Français,0,1,952200.0,5.0,3.0,2,Standard
+CLI1899,Serge Mensah,Ghaneeen,0,4,952000.0,3.3,2.5,2,Standard
+CLI0671,Marie Nkomo,Camerounais,0,3,949680.0,3.3,3.7,2,Standard
+CLI1699,Kofi Kouassi,Autre,1,2,949440.0,5.5,3.5,2,Standard
+CLI0404,Jean Nkomo,Français,0,2,949200.0,4.0,4.5,2,Standard
+CLI1782,Marie Sow,Ghaneeen,0,7,948880.0,1.9,4.1,2,Standard
+CLI0327,Aida Koné,Ivoirien,1,4,948840.0,2.3,4.3,2,Standard
+CLI0842,Eric Ndoye,Ivoirien,0,2,948000.0,3.0,4.0,2,Standard
+CLI1909,Moussa Diallo,Allemand,0,2,947200.0,2.5,4.5,2,Standard
+CLI1304,Serge Ndoye,Ivoirien,1,3,946410.0,2.7,4.7,2,Standard
+CLI1316,Cheick Diallo,Autre,1,4,946240.0,2.3,3.8,2,Standard
+CLI0751,Aminata Diallo,Camerounais,0,4,945600.0,2.0,4.0,2,Standard
+CLI0292,Sophie Camara,Ivoirien,0,1,945000.0,3.0,3.0,2,Standard
+CLI2214,Yao Mensah,Autre,0,6,944440.0,1.5,4.0,2,Standard
+CLI2107,Aida Sow,Ghaneeen,0,5,944400.0,2.6,4.2,2,Standard
+CLI2464,Clarisse Nkomo,Senegalais,0,3,944000.0,3.3,4.3,2,Standard
+CLI0203,Yao Koné,Senegalais,0,4,943260.0,2.8,4.5,2,Standard
+CLI2951,Marie Kouassi,Camerounais,0,3,943200.0,5.7,4.3,2,Standard
+CLI1911,Aida Traore,Ivoirien,1,2,942000.0,2.5,3.5,2,Standard
+CLI2885,Sophie Kouassi,Camerounais,0,3,940800.0,3.3,3.7,2,Standard
+CLI2271,Sophie Diallo,Ivoirien,0,3,940500.0,2.3,2.7,2,Standard
+CLI1427,Cheick Bamba,Autre,1,3,940320.0,4.3,3.7,2,Standard
+CLI2037,Cheick Kouassi,Britannique,1,3,939680.0,1.7,4.0,2,Standard
+CLI0173,Fatou Sow,Ivoirien,1,4,939400.0,3.0,4.0,2,Standard
+CLI1325,Aminata Camara,Camerounais,0,4,939240.0,1.3,3.0,2,Standard
+CLI0033,Serge Ndoye,Autre,0,5,938080.0,2.4,3.8,2,Standard
+CLI0186,Cheick Mensah,Ivoirien,0,4,937800.0,1.8,3.3,2,Standard
+CLI0875,Moussa Mensah,Ghaneeen,1,5,937120.0,2.0,3.8,2,Standard
+CLI2909,Serge Nkomo,Ghaneeen,0,4,937080.0,2.5,3.3,2,Standard
+CLI2197,Luc Camara,Français,0,5,936800.0,2.2,4.2,2,Standard
+CLI2779,Cheick Camara,Ivoirien,0,2,936700.0,4.0,4.5,2,Standard
+CLI2105,Fatou Traore,Ivoirien,0,2,936640.0,3.0,4.0,2,Standard
+CLI1786,Rokia Sow,Senegalais,1,3,936000.0,2.7,4.3,2,Standard
+CLI1609,Cheick Koné,Americain,0,1,936000.0,4.0,5.0,2,Standard
+CLI0284,Clarisse Traore,Ivoirien,0,3,936000.0,3.3,3.7,2,Standard
+CLI2342,Aida Ndoye,Senegalais,0,3,936000.0,3.0,3.7,2,Standard
+CLI0221,Aminata Diallo,Senegalais,0,2,936000.0,4.0,4.0,2,Standard
+CLI0794,Cheick Bamba,Camerounais,0,4,935900.0,1.8,3.8,2,Standard
+CLI0302,Awa Camara,Senegalais,1,5,935170.0,1.2,3.6,2,Standard
+CLI0227,Moussa Traore,Autre,1,2,934600.0,2.5,3.0,2,Standard
+CLI0010,Kofi Traore,Americain,0,4,933200.0,1.8,3.3,2,Standard
+CLI2400,Luc Traore,Camerounais,1,3,933200.0,2.3,3.7,2,Standard
+CLI2488,Luc Kouassi,Ivoirien,0,4,933100.0,2.8,4.3,2,Standard
+CLI2259,Kofi Mensah,Senegalais,0,5,932000.0,2.8,4.0,2,Standard
+CLI0705,Jean Ndoye,Ivoirien,0,1,931500.0,5.0,2.0,2,Standard
+CLI1314,Rokia Ndoye,Français,1,6,931400.0,1.7,4.6,2,Standard
+CLI0454,Moussa Camara,Ivoirien,1,4,930880.0,2.0,4.3,2,Standard
+CLI1074,Paul Nkomo,Ghaneeen,0,5,930600.0,3.4,3.8,2,Standard
+CLI2484,Binta Koné,Senegalais,0,3,930120.0,2.7,3.7,2,Standard
+CLI2967,Adjoua Camara,Autre,0,3,928320.0,3.0,3.3,2,Standard
+CLI2331,Eric Kouassi,Français,0,4,927240.0,2.5,4.5,2,Standard
+CLI2848,Eric Traore,Ghaneeen,0,5,927000.0,1.8,4.0,2,Standard
+CLI0219,Luc Nkomo,Senegalais,0,5,924800.0,3.6,4.8,2,Standard
+CLI2279,Fatou Ndoye,Ghaneeen,0,4,924000.0,3.5,3.0,2,Standard
+CLI0756,Clarisse Nkomo,Camerounais,0,2,924000.0,3.0,3.5,2,Standard
+CLI2389,Rokia Mensah,Ivoirien,0,4,923850.0,2.5,4.3,2,Standard
+CLI2139,Awa Mensah,Français,0,3,923400.0,2.7,4.3,2,Standard
+CLI1075,Ibrahim Sow,Ivoirien,0,3,923150.0,2.7,4.3,2,Standard
+CLI0256,Yao Bamba,Britannique,0,5,921200.0,2.4,4.2,2,Standard
+CLI0367,Rokia Nkomo,Camerounais,0,2,920000.0,2.5,3.5,2,Standard
+CLI1778,Aminata Mensah,Ivoirien,0,4,920000.0,3.0,4.0,2,Standard
+CLI0537,Eric Koné,Senegalais,1,5,917760.0,3.2,4.0,2,Standard
+CLI2280,Aida Bamba,Senegalais,0,3,917760.0,3.7,4.0,2,Standard
+CLI1601,Aida Traore,Senegalais,0,2,916320.0,3.5,4.0,2,Standard
+CLI0494,Binta Ndoye,Senegalais,1,2,916200.0,3.0,3.5,2,Standard
+CLI2859,Ibrahim Koné,Autre,0,2,916000.0,2.5,4.5,2,Standard
+CLI0587,Luc Traore,Ghaneeen,0,2,915400.0,5.5,4.5,2,Standard
+CLI2414,Moussa Ndoye,Camerounais,0,2,914480.0,3.5,5.0,2,Standard
+CLI0389,Luc Traore,Allemand,1,4,912180.0,2.3,3.8,2,Standard
+CLI2475,Marie Ndoye,Ivoirien,0,4,912000.0,3.0,3.0,2,Standard
+CLI1498,Eric Diallo,Britannique,0,2,911000.0,1.5,4.0,2,Standard
+CLI2444,Jean Bamba,Français,0,1,910800.0,5.0,4.0,2,Standard
+CLI1647,Yao Traore,Americain,0,2,910800.0,3.0,3.0,2,Standard
+CLI1660,Jean Ndoye,Français,0,5,909200.0,2.8,5.0,2,Standard
+CLI0908,Luc Kouassi,Senegalais,1,2,908500.0,2.0,3.0,2,Standard
+CLI0013,Adjoua Kouassi,Ghaneeen,1,4,908000.0,2.5,3.3,2,Standard
+CLI1998,Cheick Ndoye,Ivoirien,0,2,907840.0,4.5,4.0,2,Standard
+CLI1700,Fatou Mensah,Français,0,3,907650.0,1.3,3.3,2,Standard
+CLI2363,Jean Koné,Senegalais,0,4,906240.0,3.3,3.5,2,Standard
+CLI2265,Cheick Mensah,Ivoirien,0,4,905000.0,1.5,4.0,2,Standard
+CLI2175,Yao Camara,Ghaneeen,0,3,904320.0,3.0,2.3,2,Standard
+CLI0586,Luc Sow,Ghaneeen,0,3,904000.0,3.3,4.7,2,Standard
+CLI2756,Aminata Ndoye,Senegalais,0,3,903600.0,3.0,3.3,2,Standard
+CLI0960,Eric Sow,Ivoirien,0,5,902980.0,2.2,4.6,2,Standard
+CLI0151,Awa Diallo,Senegalais,0,3,901800.0,4.0,2.0,2,Standard
+CLI1243,Fatou Traore,Ivoirien,0,2,901600.0,4.0,4.0,2,Standard
+CLI2642,Kofi Mensah,Britannique,0,3,901200.0,4.3,4.0,2,Standard
+CLI0901,Binta Diallo,Senegalais,0,3,900000.0,3.7,4.3,2,Standard
+CLI0684,Serge Sow,Americain,0,2,897600.0,3.0,5.0,2,Standard
+CLI0049,Fatou Kouassi,Ivoirien,0,5,897120.0,3.4,4.4,2,Standard
+CLI1847,Eric Diallo,Senegalais,0,6,896600.0,1.7,5.0,2,Standard
+CLI1830,Aminata Kouassi,Ivoirien,0,6,895200.0,2.5,3.7,2,Standard
+CLI2550,Moussa Kouassi,Français,0,5,893200.0,2.4,4.0,2,Standard
+CLI0999,Awa Traore,Senegalais,0,4,892800.0,2.5,3.8,2,Standard
+CLI2398,Cheick Koné,Autre,0,2,892400.0,5.0,3.5,2,Standard
+CLI2866,Eric Ndoye,Americain,0,2,890000.0,3.0,4.0,2,Standard
+CLI2590,Rokia Koné,Ghaneeen,0,2,889200.0,2.0,4.0,2,Standard
+CLI2559,Aminata Camara,Camerounais,0,5,889200.0,2.4,4.4,2,Standard
+CLI2212,Binta Kouassi,Ivoirien,1,3,888800.0,3.3,4.0,2,Standard
+CLI1478,Serge Ndoye,Camerounais,0,4,888800.0,2.0,3.8,2,Standard
+CLI0470,Eric Bamba,Ivoirien,0,2,888720.0,3.0,3.0,2,Standard
+CLI2383,Ibrahim Kouassi,Britannique,0,4,888400.0,1.5,5.0,2,Standard
+CLI2658,Awa Mensah,Senegalais,0,3,888060.0,2.7,4.7,2,Standard
+CLI1037,Moussa Camara,Ivoirien,0,4,887360.0,2.3,5.0,2,Standard
+CLI2243,Aminata Koné,Britannique,0,4,887040.0,2.5,4.5,2,Standard
+CLI2290,Cheick Kouassi,Ivoirien,0,4,886400.0,3.8,4.5,2,Standard
+CLI1122,Ibrahim Traore,Senegalais,1,2,886000.0,3.0,5.0,2,Standard
+CLI2301,Jean Camara,Ivoirien,0,2,885600.0,3.0,3.5,2,Standard
+CLI2800,Ibrahim Bamba,Senegalais,1,3,885560.0,2.3,3.3,2,Standard
+CLI1818,Binta Bamba,Ivoirien,0,2,885000.0,1.5,5.0,2,Standard
+CLI0990,Rokia Camara,Ghaneeen,0,4,884400.0,2.3,2.3,2,Standard
+CLI2874,Moussa Diallo,Français,0,2,883200.0,4.0,4.5,2,Standard
+CLI0758,Ibrahim Ndoye,Camerounais,0,5,882000.0,1.8,3.2,2,Standard
+CLI2201,Paul Sow,Camerounais,0,4,882000.0,3.0,4.5,2,Standard
+CLI1860,Luc Diallo,Ivoirien,0,3,880800.0,2.7,4.0,2,Standard
+CLI2329,Moussa Ndoye,Americain,0,4,880400.0,3.3,4.8,2,Standard
+CLI2530,Sophie Mensah,Ghaneeen,0,4,880400.0,3.8,4.0,2,Standard
+CLI1073,Jean Koné,Ivoirien,1,3,880180.0,1.3,4.3,2,Standard
+CLI1110,Cheick Traore,Ivoirien,1,5,879840.0,3.0,4.2,2,Standard
+CLI2072,Moussa Nkomo,Ivoirien,0,5,878400.0,2.6,4.5,2,Standard
+CLI1850,Adjoua Nkomo,Senegalais,0,6,878000.0,2.0,4.7,2,Standard
+CLI0027,Eric Kouassi,Senegalais,0,5,877320.0,1.8,4.0,2,Standard
+CLI1541,Moussa Diallo,Autre,0,5,874250.0,1.6,4.2,2,Standard
+CLI0554,Moussa Camara,Senegalais,0,4,873920.0,2.5,4.0,2,Standard
+CLI1676,Paul Camara,Ghaneeen,1,5,873800.0,2.2,4.0,2,Standard
+CLI2074,Serge Bamba,Français,1,4,872400.0,1.8,3.5,2,Standard
+CLI2551,Luc Bamba,Camerounais,0,3,871800.0,2.7,3.7,2,Standard
+CLI0722,Serge Mensah,Senegalais,0,3,869760.0,1.7,3.7,2,Standard
+CLI2122,Luc Diallo,Ivoirien,0,2,866640.0,3.5,4.0,2,Standard
+CLI0307,Kofi Kouassi,Autre,0,3,865000.0,2.7,4.3,2,Standard
+CLI2719,Ibrahim Mensah,Français,1,4,864880.0,2.3,3.8,2,Standard
+CLI0145,Eric Sow,Ivoirien,1,2,864000.0,3.0,2.5,2,Standard
+CLI1853,Eric Ndoye,Ivoirien,0,6,862800.0,1.5,4.3,2,Standard
+CLI0561,Kofi Kouassi,Ivoirien,1,4,862720.0,1.3,4.3,2,Standard
+CLI2334,Fatou Kouassi,Ivoirien,1,3,861440.0,3.3,4.0,2,Standard
+CLI1126,Fatou Traore,Ghaneeen,0,3,858400.0,3.0,4.7,2,Standard
+CLI0305,Luc Koné,Senegalais,1,4,858400.0,2.5,4.0,2,Standard
+CLI2191,Yao Nkomo,Ivoirien,1,5,858200.0,2.0,3.6,2,Standard
+CLI1466,Fatou Sow,Ivoirien,0,4,858160.0,2.0,4.0,2,Standard
+CLI2924,Eric Traore,Camerounais,0,3,857280.0,2.0,4.0,2,Standard
+CLI1435,Aida Ndoye,Camerounais,0,2,856800.0,4.5,4.5,2,Standard
+CLI0426,Jean Kouassi,Ivoirien,1,4,856400.0,2.3,3.8,2,Standard
+CLI0659,Rokia Camara,Ivoirien,1,3,856400.0,3.3,3.0,2,Standard
+CLI1244,Binta Diallo,Camerounais,0,4,856320.0,3.3,3.3,2,Standard
+CLI0884,Ibrahim Sow,Autre,0,2,855600.0,3.5,4.0,2,Standard
+CLI1128,Cheick Bamba,Ivoirien,0,3,855600.0,2.3,4.3,2,Standard
+CLI2578,Fatou Koné,Camerounais,0,5,854040.0,2.6,4.2,2,Standard
+CLI1184,Sophie Sow,Français,1,4,852800.0,2.8,4.3,2,Standard
+CLI2745,Paul Kouassi,Ivoirien,0,3,852600.0,3.3,3.7,2,Standard
+CLI0320,Rokia Ndoye,Americain,0,5,850400.0,2.4,3.2,2,Standard
+CLI0813,Ibrahim Nkomo,Allemand,0,1,850080.0,7.0,3.0,2,Standard
+CLI1317,Clarisse Diallo,Ivoirien,0,5,848400.0,2.0,4.6,2,Standard
+CLI2762,Paul Sow,Camerounais,0,7,848160.0,1.7,4.1,2,Standard
+CLI0974,Aida Bamba,Senegalais,0,3,847800.0,2.3,4.0,2,Standard
+CLI0104,Luc Kouassi,Allemand,1,3,847320.0,2.3,5.0,2,Standard
+CLI2526,Ibrahim Sow,Ivoirien,0,4,846840.0,1.5,4.3,2,Standard
+CLI2158,Eric Sow,Ivoirien,0,3,846400.0,4.0,4.0,2,Standard
+CLI2362,Paul Nkomo,Ghaneeen,1,3,846400.0,4.0,4.0,2,Standard
+CLI0966,Yao Nkomo,Camerounais,0,2,846000.0,2.5,4.0,2,Standard
+CLI2959,Luc Ndoye,Ghaneeen,0,4,845900.0,1.3,4.3,2,Standard
+CLI2341,Fatou Ndoye,Senegalais,0,3,845760.0,2.3,4.0,2,Standard
+CLI2710,Yao Diallo,Ghaneeen,0,5,843840.0,1.8,3.6,2,Standard
+CLI2002,Kofi Mensah,Senegalais,0,3,843600.0,2.3,4.0,2,Standard
+CLI2969,Cheick Mensah,Camerounais,0,6,843060.0,2.5,2.8,2,Standard
+CLI2576,Marie Mensah,Ivoirien,0,1,842400.0,4.0,4.0,2,Standard
+CLI2739,Cheick Ndoye,Français,0,1,842400.0,4.0,2.0,2,Standard
+CLI1827,Yao Diallo,Ivoirien,0,1,842400.0,4.0,3.0,2,Standard
+CLI1093,Serge Kouassi,Français,0,4,842280.0,3.5,4.8,2,Standard
+CLI1886,Serge Sow,Ghaneeen,1,3,842040.0,2.0,4.7,2,Standard
+CLI0598,Fatou Mensah,Ivoirien,0,4,841800.0,2.0,4.3,2,Standard
+CLI0138,Aida Traore,Français,0,4,840600.0,2.0,4.5,2,Standard
+CLI1841,Binta Nkomo,Ivoirien,1,2,840600.0,2.5,4.0,2,Standard
+CLI2482,Rokia Kouassi,Camerounais,0,1,840000.0,7.0,4.0,2,Standard
+CLI0134,Marie Ndoye,Americain,0,1,840000.0,7.0,5.0,2,Standard
+CLI1810,Luc Kouassi,Camerounais,0,3,839500.0,2.0,4.3,2,Standard
+CLI1446,Clarisse Nkomo,Allemand,0,4,839400.0,2.0,4.0,2,Standard
+CLI1566,Moussa Ndoye,Ghaneeen,0,5,839200.0,2.4,3.2,2,Standard
+CLI0417,Kofi Traore,Ivoirien,0,5,838940.0,2.0,3.6,2,Standard
+CLI1766,Kofi Mensah,Americain,0,3,838000.0,2.3,4.0,2,Standard
+CLI0737,Cheick Bamba,Allemand,0,3,838000.0,2.7,4.3,3,Standard
+CLI1081,Rokia Bamba,Senegalais,0,2,837900.0,3.0,4.0,3,Standard
+CLI1458,Fatou Nkomo,Camerounais,0,4,837210.0,1.3,3.8,3,Standard
+CLI2602,Moussa Nkomo,Ivoirien,0,2,837200.0,2.0,5.0,3,Standard
+CLI0133,Cheick Koné,Ghaneeen,0,2,836000.0,5.0,4.0,3,Standard
+CLI2536,Fatou Koné,Autre,0,2,835200.0,3.0,4.5,3,Standard
+CLI1890,Clarisse Traore,Britannique,0,6,833900.0,2.7,3.3,3,Standard
+CLI2471,Ibrahim Traore,Autre,0,2,833520.0,3.0,4.0,3,Standard
+CLI2392,Clarisse Sow,Americain,1,4,832830.0,2.5,4.3,3,Standard
+CLI2789,Clarisse Sow,Camerounais,1,4,832700.0,2.3,3.8,3,Standard
+CLI0921,Awa Koné,Ghaneeen,0,6,832500.0,2.0,3.8,3,Standard
+CLI0839,Yao Koné,Ghaneeen,0,5,832280.0,3.0,4.0,3,Standard
+CLI0099,Adjoua Diallo,Ivoirien,0,2,831680.0,3.0,4.0,3,Standard
+CLI2608,Yao Diallo,Camerounais,0,3,831680.0,2.7,4.0,3,Standard
+CLI2643,Yao Kouassi,Allemand,0,4,831200.0,1.8,3.5,3,Standard
+CLI1229,Marie Kouassi,Camerounais,0,2,829200.0,3.5,4.5,3,Standard
+CLI0058,Luc Traore,Ivoirien,1,2,828000.0,3.0,4.0,3,Standard
+CLI2701,Aida Ndoye,Autre,1,4,828000.0,2.3,2.3,3,Standard
+CLI0280,Jean Sow,Senegalais,0,1,828000.0,4.0,3.0,3,Standard
+CLI1422,Eric Nkomo,Allemand,0,1,828000.0,5.0,3.0,3,Standard
+CLI1215,Yao Nkomo,Ghaneeen,0,5,826800.0,1.8,4.6,3,Standard
+CLI0611,Cheick Bamba,Ghaneeen,0,4,826500.0,3.5,3.5,3,Standard
+CLI2573,Eric Sow,Ivoirien,0,3,826200.0,2.3,4.3,3,Standard
+CLI0065,Cheick Traore,Autre,0,2,826080.0,4.5,5.0,3,Standard
+CLI1806,Cheick Camara,Ivoirien,1,3,825800.0,3.7,3.7,3,Standard
+CLI2884,Adjoua Mensah,Britannique,0,2,825240.0,3.0,3.5,3,Standard
+CLI0495,Paul Sow,Senegalais,0,5,825200.0,1.8,4.4,3,Standard
+CLI0599,Rokia Mensah,Français,0,2,825050.0,2.0,2.5,3,Standard
+CLI0864,Clarisse Traore,Ivoirien,1,4,824400.0,3.5,4.5,3,Standard
+CLI2019,Eric Nkomo,Senegalais,0,3,823200.0,2.3,2.3,3,Standard
+CLI0195,Luc Nkomo,Camerounais,1,2,822480.0,3.0,3.5,3,Standard
+CLI2136,Aminata Koné,Britannique,1,3,822400.0,2.3,3.7,3,Standard
+CLI2831,Fatou Traore,Camerounais,0,2,821200.0,3.5,5.0,3,Standard
+CLI2560,Clarisse Diallo,Senegalais,1,3,820800.0,3.0,3.3,3,Standard
+CLI0610,Jean Sow,Britannique,0,2,819600.0,3.0,4.0,3,Standard
+CLI1780,Serge Nkomo,Camerounais,0,4,818960.0,2.3,3.8,3,Standard
+CLI2495,Rokia Kouassi,Camerounais,0,2,816960.0,3.5,3.5,3,Standard
+CLI2278,Rokia Sow,Ivoirien,1,6,816320.0,1.5,3.7,3,Standard
+CLI0326,Ibrahim Bamba,Ghaneeen,1,2,815800.0,2.5,4.0,3,Standard
+CLI2065,Binta Koné,Ivoirien,1,3,815800.0,2.3,4.0,3,Standard
+CLI0716,Cheick Diallo,Ivoirien,1,2,815600.0,2.5,4.5,3,Standard
+CLI1684,Moussa Sow,Autre,0,4,815200.0,2.5,4.0,3,Standard
+CLI1777,Rokia Nkomo,Ghaneeen,0,3,814400.0,2.0,4.0,3,Standard
+CLI1212,Luc Koné,Autre,0,2,813600.0,2.5,5.0,3,Standard
+CLI2913,Adjoua Mensah,Americain,0,3,812000.0,1.0,4.7,3,Standard
+CLI1344,Yao Koné,Ivoirien,0,4,812000.0,2.0,4.8,3,Standard
+CLI1090,Cheick Bamba,Americain,0,6,811800.0,2.2,4.8,3,Standard
+CLI0746,Yao Koné,Britannique,1,2,811440.0,2.5,4.0,3,Standard
+CLI1177,Clarisse Kouassi,Camerounais,0,5,810960.0,2.6,4.0,3,Standard
+CLI2256,Paul Nkomo,Camerounais,0,4,810240.0,2.5,3.5,3,Standard
+CLI2842,Serge Sow,Ivoirien,1,4,810000.0,2.0,4.8,3,Standard
+CLI1460,Cheick Koné,Français,1,3,809600.0,2.7,4.5,3,Standard
+CLI1940,Clarisse Kouassi,Allemand,0,2,809400.0,2.5,3.5,3,Standard
+CLI1775,Kofi Bamba,Camerounais,0,4,808400.0,1.0,3.8,3,Standard
+CLI0060,Sophie Sow,Senegalais,0,2,808000.0,3.0,4.5,3,Standard
+CLI2682,Luc Diallo,Autre,0,5,807000.0,1.8,3.8,3,Standard
+CLI2652,Eric Ndoye,Allemand,1,3,806880.0,3.3,4.3,3,Standard
+CLI1051,Eric Ndoye,Allemand,1,4,806840.0,1.5,4.3,3,Standard
+CLI2170,Jean Camara,Senegalais,0,2,806000.0,3.5,3.0,3,Standard
+CLI1357,Kofi Sow,Ghaneeen,0,3,805920.0,2.0,5.0,3,Standard
+CLI1656,Cheick Koné,Camerounais,0,3,805500.0,2.0,4.7,3,Standard
+CLI0250,Aida Camara,Camerounais,1,4,805200.0,2.5,3.3,3,Standard
+CLI2646,Aida Bamba,Ivoirien,0,1,805000.0,2.0,2.0,3,Standard
+CLI0476,Fatou Bamba,Camerounais,0,1,805000.0,2.0,5.0,3,Standard
+CLI1805,Sophie Nkomo,Autre,0,1,805000.0,2.0,5.0,3,Standard
+CLI2275,Ibrahim Ndoye,Camerounais,0,1,805000.0,2.0,5.0,3,Standard
+CLI0035,Moussa Traore,Ivoirien,1,3,803160.0,2.3,5.0,3,Standard
+CLI2677,Kofi Nkomo,Senegalais,1,3,802720.0,3.3,4.5,3,Standard
+CLI2799,Aminata Nkomo,Allemand,0,3,802720.0,2.0,3.7,3,Standard
+CLI2351,Jean Nkomo,Ivoirien,0,2,802240.0,4.5,5.0,3,Standard
+CLI0903,Paul Mensah,Senegalais,1,2,801600.0,4.5,2.0,3,Standard
+CLI2053,Luc Kouassi,Ivoirien,0,1,800800.0,2.0,5.0,3,Standard
+CLI1247,Paul Bamba,Americain,0,3,800000.0,2.3,3.7,3,Standard
+CLI1607,Moussa Koné,Ivoirien,0,4,799800.0,2.0,4.3,3,Standard
+CLI2428,Clarisse Ndoye,Ghaneeen,0,7,799760.0,1.4,4.1,3,Standard
+CLI0490,Binta Bamba,Ivoirien,0,5,798400.0,2.2,4.0,3,Standard
+CLI1372,Luc Nkomo,Ivoirien,1,3,798300.0,2.7,2.7,3,Standard
+CLI2898,Paul Koné,Ivoirien,0,3,798300.0,1.7,3.3,3,Standard
+CLI1822,Fatou Kouassi,Senegalais,0,3,798000.0,2.7,2.7,3,Standard
+CLI2060,Kofi Traore,Senegalais,1,4,796200.0,1.8,3.5,3,Standard
+CLI1240,Paul Diallo,Camerounais,0,4,794800.0,1.8,3.0,3,Standard
+CLI2795,Cheick Diallo,Ivoirien,0,2,794600.0,5.0,3.5,3,Standard
+CLI1225,Marie Mensah,Americain,0,2,794400.0,3.5,4.0,3,Standard
+CLI0149,Eric Kouassi,Senegalais,0,2,794000.0,2.0,4.0,3,Standard
+CLI1468,Fatou Camara,Ivoirien,1,5,793040.0,1.6,4.6,3,Standard
+CLI1484,Clarisse Ndoye,Ivoirien,0,3,792120.0,3.0,2.7,3,Standard
+CLI0814,Eric Bamba,Allemand,0,2,792000.0,2.5,4.0,3,Standard
+CLI2339,Moussa Traore,Americain,0,1,792000.0,5.0,5.0,3,Standard
+CLI2058,Awa Traore,Camerounais,0,1,792000.0,5.0,5.0,3,Standard
+CLI1467,Ibrahim Bamba,Autre,0,1,792000.0,5.0,5.0,3,Standard
+CLI0153,Aida Diallo,Ivoirien,0,3,790800.0,2.3,4.5,3,Standard
+CLI1311,Ibrahim Koné,Allemand,0,3,789760.0,3.7,3.0,3,Standard
+CLI2044,Serge Bamba,Ghaneeen,0,3,789280.0,2.0,5.0,3,Standard
+CLI2824,Paul Koné,Ivoirien,1,2,788800.0,4.5,3.5,3,Standard
+CLI1615,Paul Camara,Ivoirien,0,3,787840.0,2.3,5.0,3,Standard
+CLI1264,Yao Mensah,Ivoirien,0,2,787520.0,4.0,4.5,3,Standard
+CLI2318,Ibrahim Kouassi,Ivoirien,0,5,787400.0,2.6,4.0,3,Standard
+CLI0742,Adjoua Bamba,Ivoirien,0,2,787320.0,2.5,4.0,3,Standard
+CLI2282,Fatou Mensah,Allemand,0,2,787200.0,2.5,3.5,3,Standard
+CLI1865,Clarisse Mensah,Camerounais,1,4,786600.0,2.5,4.0,3,Standard
+CLI1942,Aminata Traore,Ivoirien,0,2,786600.0,4.0,4.0,3,Standard
+CLI0420,Adjoua Kouassi,Britannique,0,3,786600.0,2.3,4.3,3,Standard
+CLI2517,Yao Diallo,Ivoirien,0,6,784200.0,1.3,3.7,3,Standard
+CLI1985,Ibrahim Mensah,Allemand,1,5,784000.0,3.0,3.6,3,Standard
+CLI1103,Luc Traore,Ghaneeen,1,3,783840.0,4.3,3.3,3,Standard
+CLI1570,Adjoua Camara,Français,0,4,783200.0,2.3,4.5,3,Standard
+CLI1369,Awa Koné,Allemand,0,2,783000.0,2.0,5.0,3,Standard
+CLI0397,Fatou Mensah,Ghaneeen,0,2,782920.0,2.5,5.0,3,Standard
+CLI2793,Jean Koné,Ivoirien,0,4,782600.0,3.3,4.0,3,Standard
+CLI0534,Fatou Kouassi,Britannique,0,3,782460.0,3.0,4.0,3,Standard
+CLI0165,Luc Traore,Français,0,4,782400.0,4.3,3.8,3,Standard
+CLI0872,Clarisse Sow,Senegalais,1,3,782000.0,2.3,,3,Standard
+CLI1348,Marie Sow,Ivoirien,0,2,782000.0,2.0,4.0,3,Standard
+CLI1356,Yao Camara,Camerounais,0,2,782000.0,3.5,4.0,3,Standard
+CLI0438,Ibrahim Traore,Ghaneeen,0,2,781200.0,3.0,5.0,3,Standard
+CLI1335,Awa Koné,Allemand,0,4,780920.0,2.3,2.7,3,Standard
+CLI0613,Binta Nkomo,Senegalais,1,3,780160.0,4.0,4.0,3,Standard
+CLI1589,Aminata Nkomo,Ivoirien,0,2,779000.0,2.5,4.0,3,Standard
+CLI1186,Marie Sow,Français,0,3,778680.0,3.0,5.0,3,Standard
+CLI0835,Jean Diallo,Ivoirien,1,5,778400.0,2.8,3.8,3,Standard
+CLI0576,Ibrahim Diallo,Senegalais,1,5,778400.0,3.2,4.6,3,Standard
+CLI1428,Luc Mensah,Camerounais,1,5,777760.0,2.2,4.8,3,Standard
+CLI0159,Rokia Diallo,Ivoirien,1,2,777600.0,4.5,3.5,3,Standard
+CLI2413,Eric Ndoye,Ivoirien,0,3,776000.0,2.7,4.0,3,Standard
+CLI0237,Ibrahim Camara,Americain,0,3,774000.0,2.3,4.0,3,Standard
+CLI0266,Yao Camara,Senegalais,0,2,774000.0,2.5,4.5,3,Standard
+CLI1152,Marie Ndoye,Ivoirien,0,2,774000.0,2.0,4.0,3,Standard
+CLI1095,Eric Diallo,Americain,0,2,773000.0,2.0,3.5,3,Standard
+CLI1655,Ibrahim Traore,Français,0,3,772800.0,2.7,4.3,3,Standard
+CLI1266,Luc Nkomo,Français,0,2,772800.0,3.5,5.0,3,Standard
+CLI0616,Clarisse Diallo,Camerounais,0,4,772800.0,3.0,4.3,3,Standard
+CLI0636,Eric Traore,Senegalais,0,2,772800.0,3.0,4.0,3,Standard
+CLI0988,Moussa Sow,Ivoirien,0,2,772600.0,4.0,4.5,3,Standard
+CLI1000,Awa Mensah,Camerounais,0,2,771840.0,3.0,3.5,3,Standard
+CLI0838,Serge Bamba,Ivoirien,0,2,771800.0,2.0,3.5,3,Standard
+CLI0048,Clarisse Mensah,Ivoirien,1,5,771040.0,2.2,4.3,3,Standard
+CLI2340,Rokia Diallo,Autre,0,4,770600.0,1.3,3.5,3,Standard
+CLI2207,Sophie Kouassi,Camerounais,0,2,768200.0,2.5,4.0,3,Standard
+CLI2790,Aminata Ndoye,Ivoirien,1,2,768000.0,3.5,4.5,3,Standard
+CLI1199,Aida Mensah,Senegalais,0,4,768000.0,2.0,5.0,3,Standard
+CLI2486,Sophie Kouassi,Autre,1,5,767440.0,1.2,3.8,3,Standard
+CLI1267,Adjoua Kouassi,Americain,1,4,767040.0,2.0,5.0,3,Standard
+CLI2641,Jean Bamba,Français,0,3,767000.0,2.0,4.0,3,Standard
+CLI2771,Aida Kouassi,Français,0,4,766640.0,1.5,3.5,3,Standard
+CLI2320,Sophie Nkomo,Ghaneeen,1,2,765800.0,3.0,5.0,3,Standard
+CLI0615,Adjoua Mensah,Ivoirien,0,3,765600.0,2.0,4.5,3,Standard
+CLI1395,Awa Sow,Ivoirien,0,3,765560.0,2.3,4.0,3,Standard
+CLI2447,Binta Ndoye,Senegalais,0,3,765450.0,2.0,2.7,3,Standard
+CLI2777,Rokia Mensah,Allemand,0,2,763740.0,3.0,3.0,3,Standard
+CLI1956,Moussa Traore,Autre,0,5,762720.0,2.2,5.0,3,Standard
+CLI1206,Luc Ndoye,Allemand,0,4,762200.0,3.0,4.8,3,Standard
+CLI2038,Rokia Ndoye,Camerounais,0,2,762000.0,2.5,5.0,3,Standard
+CLI0545,Clarisse Ndoye,Camerounais,0,2,761760.0,2.5,3.0,3,Standard
+CLI2729,Kofi Nkomo,Allemand,0,2,759000.0,2.0,3.0,3,Standard
+CLI1642,Eric Diallo,Ivoirien,0,4,758400.0,2.8,4.8,3,Standard
+CLI2840,Luc Sow,Ghaneeen,0,5,757520.0,2.6,4.0,3,Standard
+CLI2272,Rokia Traore,Britannique,0,5,756800.0,3.2,5.0,3,Standard
+CLI0348,Marie Nkomo,Ghaneeen,0,3,756600.0,2.3,4.7,3,Standard
+CLI0474,Serge Mensah,Camerounais,0,1,756000.0,7.0,5.0,3,Standard
+CLI2298,Fatou Nkomo,Ivoirien,0,1,756000.0,7.0,3.0,3,Standard
+CLI0004,Moussa Traore,Ghaneeen,0,3,755520.0,2.7,3.7,3,Standard
+CLI0774,Eric Bamba,Britannique,0,4,755320.0,2.5,5.0,3,Standard
+CLI2968,Aida Koné,Senegalais,1,5,754480.0,2.6,4.4,3,Standard
+CLI1067,Serge Camara,Senegalais,0,3,754400.0,3.7,2.3,3,Standard
+CLI2379,Rokia Kouassi,Ivoirien,1,4,753840.0,1.8,4.8,3,Standard
+CLI2151,Adjoua Mensah,Britannique,1,2,753600.0,2.5,4.5,3,Standard
+CLI0580,Yao Bamba,Ivoirien,0,5,753600.0,3.2,4.2,3,Standard
+CLI2738,Kofi Nkomo,Senegalais,0,5,753080.0,1.8,3.8,3,Standard
+CLI0240,Marie Koné,Ghaneeen,1,2,752560.0,4.5,3.5,3,Standard
+CLI2742,Paul Diallo,Britannique,0,4,750600.0,2.0,4.5,3,Standard
+CLI1788,Serge Ndoye,Allemand,0,3,749800.0,3.0,4.0,3,Standard
+CLI0007,Kofi Kouassi,Ivoirien,0,3,749340.0,2.3,4.7,3,Standard
+CLI0172,Jean Nkomo,Ivoirien,0,2,747200.0,4.0,4.5,3,Standard
+CLI0428,Ibrahim Ndoye,Français,1,4,746720.0,1.5,4.5,3,Standard
+CLI2048,Awa Kouassi,Ivoirien,0,5,746500.0,1.6,4.2,3,Standard
+CLI1799,Moussa Sow,Ghaneeen,0,3,745200.0,3.0,4.3,3,Standard
+CLI0169,Kofi Nkomo,Ivoirien,0,1,745200.0,4.0,3.0,3,Standard
+CLI2171,Clarisse Nkomo,Camerounais,1,4,745200.0,3.0,5.0,3,Standard
+CLI2865,Aminata Traore,Camerounais,0,2,745200.0,4.0,4.0,3,Standard
+CLI2330,Moussa Sow,Allemand,1,5,744920.0,1.2,3.4,3,Standard
+CLI1555,Paul Kouassi,Ivoirien,0,4,742000.0,3.8,4.7,3,Standard
+CLI0167,Paul Bamba,Senegalais,0,5,741560.0,1.6,4.0,3,Standard
+CLI2575,Sophie Koné,Senegalais,0,2,741000.0,2.0,4.0,3,Standard
+CLI2248,Jean Ndoye,Ivoirien,0,2,740800.0,3.5,4.5,3,Standard
+CLI2356,Marie Diallo,Français,0,2,739200.0,5.5,4.0,3,Standard
+CLI0146,Moussa Diallo,Camerounais,0,4,738960.0,2.5,4.0,3,Standard
+CLI0997,Jean Mensah,Camerounais,0,4,738600.0,2.0,4.3,3,Standard
+CLI0139,Yao Mensah,Senegalais,1,3,738560.0,4.7,4.7,3,Standard
+CLI1750,Cheick Camara,Ghaneeen,1,2,738000.0,2.5,4.0,3,Standard
+CLI2928,Luc Camara,Britannique,0,3,738000.0,3.0,5.0,3,Standard
+CLI0860,Sophie Nkomo,Ivoirien,1,3,736920.0,2.3,4.7,3,Standard
+CLI1390,Clarisse Diallo,Ivoirien,0,2,736920.0,3.0,3.0,3,Standard
+CLI0826,Cheick Sow,Britannique,1,5,736800.0,2.2,3.8,3,Standard
+CLI2989,Rokia Ndoye,Britannique,0,5,736200.0,2.8,4.0,3,Standard
+CLI0923,Luc Bamba,Autre,0,4,736000.0,2.8,4.8,3,Standard
+CLI0253,Luc Bamba,Français,1,4,735840.0,2.5,3.0,3,Standard
+CLI2251,Marie Kouassi,Camerounais,0,2,735840.0,2.0,4.0,3,Standard
+CLI1252,Fatou Mensah,Senegalais,0,2,734560.0,4.0,3.5,3,Standard
+CLI0932,Rokia Ndoye,Ivoirien,0,3,734160.0,3.7,4.0,3,Standard
+CLI1717,Binta Diallo,Ivoirien,0,4,734000.0,2.5,2.5,3,Standard
+CLI0514,Adjoua Diallo,Autre,1,3,733560.0,3.0,4.3,3,Standard
+CLI0115,Clarisse Koné,Ivoirien,1,2,732640.0,2.5,4.0,3,Standard
+CLI0513,Ibrahim Kouassi,Senegalais,0,3,732400.0,2.3,4.3,3,Standard
+CLI0730,Cheick Diallo,Senegalais,0,4,732000.0,2.8,3.5,3,Standard
+CLI1094,Jean Sow,Français,0,3,730560.0,2.7,4.0,3,Standard
+CLI1130,Cheick Diallo,Camerounais,0,2,730400.0,3.5,3.5,3,Standard
+CLI1873,Luc Nkomo,Camerounais,0,6,729520.0,2.2,4.8,3,Standard
+CLI1749,Jean Koné,Ivoirien,0,2,728160.0,2.0,3.5,3,Standard
+CLI1008,Marie Koné,Ivoirien,0,3,727300.0,2.3,4.0,3,Standard
+CLI1345,Cheick Ndoye,Autre,0,3,727200.0,2.0,4.3,3,Standard
+CLI1204,Aida Nkomo,Ghaneeen,0,6,727200.0,1.7,3.8,3,Standard
+CLI0661,Sophie Koné,Allemand,0,2,727080.0,2.5,3.0,3,Standard
+CLI2758,Fatou Nkomo,Ivoirien,0,3,726800.0,3.0,4.3,3,Standard
+CLI2566,Moussa Kouassi,Camerounais,1,2,724500.0,2.0,4.0,3,Standard
+CLI1569,Eric Traore,Ivoirien,0,2,724500.0,2.0,3.0,3,Standard
+CLI2001,Aminata Nkomo,Ivoirien,0,3,723600.0,4.0,5.0,3,Standard
+CLI1175,Paul Bamba,Senegalais,0,3,723150.0,1.7,4.3,3,Standard
+CLI1226,Yao Ndoye,Camerounais,0,3,721760.0,2.7,4.7,3,Standard
+CLI0042,Jean Kouassi,Americain,0,5,720600.0,1.4,4.0,3,Standard
+CLI0528,Fatou Sow,Americain,1,3,720320.0,2.3,4.0,3,Standard
+CLI1083,Yao Diallo,Ivoirien,0,1,720000.0,4.0,2.0,3,Standard
+CLI2424,Yao Camara,Americain,1,4,720000.0,2.5,5.0,3,Standard
+CLI2698,Marie Ndoye,Americain,0,1,720000.0,4.0,3.0,3,Standard
+CLI0640,Cheick Camara,Ivoirien,0,4,720000.0,4.0,3.5,3,Standard
+CLI0858,Cheick Kouassi,Ghaneeen,0,2,720000.0,2.5,4.5,3,Standard
+CLI1666,Aminata Bamba,Allemand,0,3,720000.0,2.0,4.3,3,Standard
+CLI1030,Luc Nkomo,Autre,0,2,720000.0,4.0,,3,Standard
+CLI2186,Sophie Koné,Ivoirien,0,3,719200.0,2.3,4.3,3,Standard
+CLI0658,Kofi Koné,Ghaneeen,0,4,718800.0,2.5,3.3,3,Standard
+CLI1501,Cheick Camara,Français,0,6,718080.0,2.5,4.2,3,Standard
+CLI2839,Luc Camara,Camerounais,0,3,717840.0,3.0,4.0,3,Standard
+CLI0372,Cheick Koné,Allemand,0,1,717600.0,5.0,3.0,3,Standard
+CLI0714,Aminata Koné,Ivoirien,0,4,717600.0,2.3,3.5,3,Standard
+CLI1797,Cheick Diallo,Ivoirien,0,2,717600.0,3.0,4.5,3,Standard
+CLI0160,Jean Ndoye,Ivoirien,0,3,717600.0,3.0,3.7,3,Standard
+CLI2193,Eric Traore,Senegalais,0,2,716400.0,2.0,3.5,3,Standard
+CLI1545,Luc Ndoye,Autre,1,3,714960.0,2.0,3.3,3,Standard
+CLI0469,Serge Diallo,Ghaneeen,0,2,714000.0,7.0,2.0,3,Standard
+CLI2024,Paul Diallo,Français,0,2,714000.0,2.5,5.0,3,Standard
+CLI0539,Jean Kouassi,Senegalais,0,4,713200.0,2.5,4.5,3,Standard
+CLI2760,Aida Nkomo,Français,0,3,712480.0,5.0,4.3,3,Standard
+CLI0566,Jean Diallo,Americain,0,4,712000.0,2.5,4.5,3,Standard
+CLI0807,Yao Camara,Senegalais,0,4,711100.0,1.5,4.0,3,Standard
+CLI1539,Marie Diallo,Ivoirien,0,5,710200.0,1.2,3.8,3,Standard
+CLI1127,Cheick Nkomo,Ivoirien,1,4,710000.0,1.5,4.5,3,Standard
+CLI2075,Cheick Bamba,Ivoirien,0,2,709800.0,2.0,4.0,3,Standard
+CLI0574,Serge Ndoye,Ivoirien,0,3,709800.0,3.0,4.3,3,Standard
+CLI2416,Eric Ndoye,Ivoirien,0,3,709280.0,3.0,3.3,3,Standard
+CLI2091,Serge Nkomo,Ghaneeen,0,3,708800.0,3.3,3.7,3,Standard
+CLI2203,Rokia Traore,Ghaneeen,1,4,708080.0,2.3,5.0,3,Standard
+CLI2995,Jean Koné,Ivoirien,0,3,707400.0,3.0,5.0,3,Standard
+CLI1219,Jean Camara,Senegalais,0,3,705280.0,2.0,4.0,3,Standard
+CLI2903,Marie Koné,Ivoirien,1,2,703800.0,4.0,3.0,3,Standard
+CLI2194,Paul Koné,Senegalais,0,3,703400.0,1.7,3.0,3,Standard
+CLI0570,Sophie Koné,Ivoirien,0,3,703200.0,3.3,5.0,3,Standard
+CLI1882,Serge Nkomo,Senegalais,1,4,703200.0,2.0,3.0,3,Standard
+CLI0044,Kofi Mensah,Ivoirien,1,2,702000.0,3.0,5.0,3,Standard
+CLI0442,Binta Bamba,Autre,0,2,702000.0,4.5,4.5,3,Standard
+CLI1878,Luc Ndoye,Ghaneeen,1,1,702000.0,5.0,3.0,3,Standard
+CLI2601,Marie Sow,Ivoirien,1,2,701900.0,2.0,3.0,3,Standard
+CLI1349,Yao Mensah,Autre,0,3,700880.0,2.7,5.0,3,Standard
+CLI2284,Marie Sow,Allemand,0,2,700000.0,2.0,5.0,3,Standard
+CLI0443,Ibrahim Diallo,Ivoirien,0,1,700000.0,2.0,3.0,3,Standard
+CLI0191,Moussa Bamba,Senegalais,1,1,700000.0,2.0,4.0,3,Standard
+CLI2868,Marie Bamba,Ghaneeen,0,4,699200.0,1.8,4.3,3,Standard
+CLI2681,Jean Camara,Ivoirien,1,5,699200.0,2.0,4.4,3,Standard
+CLI1704,Sophie Diallo,Camerounais,0,2,698750.0,1.5,5.0,3,Standard
+CLI2766,Aminata Koné,Camerounais,0,5,697200.0,2.6,4.2,3,Standard
+CLI0891,Yao Koné,Senegalais,0,5,697200.0,1.8,4.6,3,Standard
+CLI0193,Sophie Sow,Senegalais,0,2,696440.0,3.5,5.0,3,Standard
+CLI2851,Jean Camara,Senegalais,1,4,695280.0,2.5,4.3,3,Standard
+CLI1723,Moussa Camara,Senegalais,0,4,694320.0,2.5,3.0,3,Standard
+CLI1741,Ibrahim Ndoye,Camerounais,0,3,693600.0,4.0,4.0,3,Standard
+CLI0003,Clarisse Mensah,Autre,0,4,692800.0,2.3,3.8,3,Standard
+CLI2915,Aida Ndoye,Ivoirien,0,2,692400.0,2.5,3.0,3,Standard
+CLI2022,Sophie Diallo,Camerounais,1,2,692000.0,3.0,2.5,3,Standard
+CLI0487,Kofi Camara,Ivoirien,0,3,690680.0,1.7,2.7,3,Standard
+CLI0472,Eric Kouassi,Ivoirien,0,1,690000.0,5.0,5.0,3,Standard
+CLI0209,Marie Sow,Ivoirien,1,3,690000.0,1.7,4.3,3,Standard
+CLI0927,Yao Diallo,Français,0,5,688800.0,2.0,3.2,3,Standard
+CLI0047,Serge Koné,Britannique,0,2,688560.0,3.5,5.0,3,Standard
+CLI2326,Sophie Sow,Ivoirien,0,2,688320.0,2.5,4.5,3,Standard
+CLI2314,Rokia Sow,Senegalais,1,3,688000.0,4.0,4.0,3,Standard
+CLI1735,Cheick Traore,Ivoirien,0,5,687720.0,2.0,4.2,3,Standard
+CLI2325,Yao Kouassi,Senegalais,0,1,686400.0,5.0,5.0,3,Standard
+CLI0763,Ibrahim Bamba,Français,1,3,685920.0,3.3,3.0,3,Standard
+CLI1638,Aminata Mensah,Camerounais,0,2,685400.0,3.5,4.0,3,Standard
+CLI2609,Yao Sow,Autre,0,3,684000.0,2.0,3.0,3,Standard
+CLI1449,Kofi Camara,Ghaneeen,0,4,684000.0,2.0,3.8,3,Standard
+CLI1165,Paul Diallo,Ivoirien,0,3,684000.0,2.0,4.7,3,Standard
+CLI1069,Paul Kouassi,Ivoirien,1,3,681600.0,2.7,3.7,3,Standard
+CLI2291,Luc Mensah,Ivoirien,1,2,681120.0,2.5,4.0,3,Standard
+CLI1414,Yao Traore,Ivoirien,0,3,681120.0,2.7,4.7,3,Standard
+CLI2474,Eric Camara,Camerounais,1,4,681120.0,1.8,4.3,3,Standard
+CLI2138,Clarisse Camara,Autre,0,4,680640.0,3.0,4.3,3,Standard
+CLI2982,Aminata Bamba,Senegalais,0,2,680400.0,2.0,4.0,3,Standard
+CLI1324,Awa Ndoye,Ghaneeen,1,4,678280.0,1.5,3.5,3,Standard
+CLI0238,Jean Kouassi,Senegalais,1,3,678000.0,3.7,4.0,3,Standard
+CLI0127,Aida Nkomo,Français,1,2,677060.0,2.0,4.0,3,Standard
+CLI0063,Eric Kouassi,Senegalais,0,3,676800.0,2.3,5.0,3,Standard
+CLI1564,Luc Camara,Senegalais,0,4,676000.0,2.0,3.8,3,Standard
+CLI0797,Sophie Koné,Ivoirien,0,4,675900.0,2.5,4.5,3,Standard
+CLI0917,Awa Kouassi,Français,0,3,673920.0,1.7,4.0,3,Standard
+CLI2103,Binta Kouassi,Autre,1,2,673840.0,2.5,5.0,3,Standard
+CLI0497,Moussa Mensah,Senegalais,0,4,672000.0,2.8,4.5,3,Standard
+CLI2983,Clarisse Traore,Ghaneeen,1,4,671880.0,1.5,4.5,3,Standard
+CLI0045,Paul Koné,Français,0,4,671600.0,2.3,3.8,3,Standard
+CLI2785,Moussa Koné,Camerounais,0,2,671200.0,4.5,3.0,3,Standard
+CLI0031,Eric Traore,Camerounais,0,2,671200.0,3.0,3.0,3,Standard
+CLI1259,Fatou Kouassi,Camerounais,1,4,670160.0,2.5,4.3,3,Standard
+CLI0174,Sophie Nkomo,Ivoirien,0,2,670000.0,1.5,4.0,3,Standard
+CLI1978,Jean Traore,Camerounais,0,2,669760.0,3.0,3.0,3,Standard
+CLI2303,Paul Ndoye,Ghaneeen,1,3,668800.0,3.3,4.7,3,Standard
+CLI1489,Binta Koné,Autre,0,4,668200.0,2.3,3.8,3,Standard
+CLI2436,Moussa Bamba,Senegalais,1,3,667920.0,3.7,4.3,3,Standard
+CLI2093,Kofi Ndoye,Autre,0,3,667920.0,2.3,3.7,3,Standard
+CLI1719,Sophie Nkomo,Autre,0,4,666000.0,1.5,4.3,3,Standard
+CLI1659,Moussa Koné,Camerounais,0,4,664800.0,2.0,4.7,3,Standard
+CLI1556,Marie Ndoye,Ivoirien,0,2,664080.0,3.0,3.0,3,Standard
+CLI0321,Luc Camara,Americain,1,2,662900.0,2.0,4.0,3,Standard
+CLI1020,Luc Ndoye,Americain,0,1,662400.0,4.0,5.0,3,Standard
+CLI2705,Serge Bamba,Senegalais,0,1,662400.0,4.0,4.0,3,Standard
+CLI1648,Jean Ndoye,Camerounais,0,3,661680.0,2.7,5.0,3,Standard
+CLI1500,Paul Diallo,Français,0,2,660600.0,3.5,4.5,3,Standard
+CLI1503,Cheick Sow,Senegalais,1,5,660200.0,2.2,4.5,3,Standard
+CLI1618,Marie Kouassi,Ivoirien,0,4,660170.0,1.5,4.5,3,Standard
+CLI1979,Aminata Camara,Ivoirien,0,2,659640.0,3.0,4.5,3,Standard
+CLI1084,Aminata Nkomo,Ivoirien,0,4,659600.0,1.5,4.8,3,Standard
+CLI0712,Ibrahim Bamba,Senegalais,0,4,658600.0,1.8,4.0,3,Standard
+CLI1987,Adjoua Kouassi,Senegalais,0,5,658600.0,2.6,5.0,3,Standard
+CLI1928,Paul Traore,Britannique,1,3,657800.0,4.0,3.0,3,Standard
+CLI1923,Clarisse Traore,Senegalais,0,4,656400.0,2.8,4.3,3,Standard
+CLI2023,Jean Nkomo,Ivoirien,0,3,656200.0,3.0,4.0,3,Standard
+CLI0084,Clarisse Traore,Camerounais,1,4,655800.0,1.5,4.8,3,Standard
+CLI0753,Aida Mensah,Britannique,0,4,655500.0,2.5,4.3,3,Standard
+CLI2049,Kofi Ndoye,Ivoirien,0,3,655440.0,1.3,3.0,3,Standard
+CLI2143,Paul Traore,Ivoirien,0,3,655200.0,2.0,4.0,3,Standard
+CLI2156,Marie Ndoye,Français,0,2,655200.0,3.0,3.0,3,Standard
+CLI1636,Sophie Diallo,Ivoirien,0,2,655200.0,3.0,4.0,3,Standard
+CLI1479,Cheick Nkomo,Ivoirien,0,3,654924.0,2.0,4.7,3,Standard
+CLI0036,Jean Sow,Camerounais,0,3,654000.0,3.0,4.3,3,Standard
+CLI2547,Jean Koné,Senegalais,0,2,652800.0,3.0,5.0,3,Standard
+CLI2178,Rokia Bamba,Ghaneeen,0,6,652400.0,1.7,3.7,3,Standard
+CLI2187,Paul Ndoye,Français,0,2,652320.0,3.5,4.0,3,Standard
+CLI1938,Adjoua Sow,Ivoirien,0,2,651840.0,3.0,3.5,3,Standard
+CLI2630,Aminata Traore,Autre,1,5,651600.0,2.0,4.7,3,Standard
+CLI2966,Moussa Kouassi,Camerounais,0,4,651360.0,2.8,4.3,3,Standard
+CLI2943,Awa Mensah,Ghaneeen,0,5,651280.0,1.4,3.4,3,Standard
+CLI2393,Kofi Sow,Camerounais,0,3,648480.0,2.0,3.7,3,Standard
+CLI2430,Kofi Sow,Senegalais,0,2,648400.0,3.5,3.0,3,Standard
+CLI2241,Sophie Ndoye,Autre,1,2,647680.0,2.5,4.5,3,Standard
+CLI0107,Kofi Diallo,Camerounais,0,3,644960.0,2.0,3.3,3,Standard
+CLI1279,Awa Bamba,Français,0,3,644560.0,2.3,3.7,3,Standard
+CLI0330,Cheick Bamba,Ivoirien,0,2,644000.0,3.0,3.5,3,Standard
+CLI1857,Ibrahim Nkomo,Français,1,3,644000.0,4.0,3.7,3,Standard
+CLI1771,Serge Nkomo,Français,0,1,644000.0,7.0,4.0,3,Standard
+CLI2098,Paul Diallo,Britannique,1,3,643950.0,2.3,4.0,3,Standard
+CLI0451,Luc Sow,Ghaneeen,0,5,643480.0,1.2,4.2,3,Standard
+CLI0299,Paul Diallo,Senegalais,0,3,643200.0,3.7,4.0,3,Standard
+CLI1548,Cheick Traore,Autre,0,2,643200.0,3.0,3.0,3,Standard
+CLI1884,Cheick Traore,Ivoirien,1,2,642500.0,2.0,5.0,3,Standard
+CLI0289,Serge Sow,Camerounais,0,2,641160.0,2.0,4.5,3,Standard
+CLI2716,Kofi Camara,Français,0,4,639200.0,2.3,4.8,3,Standard
+CLI2664,Eric Kouassi,Ivoirien,0,3,638900.0,1.7,3.7,3,Standard
+CLI1276,Clarisse Bamba,Senegalais,0,5,638860.0,1.6,4.5,3,Standard
+CLI0414,Paul Sow,Camerounais,0,2,636810.0,2.0,3.5,3,Standard
+CLI1277,Jean Koné,Camerounais,0,3,636000.0,3.0,3.3,3,Standard
+CLI0949,Serge Koné,Camerounais,0,2,635840.0,3.5,4.0,3,Standard
+CLI1883,Cheick Sow,Français,1,2,634800.0,2.0,5.0,3,Standard
+CLI2124,Aida Nkomo,Britannique,0,3,634800.0,2.3,4.0,3,Standard
+CLI0043,Yao Kouassi,Ghaneeen,0,1,634800.0,5.0,4.0,3,Standard
+CLI0335,Rokia Kouassi,Autre,0,2,634800.0,2.5,4.0,3,Standard
+CLI0481,Yao Kouassi,Senegalais,1,2,634560.0,2.5,4.5,3,Standard
+CLI2691,Kofi Kouassi,Americain,0,3,634560.0,2.3,4.3,3,Standard
+CLI2230,Ibrahim Bamba,Ivoirien,0,4,634080.0,1.8,3.8,3,Standard
+CLI2372,Serge Diallo,Autre,0,4,633920.0,2.5,4.0,3,Standard
+CLI2581,Kofi Bamba,Autre,0,2,633200.0,3.5,4.5,3,Standard
+CLI1022,Awa Koné,Autre,1,4,632360.0,2.5,4.3,3,Standard
+CLI2797,Sophie Diallo,Autre,1,2,632000.0,3.5,5.0,3,Standard
+CLI2204,Yao Koné,Ivoirien,0,2,631800.0,3.0,3.0,3,Standard
+CLI0784,Fatou Koné,Britannique,0,1,631800.0,3.0,4.0,3,Standard
+CLI0319,Aida Bamba,Autre,0,2,631800.0,3.0,4.0,3,Standard
+CLI0612,Moussa Nkomo,Americain,0,4,631360.0,2.3,3.0,3,Standard
+CLI2591,Adjoua Traore,Ivoirien,0,3,630900.0,2.3,4.0,3,Standard
+CLI0663,Luc Kouassi,Senegalais,0,3,630400.0,2.0,4.3,3,Standard
+CLI2580,Yao Diallo,Britannique,0,3,630200.0,2.3,3.7,3,Standard
+CLI1926,Rokia Mensah,Ivoirien,0,4,630000.0,1.3,4.0,3,Standard
+CLI2532,Ibrahim Mensah,Senegalais,1,1,630000.0,2.0,2.0,3,Standard
+CLI1573,Moussa Diallo,Ivoirien,0,1,630000.0,2.0,3.0,3,Standard
+CLI0395,Jean Ndoye,Autre,0,3,629280.0,3.0,4.7,3,Standard
+CLI1380,Luc Traore,Français,1,3,627120.0,1.7,4.7,3,Standard
+CLI0358,Awa Sow,Camerounais,0,3,626600.0,1.3,4.3,3,Standard
+CLI0859,Fatou Mensah,Britannique,1,3,626520.0,2.7,3.0,3,Standard
+CLI2456,Kofi Bamba,Americain,0,2,624000.0,4.0,5.0,3,Standard
+CLI1628,Aida Traore,Britannique,0,1,624000.0,4.0,4.0,3,Standard
+CLI2750,Jean Ndoye,Autre,0,1,624000.0,4.0,5.0,3,Standard
+CLI2150,Cheick Kouassi,Allemand,0,3,623680.0,2.7,3.7,3,Standard
+CLI0336,Jean Nkomo,Senegalais,0,5,622800.0,1.6,3.4,3,Standard
+CLI0506,Binta Nkomo,Senegalais,0,1,621000.0,3.0,3.0,3,Standard
+CLI0726,Aida Mensah,Autre,0,1,621000.0,3.0,4.0,3,Standard
+CLI1355,Clarisse Mensah,Autre,0,1,621000.0,3.0,5.0,3,Standard
+CLI1242,Luc Camara,Ivoirien,0,1,621000.0,3.0,5.0,3,Standard
+CLI0748,Kofi Traore,Autre,0,3,620880.0,2.7,4.7,3,Standard
+CLI1463,Aida Nkomo,Camerounais,0,4,620800.0,1.8,3.5,3,Standard
+CLI1846,Adjoua Traore,Ivoirien,1,3,618240.0,3.0,4.3,3,Standard
+CLI0700,Paul Traore,Autre,0,2,618240.0,2.0,3.0,3,Standard
+CLI2685,Aminata Traore,Français,1,1,617760.0,3.0,3.0,3,Standard
+CLI1733,Fatou Mensah,Americain,0,1,617760.0,3.0,,3,Standard
+CLI0579,Luc Diallo,Ivoirien,0,2,616400.0,3.5,4.5,3,Standard
+CLI2117,Paul Traore,Français,1,4,616320.0,1.8,3.8,3,Standard
+CLI0380,Sophie Koné,Ivoirien,0,1,616000.0,2.0,4.0,3,Standard
+CLI0400,Aminata Traore,Britannique,0,1,616000.0,2.0,4.0,3,Standard
+CLI2336,Ibrahim Kouassi,Americain,0,1,616000.0,2.0,5.0,3,Standard
+CLI0998,Awa Bamba,Ivoirien,1,1,616000.0,2.0,2.0,3,Standard
+CLI0536,Aminata Mensah,Autre,0,3,615840.0,2.7,4.3,3,Standard
+CLI0781,Ibrahim Diallo,Camerounais,0,4,614560.0,2.8,4.3,3,Standard
+CLI1320,Yao Koné,Americain,0,3,614400.0,2.3,3.0,3,Standard
+CLI2116,Paul Diallo,Ivoirien,0,5,612000.0,1.4,4.8,3,Standard
+CLI1194,Fatou Traore,Britannique,0,3,612000.0,3.3,3.7,3,Standard
+CLI0178,Kofi Diallo,Ivoirien,0,2,612000.0,3.5,4.5,3,Standard
+CLI0076,Adjoua Mensah,Senegalais,0,5,611600.0,1.6,3.8,3,Standard
+CLI0933,Jean Diallo,Ghaneeen,0,2,611040.0,2.5,4.5,3,Standard
+CLI0332,Jean Ndoye,Français,0,4,610320.0,2.3,3.0,3,Standard
+CLI1493,Yao Bamba,Français,0,3,609120.0,2.7,4.0,3,Standard
+CLI2711,Fatou Ndoye,Senegalais,0,3,608960.0,3.3,4.3,3,Standard
+CLI2828,Luc Diallo,Français,0,2,608800.0,4.0,4.0,3,Standard
+CLI1529,Marie Sow,Ghaneeen,1,3,607900.0,1.7,4.0,3,Standard
+CLI0070,Aida Sow,Britannique,1,2,607200.0,2.5,4.5,3,Standard
+CLI0991,Moussa Diallo,Ivoirien,0,2,607200.0,3.5,4.5,3,Standard
+CLI1992,Binta Sow,Ghaneeen,1,3,606740.0,1.0,4.5,3,Standard
+CLI2100,Serge Bamba,Ivoirien,0,3,606080.0,3.3,5.0,3,Standard
+CLI0040,Eric Nkomo,Français,1,3,605640.0,1.7,2.7,3,Standard
+CLI0724,Eric Camara,Ivoirien,1,3,605280.0,2.3,3.7,3,Standard
+CLI1964,Luc Traore,Camerounais,0,3,603920.0,4.0,4.0,3,Standard
+CLI2932,Sophie Bamba,Autre,1,2,603500.0,1.5,4.5,3,Standard
+CLI1540,Serge Diallo,Allemand,1,5,603200.0,2.6,4.4,3,Standard
+CLI1581,Jean Koné,Ivoirien,0,3,603040.0,1.3,3.7,3,Standard
+CLI1488,Marie Camara,Autre,0,4,602480.0,2.3,3.8,3,Standard
+CLI1185,Clarisse Bamba,Ivoirien,0,3,602000.0,3.3,5.0,3,Standard
+CLI0462,Cheick Traore,Français,1,3,601600.0,1.7,3.7,3,Standard
+CLI2659,Awa Sow,Ivoirien,0,5,601600.0,2.0,4.2,3,Standard
+CLI2731,Moussa Koné,Ghaneeen,1,3,601600.0,2.0,4.0,3,Standard
+CLI1974,Cheick Ndoye,Camerounais,0,4,601200.0,1.8,5.0,3,Standard
+CLI0260,Yao Camara,Ivoirien,0,2,600300.0,2.5,4.0,3,Standard
+CLI1025,Luc Mensah,Français,1,2,600000.0,3.0,2.5,3,Standard
+CLI0905,Fatou Nkomo,Ghaneeen,0,1,600000.0,5.0,5.0,3,Standard
+CLI0158,Marie Nkomo,Ivoirien,1,1,600000.0,5.0,5.0,3,Standard
+CLI0323,Aminata Mensah,Senegalais,0,2,600000.0,2.5,4.5,3,Standard
+CLI1626,Aida Ndoye,Français,0,2,599800.0,2.5,3.0,3,Standard
+CLI1256,Cheick Koné,Ivoirien,0,3,598000.0,2.3,4.3,3,Standard
+CLI1353,Yao Diallo,Senegalais,1,2,597600.0,3.0,4.5,3,Standard
+CLI0916,Binta Mensah,Camerounais,0,3,597040.0,3.0,2.7,3,Standard
+CLI0656,Luc Bamba,Ghaneeen,0,4,596800.0,2.0,3.3,3,Standard
+CLI0427,Rokia Nkomo,Camerounais,0,1,596700.0,3.0,,3,Standard
+CLI1903,Jean Kouassi,Ghaneeen,1,2,596400.0,2.0,3.5,3,Standard
+CLI2697,Aida Bamba,Autre,0,4,596160.0,1.5,3.3,3,Standard
+CLI2174,Luc Ndoye,Autre,0,4,596160.0,2.5,4.5,3,Standard
+CLI0762,Jean Kouassi,Ghaneeen,0,4,596000.0,3.5,2.5,3,Standard
+CLI2744,Serge Kouassi,Ivoirien,0,1,595000.0,2.0,5.0,3,Standard
+CLI0505,Kofi Traore,Ivoirien,0,2,593840.0,3.5,4.0,3,Standard
+CLI2845,Clarisse Bamba,Allemand,0,2,592080.0,3.0,4.5,3,Standard
+CLI0080,Serge Kouassi,Ivoirien,0,2,591900.0,2.5,3.0,3,Standard
+CLI2515,Yao Camara,Ghaneeen,0,2,590400.0,3.0,4.5,3,Standard
+CLI1917,Adjoua Diallo,Ivoirien,0,3,588800.0,3.3,5.0,3,Standard
+CLI2168,Eric Mensah,Senegalais,0,3,588600.0,2.3,5.0,3,Standard
+CLI1981,Serge Diallo,Camerounais,0,2,588000.0,3.0,5.0,3,Standard
+CLI2942,Rokia Kouassi,Senegalais,0,4,588000.0,3.0,5.0,3,Standard
+CLI2324,Luc Ndoye,Ivoirien,0,2,588000.0,3.0,3.0,3,Standard
+CLI2144,Serge Ndoye,Camerounais,1,1,586500.0,5.0,3.0,3,Standard
+CLI1404,Ibrahim Mensah,Français,0,2,586500.0,5.0,5.0,3,Standard
+CLI2725,Jean Bamba,Ghaneeen,1,4,585900.0,2.0,4.0,3,Standard
+CLI1675,Awa Traore,Français,1,3,584800.0,2.0,2.7,3,Standard
+CLI1542,Sophie Bamba,Ivoirien,1,3,584200.0,2.3,3.7,3,Standard
+CLI1939,Clarisse Koné,Senegalais,0,2,584000.0,3.5,4.0,3,Standard
+CLI1236,Aminata Kouassi,Senegalais,1,2,583280.0,2.5,2.5,3,Standard
+CLI1388,Clarisse Camara,Senegalais,0,4,582400.0,2.0,4.3,3,Standard
+CLI0212,Cheick Mensah,Ghaneeen,1,3,582000.0,2.3,4.3,3,Standard
+CLI1283,Ibrahim Koné,Senegalais,0,3,581440.0,2.0,5.0,3,Standard
+CLI0486,Eric Camara,Ivoirien,0,5,580400.0,2.4,3.4,3,Standard
+CLI0815,Eric Kouassi,Ivoirien,1,2,579600.0,2.0,4.5,3,Standard
+CLI0183,Jean Koné,Camerounais,0,2,579600.0,5.5,2.5,3,Standard
+CLI2253,Aminata Nkomo,Ivoirien,0,4,579300.0,1.5,5.0,3,Standard
+CLI1726,Jean Sow,Ivoirien,0,2,578400.0,2.5,3.5,3,Standard
+CLI0331,Sophie Koné,Ivoirien,0,5,577400.0,1.2,4.2,3,Standard
+CLI1477,Awa Diallo,Camerounais,1,3,576000.0,2.0,3.7,3,Standard
+CLI1674,Serge Kouassi,Ivoirien,0,3,576000.0,3.0,5.0,3,Standard
+CLI0740,Eric Mensah,Autre,0,3,576000.0,4.0,4.0,3,Standard
+CLI2052,Yao Traore,Ivoirien,1,2,576000.0,4.0,5.0,3,Standard
+CLI1032,Serge Koné,Camerounais,0,3,576000.0,3.0,3.7,3,Standard
+CLI2498,Binta Sow,Camerounais,0,3,575520.0,2.0,4.3,3,Standard
+CLI1214,Paul Ndoye,Americain,0,4,575000.0,1.5,3.8,3,Standard
+CLI1832,Rokia Mensah,Senegalais,0,1,574080.0,4.0,5.0,3,Standard
+CLI2155,Serge Koné,Autre,1,2,573450.0,2.0,5.0,3,Standard
+CLI0356,Sophie Koné,Ivoirien,0,2,572700.0,2.5,4.0,3,Standard
+CLI2397,Serge Bamba,Senegalais,0,3,572700.0,1.7,4.0,3,Standard
+CLI0941,Luc Traore,Ivoirien,0,1,571320.0,3.0,3.0,3,Standard
+CLI2131,Awa Traore,Français,1,1,571320.0,3.0,2.0,3,Standard
+CLI2665,Jean Nkomo,Ivoirien,0,2,571320.0,3.0,4.0,3,Standard
+CLI2782,Aminata Koné,Ghaneeen,0,2,571200.0,3.0,5.0,3,Standard
+CLI1871,Marie Bamba,Ivoirien,0,3,571200.0,2.7,4.3,3,Standard
+CLI0363,Yao Camara,Ivoirien,0,2,569920.0,3.0,5.0,3,Standard
+CLI2632,Clarisse Camara,Ghaneeen,1,2,569280.0,2.5,4.0,3,Standard
+CLI1377,Fatou Ndoye,Ivoirien,0,2,568800.0,2.0,4.0,3,Standard
+CLI2132,Awa Camara,Français,0,3,568400.0,3.7,5.0,3,Standard
+CLI1624,Rokia Bamba,Ivoirien,0,3,568400.0,3.7,5.0,3,Standard
+CLI0951,Clarisse Bamba,Allemand,0,3,566960.0,1.7,5.0,3,Standard
+CLI0286,Fatou Camara,Senegalais,1,2,566880.0,2.0,4.5,3,Standard
+CLI0662,Jean Mensah,Camerounais,0,2,566250.0,2.0,2.0,3,Standard
+CLI0627,Aminata Kouassi,Americain,1,2,564640.0,2.5,3.5,3,Standard
+CLI1056,Jean Mensah,Ivoirien,0,2,564000.0,3.0,5.0,3,Standard
+CLI0360,Aminata Koné,Americain,1,2,563840.0,3.5,4.0,3,Standard
+CLI1971,Cheick Sow,Senegalais,0,3,563400.0,1.7,3.3,3,Standard
+CLI2358,Yao Kouassi,Britannique,0,3,562560.0,3.3,3.7,3,Standard
+CLI2395,Ibrahim Diallo,Ivoirien,1,1,561600.0,4.0,5.0,3,Standard
+CLI2375,Yao Ndoye,Americain,0,1,561600.0,4.0,2.0,3,Standard
+CLI1912,Kofi Mensah,Autre,0,2,561600.0,3.0,3.0,3,Standard
+CLI0030,Kofi Bamba,Camerounais,0,3,561200.0,1.3,3.7,3,Standard
+CLI0473,Moussa Traore,Français,0,2,561200.0,3.5,3.0,3,Standard
+CLI2781,Marie Kouassi,Autre,0,4,561200.0,3.0,4.5,3,Standard
+CLI1914,Adjoua Traore,Ivoirien,0,2,560400.0,1.5,5.0,3,Standard
+CLI0308,Moussa Sow,Senegalais,0,2,560000.0,7.0,4.0,3,Standard
+CLI1724,Moussa Nkomo,Français,0,1,558900.0,3.0,4.0,3,Standard
+CLI2606,Cheick Mensah,Camerounais,0,2,558900.0,3.0,,3,Standard
+CLI0571,Rokia Kouassi,Ivoirien,1,1,558900.0,3.0,3.0,3,Standard
+CLI1026,Adjoua Diallo,Ghaneeen,0,1,558900.0,3.0,5.0,3,Standard
+CLI1426,Serge Bamba,Ivoirien,1,1,558900.0,3.0,5.0,3,Standard
+CLI0871,Moussa Camara,Ivoirien,0,2,558000.0,1.5,4.0,3,Standard
+CLI0276,Ibrahim Nkomo,Senegalais,0,3,557800.0,2.7,4.0,3,Standard
+CLI2625,Moussa Ndoye,Autre,0,3,557600.0,3.3,4.7,3,Standard
+CLI1287,Fatou Koné,Français,0,2,556600.0,1.0,5.0,3,Standard
+CLI2961,Paul Ndoye,Senegalais,1,4,555200.0,2.3,4.8,3,Standard
+CLI2390,Yao Nkomo,Senegalais,0,2,554880.0,2.5,4.5,3,Standard
+CLI1132,Kofi Koné,Senegalais,1,3,554400.0,2.3,4.3,3,Standard
+CLI1102,Yao Bamba,Americain,0,2,554300.0,2.5,3.5,3,Standard
+CLI0353,Marie Bamba,Ivoirien,0,2,552240.0,2.5,4.5,3,Standard
+CLI2227,Aida Traore,Camerounais,0,1,552000.0,5.0,5.0,3,Standard
+CLI2899,Jean Nkomo,Ivoirien,1,1,552000.0,4.0,,3,Standard
+CLI2700,Ibrahim Bamba,Ghaneeen,0,3,552000.0,2.3,3.7,3,Standard
+CLI2234,Luc Sow,Senegalais,1,1,552000.0,4.0,4.0,3,Standard
+CLI1233,Paul Nkomo,Americain,0,1,552000.0,4.0,4.0,3,Standard
+CLI2720,Paul Nkomo,Camerounais,0,2,552000.0,5.0,5.0,3,Standard
+CLI2678,Moussa Traore,Ivoirien,0,1,552000.0,5.0,5.0,3,Standard
+CLI2902,Aminata Diallo,Ivoirien,0,1,552000.0,4.0,5.0,3,Standard
+CLI0736,Paul Sow,Français,0,1,552000.0,4.0,5.0,3,Standard
+CLI0375,Rokia Diallo,Senegalais,0,1,552000.0,4.0,4.0,3,Standard
+CLI2644,Fatou Bamba,Ivoirien,0,4,551200.0,1.5,4.0,3,Standard
+CLI2670,Paul Kouassi,Americain,0,4,551160.0,1.8,4.8,3,Standard
+CLI0530,Moussa Camara,Autre,0,4,550800.0,1.0,3.5,3,Standard
+CLI2293,Rokia Traore,Britannique,0,3,550800.0,1.7,4.3,3,Standard
+CLI0642,Jean Nkomo,Senegalais,0,3,550560.0,2.3,4.7,3,Standard
+CLI2237,Binta Sow,Camerounais,1,4,548320.0,3.3,4.3,3,Standard
+CLI1138,Eric Nkomo,Senegalais,0,2,548000.0,2.5,5.0,3,Standard
+CLI1492,Paul Traore,Autre,0,3,547600.0,1.7,4.0,3,Standard
+CLI2421,Cheick Sow,Americain,1,1,547400.0,7.0,4.0,3,Standard
+CLI1424,Kofi Mensah,Ghaneeen,0,4,547400.0,1.8,3.7,3,Standard
+CLI2873,Awa Koné,Ivoirien,0,3,547200.0,2.0,3.0,3,Standard
+CLI1223,Ibrahim Bamba,Ivoirien,1,4,546560.0,3.5,4.0,3,Standard
+CLI1785,Sophie Traore,Camerounais,0,1,546480.0,3.0,4.0,3,Standard
+CLI2115,Serge Sow,Britannique,0,1,546480.0,3.0,3.0,3,Standard
+CLI0083,Rokia Camara,Autre,1,5,546000.0,1.8,4.4,3,Standard
+CLI1190,Cheick Sow,Camerounais,1,3,544640.0,2.3,2.7,3,Standard
+CLI1292,Kofi Bamba,Camerounais,0,4,544160.0,1.8,4.0,3,Standard
+CLI1104,Fatou Koné,Ivoirien,1,2,544000.0,3.5,4.0,3,Standard
+CLI2821,Moussa Kouassi,Ivoirien,0,2,541800.0,1.5,5.0,3,Standard
+CLI2267,Yao Camara,Americain,0,4,541680.0,2.3,3.0,3,Standard
+CLI0711,Clarisse Diallo,Ivoirien,1,4,541280.0,1.3,3.8,3,Standard
+CLI1411,Moussa Diallo,Camerounais,0,3,540000.0,2.7,3.7,3,Standard
+CLI1550,Cheick Traore,Ghaneeen,0,1,540000.0,5.0,5.0,3,Standard
+CLI0303,Kofi Kouassi,Senegalais,0,2,540000.0,3.0,5.0,3,Standard
+CLI1828,Aminata Nkomo,Ivoirien,0,2,540000.0,5.0,4.0,3,Standard
+CLI2000,Serge Koné,Ivoirien,0,4,540000.0,2.5,5.0,3,Standard
+CLI2623,Serge Nkomo,Britannique,0,2,540000.0,2.5,4.0,3,Standard
+CLI2787,Paul Nkomo,Ivoirien,1,1,540000.0,3.0,4.0,3,Standard
+CLI2927,Cheick Camara,Americain,1,3,537200.0,2.3,3.7,3,Standard
+CLI2294,Jean Traore,Autre,0,4,536400.0,3.5,5.0,3,Standard
+CLI1525,Marie Kouassi,Autre,0,2,534720.0,2.5,3.5,3,Standard
+CLI0369,Luc Bamba,Ivoirien,1,2,534400.0,3.5,5.0,3,Standard
+CLI2858,Clarisse Diallo,Autre,0,2,533600.0,3.0,4.0,3,Standard
+CLI1625,Adjoua Kouassi,Ivoirien,0,3,532800.0,2.0,3.7,3,Standard
+CLI2061,Marie Traore,Camerounais,0,3,532600.0,2.3,2.7,3,Standard
+CLI0123,Clarisse Camara,Ivoirien,0,4,532000.0,2.5,5.0,3,Standard
+CLI2978,Binta Traore,Ivoirien,0,2,530400.0,4.0,5.0,3,Standard
+CLI1273,Rokia Nkomo,Camerounais,1,2,530400.0,4.0,5.0,3,Standard
+CLI2008,Cheick Sow,Americain,0,3,530400.0,1.7,5.0,3,Standard
+CLI0765,Jean Camara,Ivoirien,0,1,530400.0,4.0,4.0,3,Standard
+CLI2477,Adjoua Kouassi,Ivoirien,0,1,530400.0,4.0,4.0,3,Standard
+CLI1302,Fatou Sow,Ivoirien,0,3,530000.0,3.7,4.7,3,Standard
+CLI1403,Adjoua Camara,Ivoirien,1,3,529000.0,2.7,5.0,3,Standard
+CLI2754,Adjoua Ndoye,Ivoirien,0,2,528000.0,3.0,3.0,3,Standard
+CLI1453,Awa Ndoye,Autre,1,1,527850.0,3.0,3.0,3,Standard
+CLI1134,Rokia Nkomo,Ivoirien,0,2,527000.0,2.5,5.0,3,Standard
+CLI1711,Moussa Bamba,Ivoirien,0,2,527000.0,2.5,4.5,3,Standard
+CLI2441,Paul Mensah,Senegalais,0,4,525600.0,2.0,4.5,3,Standard
+CLI2933,Marie Kouassi,Americain,0,2,524400.0,2.5,5.0,3,Standard
+CLI1114,Eric Mensah,Ghaneeen,0,3,524400.0,2.3,5.0,3,Standard
+CLI0144,Moussa Bamba,Senegalais,1,2,524000.0,2.5,5.0,3,Standard
+CLI0176,Jean Mensah,Camerounais,0,3,524000.0,3.0,4.0,3,Standard
+CLI1091,Yao Traore,Camerounais,1,4,523800.0,1.5,3.3,3,Standard
+CLI1363,Moussa Camara,Autre,0,2,521600.0,4.0,3.5,3,Standard
+CLI2162,Ibrahim Kouassi,Autre,1,3,520640.0,2.0,3.7,3,Standard
+CLI1925,Sophie Sow,Allemand,1,1,520000.0,5.0,5.0,3,Standard
+CLI1983,Moussa Ndoye,Americain,0,2,520000.0,5.0,3.0,3,Standard
+CLI2907,Luc Camara,Ghaneeen,1,3,520000.0,2.0,3.0,3,Standard
+CLI2548,Jean Koné,Ivoirien,0,2,518880.0,3.0,4.0,3,Standard
+CLI1927,Cheick Camara,Ghaneeen,0,3,518880.0,3.0,3.7,3,Standard
+CLI1929,Eric Kouassi,Senegalais,1,4,518400.0,1.8,3.3,3,Standard
+CLI1634,Aminata Mensah,Autre,0,3,517600.0,1.7,4.0,3,Standard
+CLI1898,Eric Mensah,Autre,0,2,516000.0,1.5,2.5,3,Standard
+CLI1140,Clarisse Diallo,Camerounais,1,2,515360.0,2.0,4.0,3,Standard
+CLI1071,Aminata Kouassi,Senegalais,0,1,515200.0,7.0,4.0,3,Standard
+CLI1740,Marie Nkomo,Britannique,0,2,514560.0,2.0,4.0,3,Standard
+CLI2039,Aminata Ndoye,Camerounais,1,2,513400.0,2.0,5.0,3,Standard
+CLI1955,Paul Ndoye,Ivoirien,1,2,510000.0,2.0,5.0,3,Standard
+CLI1517,Luc Ndoye,Français,0,4,510000.0,1.5,3.5,3,Standard
+CLI1713,Ibrahim Mensah,Allemand,0,4,509680.0,1.3,3.0,3,Standard
+CLI2252,Yao Mensah,Ivoirien,0,4,509600.0,2.0,4.3,3,Standard
+CLI0944,Binta Traore,Ivoirien,0,4,509600.0,1.5,3.5,3,Standard
+CLI2231,Sophie Bamba,Senegalais,1,2,509160.0,2.5,4.5,3,Standard
+CLI2388,Paul Camara,Ivoirien,1,2,508760.0,1.5,4.5,3,Standard
+CLI1736,Cheick Traore,Ivoirien,0,3,508560.0,2.0,4.3,3,Standard
+CLI0678,Binta Traore,Senegalais,1,1,507840.0,4.0,2.0,3,Standard
+CLI1586,Clarisse Nkomo,Senegalais,0,2,507840.0,4.0,3.0,3,Standard
+CLI0391,Marie Nkomo,Français,0,1,507840.0,4.0,5.0,3,Standard
+CLI2017,Binta Mensah,Autre,1,5,504200.0,1.2,4.0,3,Standard
+CLI0401,Marie Kouassi,Allemand,1,3,504000.0,2.7,3.0,3,Standard
+CLI1588,Aida Ndoye,Autre,0,1,504000.0,7.0,3.0,3,Standard
+CLI2382,Awa Bamba,Ivoirien,0,3,504000.0,3.3,5.0,3,Standard
+CLI1306,Awa Kouassi,Senegalais,0,2,504000.0,2.0,4.0,3,Standard
+CLI0607,Ibrahim Diallo,Ivoirien,0,3,503200.0,3.7,3.7,3,Standard
+CLI1991,Kofi Bamba,Americain,0,2,501600.0,2.0,3.5,3,Standard
+CLI0189,Binta Camara,Ivoirien,0,2,500320.0,2.5,4.5,3,Standard
+CLI1004,Ibrahim Kouassi,Ivoirien,0,4,499200.0,1.5,3.0,3,Standard
+CLI0439,Moussa Nkomo,Autre,0,2,497600.0,3.5,4.0,3,Standard
+CLI2798,Luc Bamba,Autre,1,2,496800.0,2.5,4.0,3,Standard
+CLI2650,Sophie Camara,Ivoirien,0,1,496800.0,4.0,4.0,3,Standard
+CLI1702,Eric Sow,Ivoirien,0,1,496800.0,3.0,5.0,3,Standard
+CLI1966,Luc Sow,Camerounais,1,2,496800.0,4.0,4.0,3,Standard
+CLI2672,Binta Koné,Ivoirien,0,2,496800.0,2.0,3.5,3,Standard
+CLI1856,Yao Sow,Allemand,0,2,496800.0,3.0,4.0,3,Standard
+CLI2221,Luc Mensah,Ghaneeen,0,2,496000.0,2.0,3.5,3,Standard
+CLI0288,Clarisse Diallo,Allemand,1,5,494400.0,1.8,4.6,3,Standard
+CLI0573,Awa Diallo,Ivoirien,0,3,493200.0,2.3,3.3,3,Standard
+CLI1301,Jean Mensah,Ivoirien,0,1,492800.0,7.0,5.0,3,Standard
+CLI2878,Marie Bamba,Autre,0,2,492200.0,2.5,3.0,3,Standard
+CLI0568,Awa Nkomo,Senegalais,0,2,492000.0,2.5,4.5,3,Standard
+CLI1274,Fatou Diallo,Camerounais,1,3,489600.0,2.3,4.7,3,Standard
+CLI2316,Serge Sow,Ivoirien,1,2,489280.0,3.0,5.0,3,Standard
+CLI2714,Awa Mensah,Ivoirien,0,3,489280.0,2.3,5.0,3,Standard
+CLI0890,Yao Ndoye,Senegalais,0,3,487440.0,2.0,3.7,3,Standard
+CLI2832,Adjoua Ndoye,Americain,0,2,486000.0,3.0,5.0,3,Standard
+CLI2317,Ibrahim Koné,Britannique,0,1,486000.0,3.0,3.0,3,Standard
+CLI2056,Jean Bamba,Autre,0,1,486000.0,3.0,2.0,3,Standard
+CLI1689,Luc Koné,Ghaneeen,1,1,485760.0,4.0,3.0,3,Standard
+CLI1783,Serge Mensah,Camerounais,0,2,484000.0,2.5,3.0,3,Standard
+CLI1378,Kofi Bamba,Ghaneeen,0,3,482880.0,2.3,3.0,3,Standard
+CLI2109,Fatou Nkomo,Autre,0,3,482400.0,2.0,4.3,3,Standard
+CLI0551,Awa Mensah,Ivoirien,0,2,480600.0,1.5,4.5,3,Standard
+CLI1951,Sophie Kouassi,Autre,0,1,480000.0,4.0,2.0,3,Standard
+CLI2704,Paul Traore,Ivoirien,1,5,480000.0,2.6,3.2,3,Standard
+CLI1930,Eric Nkomo,Autre,1,2,478400.0,1.0,4.5,3,Standard
+CLI0046,Cheick Camara,Ghaneeen,1,3,478400.0,3.7,4.0,3,Standard
+CLI0680,Aida Ndoye,Ghaneeen,0,3,477600.0,2.3,5.0,3,Standard
+CLI1784,Paul Ndoye,Autre,0,1,475200.0,3.0,3.0,3,Standard
+CLI1280,Aida Kouassi,Ghaneeen,1,1,475200.0,3.0,3.0,3,Standard
+CLI1474,Marie Ndoye,Ivoirien,1,2,474900.0,2.0,2.5,3,Standard
+CLI2260,Fatou Diallo,Ivoirien,0,2,474000.0,2.0,5.0,3,Standard
+CLI0569,Marie Koné,Ivoirien,0,5,473360.0,1.4,3.8,3,Standard
+CLI0421,Eric Ndoye,Americain,0,2,472000.0,3.0,4.0,3,Standard
+CLI1565,Moussa Bamba,Ivoirien,0,3,469920.0,2.3,4.0,3,Standard
+CLI2077,Sophie Mensah,Camerounais,0,2,469200.0,4.0,2.0,3,Standard
+CLI1315,Luc Ndoye,Senegalais,1,2,469200.0,3.0,2.5,3,Standard
+CLI1417,Marie Mensah,Camerounais,0,2,469200.0,3.0,4.0,3,Standard
+CLI1299,Ibrahim Kouassi,Ivoirien,0,3,468000.0,3.7,5.0,3,Standard
+CLI2510,Eric Sow,Français,0,2,468000.0,5.0,3.0,3,Standard
+CLI1198,Awa Mensah,Camerounais,0,2,468000.0,3.0,2.0,3,Standard
+CLI1825,Kofi Mensah,Camerounais,0,1,468000.0,5.0,3.0,3,Standard
+CLI2033,Jean Sow,Ghaneeen,0,1,468000.0,3.0,4.0,3,Standard
+CLI0913,Jean Traore,Ghaneeen,0,5,467200.0,1.6,3.0,3,Standard
+CLI2384,Rokia Kouassi,Ivoirien,0,4,467200.0,2.0,4.5,3,Standard
+CLI2814,Serge Mensah,Ivoirien,1,4,465920.0,1.8,3.8,3,Standard
+CLI1888,Aida Sow,Ivoirien,0,2,465600.0,2.0,3.5,3,Occasionnel
+CLI0866,Jean Diallo,Ivoirien,1,3,464640.0,3.3,4.7,4,Occasionnel
+CLI0202,Kofi Koné,Français,1,2,464640.0,3.0,4.5,4,Occasionnel
+CLI1872,Awa Camara,Britannique,0,5,463440.0,1.2,4.3,4,Occasionnel
+CLI2981,Binta Koné,Ghaneeen,0,3,462960.0,1.7,5.0,4,Occasionnel
+CLI1161,Adjoua Kouassi,Ivoirien,0,2,460000.0,5.0,3.0,4,Occasionnel
+CLI0346,Rokia Sow,Autre,1,1,459000.0,3.0,5.0,4,Occasionnel
+CLI1665,Marie Ndoye,Camerounais,0,1,459000.0,3.0,4.0,4,Occasionnel
+CLI0906,Aida Ndoye,Ivoirien,0,1,459000.0,3.0,5.0,4,Occasionnel
+CLI0811,Aida Camara,Camerounais,0,3,458560.0,2.3,4.3,4,Occasionnel
+CLI2558,Aminata Traore,Autre,0,2,456000.0,2.5,4.5,4,Occasionnel
+CLI2448,Paul Diallo,Ivoirien,0,2,456000.0,2.0,3.5,4,Occasionnel
+CLI1730,Paul Kouassi,Ivoirien,0,2,454480.0,1.5,3.5,4,Occasionnel
+CLI2660,Binta Koné,Senegalais,0,2,452000.0,1.5,3.0,4,Occasionnel
+CLI1495,Marie Koné,Senegalais,1,2,451200.0,2.5,3.5,4,Occasionnel
+CLI1211,Paul Traore,Français,0,2,451200.0,2.0,4.5,4,Occasionnel
+CLI2709,Aida Kouassi,Autre,0,3,450800.0,1.0,3.0,4,Occasionnel
+CLI0422,Adjoua Kouassi,Americain,0,3,450800.0,3.0,4.3,4,Occasionnel
+CLI0728,Jean Ndoye,Ivoirien,1,4,450000.0,1.5,4.3,4,Occasionnel
+CLI1563,Yao Ndoye,Ivoirien,0,2,447000.0,1.5,3.0,4,Occasionnel
+CLI0068,Serge Nkomo,Ivoirien,0,2,446400.0,2.5,4.5,4,Occasionnel
+CLI1054,Ibrahim Diallo,Americain,0,2,445440.0,2.0,5.0,4,Occasionnel
+CLI2746,Eric Nkomo,Français,1,2,445280.0,3.0,4.5,4,Occasionnel
+CLI2721,Ibrahim Mensah,Ivoirien,0,2,445200.0,2.0,4.5,4,Occasionnel
+CLI1817,Serge Koné,Ivoirien,0,2,444320.0,1.5,3.5,4,Occasionnel
+CLI2572,Paul Ndoye,Senegalais,0,2,444000.0,3.0,3.5,4,Occasionnel
+CLI0390,Aminata Nkomo,Français,0,2,442800.0,2.0,5.0,4,Occasionnel
+CLI0549,Aminata Mensah,Ghaneeen,0,3,442520.0,1.7,5.0,4,Occasionnel
+CLI1595,Luc Traore,Ivoirien,1,1,442000.0,5.0,4.0,4,Occasionnel
+CLI1748,Luc Bamba,Français,1,2,442000.0,5.0,4.0,4,Occasionnel
+CLI2254,Binta Sow,Ivoirien,0,1,441600.0,4.0,3.0,4,Occasionnel
+CLI2686,Aida Bamba,Ghaneeen,0,2,441600.0,4.0,2.0,4,Occasionnel
+CLI1508,Kofi Ndoye,Americain,0,3,441600.0,2.3,2.3,4,Occasionnel
+CLI2683,Yao Bamba,Camerounais,0,3,440960.0,2.0,3.7,4,Occasionnel
+CLI2111,Eric Diallo,Camerounais,0,2,440800.0,2.0,5.0,4,Occasionnel
+CLI0609,Moussa Nkomo,Americain,0,3,440800.0,2.7,3.0,4,Occasionnel
+CLI2616,Cheick Ndoye,Ghaneeen,0,2,440000.0,3.0,4.0,4,Occasionnel
+CLI2087,Clarisse Sow,Senegalais,0,3,440000.0,1.3,2.0,4,Occasionnel
+CLI1156,Ibrahim Traore,Britannique,0,3,439520.0,1.3,5.0,4,Occasionnel
+CLI0455,Luc Ndoye,Ivoirien,0,2,439200.0,2.0,4.0,4,Occasionnel
+CLI0086,Luc Camara,Autre,0,2,435200.0,2.5,3.5,4,Occasionnel
+CLI1769,Fatou Kouassi,Britannique,1,3,434124.0,1.0,2.7,4,Occasionnel
+CLI0261,Aida Kouassi,Français,0,4,432640.0,1.5,5.0,4,Occasionnel
+CLI0362,Eric Nkomo,Senegalais,0,2,432400.0,2.5,3.0,4,Occasionnel
+CLI0985,Clarisse Ndoye,Americain,0,2,432400.0,2.5,4.5,4,Occasionnel
+CLI2425,Jean Mensah,Ivoirien,0,1,432000.0,4.0,4.0,4,Occasionnel
+CLI0278,Serge Bamba,Ivoirien,0,1,432000.0,4.0,2.0,4,Occasionnel
+CLI0325,Moussa Traore,Autre,0,4,431840.0,2.3,3.5,4,Occasionnel
+CLI1452,Binta Sow,Americain,1,1,430560.0,2.0,4.0,4,Occasionnel
+CLI2891,Fatou Koné,Ivoirien,0,2,430560.0,2.0,4.0,4,Occasionnel
+CLI1796,Sophie Nkomo,Français,0,2,430000.0,1.0,4.5,4,Occasionnel
+CLI2829,Eric Camara,Senegalais,1,3,428400.0,1.7,3.7,4,Occasionnel
+CLI2255,Sophie Koné,Ivoirien,0,2,428000.0,1.5,3.5,4,Occasionnel
+CLI2079,Jean Nkomo,Senegalais,0,4,425920.0,1.8,5.0,4,Occasionnel
+CLI1653,Cheick Camara,Ivoirien,0,2,424800.0,2.0,3.5,4,Occasionnel
+CLI2016,Adjoua Traore,Americain,0,3,424000.0,2.3,2.7,4,Occasionnel
+CLI1751,Luc Ndoye,Camerounais,0,3,423600.0,1.3,5.0,4,Occasionnel
+CLI0862,Clarisse Ndoye,Allemand,0,1,423200.0,5.0,4.0,4,Occasionnel
+CLI0175,Luc Koné,Ivoirien,0,2,423200.0,5.0,5.0,4,Occasionnel
+CLI2546,Serge Koné,Français,0,2,422400.0,4.0,5.0,4,Occasionnel
+CLI2405,Rokia Mensah,Senegalais,0,1,422400.0,4.0,2.0,4,Occasionnel
+CLI2622,Rokia Diallo,Senegalais,0,3,421920.0,1.3,3.7,4,Occasionnel
+CLI2142,Yao Mensah,Americain,1,1,421200.0,3.0,3.0,4,Occasionnel
+CLI0205,Adjoua Diallo,Senegalais,0,1,421200.0,2.0,3.0,4,Occasionnel
+CLI1693,Yao Traore,Americain,0,1,421200.0,2.0,5.0,4,Occasionnel
+CLI0268,Eric Sow,Ivoirien,0,2,421200.0,3.0,5.0,4,Occasionnel
+CLI2743,Moussa Nkomo,Britannique,0,2,421200.0,2.0,5.0,4,Occasionnel
+CLI1060,Kofi Ndoye,Camerounais,0,2,421200.0,3.0,4.0,4,Occasionnel
+CLI0511,Paul Koné,Ghaneeen,0,2,421200.0,3.0,4.0,4,Occasionnel
+CLI1536,Rokia Koné,Ghaneeen,0,1,421200.0,2.0,4.0,4,Occasionnel
+CLI1672,Binta Bamba,Ivoirien,1,3,420900.0,1.0,4.7,4,Occasionnel
+CLI2406,Marie Koné,Ghaneeen,0,2,420000.0,2.0,3.5,4,Occasionnel
+CLI0341,Eric Mensah,Americain,0,3,417680.0,2.3,5.0,4,Occasionnel
+CLI0091,Aida Kouassi,Camerounais,1,2,416000.0,4.0,3.0,4,Occasionnel
+CLI2692,Ibrahim Diallo,Camerounais,1,2,416000.0,3.0,3.5,4,Occasionnel
+CLI0171,Luc Bamba,Français,0,3,414300.0,1.3,4.3,4,Occasionnel
+CLI2853,Marie Koné,Senegalais,0,3,414000.0,1.0,2.7,4,Occasionnel
+CLI0555,Jean Bamba,Ivoirien,0,1,414000.0,3.0,5.0,4,Occasionnel
+CLI2463,Marie Diallo,Camerounais,0,1,414000.0,2.0,3.0,4,Occasionnel
+CLI0339,Aida Mensah,Ivoirien,0,1,414000.0,3.0,4.0,4,Occasionnel
+CLI2926,Serge Camara,Ivoirien,1,1,414000.0,3.0,3.0,4,Occasionnel
+CLI2381,Ibrahim Bamba,Britannique,0,3,414000.0,1.7,2.7,4,Occasionnel
+CLI2861,Moussa Diallo,Camerounais,0,2,414000.0,2.5,4.5,4,Occasionnel
+CLI0886,Luc Bamba,Autre,0,3,414000.0,2.7,4.3,4,Occasionnel
+CLI2765,Luc Nkomo,Autre,1,2,414000.0,3.0,3.0,4,Occasionnel
+CLI2064,Moussa Traore,Autre,0,1,414000.0,3.0,5.0,4,Occasionnel
+CLI1801,Kofi Koné,Autre,1,2,414000.0,2.5,4.0,4,Occasionnel
+CLI0365,Luc Traore,Ghaneeen,0,1,414000.0,2.0,5.0,4,Occasionnel
+CLI2649,Aminata Bamba,Britannique,1,2,414000.0,2.5,4.5,4,Occasionnel
+CLI2409,Aminata Camara,Senegalais,0,3,414000.0,2.7,3.7,4,Occasionnel
+CLI1099,Kofi Sow,Ivoirien,1,1,414000.0,5.0,2.0,4,Occasionnel
+CLI2830,Moussa Diallo,Ivoirien,0,1,414000.0,3.0,5.0,4,Occasionnel
+CLI2492,Cheick Nkomo,Camerounais,0,2,414000.0,3.0,5.0,4,Occasionnel
+CLI0965,Jean Camara,Britannique,0,1,414000.0,3.0,2.0,4,Occasionnel
+CLI0373,Cheick Camara,Ivoirien,0,1,414000.0,5.0,4.0,4,Occasionnel
+CLI1727,Cheick Nkomo,Français,0,2,414000.0,2.0,4.0,4,Occasionnel
+CLI0388,Ibrahim Nkomo,Senegalais,0,1,414000.0,3.0,3.0,4,Occasionnel
+CLI1935,Jean Nkomo,Allemand,0,1,414000.0,3.0,4.0,4,Occasionnel
+CLI2047,Fatou Kouassi,Français,0,3,414000.0,2.3,4.3,4,Occasionnel
+CLI1868,Ibrahim Diallo,Camerounais,0,5,413960.0,1.0,3.8,4,Occasionnel
+CLI1158,Rokia Sow,Ivoirien,0,3,412160.0,2.3,4.0,4,Occasionnel
+CLI0694,Luc Ndoye,Ivoirien,1,1,411840.0,3.0,5.0,4,Occasionnel
+CLI1407,Eric Bamba,Ivoirien,0,2,411200.0,1.5,4.5,4,Occasionnel
+CLI2014,Marie Ndoye,Senegalais,0,3,410400.0,2.0,4.3,4,Occasionnel
+CLI0274,Rokia Traore,Ivoirien,0,3,409600.0,1.7,4.0,4,Occasionnel
+CLI1486,Awa Nkomo,Camerounais,0,1,408000.0,4.0,5.0,4,Occasionnel
+CLI0773,Paul Sow,Français,0,3,408000.0,3.7,2.7,4,Occasionnel
+CLI2776,Yao Camara,Ivoirien,0,2,405600.0,2.5,5.0,4,Occasionnel
+CLI0230,Moussa Bamba,Ivoirien,0,2,405600.0,2.5,4.0,4,Occasionnel
+CLI2076,Clarisse Camara,Ivoirien,1,2,405000.0,1.5,4.5,4,Occasionnel
+CLI0208,Jean Kouassi,Senegalais,0,3,404800.0,2.0,4.7,4,Occasionnel
+CLI0093,Eric Diallo,Ghaneeen,0,2,404800.0,2.5,3.0,4,Occasionnel
+CLI1125,Clarisse Bamba,Senegalais,0,3,404800.0,2.0,3.0,4,Occasionnel
+CLI0089,Aida Koné,Senegalais,1,2,404800.0,2.0,3.0,4,Occasionnel
+CLI1397,Paul Camara,Ivoirien,0,3,404000.0,1.7,5.0,4,Occasionnel
+CLI2825,Serge Koné,Ghaneeen,0,3,403200.0,2.7,5.0,4,Occasionnel
+CLI0894,Marie Nkomo,Ivoirien,0,2,402800.0,2.5,4.5,4,Occasionnel
+CLI1855,Cheick Kouassi,Ivoirien,0,4,402000.0,2.0,4.0,4,Occasionnel
+CLI1481,Aminata Diallo,Français,0,3,400200.0,1.3,3.0,4,Occasionnel
+CLI2647,Adjoua Ndoye,Britannique,0,2,400000.0,2.5,5.0,4,Occasionnel
+CLI1658,Eric Koné,Ivoirien,0,2,400000.0,5.0,4.0,4,Occasionnel
+CLI0701,Eric Sow,Camerounais,1,2,400000.0,5.0,5.0,4,Occasionnel
+CLI0457,Luc Camara,Americain,1,3,400000.0,2.7,4.0,4,Occasionnel
+CLI0137,Rokia Mensah,Ghaneeen,0,2,400000.0,2.5,4.5,4,Occasionnel
+CLI2235,Yao Ndoye,Ghaneeen,0,2,400000.0,5.0,3.0,4,Occasionnel
+CLI2863,Sophie Koné,Ivoirien,0,3,398880.0,1.3,2.7,4,Occasionnel
+CLI1193,Serge Ndoye,Ghaneeen,0,3,397920.0,2.0,4.3,4,Occasionnel
+CLI1969,Ibrahim Ndoye,Ivoirien,0,2,397920.0,2.0,3.5,4,Occasionnel
+CLI1052,Luc Ndoye,Senegalais,1,1,397800.0,3.0,3.0,4,Occasionnel
+CLI2802,Fatou Sow,Britannique,0,1,397800.0,3.0,2.0,4,Occasionnel
+CLI0964,Paul Diallo,Ivoirien,0,4,397500.0,1.5,3.0,4,Occasionnel
+CLI2108,Moussa Sow,Camerounais,0,3,397440.0,3.0,5.0,4,Occasionnel
+CLI0211,Ibrahim Kouassi,Camerounais,0,4,397440.0,1.0,4.5,4,Occasionnel
+CLI0869,Awa Sow,Britannique,0,2,396600.0,1.5,4.0,4,Occasionnel
+CLI2586,Adjoua Traore,Ghaneeen,0,4,396000.0,2.0,3.5,4,Occasionnel
+CLI2921,Yao Camara,Senegalais,0,2,395600.0,2.5,4.0,4,Occasionnel
+CLI2912,Paul Ndoye,Ghaneeen,0,2,395200.0,2.0,3.5,4,Occasionnel
+CLI0458,Eric Mensah,Camerounais,0,2,394800.0,2.0,4.0,4,Occasionnel
+CLI1707,Jean Camara,Senegalais,0,2,392400.0,2.5,4.0,4,Occasionnel
+CLI2826,Paul Kouassi,Camerounais,0,2,392000.0,3.0,3.5,4,Occasionnel
+CLI2247,Fatou Koné,Ivoirien,0,3,391860.0,2.3,4.0,4,Occasionnel
+CLI1651,Luc Traore,Allemand,0,2,389200.0,2.0,4.0,4,Occasionnel
+CLI2569,Fatou Traore,Camerounais,0,3,388000.0,2.7,3.3,4,Occasionnel
+CLI0074,Eric Diallo,Camerounais,0,2,387040.0,2.0,3.5,4,Occasionnel
+CLI2190,Sophie Diallo,Autre,0,2,386400.0,2.0,3.5,4,Occasionnel
+CLI0919,Luc Koné,Ghaneeen,1,2,386000.0,2.0,5.0,4,Occasionnel
+CLI1597,Moussa Bamba,Americain,0,2,385280.0,2.5,5.0,4,Occasionnel
+CLI1476,Yao Ndoye,Ivoirien,0,2,384000.0,2.0,3.5,4,Occasionnel
+CLI2274,Awa Koné,Americain,0,3,383600.0,2.0,5.0,4,Occasionnel
+CLI1172,Kofi Kouassi,Ivoirien,1,2,383280.0,2.0,4.5,4,Occasionnel
+CLI1731,Jean Ndoye,Autre,0,1,382720.0,4.0,3.0,4,Occasionnel
+CLI1087,Eric Diallo,Ivoirien,0,2,381600.0,1.5,3.5,4,Occasionnel
+CLI0037,Yao Koné,Ivoirien,0,3,381600.0,1.3,5.0,4,Occasionnel
+CLI2306,Moussa Kouassi,Senegalais,0,1,380880.0,3.0,2.0,4,Occasionnel
+CLI1418,Rokia Camara,Ivoirien,0,2,380880.0,3.0,3.0,4,Occasionnel
+CLI2367,Ibrahim Koné,Ivoirien,0,2,380880.0,2.0,4.0,4,Occasionnel
+CLI1470,Clarisse Mensah,Americain,0,3,380880.0,2.3,2.7,4,Occasionnel
+CLI0768,Serge Koné,Ivoirien,0,2,380000.0,1.5,3.0,4,Occasionnel
+CLI1155,Marie Kouassi,Ghaneeen,0,2,377920.0,2.5,4.5,4,Occasionnel
+CLI1469,Serge Koné,Ghaneeen,0,2,377200.0,2.0,4.5,4,Occasionnel
+CLI1523,Yao Koné,Camerounais,0,2,376800.0,2.5,4.0,4,Occasionnel
+CLI2032,Aminata Sow,Americain,0,2,376200.0,1.0,5.0,4,Occasionnel
+CLI2694,Paul Mensah,Allemand,1,2,376000.0,2.5,5.0,4,Occasionnel
+CLI0914,Fatou Bamba,Ivoirien,0,2,372600.0,2.0,3.0,4,Occasionnel
+CLI1859,Cheick Mensah,Camerounais,0,3,372600.0,2.3,4.3,4,Occasionnel
+CLI1433,Aminata Mensah,Français,0,2,372600.0,3.0,5.0,4,Occasionnel
+CLI2466,Aida Kouassi,Ghaneeen,0,1,372600.0,3.0,3.0,4,Occasionnel
+CLI0475,Rokia Mensah,Americain,0,1,372600.0,3.0,4.0,4,Occasionnel
+CLI0761,Serge Mensah,Autre,0,1,372600.0,3.0,3.0,4,Occasionnel
+CLI0023,Yao Diallo,Français,0,2,372600.0,2.0,5.0,4,Occasionnel
+CLI2564,Rokia Nkomo,Ivoirien,0,2,371680.0,2.0,3.5,4,Occasionnel
+CLI1621,Ibrahim Mensah,Allemand,0,3,371200.0,2.3,2.7,4,Occasionnel
+CLI1663,Rokia Traore,Autre,0,4,370800.0,1.5,3.5,4,Occasionnel
+CLI2936,Awa Camara,Senegalais,0,2,370300.0,1.5,3.5,4,Occasionnel
+CLI2599,Sophie Kouassi,Ghaneeen,0,1,370300.0,1.0,2.0,4,Occasionnel
+CLI0255,Fatou Koné,Ivoirien,0,2,369840.0,1.5,3.0,4,Occasionnel
+CLI2120,Kofi Bamba,Britannique,0,2,369600.0,1.5,3.0,4,Occasionnel
+CLI2684,Yao Sow,Camerounais,0,3,368750.0,1.3,4.7,4,Occasionnel
+CLI2577,Marie Diallo,Senegalais,0,1,368000.0,4.0,4.0,4,Occasionnel
+CLI2812,Cheick Bamba,Senegalais,0,2,368000.0,5.0,5.0,4,Occasionnel
+CLI2057,Eric Traore,Français,0,2,368000.0,2.5,2.5,4,Occasionnel
+CLI2054,Aida Ndoye,Ivoirien,0,3,368000.0,2.0,4.3,4,Occasionnel
+CLI2046,Binta Diallo,Allemand,0,1,368000.0,4.0,4.0,4,Occasionnel
+CLI0437,Serge Traore,Ghaneeen,0,1,368000.0,5.0,5.0,4,Occasionnel
+CLI1812,Ibrahim Diallo,Senegalais,0,2,368000.0,4.0,5.0,4,Occasionnel
+CLI2587,Ibrahim Nkomo,Camerounais,0,1,368000.0,4.0,4.0,4,Occasionnel
+CLI0939,Adjoua Camara,Ivoirien,0,3,367040.0,2.0,3.7,4,Occasionnel
+CLI1322,Ibrahim Mensah,Camerounais,1,2,366960.0,1.5,4.5,4,Occasionnel
+CLI2476,Marie Koné,Senegalais,1,1,366080.0,4.0,4.0,4,Occasionnel
+CLI1063,Sophie Nkomo,Ghaneeen,0,1,366080.0,4.0,3.0,4,Occasionnel
+CLI0120,Serge Traore,Senegalais,0,1,364320.0,2.0,4.0,4,Occasionnel
+CLI0608,Binta Diallo,Français,0,2,364320.0,2.0,3.5,4,Occasionnel
+CLI1371,Eric Koné,Français,0,2,364320.0,3.0,3.0,4,Occasionnel
+CLI0519,Awa Ndoye,Camerounais,0,1,364320.0,2.0,4.0,4,Occasionnel
+CLI2922,Yao Koné,Senegalais,0,1,364320.0,3.0,3.0,4,Occasionnel
+CLI0977,Clarisse Nkomo,Senegalais,0,2,364000.0,2.5,2.0,4,Occasionnel
+CLI2350,Yao Camara,Français,1,2,363600.0,1.5,4.5,4,Occasionnel
+CLI1119,Adjoua Nkomo,Ivoirien,0,1,362250.0,1.0,3.0,4,Occasionnel
+CLI0847,Ibrahim Diallo,Senegalais,0,1,360000.0,3.0,,4,Occasionnel
+CLI1389,Paul Kouassi,Français,0,1,360000.0,2.0,4.0,4,Occasionnel
+CLI0338,Rokia Nkomo,Camerounais,1,1,360000.0,2.0,4.0,4,Occasionnel
+CLI0313,Luc Bamba,Britannique,0,1,360000.0,2.0,4.0,4,Occasionnel
+CLI1537,Paul Traore,Americain,0,1,360000.0,2.0,2.0,4,Occasionnel
+CLI0619,Aminata Nkomo,Camerounais,0,2,360000.0,2.0,5.0,4,Occasionnel
+CLI0675,Awa Koné,Autre,1,1,360000.0,2.0,3.0,4,Occasionnel
+CLI0234,Adjoua Ndoye,Autre,0,2,360000.0,4.0,4.5,4,Occasionnel
+CLI2553,Ibrahim Traore,Britannique,0,1,360000.0,3.0,5.0,4,Occasionnel
+CLI1326,Jean Traore,Autre,0,1,360000.0,3.0,4.0,4,Occasionnel
+CLI0657,Aminata Kouassi,Ivoirien,0,3,357560.0,1.3,4.0,4,Occasionnel
+CLI1340,Awa Bamba,Autre,0,3,356000.0,2.3,4.7,4,Occasionnel
+CLI0820,Sophie Nkomo,Ivoirien,1,3,355200.0,2.3,4.0,4,Occasionnel
+CLI1718,Paul Diallo,Ivoirien,0,2,354200.0,1.0,3.0,4,Occasionnel
+CLI1814,Moussa Koné,Ivoirien,0,3,354000.0,1.3,3.7,4,Occasionnel
+CLI0812,Moussa Traore,Ivoirien,1,1,353600.0,4.0,5.0,4,Occasionnel
+CLI2976,Ibrahim Ndoye,Americain,0,2,353280.0,3.0,4.5,4,Occasionnel
+CLI2497,Clarisse Kouassi,Britannique,1,1,352000.0,5.0,5.0,4,Occasionnel
+CLI2069,Eric Sow,Camerounais,0,2,351900.0,2.0,5.0,4,Occasionnel
+CLI1451,Kofi Koné,Ghaneeen,1,1,351900.0,2.0,4.0,4,Occasionnel
+CLI1631,Binta Nkomo,Autre,1,1,351900.0,3.0,5.0,4,Occasionnel
+CLI1059,Clarisse Camara,Americain,0,1,351900.0,2.0,2.0,4,Occasionnel
+CLI1181,Serge Bamba,Français,0,2,350880.0,2.0,4.5,4,Occasionnel
+CLI2376,Serge Koné,Senegalais,0,1,350000.0,1.0,,4,Occasionnel
+CLI2529,Kofi Kouassi,Americain,1,2,350000.0,1.0,5.0,4,Occasionnel
+CLI0591,Clarisse Mensah,Autre,0,2,349600.0,2.0,5.0,4,Occasionnel
+CLI2179,Fatou Ndoye,Senegalais,0,2,346300.0,1.5,4.5,4,Occasionnel
+CLI2504,Cheick Bamba,Ghaneeen,1,4,345440.0,1.3,5.0,4,Occasionnel
+CLI2377,Sophie Bamba,Allemand,0,2,345000.0,2.0,5.0,4,Occasionnel
+CLI2980,Paul Mensah,Ivoirien,0,3,344000.0,1.3,4.7,4,Occasionnel
+CLI1180,Clarisse Kouassi,Autre,1,1,342125.0,1.0,4.0,4,Occasionnel
+CLI2918,Marie Nkomo,Allemand,0,2,342124.0,1.0,2.0,4,Occasionnel
+CLI0005,Fatou Koné,Britannique,0,4,342000.0,1.0,4.3,4,Occasionnel
+CLI0290,Luc Bamba,Ivoirien,1,4,340400.0,2.0,5.0,4,Occasionnel
+CLI1176,Aminata Kouassi,Camerounais,1,3,338800.0,1.7,4.7,4,Occasionnel
+CLI0056,Serge Bamba,Allemand,0,1,338560.0,4.0,,4,Occasionnel
+CLI2205,Moussa Mensah,Camerounais,1,1,338560.0,4.0,3.0,4,Occasionnel
+CLI1188,Luc Nkomo,Autre,1,1,338560.0,4.0,3.0,4,Occasionnel
+CLI0157,Eric Bamba,Camerounais,1,2,338560.0,4.0,4.0,4,Occasionnel
+CLI2147,Serge Traore,Ivoirien,0,2,338160.0,2.0,4.0,4,Occasionnel
+CLI1744,Luc Ndoye,Senegalais,0,4,337600.0,1.3,4.0,4,Occasionnel
+CLI2843,Jean Ndoye,Americain,0,2,334880.0,2.0,4.0,4,Occasionnel
+CLI0385,Luc Bamba,Ivoirien,0,4,333600.0,1.8,3.5,4,Occasionnel
+CLI2451,Ibrahim Ndoye,Ghaneeen,0,2,333040.0,1.5,4.5,4,Occasionnel
+CLI2423,Jean Ndoye,Français,0,2,331520.0,1.5,3.5,4,Occasionnel
+CLI2533,Aida Kouassi,Ghaneeen,0,1,331200.0,2.0,4.0,4,Occasionnel
+CLI2385,Eric Sow,Camerounais,1,1,331200.0,3.0,5.0,4,Occasionnel
+CLI2315,Adjoua Camara,Autre,0,1,331200.0,2.0,4.0,4,Occasionnel
+CLI1682,Luc Kouassi,Français,0,1,331200.0,2.0,3.0,4,Occasionnel
+CLI1633,Awa Koné,Ghaneeen,0,2,331200.0,1.5,4.5,4,Occasionnel
+CLI2146,Aida Kouassi,Autre,1,1,331200.0,4.0,2.0,4,Occasionnel
+CLI1080,Marie Ndoye,Britannique,0,1,331200.0,4.0,4.0,4,Occasionnel
+CLI0440,Awa Koné,Ivoirien,1,1,331200.0,2.0,5.0,4,Occasionnel
+CLI2472,Serge Diallo,Ivoirien,0,1,331200.0,4.0,4.0,4,Occasionnel
+CLI2096,Rokia Koné,Ivoirien,0,1,331200.0,2.0,5.0,4,Occasionnel
+CLI1996,Kofi Camara,Allemand,0,2,331200.0,2.0,3.0,4,Occasionnel
+CLI2844,Awa Kouassi,Senegalais,0,1,331200.0,4.0,5.0,4,Occasionnel
+CLI1816,Kofi Nkomo,Ghaneeen,1,1,331200.0,2.0,5.0,4,Occasionnel
+CLI2850,Eric Koné,Ivoirien,0,2,331200.0,4.0,4.0,4,Occasionnel
+CLI1892,Luc Kouassi,Senegalais,0,1,331200.0,2.0,5.0,4,Occasionnel
+CLI1620,Cheick Bamba,Ivoirien,0,3,329280.0,2.0,3.0,4,Occasionnel
+CLI2680,Sophie Nkomo,Ivoirien,0,2,329280.0,2.0,5.0,4,Occasionnel
+CLI0291,Eric Sow,Ivoirien,1,2,328800.0,2.5,4.0,4,Occasionnel
+CLI0578,Jean Diallo,Ivoirien,0,2,328400.0,2.0,4.0,4,Occasionnel
+CLI0293,Cheick Bamba,Autre,0,3,328000.0,2.0,4.3,4,Occasionnel
+CLI1922,Cheick Ndoye,Ghaneeen,0,1,324000.0,2.0,3.0,4,Occasionnel
+CLI1405,Fatou Diallo,Senegalais,0,1,324000.0,3.0,3.0,4,Occasionnel
+CLI2163,Fatou Kouassi,Allemand,0,1,324000.0,3.0,4.0,4,Occasionnel
+CLI2955,Adjoua Camara,Ivoirien,1,2,324000.0,3.0,5.0,4,Occasionnel
+CLI2313,Serge Koné,Senegalais,1,1,324000.0,3.0,3.0,4,Occasionnel
+CLI2490,Jean Camara,Autre,0,2,324000.0,2.0,4.0,4,Occasionnel
+CLI0316,Aida Sow,Ivoirien,1,1,323840.0,4.0,5.0,4,Occasionnel
+CLI0109,Eric Koné,Ivoirien,0,1,323840.0,4.0,5.0,4,Occasionnel
+CLI1425,Jean Kouassi,Allemand,0,1,323840.0,4.0,3.0,4,Occasionnel
+CLI1963,Eric Koné,Autre,0,1,323840.0,4.0,5.0,4,Occasionnel
+CLI0103,Moussa Camara,Americain,0,2,322800.0,1.5,4.0,4,Occasionnel
+CLI1064,Awa Sow,Ivoirien,0,3,320160.0,1.0,4.3,4,Occasionnel
+CLI0112,Adjoua Mensah,Americain,0,2,320000.0,4.0,5.0,4,Occasionnel
+CLI0350,Moussa Ndoye,Senegalais,0,2,320000.0,3.0,3.0,4,Occasionnel
+CLI1419,Awa Camara,Britannique,0,2,320000.0,4.0,4.0,4,Occasionnel
+CLI0741,Binta Sow,Ivoirien,1,1,320000.0,4.0,2.0,4,Occasionnel
+CLI2213,Moussa Bamba,Ghaneeen,0,1,320000.0,4.0,5.0,4,Occasionnel
+CLI1048,Aida Nkomo,Senegalais,0,1,320000.0,4.0,4.0,4,Occasionnel
+CLI0329,Kofi Kouassi,Allemand,0,2,318200.0,2.0,3.0,4,Occasionnel
+CLI1309,Binta Kouassi,Ghaneeen,0,3,317400.0,1.7,5.0,4,Occasionnel
+CLI2369,Ibrahim Sow,Allemand,1,1,316800.0,3.0,4.0,4,Occasionnel
+CLI1450,Sophie Camara,Ghaneeen,0,1,316800.0,3.0,,4,Occasionnel
+CLI0942,Cheick Sow,Ivoirien,0,1,316800.0,2.0,4.0,4,Occasionnel
+CLI0961,Eric Mensah,Ivoirien,0,1,316800.0,3.0,5.0,4,Occasionnel
+CLI0686,Jean Traore,Senegalais,0,1,316800.0,3.0,4.0,4,Occasionnel
+CLI2296,Luc Sow,Camerounais,1,2,316000.0,1.5,3.5,4,Occasionnel
+CLI1834,Cheick Diallo,Autre,0,3,316000.0,1.7,2.3,4,Occasionnel
+CLI1085,Jean Diallo,Senegalais,0,2,315000.0,1.0,4.0,4,Occasionnel
+CLI2688,Fatou Sow,Ivoirien,0,3,314800.0,1.3,3.0,4,Occasionnel
+CLI1867,Serge Bamba,Ivoirien,0,2,314760.0,1.0,3.5,4,Occasionnel
+CLI1524,Rokia Nkomo,Senegalais,0,2,312800.0,4.0,,4,Occasionnel
+CLI2535,Eric Koné,Autre,0,2,312800.0,2.0,4.0,4,Occasionnel
+CLI1836,Kofi Mensah,Britannique,0,3,312800.0,1.7,4.0,4,Occasionnel
+CLI2327,Serge Kouassi,Français,0,1,312800.0,4.0,2.0,4,Occasionnel
+CLI2307,Awa Traore,Senegalais,0,1,312000.0,2.0,5.0,4,Occasionnel
+CLI2304,Jean Nkomo,Britannique,0,1,312000.0,3.0,5.0,4,Occasionnel
+CLI1027,Paul Traore,Ghaneeen,0,1,312000.0,2.0,3.0,4,Occasionnel
+CLI1162,Aminata Bamba,Senegalais,0,1,312000.0,2.0,2.0,4,Occasionnel
+CLI2763,Jean Kouassi,Ivoirien,0,2,309600.0,2.0,4.5,4,Occasionnel
+CLI1924,Eric Bamba,Camerounais,0,3,309120.0,1.0,5.0,4,Occasionnel
+CLI2007,Kofi Mensah,Ghaneeen,0,2,308000.0,1.0,3.0,4,Occasionnel
+CLI1958,Binta Mensah,Ivoirien,0,1,308000.0,1.0,5.0,4,Occasionnel
+CLI0232,Jean Koné,Ivoirien,0,2,306400.0,1.5,3.5,4,Occasionnel
+CLI0108,Fatou Traore,Britannique,0,4,306400.0,1.0,4.0,4,Occasionnel
+CLI1999,Cheick Koné,Ghaneeen,0,2,306000.0,3.0,5.0,4,Occasionnel
+CLI2200,Sophie Traore,Senegalais,1,2,306000.0,3.0,3.0,4,Occasionnel
+CLI2437,Aida Kouassi,Ghaneeen,0,1,306000.0,3.0,4.0,4,Occasionnel
+CLI0666,Fatou Diallo,Français,0,4,304400.0,1.0,4.0,4,Occasionnel
+CLI2960,Cheick Camara,Ghaneeen,0,3,304000.0,2.7,4.3,4,Occasionnel
+CLI1282,Ibrahim Camara,Ivoirien,0,2,304000.0,2.0,4.0,4,Occasionnel
+CLI2269,Luc Camara,Britannique,0,2,303600.0,1.0,3.0,4,Occasionnel
+CLI1900,Yao Koné,Ivoirien,0,2,301600.0,1.5,3.5,4,Occasionnel
+CLI0709,Sophie Camara,Ghaneeen,0,2,300000.0,2.0,4.0,4,Occasionnel
+CLI0702,Paul Traore,Senegalais,0,3,300000.0,1.3,4.3,4,Occasionnel
+CLI2855,Yao Ndoye,Ivoirien,0,3,298000.0,1.3,4.7,4,Occasionnel
+CLI2246,Binta Camara,Français,0,3,297200.0,2.0,4.3,4,Occasionnel
+CLI0962,Yao Traore,Ivoirien,0,3,296400.0,1.3,4.0,4,Occasionnel
+CLI1496,Serge Mensah,Ivoirien,0,2,296000.0,2.0,5.0,4,Occasionnel
+CLI0632,Binta Koné,Camerounais,1,1,294400.0,4.0,4.0,4,Occasionnel
+CLI1544,Yao Mensah,Autre,1,1,294400.0,4.0,5.0,4,Occasionnel
+CLI1870,Serge Sow,Ivoirien,0,2,290800.0,1.5,4.0,4,Occasionnel
+CLI1590,Aida Sow,Ghaneeen,1,3,288000.0,1.0,3.7,4,Occasionnel
+CLI1035,Serge Bamba,Americain,0,2,288000.0,2.5,4.5,4,Occasionnel
+CLI2370,Cheick Mensah,Americain,0,1,288000.0,4.0,3.0,4,Occasionnel
+CLI0370,Paul Nkomo,Senegalais,0,1,288000.0,4.0,4.0,4,Occasionnel
+CLI1887,Adjoua Diallo,Senegalais,0,2,288000.0,3.0,4.5,4,Occasionnel
+CLI1916,Rokia Ndoye,Ghaneeen,1,3,288000.0,1.7,4.0,4,Occasionnel
+CLI1289,Marie Nkomo,Ivoirien,0,3,288000.0,2.0,3.3,4,Occasionnel
+CLI1845,Paul Mensah,Senegalais,0,2,288000.0,4.0,5.0,4,Occasionnel
+CLI2196,Adjoua Diallo,Français,0,2,288000.0,1.0,2.5,4,Occasionnel
+CLI0725,Yao Camara,Ivoirien,0,1,288000.0,4.0,2.0,4,Occasionnel
+CLI0931,Kofi Kouassi,Senegalais,0,2,288000.0,4.0,5.0,4,Occasionnel
+CLI1599,Aida Sow,Ivoirien,1,2,284200.0,1.5,5.0,4,Occasionnel
+CLI0558,Serge Ndoye,Ivoirien,1,2,282000.0,1.5,3.5,4,Occasionnel
+CLI0012,Marie Mensah,Camerounais,0,1,281600.0,4.0,3.0,4,Occasionnel
+CLI1932,Cheick Bamba,Camerounais,1,1,281600.0,4.0,2.0,4,Occasionnel
+CLI0147,Clarisse Mensah,Français,0,3,281520.0,1.0,5.0,4,Occasionnel
+CLI0687,Cheick Camara,Français,0,2,281200.0,1.5,3.5,4,Occasionnel
+CLI1021,Moussa Mensah,Ivoirien,0,2,281000.0,1.0,3.0,4,Occasionnel
+CLI1522,Aminata Sow,Ivoirien,0,2,280800.0,3.0,4.0,4,Occasionnel
+CLI0184,Adjoua Sow,Ivoirien,1,1,280800.0,3.0,4.0,4,Occasionnel
+CLI2236,Luc Sow,Senegalais,0,1,280800.0,3.0,5.0,4,Occasionnel
+CLI2531,Adjoua Traore,Camerounais,0,1,280800.0,3.0,5.0,4,Occasionnel
+CLI0621,Ibrahim Traore,Senegalais,0,1,280800.0,3.0,3.0,4,Occasionnel
+CLI0287,Ibrahim Koné,Français,0,1,280800.0,2.0,5.0,4,Occasionnel
+CLI2657,Fatou Ndoye,Français,0,2,280000.0,2.0,4.0,4,Occasionnel
+CLI0783,Kofi Bamba,Ivoirien,0,1,276000.0,3.0,4.0,4,Occasionnel
+CLI0757,Kofi Ndoye,Français,0,1,276000.0,2.0,4.0,4,Occasionnel
+CLI2945,Clarisse Mensah,Camerounais,0,3,276000.0,1.7,3.3,4,Occasionnel
+CLI0954,Clarisse Diallo,Senegalais,1,2,276000.0,2.0,4.0,4,Occasionnel
+CLI0198,Sophie Mensah,Allemand,0,1,276000.0,2.0,4.0,4,Occasionnel
+CLI0252,Cheick Camara,Ivoirien,1,1,276000.0,3.0,5.0,4,Occasionnel
+CLI2574,Ibrahim Sow,Ivoirien,0,1,276000.0,2.0,3.0,4,Occasionnel
+CLI0187,Serge Camara,Ghaneeen,0,2,276000.0,2.5,3.5,4,Occasionnel
+CLI1298,Awa Camara,Senegalais,0,1,276000.0,3.0,5.0,4,Occasionnel
+CLI1614,Serge Ndoye,Camerounais,0,2,276000.0,2.0,4.0,4,Occasionnel
+CLI0194,Luc Bamba,Senegalais,0,1,276000.0,3.0,5.0,4,Occasionnel
+CLI2511,Paul Sow,Ivoirien,1,1,276000.0,3.0,5.0,4,Occasionnel
+CLI1773,Fatou Ndoye,Americain,0,3,276000.0,1.0,3.3,4,Occasionnel
+CLI1594,Eric Traore,Americain,0,1,276000.0,3.0,4.0,4,Occasionnel
+CLI1737,Adjoua Bamba,Ivoirien,0,1,276000.0,3.0,5.0,4,Occasionnel
+CLI1050,Marie Mensah,Britannique,0,2,275600.0,1.5,4.5,4,Occasionnel
+CLI1688,Adjoua Nkomo,Camerounais,0,2,274560.0,2.0,4.0,4,Occasionnel
+CLI2345,Paul Traore,Ivoirien,0,1,274560.0,3.0,4.0,4,Occasionnel
+CLI2025,Serge Sow,Autre,0,2,274560.0,2.0,2.0,4,Occasionnel
+CLI0190,Yao Ndoye,Ivoirien,0,1,274560.0,2.0,5.0,4,Occasionnel
+CLI1272,Ibrahim Mensah,Ivoirien,1,2,272480.0,1.5,4.0,4,Occasionnel
+CLI2806,Serge Nkomo,Ghaneeen,0,2,272000.0,4.0,5.0,4,Occasionnel
+CLI2557,Rokia Traore,Autre,0,1,272000.0,4.0,5.0,4,Occasionnel
+CLI2805,Cheick Koné,Ivoirien,0,1,272000.0,4.0,4.0,4,Occasionnel
+CLI1593,Rokia Koné,Allemand,0,1,272000.0,4.0,3.0,4,Occasionnel
+CLI2589,Binta Koné,Senegalais,0,3,271360.0,2.0,3.0,4,Occasionnel
+CLI2210,Paul Bamba,Camerounais,0,2,266400.0,1.0,4.5,4,Occasionnel
+CLI0665,Jean Bamba,Ghaneeen,0,1,265200.0,3.0,4.0,4,Occasionnel
+CLI2181,Eric Bamba,Français,0,1,265200.0,2.0,4.0,4,Occasionnel
+CLI1768,Yao Ndoye,Ivoirien,0,3,260960.0,1.0,4.3,4,Occasionnel
+CLI0122,Clarisse Sow,Senegalais,0,4,254000.0,1.0,3.5,4,Occasionnel
+CLI2419,Binta Bamba,Americain,0,2,253920.0,1.5,4.5,4,Occasionnel
+CLI1776,Fatou Bamba,Ivoirien,1,1,253920.0,3.0,3.0,4,Occasionnel
+CLI1622,Serge Kouassi,Camerounais,0,1,253920.0,3.0,5.0,4,Occasionnel
+CLI0503,Aida Sow,Britannique,0,2,253920.0,1.5,4.0,4,Occasionnel
+CLI0848,Binta Mensah,Camerounais,0,1,253920.0,2.0,5.0,4,Occasionnel
+CLI0028,Fatou Kouassi,Britannique,0,2,253920.0,2.0,3.0,4,Occasionnel
+CLI2615,Binta Traore,Camerounais,0,2,253920.0,2.0,5.0,4,Occasionnel
+CLI1312,Paul Koné,Autre,0,2,253920.0,3.0,3.0,4,Occasionnel
+CLI1263,Moussa Kouassi,Ivoirien,0,1,253920.0,3.0,5.0,4,Occasionnel
+CLI2453,Ibrahim Camara,Ivoirien,0,2,253920.0,2.0,5.0,4,Occasionnel
+CLI1571,Eric Kouassi,Britannique,1,2,252000.0,1.5,4.0,4,Occasionnel
+CLI2655,Sophie Traore,Ghaneeen,0,1,248400.0,3.0,5.0,4,Occasionnel
+CLI2769,Eric Bamba,Français,1,1,248400.0,3.0,3.0,4,Occasionnel
+CLI0633,Clarisse Nkomo,Senegalais,0,1,248400.0,2.0,5.0,4,Occasionnel
+CLI1798,Ibrahim Camara,Ivoirien,0,2,248400.0,1.0,3.5,4,Occasionnel
+CLI2751,Cheick Ndoye,Senegalais,0,1,248400.0,3.0,3.0,4,Occasionnel
+CLI0830,Sophie Kouassi,Autre,0,1,248400.0,2.0,5.0,4,Occasionnel
+CLI2956,Kofi Koné,Français,0,1,248400.0,2.0,3.0,4,Occasionnel
+CLI1002,Paul Diallo,Camerounais,0,1,248400.0,3.0,4.0,4,Occasionnel
+CLI0082,Aminata Bamba,Americain,0,2,248400.0,3.0,3.0,4,Occasionnel
+CLI2946,Yao Kouassi,Ivoirien,0,1,248400.0,3.0,4.0,4,Occasionnel
+CLI0971,Ibrahim Traore,Ghaneeen,0,2,248400.0,3.0,5.0,4,Occasionnel
+CLI1880,Cheick Nkomo,Camerounais,0,1,248400.0,3.0,5.0,4,Occasionnel
+CLI1310,Fatou Bamba,Camerounais,0,1,248400.0,2.0,5.0,4,Occasionnel
+CLI0717,Cheick Bamba,Britannique,1,1,248400.0,3.0,5.0,4,Occasionnel
+CLI0775,Paul Sow,Americain,1,1,248400.0,2.0,5.0,4,Occasionnel
+CLI2346,Yao Kouassi,Camerounais,0,1,248400.0,3.0,3.0,4,Occasionnel
+CLI2752,Kofi Diallo,Ivoirien,0,4,245600.0,1.5,4.0,4,Occasionnel
+CLI1608,Kofi Kouassi,Britannique,0,2,244720.0,1.5,4.0,4,Occasionnel
+CLI2869,Kofi Kouassi,Ghaneeen,0,3,242880.0,2.7,5.0,4,Occasionnel
+CLI0241,Eric Koné,Senegalais,0,1,242880.0,3.0,5.0,4,Occasionnel
+CLI1937,Clarisse Bamba,Français,1,2,242880.0,1.5,4.0,4,Occasionnel
+CLI2257,Sophie Mensah,Senegalais,0,1,242880.0,3.0,5.0,4,Occasionnel
+CLI1849,Awa Mensah,Senegalais,0,2,242880.0,3.0,4.0,4,Occasionnel
+CLI0624,Eric Diallo,Ivoirien,0,2,241920.0,1.5,4.0,4,Occasionnel
+CLI0368,Awa Sow,Ivoirien,0,2,240000.0,2.0,4.5,4,Occasionnel
+CLI1179,Fatou Koné,Senegalais,0,2,240000.0,1.0,4.0,4,Occasionnel
+CLI1207,Yao Koné,Autre,0,1,240000.0,3.0,4.0,4,Occasionnel
+CLI1993,Binta Diallo,Americain,0,1,240000.0,3.0,5.0,4,Occasionnel
+CLI2216,Ibrahim Sow,Ghaneeen,0,2,240000.0,2.0,5.0,4,Occasionnel
+CLI1281,Eric Sow,Ivoirien,1,1,240000.0,2.0,4.0,4,Occasionnel
+CLI2713,Luc Sow,Camerounais,0,1,240000.0,4.0,4.0,4,Occasionnel
+CLI1669,Yao Camara,Senegalais,0,1,240000.0,3.0,5.0,4,Occasionnel
+CLI0992,Adjoua Sow,Ivoirien,0,2,240000.0,3.0,3.0,4,Occasionnel
+CLI1720,Awa Koné,Ghaneeen,0,2,240000.0,3.0,5.0,4,Occasionnel
+CLI1685,Aminata Traore,Camerounais,0,2,240000.0,2.0,3.0,4,Occasionnel
+CLI0415,Rokia Ndoye,Français,1,1,240000.0,2.0,4.0,4,Occasionnel
+CLI1551,Clarisse Bamba,Ivoirien,0,1,240000.0,3.0,4.0,4,Occasionnel
+CLI2368,Paul Sow,Camerounais,0,2,240000.0,3.0,4.0,4,Occasionnel
+CLI0180,Marie Traore,Autre,0,1,240000.0,3.0,4.0,4,Occasionnel
+CLI1440,Awa Mensah,Ivoirien,0,1,240000.0,3.0,5.0,4,Occasionnel
+CLI0452,Binta Ndoye,Ivoirien,1,1,240000.0,3.0,4.0,4,Occasionnel
+CLI0713,Cheick Bamba,Britannique,0,1,240000.0,2.0,4.0,4,Occasionnel
+CLI2396,Adjoua Kouassi,Ghaneeen,1,1,240000.0,2.0,5.0,4,Occasionnel
+CLI0447,Yao Koné,Autre,0,1,240000.0,2.0,5.0,4,Occasionnel
+CLI1842,Paul Bamba,Camerounais,0,2,240000.0,2.0,5.0,4,Occasionnel
+CLI0938,Aminata Ndoye,Ivoirien,0,1,240000.0,3.0,3.0,4,Occasionnel
+CLI1147,Marie Koné,Ivoirien,1,2,240000.0,3.0,4.0,4,Occasionnel
+CLI0920,Yao Mensah,Ivoirien,0,3,236600.0,1.0,2.7,4,Occasionnel
+CLI1813,Eric Bamba,Ghaneeen,1,4,236000.0,1.0,3.5,4,Occasionnel
+CLI0386,Serge Diallo,Français,0,2,235800.0,1.0,3.0,4,Occasionnel
+CLI2104,Sophie Nkomo,Americain,0,1,234600.0,3.0,4.0,4,Occasionnel
+CLI0577,Sophie Nkomo,Camerounais,1,1,234600.0,3.0,4.0,4,Occasionnel
+CLI1774,Cheick Mensah,Français,0,2,234600.0,1.5,4.0,4,Occasionnel
+CLI1248,Serge Sow,Français,0,2,234600.0,3.0,5.0,4,Occasionnel
+CLI0097,Adjoua Traore,Allemand,0,1,234600.0,3.0,,4,Occasionnel
+CLI2173,Adjoua Camara,Senegalais,0,1,234000.0,1.0,4.0,4,Occasionnel
+CLI1560,Cheick Koné,Americain,0,1,234000.0,1.0,3.0,4,Occasionnel
+CLI2059,Binta Ndoye,Ivoirien,0,2,233680.0,1.5,2.5,4,Occasionnel
+CLI2699,Paul Mensah,Britannique,0,2,230000.0,1.0,5.0,4,Occasionnel
+CLI0617,Ibrahim Kouassi,Camerounais,0,2,228400.0,1.5,4.0,4,Occasionnel
+CLI1202,Jean Ndoye,Ivoirien,0,2,221760.0,1.5,4.5,4,Occasionnel
+CLI1319,Cheick Kouassi,Français,0,1,220800.0,3.0,4.0,4,Occasionnel
+CLI2118,Fatou Bamba,Senegalais,0,1,220800.0,3.0,4.0,4,Occasionnel
+CLI2458,Paul Kouassi,Ivoirien,0,1,220800.0,2.0,4.0,4,Occasionnel
+CLI1330,Ibrahim Sow,Allemand,0,2,220800.0,2.0,4.0,4,Occasionnel
+CLI0897,Rokia Diallo,Autre,0,1,220800.0,2.0,5.0,4,Occasionnel
+CLI2554,Binta Mensah,Ivoirien,0,1,220800.0,3.0,5.0,4,Occasionnel
+CLI2952,Aminata Camara,Ivoirien,0,1,220800.0,2.0,2.0,4,Occasionnel
+CLI1260,Aida Ndoye,Camerounais,0,2,220640.0,1.5,4.5,4,Occasionnel
+CLI0164,Luc Camara,Allemand,0,2,216000.0,2.0,4.0,4,Occasionnel
+CLI1173,Moussa Ndoye,Ghaneeen,0,1,216000.0,3.0,5.0,4,Occasionnel
+CLI0981,Sophie Diallo,Camerounais,0,1,216000.0,2.0,4.0,4,Occasionnel
+CLI1224,Kofi Koné,Camerounais,0,2,216000.0,3.0,4.0,4,Occasionnel
+CLI2514,Awa Bamba,Senegalais,0,2,216000.0,3.0,2.0,4,Occasionnel
+CLI2584,Luc Camara,Senegalais,1,2,216000.0,2.0,4.0,4,Occasionnel
+CLI0900,Eric Ndoye,Senegalais,0,1,216000.0,3.0,4.0,4,Occasionnel
+CLI0727,Paul Ndoye,Ivoirien,0,1,216000.0,3.0,5.0,4,Occasionnel
+CLI2043,Luc Traore,Ivoirien,1,3,216000.0,3.7,3.3,4,Occasionnel
+CLI2877,Fatou Traore,Allemand,0,1,216000.0,3.0,2.0,4,Occasionnel
+CLI0156,Cheick Bamba,Americain,0,1,216000.0,2.0,4.0,4,Occasionnel
+CLI1829,Moussa Nkomo,Ivoirien,0,1,216000.0,2.0,5.0,4,Occasionnel
+CLI2386,Ibrahim Sow,Senegalais,1,1,216000.0,3.0,2.0,4,Occasionnel
+CLI1893,Paul Nkomo,Ghaneeen,0,1,216000.0,3.0,5.0,4,Occasionnel
+CLI0865,Ibrahim Bamba,Français,0,1,216000.0,3.0,2.0,4,Occasionnel
+CLI0479,Yao Kouassi,Ghaneeen,0,3,212800.0,1.7,4.0,4,Occasionnel
+CLI0376,Paul Mensah,Ghaneeen,0,2,211200.0,3.0,3.0,4,Occasionnel
+CLI1585,Serge Koné,Ivoirien,0,2,211200.0,2.0,5.0,4,Occasionnel
+CLI2854,Eric Traore,Ivoirien,0,2,211200.0,2.0,4.0,4,Occasionnel
+CLI1933,Luc Bamba,Allemand,0,2,211200.0,3.0,4.0,4,Occasionnel
+CLI1491,Marie Sow,Ghaneeen,0,1,211200.0,3.0,5.0,4,Occasionnel
+CLI0898,Rokia Kouassi,Ivoirien,1,1,211200.0,2.0,4.0,4,Occasionnel
+CLI1931,Paul Mensah,Senegalais,0,1,211200.0,2.0,4.0,4,Occasionnel
+CLI2522,Fatou Ndoye,Ivoirien,0,1,210600.0,1.0,2.0,4,Occasionnel
+CLI1577,Clarisse Mensah,Senegalais,0,1,210600.0,1.0,5.0,4,Occasionnel
+CLI1532,Yao Sow,Ivoirien,0,2,210600.0,1.0,4.0,4,Occasionnel
+CLI0406,Eric Camara,Americain,0,1,210600.0,1.0,3.0,4,Occasionnel
+CLI1284,Paul Kouassi,Autre,0,1,210600.0,1.0,5.0,4,Occasionnel
+CLI2068,Jean Ndoye,Français,0,1,208000.0,2.0,4.0,4,Occasionnel
+CLI1995,Rokia Koné,Britannique,1,1,208000.0,2.0,4.0,4,Occasionnel
+CLI0650,Cheick Kouassi,Ivoirien,1,2,208000.0,2.0,5.0,4,Occasionnel
+CLI0460,Luc Kouassi,Ivoirien,1,2,207680.0,1.0,2.5,4,Occasionnel
+CLI1781,Ibrahim Koné,Autre,0,1,207000.0,1.0,5.0,4,Occasionnel
+CLI2211,Fatou Koné,Ivoirien,0,1,207000.0,1.0,5.0,4,Occasionnel
+CLI0747,Cheick Bamba,Britannique,1,1,204000.0,3.0,4.0,4,Occasionnel
+CLI2164,Marie Traore,Senegalais,0,1,204000.0,3.0,5.0,4,Occasionnel
+CLI1401,Eric Mensah,Ivoirien,0,1,198900.0,1.0,4.0,4,Occasionnel
+CLI2084,Sophie Nkomo,Americain,0,2,196000.0,1.0,5.0,4,Occasionnel
+CLI0950,Sophie Ndoye,Autre,0,2,191360.0,2.0,4.0,4,Occasionnel
+CLI2931,Eric Kouassi,Ivoirien,1,1,190440.0,1.0,5.0,4,Occasionnel
+CLI2128,Ibrahim Diallo,Camerounais,1,1,187200.0,2.0,5.0,4,Occasionnel
+CLI1384,Moussa Nkomo,Ivoirien,0,1,187200.0,2.0,5.0,4,Occasionnel
+CLI1706,Eric Kouassi,Ghaneeen,1,1,186300.0,1.0,4.0,4,Occasionnel
+CLI2849,Luc Sow,Camerounais,0,1,186300.0,1.0,3.0,4,Occasionnel
+CLI0207,Eric Kouassi,Britannique,0,2,184000.0,2.0,4.5,4,Occasionnel
+CLI0218,Yao Koné,Britannique,0,1,184000.0,2.0,5.0,4,Occasionnel
+CLI1115,Serge Traore,Ghaneeen,0,1,184000.0,2.0,5.0,4,Occasionnel
+CLI2321,Aminata Koné,Français,1,3,184000.0,1.0,3.3,4,Occasionnel
+CLI0168,Ibrahim Mensah,Autre,0,2,184000.0,2.5,4.0,4,Occasionnel
+CLI1109,Kofi Koné,Allemand,1,1,184000.0,2.0,5.0,4,Occasionnel
+CLI2288,Luc Bamba,Ghaneeen,0,1,184000.0,2.0,3.0,4,Occasionnel
+CLI0006,Aminata Sow,Ivoirien,1,3,184000.0,1.0,5.0,4,Occasionnel
+CLI1692,Aida Bamba,Ivoirien,0,1,184000.0,2.0,4.0,4,Occasionnel
+CLI1235,Yao Kouassi,Ivoirien,0,1,184000.0,2.0,4.0,4,Occasionnel
+CLI0841,Serge Camara,Ivoirien,0,1,183040.0,2.0,3.0,4,Occasionnel
+CLI1694,Yao Koné,Camerounais,0,1,183040.0,2.0,2.0,4,Occasionnel
+CLI2140,Jean Nkomo,Français,0,1,182160.0,1.0,4.0,4,Occasionnel
+CLI2603,Aida Sow,Ivoirien,0,1,182160.0,1.0,4.0,4,Occasionnel
+CLI1447,Serge Camara,Camerounais,0,1,182160.0,1.0,5.0,4,Occasionnel
+CLI1896,Adjoua Camara,Senegalais,0,1,182160.0,1.0,5.0,4,Occasionnel
+CLI1182,Serge Traore,Ivoirien,0,2,180000.0,1.0,5.0,4,Occasionnel
+CLI2880,Aminata Diallo,Ivoirien,0,2,180000.0,1.0,2.0,4,Occasionnel
+CLI0017,Binta Ndoye,Ghaneeen,0,2,180000.0,1.0,5.0,4,Occasionnel
+CLI0567,Adjoua Ndoye,Ghaneeen,0,3,179200.0,1.0,3.0,4,Occasionnel
+CLI0915,Yao Kouassi,Autre,0,1,175950.0,1.0,5.0,4,Occasionnel
+CLI2770,Yao Mensah,Americain,0,1,175950.0,1.0,5.0,4,Occasionnel
+CLI2555,Moussa Diallo,Americain,1,2,175950.0,1.0,3.0,4,Occasionnel
+CLI1831,Serge Bamba,Autre,0,3,172000.0,1.0,2.7,4,Occasionnel
+CLI0634,Kofi Diallo,Ghaneeen,0,1,169280.0,2.0,5.0,4,Occasionnel
+CLI2080,Cheick Koné,Ivoirien,0,1,169280.0,2.0,4.0,4,Occasionnel
+CLI0267,Aminata Traore,Ivoirien,0,1,169280.0,2.0,5.0,4,Occasionnel
+CLI1973,Marie Bamba,Français,0,2,169280.0,2.0,3.0,4,Occasionnel
+CLI2134,Sophie Diallo,Americain,0,1,169280.0,4.0,3.0,4,Occasionnel
+CLI1811,Clarisse Nkomo,Ivoirien,1,1,169280.0,2.0,4.0,4,Occasionnel
+CLI2137,Jean Mensah,Français,0,2,169280.0,2.0,4.0,4,Occasionnel
+CLI2728,Aminata Ndoye,Senegalais,0,1,169280.0,2.0,4.0,4,Occasionnel
+CLI2693,Luc Traore,Ivoirien,0,1,169280.0,2.0,4.0,4,Occasionnel
+CLI1920,Sophie Sow,Camerounais,0,1,165600.0,2.0,5.0,4,Occasionnel
+CLI0435,Paul Nkomo,Senegalais,1,2,165600.0,2.0,3.0,4,Occasionnel
+CLI0482,Aida Bamba,Senegalais,0,2,165600.0,1.5,3.5,4,Occasionnel
+CLI2127,Fatou Camara,Britannique,0,1,165600.0,2.0,5.0,4,Occasionnel
+CLI0972,Binta Ndoye,Français,0,2,165600.0,2.0,4.0,4,Occasionnel
+CLI1715,Marie Camara,Senegalais,0,2,165600.0,2.0,,4,Occasionnel
+CLI1098,Fatou Diallo,Ghaneeen,0,1,165600.0,2.0,2.0,4,Occasionnel
+CLI1697,Paul Camara,Allemand,0,1,165600.0,2.0,4.0,4,Occasionnel
+CLI2479,Paul Ndoye,Britannique,1,2,162000.0,1.0,5.0,4,Occasionnel
+CLI1691,Paul Nkomo,Français,0,1,162000.0,1.0,4.0,4,Occasionnel
+CLI2133,Awa Camara,Ghaneeen,0,1,161920.0,2.0,3.0,4,Occasionnel
+CLI1336,Eric Diallo,Français,0,2,160000.0,2.0,5.0,4,Occasionnel
+CLI0354,Jean Kouassi,Ghaneeen,0,1,160000.0,2.0,3.0,4,Occasionnel
+CLI0135,Moussa Bamba,Ghaneeen,0,1,160000.0,2.0,3.0,4,Occasionnel
+CLI2141,Binta Ndoye,Camerounais,0,2,160000.0,2.0,2.0,4,Occasionnel
+CLI0073,Jean Nkomo,Ghaneeen,0,1,160000.0,2.0,5.0,4,Occasionnel
+CLI2552,Jean Koné,Camerounais,0,1,156400.0,2.0,5.0,4,Occasionnel
+CLI1183,Rokia Mensah,Autre,0,1,156400.0,2.0,3.0,4,Occasionnel
+CLI2041,Marie Diallo,Ivoirien,0,1,156400.0,2.0,5.0,4,Occasionnel
+CLI0116,Rokia Camara,Senegalais,0,2,156400.0,2.0,5.0,4,Occasionnel
+CLI0837,Binta Ndoye,Français,0,1,156400.0,2.0,2.0,4,Occasionnel
+CLI2605,Moussa Diallo,Français,0,1,156000.0,1.0,5.0,4,Occasionnel
+CLI2403,Sophie Camara,Britannique,0,2,156000.0,1.0,3.0,4,Occasionnel
+CLI2042,Jean Koné,Ivoirien,0,3,154560.0,1.0,4.3,4,Occasionnel
+CLI0270,Aminata Bamba,Britannique,0,3,153600.0,1.0,5.0,4,Occasionnel
+CLI2707,Awa Nkomo,Ivoirien,0,3,151800.0,1.0,4.0,4,Occasionnel
+CLI0196,Aida Diallo,Ghaneeen,0,1,147200.0,2.0,4.0,4,Occasionnel
+CLI1696,Aida Bamba,Ghaneeen,0,1,147200.0,2.0,5.0,4,Occasionnel
+CLI0543,Yao Camara,Ivoirien,0,2,147200.0,2.0,4.0,4,Occasionnel
+CLI2600,Paul Koné,Senegalais,0,2,147200.0,2.0,3.0,4,Occasionnel
+CLI1649,Paul Ndoye,Ghaneeen,0,1,147200.0,2.0,5.0,4,Occasionnel
+CLI0654,Awa Bamba,Ghaneeen,0,1,147200.0,2.0,4.0,4,Occasionnel
+CLI1338,Eric Kouassi,Camerounais,0,1,144000.0,2.0,5.0,4,Occasionnel
+CLI1216,Sophie Camara,Allemand,1,2,144000.0,2.0,2.0,4,Occasionnel
+CLI1504,Rokia Traore,Senegalais,1,2,144000.0,2.0,5.0,4,Occasionnel
+CLI0834,Luc Traore,Ghaneeen,1,1,144000.0,2.0,4.0,4,Occasionnel
+CLI2031,Jean Camara,Français,1,1,144000.0,2.0,5.0,4,Occasionnel
+CLI1997,Kofi Bamba,Autre,0,1,144000.0,2.0,2.0,4,Occasionnel
+CLI2415,Awa Mensah,Français,1,2,144000.0,2.0,5.0,4,Occasionnel
+CLI1308,Serge Diallo,Camerounais,0,1,144000.0,2.0,5.0,4,Occasionnel
+CLI1347,Awa Nkomo,Ivoirien,0,1,143520.0,1.0,5.0,4,Occasionnel
+CLI1393,Paul Kouassi,Ivoirien,0,2,140800.0,2.0,5.0,4,Occasionnel
+CLI0002,Kofi Bamba,Americain,0,2,140800.0,2.0,5.0,4,Occasionnel
+CLI1113,Ibrahim Kouassi,Senegalais,1,2,140800.0,2.0,5.0,4,Occasionnel
+CLI2958,Kofi Bamba,Senegalais,0,1,140800.0,2.0,4.0,4,Occasionnel
+CLI1159,Kofi Koné,Ivoirien,1,2,140800.0,2.0,4.0,4,Occasionnel
+CLI2619,Eric Sow,Autre,0,1,140400.0,1.0,3.0,4,Occasionnel
+CLI0129,Jean Sow,Ivoirien,0,1,140400.0,1.0,2.0,4,Occasionnel
+CLI1552,Luc Koné,Ivoirien,0,2,140400.0,1.0,5.0,4,Occasionnel
+CLI1667,Clarisse Bamba,Français,0,1,140400.0,1.0,3.0,4,Occasionnel
+CLI1611,Moussa Diallo,Ghaneeen,0,2,140400.0,1.0,3.0,4,Occasionnel
+CLI0532,Cheick Sow,Ivoirien,1,1,138000.0,1.0,5.0,4,Occasionnel
+CLI1328,Ibrahim Ndoye,Ghaneeen,0,1,138000.0,1.0,2.0,4,Occasionnel
+CLI2938,Cheick Camara,Ivoirien,1,1,138000.0,1.0,2.0,4,Occasionnel
+CLI2507,Sophie Mensah,Français,1,1,138000.0,1.0,4.0,4,Occasionnel
+CLI0206,Moussa Bamba,Ivoirien,0,1,138000.0,1.0,4.0,4,Occasionnel
+CLI2786,Awa Traore,Ivoirien,0,1,138000.0,1.0,4.0,4,Occasionnel
+CLI1976,Awa Koné,Ghaneeen,0,1,137280.0,1.0,4.0,4,Occasionnel
+CLI0995,Fatou Diallo,Ivoirien,1,2,137280.0,1.0,5.0,4,Occasionnel
+CLI0688,Adjoua Kouassi,Français,0,1,136000.0,2.0,5.0,4,Occasionnel
+CLI0639,Serge Camara,Ivoirien,0,1,126960.0,1.0,5.0,4,Occasionnel
+CLI1881,Sophie Bamba,Ivoirien,0,1,124200.0,2.0,4.0,4,Occasionnel
+CLI0622,Ibrahim Camara,Camerounais,0,2,124200.0,1.0,,4,Occasionnel
+CLI2149,Jean Sow,Ivoirien,0,1,124200.0,1.0,2.0,4,Occasionnel
+CLI1142,Paul Ndoye,Autre,0,2,124200.0,1.0,5.0,4,Occasionnel
+CLI0085,Marie Ndoye,Camerounais,0,1,124200.0,1.0,4.0,4,Occasionnel
+CLI1861,Kofi Sow,Autre,0,1,121440.0,1.0,4.0,4,Occasionnel
+CLI2934,Serge Sow,Ivoirien,0,1,121440.0,1.0,5.0,4,Occasionnel
+CLI1475,Moussa Diallo,Ivoirien,1,1,121440.0,1.0,4.0,4,Occasionnel
+CLI0690,Luc Koné,Ivoirien,0,1,121440.0,1.0,5.0,4,Occasionnel
+CLI2412,Aminata Koné,Senegalais,1,1,120000.0,1.0,2.0,4,Occasionnel
+CLI1070,Adjoua Kouassi,Français,1,1,120000.0,1.0,5.0,4,Occasionnel
+CLI0851,Jean Mensah,Senegalais,1,1,120000.0,1.0,3.0,4,Occasionnel
+CLI0833,Kofi Ndoye,Americain,0,1,120000.0,1.0,4.0,4,Occasionnel
+CLI1725,Yao Sow,Français,0,1,117300.0,1.0,5.0,4,Occasionnel
+CLI2696,Cheick Diallo,Ivoirien,0,1,117300.0,1.0,,4,Occasionnel
+CLI2997,Adjoua Sow,Autre,0,1,117300.0,1.0,3.0,4,Occasionnel
+CLI2726,Adjoua Mensah,Français,0,1,108000.0,1.0,5.0,4,Occasionnel
+CLI0968,Paul Nkomo,Senegalais,0,1,108000.0,1.0,5.0,4,Occasionnel
+CLI0825,Moussa Sow,Français,0,2,108000.0,1.0,5.0,4,Occasionnel
+CLI2050,Adjoua Camara,Senegalais,1,2,108000.0,1.0,3.0,4,Occasionnel
+CLI0132,Jean Camara,Americain,1,1,108000.0,1.0,5.0,4,Occasionnel
+CLI1549,Moussa Koné,Autre,0,1,105600.0,1.0,5.0,4,Occasionnel
+CLI0119,Paul Diallo,Ivoirien,0,1,105600.0,1.0,3.0,4,Occasionnel
+CLI0744,Cheick Ndoye,Autre,0,2,105600.0,1.0,4.0,4,Occasionnel
+CLI2353,Paul Nkomo,Français,1,2,104000.0,1.0,4.0,4,Occasionnel
+CLI1333,Adjoua Traore,Americain,0,2,104000.0,1.0,4.0,4,Occasionnel
+CLI0911,Paul Nkomo,Ghaneeen,0,1,102000.0,1.0,5.0,4,Occasionnel
+CLI2036,Serge Koné,Ghaneeen,0,2,95680.0,1.0,3.0,4,Occasionnel
+CLI1217,Eric Sow,Senegalais,0,2,93600.0,1.0,5.0,4,Occasionnel
+CLI1734,Kofi Mensah,Senegalais,0,1,92000.0,1.0,5.0,4,Occasionnel
+CLI0480,Clarisse Koné,Camerounais,0,2,92000.0,1.0,4.0,4,Occasionnel
+CLI2987,Yao Diallo,Britannique,1,1,92000.0,1.0,5.0,4,Occasionnel
+CLI2653,Cheick Nkomo,Senegalais,0,1,91520.0,1.0,3.0,4,Occasionnel
+CLI1191,Aida Mensah,Senegalais,0,1,91520.0,1.0,4.0,4,Occasionnel
+CLI2537,Paul Nkomo,Ivoirien,0,1,91520.0,1.0,2.0,4,Occasionnel
+CLI0816,Clarisse Kouassi,Senegalais,1,1,91520.0,1.0,3.0,4,Occasionnel
+CLI0836,Clarisse Traore,Camerounais,1,2,84640.0,1.0,4.0,4,Occasionnel
+CLI0094,Awa Mensah,Camerounais,0,1,84640.0,1.0,2.0,4,Occasionnel
+CLI2289,Moussa Camara,Camerounais,1,1,84640.0,1.0,3.0,4,Occasionnel
+CLI0088,Clarisse Bamba,Ghaneeen,0,1,84640.0,1.0,2.0,4,Occasionnel
+CLI1885,Ibrahim Mensah,Français,0,1,84640.0,1.0,5.0,4,Occasionnel
+CLI0695,Serge Bamba,Allemand,0,1,82800.0,1.0,3.0,4,Occasionnel
+CLI2461,Binta Sow,Ivoirien,0,1,82800.0,1.0,3.0,4,Occasionnel
+CLI1980,Aminata Traore,Ivoirien,1,1,82800.0,1.0,3.0,4,Occasionnel
+CLI2394,Rokia Sow,Ivoirien,1,1,82800.0,1.0,,4,Occasionnel
+CLI0769,Sophie Sow,Camerounais,0,1,82800.0,1.0,3.0,4,Occasionnel
+CLI2378,Marie Traore,Senegalais,0,2,80960.0,1.0,5.0,4,Occasionnel
+CLI2528,Rokia Kouassi,Ivoirien,0,1,80960.0,1.0,3.0,4,Occasionnel
+CLI1994,Luc Mensah,Camerounais,0,1,80000.0,1.0,3.0,4,Occasionnel
+CLI1602,Ibrahim Traore,Ghaneeen,0,1,80000.0,1.0,4.0,4,Occasionnel
+CLI2462,Awa Bamba,Ivoirien,0,1,80000.0,1.0,4.0,4,Occasionnel
+CLI0324,Yao Sow,Senegalais,0,1,72000.0,1.0,,4,Occasionnel
+CLI2094,Aida Ndoye,Ivoirien,0,1,72000.0,1.0,5.0,4,Occasionnel
+CLI2735,Serge Sow,Americain,0,1,72000.0,1.0,5.0,4,Occasionnel
+CLI0349,Serge Camara,Senegalais,1,1,72000.0,1.0,,4,Occasionnel
+CLI1640,Rokia Nkomo,Britannique,0,3,72000.0,1.3,4.3,4,Occasionnel
+CLI2596,Yao Ndoye,Camerounais,1,2,72000.0,1.0,4.0,4,Occasionnel
+CLI0507,Clarisse Kouassi,Ivoirien,0,2,72000.0,1.0,5.0,4,Occasionnel
+CLI0832,Serge Ndoye,Camerounais,1,2,72000.0,1.0,5.0,4,Occasionnel
+CLI2937,Moussa Traore,Americain,0,1,72000.0,1.0,4.0,4,Occasionnel
+CLI1029,Luc Diallo,Ghaneeen,0,2,72000.0,1.0,4.0,4,Occasionnel
+CLI0407,Clarisse Camara,Britannique,0,1,70400.0,1.0,5.0,4,Occasionnel
+CLI1303,Eric Ndoye,Français,1,1,70400.0,1.0,3.0,4,Occasionnel
+CLI0130,Adjoua Diallo,Ivoirien,1,1,70400.0,1.0,5.0,4,Occasionnel
+CLI0463,Ibrahim Camara,Ivoirien,0,1,70400.0,1.0,,4,Occasionnel
+CLI1358,Aminata Traore,Britannique,0,1,70400.0,1.0,4.0,4,Occasionnel
+CLI2374,Ibrahim Kouassi,Senegalais,0,2,70400.0,1.0,4.0,4,Occasionnel
+CLI0892,Clarisse Sow,Senegalais,0,3,70400.0,1.7,4.3,4,Occasionnel
+CLI2690,Marie Nkomo,Ivoirien,0,1,70400.0,1.0,4.0,4,Occasionnel
+CLI1507,Luc Ndoye,Camerounais,0,1,70400.0,1.0,3.0,4,Occasionnel
+CLI1209,Ibrahim Camara,Camerounais,0,2,68000.0,1.0,5.0,4,Occasionnel
+CLI2540,Clarisse Mensah,Autre,1,1,60720.0,1.0,4.0,4,Occasionnel
+CLI0079,Yao Camara,Ivoirien,0,1,54000.0,1.0,5.0,4,Occasionnel
+CLI0524,Eric Kouassi,Français,1,1,45760.0,1.0,5.0,4,Occasionnel
+CLI2568,Fatou Nkomo,Britannique,0,1,,1.0,,4,Occasionnel
+CLI0512,Sophie Nkomo,Autre,0,1,,4.0,2.0,4,Occasionnel
+CLI0215,Kofi Camara,Français,0,1,,4.0,3.0,4,Occasionnel
+CLI1957,Sophie Bamba,Français,0,1,,4.0,3.0,4,Occasionnel
+CLI2857,Moussa Kouassi,Ghaneeen,0,1,,1.0,5.0,4,Occasionnel
+CLI0412,Cheick Sow,Ghaneeen,0,1,,3.0,4.0,4,Occasionnel
+CLI0887,Yao Sow,Ghaneeen,0,1,,3.0,3.0,4,Occasionnel
+CLI0540,Luc Diallo,Camerounais,0,1,,4.0,5.0,4,Occasionnel
+CLI1858,Serge Camara,Autre,0,1,,3.0,5.0,4,Occasionnel
+CLI2338,Clarisse Kouassi,Français,0,1,,3.0,5.0,4,Occasionnel

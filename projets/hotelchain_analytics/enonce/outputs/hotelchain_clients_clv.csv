@@ -1,0 +1,21 @@
+client_id,client_nom,nationalite,client_fidele,nb_sejours,revenu_total,duree_moyenne,csat_moyen,quartile_valeur,segment_vip
+CLI0188,Yao Ndoye,Ivoirien,0,8,5814675.0,3.9,4.5,1,VIP
+CLI2067,Sophie Koné,Ivoirien,0,9,5576200.0,2.8,4.0,1,VIP
+CLI2595,Fatou Bamba,Allemand,0,6,5254700.0,3.8,3.5,1,VIP
+CLI1334,Paul Koné,Ivoirien,0,6,5089320.0,4.5,5.0,1,VIP
+CLI0508,Marie Diallo,Ghaneeen,0,6,4990250.0,4.2,4.5,1,VIP
+CLI0102,Awa Kouassi,Britannique,0,8,4824270.0,3.6,4.0,1,VIP
+CLI0749,Binta Bamba,Senegalais,1,8,4619920.0,3.0,4.25,1,VIP
+CLI2512,Eric Koné,Ghaneeen,1,8,4305450.0,2.1,3.5,1,VIP
+CLI1089,Marie Koné,Senegalais,0,9,4161440.0,2.4,3.89,1,VIP
+CLI0877,Marie Camara,Americain,0,4,4117460.0,4.3,3.75,1,VIP
+CLI0334,Jean Traore,Ivoirien,0,7,4077300.0,2.4,4.17,1,VIP
+CLI1034,Cheick Nkomo,Senegalais,0,4,4037900.0,5.3,4.25,1,VIP
+CLI2355,Yao Sow,Senegalais,0,4,4011100.0,4.5,4.25,1,VIP
+CLI1988,Awa Mensah,Americain,0,4,3943920.0,3.8,4.0,1,VIP
+CLI2401,Serge Bamba,Ivoirien,0,6,3940640.0,3.2,3.67,1,VIP
+CLI1779,Eric Camara,Americain,0,7,3935700.0,4.3,4.57,1,VIP
+CLI2916,Eric Traore,Senegalais,1,6,3864920.0,2.8,3.0,1,VIP
+CLI0590,Jean Kouassi,Americain,0,5,3852800.0,2.8,3.4,1,VIP
+CLI0982,Awa Diallo,Ivoirien,1,6,3847860.0,3.3,3.5,1,VIP
+CLI0101,Rokia Traore,Senegalais,0,4,3719950.0,4.5,3.25,1,VIP
