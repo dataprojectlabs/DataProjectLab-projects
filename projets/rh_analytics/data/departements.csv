@@ -1,0 +1,11 @@
+departement_id,nom,code,effectif_cible,responsable,budget_annuel_fcfa,localisation
+DEP01,Direction Generale,DG,5,Laure Diallo,43123780,Abidjan — Plateau
+DEP02,Commercial & Ventes,COM,95,Kouassi Bamba,1274680740,Abidjan — Plateau
+DEP03,Technique & Reseau,TECH,110,Luc Toure,1384020000,Abidjan — Plateau
+DEP04,Service Client,SC,130,Eric Diallo,1439379370,Abidjan — Plateau
+DEP05,Finance & Comptabilite,FIN,35,Aida Diallo,386088710,Abidjan — Plateau
+DEP06,Ressources Humaines,RH,20,Bintou Camara,280203700,Abidjan — Plateau
+DEP07,Marketing & Communication,MKT,30,Jean Kone,258048570,Abidjan — Plateau
+DEP08,Informatique & Systemes,IT,45,Ibrahim Toure,579670920,Abidjan — Plateau
+DEP09,Juridique & Conformite,JUR,15,Luc Ndoye,141154290,Abidjan — Plateau
+DEP10,Logistique & Achats,LOG,25,Awa Kone,216481025,Abidjan — Plateau
