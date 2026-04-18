@@ -1,0 +1,16 @@
+transporteur_id,nom,pays_base,mode_transport,statut,note_client,taux_livraison_temps,tarif_moyen_fcfa_100kg,actif
+TRP01,FastCargo CI,Côte d'Ivoire,Routier,Actif,4.1,0.88,1800,True
+TRP02,WestAfrica Express,Sénégal,Routier,Actif,3.6,0.79,1500,True
+TRP03,CamLog,Cameroun,Routier,Actif,4.3,0.91,2000,True
+TRP04,GhanaLink,Ghana,Routier,Actif,4.0,0.86,1700,True
+TRP05,Sahel Transport,Mali,Routier,Actif,3.2,0.71,1200,True
+TRP06,BurkinaFret,Burkina Faso,Routier,Actif,3.4,0.73,1100,True
+TRP07,TransOuest,Côte d'Ivoire,Multimodal,Actif,4.5,0.93,2500,True
+TRP08,AirFreight Premium,Côte d'Ivoire,Aérien,Actif,4.8,0.97,8000,True
+TRP09,OceanRoute,Sénégal,Maritime,Actif,3.9,0.84,900,True
+TRP10,RegionalLink,Ghana,Routier,Actif,3.7,0.81,1400,True
+TRP11,LastMile CI,Côte d'Ivoire,Routier,Actif,3.8,0.83,1300,True
+TRP12,NordSud Express,Mali,Routier,Actif,2.9,0.65,950,True
+TRP13,CoastCargo,Ghana,Maritime,Actif,3.5,0.78,800,True
+TRP14,InterAfrik,Cameroun,Multimodal,Actif,4.2,0.89,2200,True
+TRP15,QuickDeliver,Sénégal,Routier,Suspendu,2.7,0.61,1000,False

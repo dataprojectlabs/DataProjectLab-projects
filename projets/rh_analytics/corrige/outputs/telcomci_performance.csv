@@ -1,0 +1,447 @@
+employe_id,employe,departement,poste,type_contrat,salaire_net_actuel,note_globale,recommandation,quartile_salaire,segment_perf
+EMP0456,Bintou Ouattara,Informatique & Systemes,Developpeur Junior,CDI,1181023.0,4.8,Attention,3,Top 10%
+EMP0190,Eric Kone,Technique & Reseau,Technicien Junior,CDI,771276.0,4.73,Promotion,2,Top 10%
+EMP0200,Adama Kouassi,Technique & Reseau,Technicien Junior,CDI,647223.0,4.7,Statu quo,1,Top 10%
+EMP0287,Adjoua Sow,Service Client,Agent Junior,CDI,556115.0,4.67,Attention,1,Top 10%
+EMP0241,Thierry Cisse,Service Client,Agent Senior,CDI,795347.0,4.67,Statu quo,2,Top 10%
+EMP0204,Paul Toure,Technique & Reseau,Technicien Junior,CDD,909636.0,4.63,Statu quo,2,Top 10%
+EMP0491,Bintou Diallo,Logistique & Achats,Gestionnaire Stock,CDI,947005.0,4.57,Augmentation,3,Top 10%
+EMP0025,Thierry Traore,Commercial & Ventes,Commercial Senior,CDI,1703273.0,4.57,Formation,4,Top 10%
+EMP0325,Bintou Kouassi,Service Client,Agent Junior,CDI,716486.0,4.53,Augmentation,2,Top 10%
+EMP0312,Laure Kone,Service Client,Agent Junior,CDI,792310.0,4.53,Formation,2,Top 10%
+EMP0228,Paul Kone,Service Client,Agent Senior,CDD,848665.0,4.53,Formation,2,Top 10%
+EMP0054,Adjoua Cisse,Commercial & Ventes,Commercial Junior,CDI,862463.0,4.53,Statu quo,2,Top 10%
+EMP0492,Luc Traore,Logistique & Achats,Gestionnaire Stock,CDI,832920.0,4.5,Statu quo,2,Top 10%
+EMP0223,Paul Bamba,Service Client,Agent Senior,CDI,842825.0,4.5,Statu quo,2,Top 10%
+EMP0238,Eric Kone,Service Client,Agent Senior,CDD,1014115.0,4.5,Promotion,3,Top 10%
+EMP0239,Yao Kone,Service Client,Agent Senior,CDD,1154517.0,4.5,Formation,3,Top 10%
+EMP0213,Yao Cisse,Service Client,Superviseur,CDI,1732997.0,4.5,Statu quo,4,Top 10%
+EMP0286,Fatoumata Sow,Service Client,Agent Junior,CDI,645177.0,4.47,Statu quo,1,Top 10%
+EMP0167,Kofi Diallo,Technique & Reseau,Technicien Junior,CDI,660297.0,4.47,Formation,1,Top 10%
+EMP0444,Bintou Sow,Informatique & Systemes,Developpeur Junior,CDD,894702.0,4.47,Formation,2,Top 10%
+EMP0197,Jean Kouassi,Technique & Reseau,Technicien Junior,CDI,1000732.0,4.47,Formation,3,Top 10%
+EMP0425,Adjoua Cisse,Marketing & Communication,Designer,CDI,1112573.0,4.47,Augmentation,3,Top 10%
+EMP0013,Aminata Sow,Commercial & Ventes,Commercial Senior,CDI,1239515.0,4.47,Attention,3,Top 10%
+EMP0170,Eric Kouassi,Technique & Reseau,Technicien Junior,CDI,676641.0,4.43,Formation,1,Top 10%
+EMP0388,Luc Toure,Ressources Humaines,Assistant RH,CDD,730584.0,4.43,Attention,2,Top 10%
+EMP0419,Moussa Traore,Marketing & Communication,Designer,CDD,919198.0,4.43,Promotion,2,Top 10%
+EMP0171,Paul Diallo,Technique & Reseau,Technicien Junior,CDI,919970.0,4.43,Statu quo,3,Top 10%
+EMP0251,Awa Kouassi,Service Client,Agent Senior,CDI,1109431.0,4.43,Formation,3,Top 10%
+EMP0344,Aminata Kone,Finance & Comptabilite,Controleur de Gestion,CDI,1972029.0,4.43,Formation,4,Top 10%
+EMP0506,Kouassi Toure,Logistique & Achats,Logisticien,CDI,670207.0,4.4,Statu quo,1,Top 10%
+EMP0282,Yao Toure,Service Client,Agent Junior,CDI,800802.0,4.4,Statu quo,2,Top 10%
+EMP0326,Kofi Ndoye,Service Client,Agent Junior,CDI,831105.0,4.4,Statu quo,2,Top 10%
+EMP0497,Bintou Bamba,Logistique & Achats,Gestionnaire Stock,CDI,1013885.0,4.4,Augmentation,3,Top 10%
+EMP0458,Aminata Toure,Informatique & Systemes,Developpeur Junior,CDI,1159612.0,4.4,Statu quo,3,Top 10%
+EMP0477,Fatoumata Ouattara,Juridique & Conformite,Juriste Junior,CDI,1188542.0,4.4,Formation,3,Top 10%
+EMP0438,Clarisse Diallo,Informatique & Systemes,Developpeur Senior,CDI,1359548.0,4.4,Statu quo,4,Top 10%
+EMP0466,Marie Cisse,Informatique & Systemes,Administrateur Systeme,Interim,1441206.0,4.4,Promotion,4,Top 10%
+EMP0475,Adama Ndoye,Juridique & Conformite,Juriste Senior,CDI,1511407.0,4.4,Statu quo,4,Top 10%
+EMP0509,Thierry Sow,Logistique & Achats,Logisticien,CDI,726619.0,4.37,Statu quo,2,Top 10%
+EMP0365,Sophie Ndoye,Finance & Comptabilite,Comptable Junior,CDI,927852.0,4.37,Statu quo,3,Top 10%
+EMP0440,Awa Camara,Informatique & Systemes,Developpeur Senior,CDI,1534201.0,4.37,Statu quo,4,Top 10%
+EMP0105,Eric Cisse,Technique & Reseau,Ingenieur Reseau Senior,CDI,2133963.0,4.37,Formation,4,Top 10%
+EMP0202,Aminata Bamba,Technique & Reseau,Technicien Junior,CDI,667401.0,4.33,Promotion,1,Top 10%
+EMP0172,Moussa Traore,Technique & Reseau,Technicien Junior,CDI,700363.0,4.33,Attention,1,Top 10%
+EMP0177,Awa Bamba,Technique & Reseau,Technicien Junior,CDI,704301.0,4.33,Formation,1,Top 10%
+EMP0050,Moussa Kouassi,Commercial & Ventes,Commercial Junior,CDI,804463.0,4.33,Promotion,2,Top 10%
+EMP0143,Kouassi Kone,Technique & Reseau,Technicien Senior,CDI,846982.0,4.33,Augmentation,2,Top 10%
+EMP0083,Awa Kouassi,Commercial & Ventes,Televendeur,CDI,851971.0,4.33,Attention,2,Top 10%
+EMP0244,Thierry Traore,Service Client,Agent Senior,Interim,982721.0,4.33,Augmentation,3,Top 10%
+EMP0462,Clarisse Cisse,Informatique & Systemes,Administrateur Systeme,Interim,1250419.0,4.33,Augmentation,3,Top 10%
+EMP0108,Laure Ouattara,Technique & Reseau,Ingenieur Reseau Senior,CDI,2049287.0,4.33,Statu quo,4,Top 10%
+EMP0376,Eric Ouattara,Ressources Humaines,DRH,CDD,2553132.0,4.33,Augmentation,4,Top 10%
+EMP0180,Fatoumata Diallo,Technique & Reseau,Technicien Junior,CDD,717458.0,4.3,Promotion,2,Top 25%
+EMP0392,Adama Kone,Ressources Humaines,Assistant RH,CDI,729608.0,4.3,Formation,2,Top 25%
+EMP0074,Adama Ndoye,Commercial & Ventes,Televendeur,CDI,734450.0,4.3,Attention,2,Top 25%
+EMP0350,Laure Toure,Finance & Comptabilite,Comptable Senior,Interim,1193721.0,4.3,Formation,3,Top 25%
+EMP0222,Moussa Camara,Service Client,Agent Senior,CDI,1215759.0,4.3,Statu quo,3,Top 25%
+EMP0453,Ibrahim Ndoye,Informatique & Systemes,Developpeur Junior,CDD,1289659.0,4.3,Formation,4,Top 25%
+EMP0341,Kouassi Traore,Finance & Comptabilite,Directeur Financier,Interim,3757363.0,4.3,Formation,4,Top 25%
+EMP0261,Paul Sow,Service Client,Agent Junior,CDD,503329.0,4.27,Statu quo,1,Top 25%
+EMP0316,Yao Camara,Service Client,Agent Junior,CDI,682863.0,4.27,Formation,1,Top 25%
+EMP0386,Kouassi Sow,Ressources Humaines,Charge RH,CDI,889804.0,4.27,Augmentation,2,Top 25%
+EMP0055,Yao Ouattara,Commercial & Ventes,Commercial Junior,CDI,915033.0,4.27,Augmentation,2,Top 25%
+EMP0049,Yao Traore,Commercial & Ventes,Commercial Junior,CDI,987421.0,4.27,Statu quo,3,Top 25%
+EMP0056,Jean Camara,Commercial & Ventes,Commercial Junior,CDD,998409.0,4.27,Augmentation,3,Top 25%
+EMP0487,Adama Cisse,Logistique & Achats,Responsable Achats,CDI,1333345.0,4.27,Promotion,4,Top 25%
+EMP0432,Bintou Diallo,Informatique & Systemes,Developpeur Senior,CDI,1743180.0,4.27,Statu quo,4,Top 25%
+EMP0008,Marie Traore,Commercial & Ventes,Manager Commercial,CDI,2917055.0,4.27,Augmentation,4,Top 25%
+EMP0094,Fatoumata Toure,Commercial & Ventes,Televendeur,CDI,550137.0,4.23,Augmentation,1,Top 25%
+EMP0273,Kouassi Kone,Service Client,Agent Junior,CDI,686815.0,4.23,Augmentation,1,Top 25%
+EMP0390,Sophie Bamba,Ressources Humaines,Assistant RH,CDI,713806.0,4.23,Formation,2,Top 25%
+EMP0203,Sophie Kone,Technique & Reseau,Technicien Junior,CDD,842643.0,4.23,Formation,2,Top 25%
+EMP0368,Awa Cisse,Finance & Comptabilite,Comptable Junior,CDI,894360.0,4.23,Augmentation,2,Top 25%
+EMP0157,Kofi Ndoye,Technique & Reseau,Technicien Senior,CDI,1038329.0,4.23,Formation,3,Top 25%
+EMP0465,Fatoumata Ndoye,Informatique & Systemes,Administrateur Systeme,CDI,1383668.0,4.23,Augmentation,4,Top 25%
+EMP0398,Bintou Sow,Marketing & Communication,Chef de Produit,CDI,1913074.0,4.23,Statu quo,4,Top 25%
+EMP0307,Yao Camara,Service Client,Agent Junior,CDD,579633.0,4.2,Formation,1,Top 25%
+EMP0276,Luc Camara,Service Client,Agent Junior,CDI,580288.0,4.2,Promotion,1,Top 25%
+EMP0394,Jean Toure,Ressources Humaines,Assistant RH,CDI,615823.0,4.2,Augmentation,1,Top 25%
+EMP0225,Paul Cisse,Service Client,Agent Senior,CDI,643024.0,4.2,Statu quo,1,Top 25%
+EMP0417,Eric Diallo,Marketing & Communication,Designer,Interim,834523.0,4.2,Statu quo,2,Top 25%
+EMP0047,Clarisse Ouattara,Commercial & Ventes,Commercial Junior,CDI,909472.0,4.2,Formation,2,Top 25%
+EMP0186,Eric Ndoye,Technique & Reseau,Technicien Junior,CDI,939918.0,4.2,Statu quo,3,Top 25%
+EMP0003,Moussa Sow,Direction Generale,Assistante Direction,CDI,998881.0,4.2,Formation,3,Top 25%
+EMP0254,Adjoua Ouattara,Service Client,Agent Senior,CDI,1012811.0,4.2,Formation,3,Top 25%
+EMP0284,Bintou Kone,Service Client,Agent Junior,CDI,471900.0,4.17,Augmentation,1,Top 25%
+EMP0303,Fatoumata Kouassi,Service Client,Agent Junior,CDI,625530.0,4.17,Formation,1,Top 25%
+EMP0333,Kouassi Bamba,Service Client,Agent Junior,CDI,674402.0,4.17,Formation,1,Top 25%
+EMP0185,Thierry Cisse,Technique & Reseau,Technicien Junior,CDD,701155.0,4.17,Statu quo,1,Top 25%
+EMP0275,Kofi Diallo,Service Client,Agent Junior,CDI,729034.0,4.17,Formation,2,Top 25%
+EMP0304,Ibrahim Toure,Service Client,Agent Junior,CDI,751245.0,4.17,Formation,2,Top 25%
+EMP0194,Luc Ndoye,Technique & Reseau,Technicien Junior,CDI,837035.0,4.17,Augmentation,2,Top 25%
+EMP0112,Fatoumata Cisse,Technique & Reseau,Ingenieur Reseau Junior,CDI,1447230.0,4.17,Attention,4,Top 25%
+EMP0308,Sophie Ndoye,Service Client,Agent Junior,CDD,515291.0,4.13,Attention,1,Top 25%
+EMP0339,Jean Sow,Service Client,Agent Junior,CDI,611692.0,4.13,Augmentation,1,Top 25%
+EMP0319,Luc Toure,Service Client,Agent Junior,Interim,648638.0,4.13,Augmentation,1,Top 25%
+EMP0358,Thierry Camara,Finance & Comptabilite,Comptable Junior,CDI,667017.0,4.13,Promotion,1,Top 25%
+EMP0192,Ibrahim Cisse,Technique & Reseau,Technicien Junior,CDD,760755.0,4.13,Promotion,2,Top 25%
+EMP0324,Yao Kouassi,Service Client,Agent Junior,CDI,834132.0,4.13,Statu quo,2,Top 25%
+EMP0457,Luc Bamba,Informatique & Systemes,Developpeur Junior,CDI,961921.0,4.13,Formation,3,Top 25%
+EMP0044,Ibrahim Bamba,Commercial & Ventes,Commercial Junior,CDI,1077975.0,4.13,Formation,3,Top 25%
+EMP0481,Jean Toure,Juridique & Conformite,Juriste Junior,CDI,1182917.0,4.13,Augmentation,3,Top 25%
+EMP0111,Moussa Diallo,Technique & Reseau,Ingenieur Reseau Junior,CDI,1388984.0,4.13,Statu quo,4,Top 25%
+EMP0433,Jean Camara,Informatique & Systemes,Developpeur Senior,CDI,1597220.0,4.13,Statu quo,4,Top 25%
+EMP0428,Eric Sow,Informatique & Systemes,Architecte SI,CDD,2414036.0,4.13,Augmentation,4,Top 25%
+EMP0291,Laure Ndoye,Service Client,Agent Junior,Interim,527286.0,4.1,Promotion,1,Top 25%
+EMP0310,Kouassi Toure,Service Client,Agent Junior,CDI,577506.0,4.1,Attention,1,Top 25%
+EMP0189,Thierry Camara,Technique & Reseau,Technicien Junior,CDI,655058.0,4.1,Promotion,1,Top 25%
+EMP0034,Adama Toure,Commercial & Ventes,Commercial Junior,CDI,682045.0,4.1,Formation,1,Top 25%
+EMP0052,Jean Kone,Commercial & Ventes,Commercial Junior,CDD,876995.0,4.1,Attention,2,Top 25%
+EMP0452,Ibrahim Toure,Informatique & Systemes,Developpeur Junior,CDI,1178123.0,4.1,Formation,3,Top 25%
+EMP0053,Fatoumata Kouassi,Commercial & Ventes,Commercial Junior,CDI,1181760.0,4.1,Formation,3,Top 25%
+EMP0346,Kouassi Ouattara,Finance & Comptabilite,Comptable Senior,CDD,1425085.0,4.1,Statu quo,4,Top 25%
+EMP0116,Thierry Cisse,Technique & Reseau,Ingenieur Reseau Junior,CDI,1452662.0,4.1,Formation,4,Top 25%
+EMP0026,Ibrahim Traore,Commercial & Ventes,Commercial Senior,CDI,1486319.0,4.1,Promotion,4,Top 25%
+EMP0435,Kofi Cisse,Informatique & Systemes,Developpeur Senior,CDI,1521544.0,4.1,Augmentation,4,Top 25%
+EMP0476,Luc Sow,Juridique & Conformite,Juriste Senior,CDD,2210710.0,4.1,Statu quo,4,Top 25%
+EMP0102,Fatoumata Kone,Technique & Reseau,Ingenieur Reseau Senior,CDI,2651692.0,4.1,Augmentation,4,Top 25%
+EMP0300,Eric Toure,Service Client,Agent Junior,CDI,635687.0,4.07,Formation,1,Standard
+EMP0262,Luc Sow,Service Client,Agent Junior,Interim,661263.0,4.07,Statu quo,1,Standard
+EMP0504,Thierry Ndoye,Logistique & Achats,Logisticien,CDI,814897.0,4.07,Augmentation,2,Standard
+EMP0240,Adama Ndoye,Service Client,Agent Senior,CDI,888722.0,4.07,Formation,2,Standard
+EMP0168,Fatoumata Ndoye,Technique & Reseau,Technicien Junior,CDI,910202.0,4.07,Statu quo,2,Standard
+EMP0046,Adama Ndoye,Commercial & Ventes,Commercial Junior,CDI,919312.0,4.07,Formation,2,Standard
+EMP0406,Aida Ndoye,Marketing & Communication,Charge Marketing,CDI,1057567.0,4.07,Attention,3,Standard
+EMP0232,Jean Ouattara,Service Client,Agent Senior,CDI,1088361.0,4.07,Statu quo,3,Standard
+EMP0342,Moussa Cisse,Finance & Comptabilite,Controleur de Gestion,CDI,1504576.0,4.07,Augmentation,4,Standard
+EMP0473,Luc Bamba,Juridique & Conformite,Juriste Senior,CDI,1578411.0,4.07,Statu quo,4,Standard
+EMP0367,Paul Diallo,Finance & Comptabilite,Comptable Junior,CDI,620877.0,4.03,Statu quo,1,Standard
+EMP0179,Ibrahim Bamba,Technique & Reseau,Technicien Junior,CDI,677669.0,4.03,Statu quo,1,Standard
+EMP0393,Adama Toure,Ressources Humaines,Assistant RH,CDI,744022.0,4.03,Formation,2,Standard
+EMP0366,Aida Cisse,Finance & Comptabilite,Comptable Junior,CDD,762686.0,4.03,Formation,2,Standard
+EMP0040,Laure Traore,Commercial & Ventes,Commercial Junior,CDI,796764.0,4.03,Formation,2,Standard
+EMP0181,Adama Kouassi,Technique & Reseau,Technicien Junior,CDI,807457.0,4.03,Attention,2,Standard
+EMP0498,Aida Ndoye,Logistique & Achats,Gestionnaire Stock,Interim,818193.0,4.03,Augmentation,2,Standard
+EMP0068,Adjoua Ndoye,Commercial & Ventes,Commercial Junior,CDI,837419.0,4.03,Statu quo,2,Standard
+EMP0195,Yao Ndoye,Technique & Reseau,Technicien Junior,CDI,840911.0,4.03,Statu quo,2,Standard
+EMP0313,Laure Camara,Service Client,Agent Junior,CDI,845197.0,4.03,Statu quo,2,Standard
+EMP0067,Clarisse Ndoye,Commercial & Ventes,Commercial Junior,CDD,908733.0,4.03,Statu quo,2,Standard
+EMP0482,Thierry Ouattara,Juridique & Conformite,Juriste Junior,CDI,940465.0,4.03,Statu quo,3,Standard
+EMP0137,Aida Ndoye,Technique & Reseau,Technicien Senior,CDI,1068903.0,4.03,Formation,3,Standard
+EMP0412,Jean Ndoye,Marketing & Communication,Charge Marketing,CDI,1093979.0,4.03,Augmentation,3,Standard
+EMP0041,Moussa Cisse,Commercial & Ventes,Commercial Junior,CDI,1102089.0,4.03,Statu quo,3,Standard
+EMP0217,Luc Toure,Service Client,Superviseur,CDI,1443169.0,4.03,Augmentation,4,Standard
+EMP0400,Eric Toure,Marketing & Communication,Chef de Produit,CDI,1795537.0,4.03,Statu quo,4,Standard
+EMP0378,Luc Camara,Ressources Humaines,Responsable RH,CDI,1797097.0,4.03,Statu quo,4,Standard
+EMP0014,Adama Diallo,Commercial & Ventes,Commercial Senior,CDD,1841659.0,4.03,Statu quo,4,Standard
+EMP0397,Luc Cisse,Marketing & Communication,Chef de Produit,CDI,2290103.0,4.03,Augmentation,4,Standard
+EMP0292,Aida Ndoye,Service Client,Agent Junior,CDI,548033.0,4.0,Statu quo,1,Standard
+EMP0280,Adjoua Cisse,Service Client,Agent Junior,CDD,548522.0,4.0,Attention,1,Standard
+EMP0184,Sophie Toure,Technique & Reseau,Technicien Junior,CDI,669194.0,4.0,Augmentation,1,Standard
+EMP0193,Clarisse Kouassi,Technique & Reseau,Technicien Junior,CDI,814725.0,4.0,Formation,2,Standard
+EMP0375,Awa Cisse,Finance & Comptabilite,Comptable Junior,CDI,823118.0,4.0,Statu quo,2,Standard
+EMP0237,Kofi Toure,Service Client,Agent Senior,CDD,1014174.0,4.0,Formation,3,Standard
+EMP0448,Kouassi Ouattara,Informatique & Systemes,Developpeur Junior,CDI,1245591.0,4.0,Promotion,3,Standard
+EMP0460,Luc Diallo,Informatique & Systemes,Administrateur Systeme,CDI,1246455.0,4.0,Formation,3,Standard
+EMP0485,Kofi Kone,Juridique & Conformite,Juriste Junior,CDI,1331278.0,4.0,Attention,4,Standard
+EMP0126,Luc Ndoye,Technique & Reseau,Ingenieur Reseau Junior,CDD,1395379.0,4.0,Statu quo,4,Standard
+EMP0470,Clarisse Ouattara,Informatique & Systemes,Administrateur Systeme,CDI,1536078.0,4.0,Statu quo,4,Standard
+EMP0120,Moussa Toure,Technique & Reseau,Ingenieur Reseau Junior,CDI,1547067.0,4.0,Statu quo,4,Standard
+EMP0103,Sophie Diallo,Technique & Reseau,Ingenieur Reseau Senior,CDI,2274431.0,4.0,Statu quo,4,Standard
+EMP0332,Luc Kouassi,Service Client,Agent Junior,CDI,542320.0,3.97,Augmentation,1,Standard
+EMP0271,Clarisse Toure,Service Client,Agent Junior,CDD,546029.0,3.97,Statu quo,1,Standard
+EMP0336,Paul Traore,Service Client,Agent Junior,CDI,592707.0,3.97,Statu quo,1,Standard
+EMP0078,Sophie Bamba,Commercial & Ventes,Televendeur,CDI,615568.0,3.97,Augmentation,1,Standard
+EMP0373,Bintou Kouassi,Finance & Comptabilite,Comptable Junior,Interim,643409.0,3.97,Attention,1,Standard
+EMP0266,Fatoumata Bamba,Service Client,Agent Junior,CDI,670948.0,3.97,Formation,1,Standard
+EMP0096,Sophie Kone,Commercial & Ventes,Televendeur,Interim,679004.0,3.97,Formation,1,Standard
+EMP0079,Moussa Kone,Commercial & Ventes,Televendeur,CDI,692034.0,3.97,Formation,1,Standard
+EMP0371,Jean Camara,Finance & Comptabilite,Comptable Junior,CDI,700610.0,3.97,Statu quo,1,Standard
+EMP0356,Laure Kone,Finance & Comptabilite,Comptable Junior,CDI,873359.0,3.97,Formation,2,Standard
+EMP0352,Sophie Kouassi,Finance & Comptabilite,Comptable Senior,CDD,883825.0,3.97,Augmentation,2,Standard
+EMP0469,Kouassi Kouassi,Informatique & Systemes,Administrateur Systeme,CDI,1092040.0,3.97,Augmentation,3,Standard
+EMP0063,Thierry Traore,Commercial & Ventes,Commercial Junior,CDI,1108284.0,3.97,Promotion,3,Standard
+EMP0415,Eric Ouattara,Marketing & Communication,Charge Marketing,CDI,1173683.0,3.97,Promotion,3,Standard
+EMP0407,Paul Traore,Marketing & Communication,Charge Marketing,CDI,1190875.0,3.97,Statu quo,3,Standard
+EMP0467,Ibrahim Bamba,Informatique & Systemes,Administrateur Systeme,CDI,1266157.0,3.97,Statu quo,3,Standard
+EMP0132,Marie Camara,Technique & Reseau,Ingenieur Reseau Junior,CDI,1283600.0,3.97,Statu quo,4,Standard
+EMP0449,Jean Toure,Informatique & Systemes,Developpeur Junior,CDI,1297839.0,3.97,Attention,4,Standard
+EMP0113,Yao Traore,Technique & Reseau,Ingenieur Reseau Junior,CDI,1336271.0,3.97,Augmentation,4,Standard
+EMP0215,Ibrahim Diallo,Service Client,Superviseur,CDI,1804563.0,3.97,Formation,4,Standard
+EMP0396,Adama Toure,Marketing & Communication,Directeur Marketing,CDI,3014749.0,3.97,Augmentation,4,Standard
+EMP0169,Moussa Ndoye,Technique & Reseau,Technicien Junior,CDI,,3.97,Formation,4,Standard
+EMP0268,Thierry Ouattara,Service Client,Agent Junior,CDI,637416.0,3.93,Attention,1,Standard
+EMP0272,Moussa Kouassi,Service Client,Agent Junior,CDI,656902.0,3.93,Promotion,1,Standard
+EMP0372,Paul Cisse,Finance & Comptabilite,Comptable Junior,CDI,791398.0,3.93,Statu quo,2,Standard
+EMP0354,Jean Kouassi,Finance & Comptabilite,Comptable Senior,CDI,821845.0,3.93,Promotion,2,Standard
+EMP0423,Aminata Kone,Marketing & Communication,Designer,CDI,893040.0,3.93,Statu quo,2,Standard
+EMP0379,Kofi Bamba,Ressources Humaines,Charge RH,CDI,918794.0,3.93,Statu quo,2,Standard
+EMP0454,Jean Kouassi,Informatique & Systemes,Developpeur Junior,CDI,1097630.0,3.93,Statu quo,3,Standard
+EMP0018,Sophie Ouattara,Commercial & Ventes,Commercial Senior,CDI,1300869.0,3.93,Attention,4,Standard
+EMP0408,Bintou Bamba,Marketing & Communication,Charge Marketing,CDI,1386876.0,3.93,Promotion,4,Standard
+EMP0437,Ibrahim Ouattara,Informatique & Systemes,Developpeur Senior,Interim,1765337.0,3.93,Promotion,4,Standard
+EMP0107,Adama Kouassi,Technique & Reseau,Ingenieur Reseau Senior,CDI,2215849.0,3.93,Augmentation,4,Standard
+EMP0101,Kouassi Toure,Technique & Reseau,Directeur Technique,CDI,4051553.0,3.93,Augmentation,4,Standard
+EMP0227,Thierry Ndoye,Service Client,Agent Senior,CDI,,3.93,Statu quo,4,Standard
+EMP0510,Kouassi Toure,Logistique & Achats,Logisticien,CDI,690599.0,3.9,Augmentation,1,Standard
+EMP0277,Laure Toure,Service Client,Agent Junior,CDI,739846.0,3.9,Statu quo,2,Standard
+EMP0057,Aida Ouattara,Commercial & Ventes,Commercial Junior,CDI,853543.0,3.9,Statu quo,2,Standard
+EMP0495,Jean Kouassi,Logistique & Achats,Gestionnaire Stock,CDI,894631.0,3.9,Augmentation,2,Standard
+EMP0483,Kofi Kone,Juridique & Conformite,Juriste Junior,CDI,1143568.0,3.9,Statu quo,3,Standard
+EMP0150,Thierry Toure,Technique & Reseau,Technicien Senior,CDI,1198163.0,3.9,Statu quo,3,Standard
+EMP0121,Moussa Ndoye,Technique & Reseau,Ingenieur Reseau Junior,CDD,1439219.0,3.9,Statu quo,4,Standard
+EMP0122,Luc Kouassi,Technique & Reseau,Ingenieur Reseau Junior,CDI,1665760.0,3.9,Attention,4,Standard
+EMP0387,Paul Kouassi,Ressources Humaines,Assistant RH,CDI,629784.0,3.87,Attention,1,Standard
+EMP0305,Aida Kouassi,Service Client,Agent Junior,CDI,670569.0,3.87,Augmentation,1,Standard
+EMP0290,Paul Sow,Service Client,Agent Junior,CDI,670605.0,3.87,Formation,1,Standard
+EMP0260,Kofi Cisse,Service Client,Agent Junior,CDI,687593.0,3.87,Statu quo,1,Standard
+EMP0257,Kouassi Bamba,Service Client,Agent Senior,CDI,977709.0,3.87,Statu quo,3,Standard
+EMP0142,Aminata Traore,Technique & Reseau,Technicien Senior,CDD,1133593.0,3.87,Formation,3,Standard
+EMP0464,Moussa Camara,Informatique & Systemes,Administrateur Systeme,CDD,1293916.0,3.87,Statu quo,4,Standard
+EMP0131,Luc Sow,Technique & Reseau,Ingenieur Reseau Junior,CDI,1351663.0,3.87,Statu quo,4,Standard
+EMP0328,Kofi Ouattara,Service Client,Agent Junior,CDI,597571.0,3.83,Augmentation,1,Standard
+EMP0505,Luc Camara,Logistique & Achats,Logisticien,CDI,664520.0,3.83,Formation,1,Standard
+EMP0090,Clarisse Camara,Commercial & Ventes,Televendeur,CDI,701556.0,3.83,Promotion,1,Standard
+EMP0062,Adama Bamba,Commercial & Ventes,Commercial Junior,CDI,759725.0,3.83,Attention,2,Standard
+EMP0136,Bintou Bamba,Technique & Reseau,Technicien Senior,CDI,778173.0,3.83,Augmentation,2,Standard
+EMP0088,Aida Toure,Commercial & Ventes,Televendeur,CDI,795280.0,3.83,Attention,2,Standard
+EMP0503,Adama Kone,Logistique & Achats,Logisticien,CDD,841232.0,3.83,Augmentation,2,Standard
+EMP0298,Marie Bamba,Service Client,Agent Junior,CDD,841962.0,3.83,Augmentation,2,Standard
+EMP0255,Kofi Bamba,Service Client,Agent Senior,CDI,926692.0,3.83,Formation,3,Standard
+EMP0037,Kouassi Traore,Commercial & Ventes,Commercial Junior,CDD,951750.0,3.83,Formation,3,Standard
+EMP0416,Awa Ouattara,Marketing & Communication,Designer,CDI,1018721.0,3.83,Promotion,3,Standard
+EMP0148,Ibrahim Diallo,Technique & Reseau,Technicien Senior,CDI,1122333.0,3.83,Statu quo,3,Standard
+EMP0069,Fatoumata Cisse,Commercial & Ventes,Commercial Junior,CDI,1194082.0,3.83,Augmentation,3,Standard
+EMP0015,Yao Diallo,Commercial & Ventes,Commercial Senior,CDI,1324198.0,3.83,Statu quo,4,Standard
+EMP0130,Ibrahim Camara,Technique & Reseau,Ingenieur Reseau Junior,CDI,1348636.0,3.83,Statu quo,4,Standard
+EMP0441,Kofi Ouattara,Informatique & Systemes,Developpeur Senior,CDD,2214084.0,3.83,Attention,4,Standard
+EMP0140,Marie Kone,Technique & Reseau,Technicien Senior,CDI,862496.0,3.8,Formation,2,Standard
+EMP0508,Laure Sow,Logistique & Achats,Logisticien,CDI,946293.0,3.8,Augmentation,3,Standard
+EMP0443,Adama Camara,Informatique & Systemes,Developpeur Junior,Interim,992393.0,3.8,Statu quo,3,Standard
+EMP0043,Thierry Sow,Commercial & Ventes,Commercial Junior,CDI,1072849.0,3.8,Augmentation,3,Standard
+EMP0411,Moussa Traore,Marketing & Communication,Charge Marketing,CDI,1428798.0,3.8,Attention,4,Standard
+EMP0436,Aminata Kouassi,Informatique & Systemes,Developpeur Senior,CDI,2037457.0,3.8,Formation,4,Standard
+EMP0010,Aida Diallo,Commercial & Ventes,Manager Commercial,CDI,2075784.0,3.8,Formation,4,Standard
+EMP0274,Marie Sow,Service Client,Agent Junior,CDI,,3.8,Formation,4,Standard
+EMP0267,Awa Cisse,Service Client,Agent Junior,CDI,562688.0,3.77,Statu quo,1,Standard
+EMP0331,Yao Kouassi,Service Client,Agent Junior,CDI,636835.0,3.77,Statu quo,1,Standard
+EMP0087,Adama Ouattara,Commercial & Ventes,Televendeur,CDI,731521.0,3.77,Formation,2,Standard
+EMP0384,Kofi Cisse,Ressources Humaines,Charge RH,CDI,751769.0,3.77,Augmentation,2,Standard
+EMP0065,Yao Kouassi,Commercial & Ventes,Commercial Junior,CDD,871505.0,3.77,Formation,2,Standard
+EMP0045,Ibrahim Toure,Commercial & Ventes,Commercial Junior,CDD,996477.0,3.77,Augmentation,3,Standard
+EMP0231,Eric Kone,Service Client,Agent Senior,CDI,1042478.0,3.77,Formation,3,Standard
+EMP0383,Bintou Ouattara,Ressources Humaines,Charge RH,CDI,1118312.0,3.77,Statu quo,3,Standard
+EMP0024,Eric Sow,Commercial & Ventes,Commercial Senior,CDI,1286143.0,3.77,Formation,4,Standard
+EMP0027,Sophie Toure,Commercial & Ventes,Commercial Senior,CDI,1364065.0,3.77,Formation,4,Standard
+EMP0128,Awa Kone,Technique & Reseau,Ingenieur Reseau Junior,Interim,1570193.0,3.77,Formation,4,Standard
+EMP0212,Ibrahim Traore,Service Client,Superviseur,CDI,1685012.0,3.77,Augmentation,4,Standard
+EMP0429,Bintou Sow,Informatique & Systemes,Architecte SI,CDI,1925844.0,3.77,Augmentation,4,Standard
+EMP0077,Aminata Diallo,Commercial & Ventes,Televendeur,CDI,548406.0,3.73,Formation,1,Standard
+EMP0234,Paul Camara,Service Client,Agent Senior,CDI,1007158.0,3.73,Formation,3,Standard
+EMP0501,Eric Traore,Logistique & Achats,Gestionnaire Stock,CDI,1038867.0,3.73,Statu quo,3,Standard
+EMP0463,Kofi Cisse,Informatique & Systemes,Administrateur Systeme,CDI,1232368.0,3.73,Statu quo,3,Standard
+EMP0353,Kofi Ouattara,Finance & Comptabilite,Comptable Senior,CDI,1296501.0,3.73,Statu quo,4,Standard
+EMP0446,Yao Bamba,Informatique & Systemes,Developpeur Junior,CDI,1350950.0,3.73,Augmentation,4,Standard
+EMP0309,Bintou Camara,Service Client,Agent Junior,CDI,473269.0,3.7,Attention,1,Standard
+EMP0093,Adama Sow,Commercial & Ventes,Televendeur,CDI,532695.0,3.7,Attention,1,Standard
+EMP0327,Kouassi Camara,Service Client,Agent Junior,CDI,549509.0,3.7,Attention,1,Standard
+EMP0285,Awa Toure,Service Client,Agent Junior,Interim,552858.0,3.7,Promotion,1,Standard
+EMP0095,Marie Diallo,Commercial & Ventes,Televendeur,CDI,609999.0,3.7,Formation,1,Standard
+EMP0207,Sophie Ndoye,Technique & Reseau,Technicien Junior,CDI,673717.0,3.7,Attention,1,Standard
+EMP0099,Moussa Kone,Commercial & Ventes,Televendeur,CDI,789027.0,3.7,Attention,2,Standard
+EMP0246,Thierry Diallo,Service Client,Agent Senior,CDI,831299.0,3.7,Statu quo,2,Standard
+EMP0401,Yao Toure,Marketing & Communication,Charge Marketing,CDI,833388.0,3.7,Statu quo,2,Standard
+EMP0422,Ibrahim Bamba,Marketing & Communication,Designer,CDI,860880.0,3.7,Statu quo,2,Standard
+EMP0032,Bintou Camara,Commercial & Ventes,Commercial Senior,CDI,1366740.0,3.7,Augmentation,4,Standard
+EMP0486,Adjoua Sow,Logistique & Achats,Directeur Logistique,CDI,2430822.0,3.7,Statu quo,4,Standard
+EMP0317,Adama Ndoye,Service Client,Agent Junior,CDI,603735.0,3.67,Formation,1,Standard
+EMP0279,Yao Toure,Service Client,Agent Junior,CDI,613461.0,3.67,Statu quo,1,Standard
+EMP0299,Luc Diallo,Service Client,Agent Junior,CDI,614485.0,3.67,Promotion,1,Standard
+EMP0370,Yao Sow,Finance & Comptabilite,Comptable Junior,CDI,616624.0,3.67,Formation,1,Standard
+EMP0320,Eric Camara,Service Client,Agent Junior,CDI,649569.0,3.67,Formation,1,Standard
+EMP0178,Thierry Diallo,Technique & Reseau,Technicien Junior,CDD,723675.0,3.67,Statu quo,2,Standard
+EMP0058,Bintou Ndoye,Commercial & Ventes,Commercial Junior,CDI,908282.0,3.67,Formation,2,Standard
+EMP0245,Kofi Traore,Service Client,Agent Senior,CDI,939119.0,3.67,Statu quo,3,Standard
+EMP0345,Moussa Toure,Finance & Comptabilite,Comptable Senior,CDI,951840.0,3.67,Statu quo,3,Standard
+EMP0135,Yao Bamba,Technique & Reseau,Technicien Senior,CDI,987820.0,3.67,Formation,3,Standard
+EMP0153,Laure Ouattara,Technique & Reseau,Technicien Senior,CDI,1004016.0,3.67,Statu quo,3,Standard
+EMP0004,Laure Bamba,Direction Generale,Assistante Direction,CDI,1050463.0,3.67,Formation,3,Standard
+EMP0159,Marie Cisse,Technique & Reseau,Technicien Senior,CDI,1078996.0,3.67,Promotion,3,Standard
+EMP0252,Moussa Camara,Service Client,Agent Senior,CDI,1155051.0,3.67,Formation,3,Standard
+EMP0431,Aminata Bamba,Informatique & Systemes,Developpeur Senior,CDI,1613374.0,3.67,Promotion,4,Standard
+EMP0023,Jean Camara,Commercial & Ventes,Commercial Senior,CDI,1636591.0,3.67,Statu quo,4,Standard
+EMP0021,Marie Bamba,Commercial & Ventes,Commercial Senior,CDI,1712712.0,3.67,Statu quo,4,Standard
+EMP0218,Marie Sow,Service Client,Superviseur,CDI,1876089.0,3.67,Augmentation,4,Standard
+EMP0109,Bintou Toure,Technique & Reseau,Ingenieur Reseau Senior,Interim,2852391.0,3.67,Statu quo,4,Standard
+EMP0334,Aida Traore,Service Client,Agent Junior,CDI,569315.0,3.63,Augmentation,1,Standard
+EMP0330,Jean Cisse,Service Client,Agent Junior,CDI,584009.0,3.63,Formation,1,Standard
+EMP0082,Luc Diallo,Commercial & Ventes,Televendeur,CDI,642290.0,3.63,Augmentation,1,Standard
+EMP0355,Eric Diallo,Finance & Comptabilite,Comptable Junior,CDI,670667.0,3.63,Statu quo,1,Standard
+EMP0182,Clarisse Bamba,Technique & Reseau,Technicien Junior,CDI,675477.0,3.63,Promotion,1,Standard
+EMP0329,Thierry Kone,Service Client,Agent Junior,CDI,707695.0,3.63,Formation,2,Standard
+EMP0385,Yao Traore,Ressources Humaines,Charge RH,CDD,773209.0,3.63,Statu quo,2,Standard
+EMP0455,Aminata Camara,Informatique & Systemes,Developpeur Junior,CDD,866559.0,3.63,Promotion,2,Standard
+EMP0258,Eric Toure,Service Client,Agent Senior,CDI,894780.0,3.63,Augmentation,2,Standard
+EMP0451,Thierry Diallo,Informatique & Systemes,Developpeur Junior,CDI,1030594.0,3.63,Statu quo,3,Standard
+EMP0381,Fatoumata Bamba,Ressources Humaines,Charge RH,CDI,1040000.0,3.63,Statu quo,3,Standard
+EMP0496,Sophie Camara,Logistique & Achats,Gestionnaire Stock,CDI,1040229.0,3.63,Formation,3,Standard
+EMP0009,Jean Diallo,Commercial & Ventes,Manager Commercial,CDI,2062808.0,3.63,Statu quo,4,Standard
+EMP0311,Aida Camara,Service Client,Agent Junior,CDI,505954.0,3.6,Formation,1,Standard
+EMP0391,Kofi Bamba,Ressources Humaines,Assistant RH,CDI,627256.0,3.6,Statu quo,1,Standard
+EMP0293,Luc Kouassi,Service Client,Agent Junior,CDI,636064.0,3.6,Augmentation,1,Standard
+EMP0183,Kofi Toure,Technique & Reseau,Technicien Junior,CDI,670889.0,3.6,Promotion,1,Standard
+EMP0209,Adjoua Toure,Technique & Reseau,Technicien Junior,CDI,721518.0,3.6,Formation,2,Standard
+EMP0302,Paul Ndoye,Service Client,Agent Junior,CDD,750831.0,3.6,Promotion,2,Standard
+EMP0173,Clarisse Kouassi,Technique & Reseau,Technicien Junior,CDI,780311.0,3.6,Statu quo,2,Standard
+EMP0281,Aminata Diallo,Service Client,Agent Junior,CDI,790949.0,3.6,Statu quo,2,Standard
+EMP0198,Adama Kone,Technique & Reseau,Technicien Junior,CDI,839082.0,3.6,Formation,2,Standard
+EMP0060,Aminata Cisse,Commercial & Ventes,Commercial Junior,Interim,957116.0,3.6,Statu quo,3,Standard
+EMP0138,Bintou Kouassi,Technique & Reseau,Technicien Senior,CDD,1000149.0,3.6,Augmentation,3,Standard
+EMP0445,Eric Ouattara,Informatique & Systemes,Developpeur Junior,CDI,1009507.0,3.6,Augmentation,3,Standard
+EMP0164,Luc Traore,Technique & Reseau,Technicien Senior,CDI,1032100.0,3.6,Statu quo,3,Standard
+EMP0442,Kofi Toure,Informatique & Systemes,Developpeur Junior,CDD,1235043.0,3.6,Statu quo,3,Standard
+EMP0020,Kouassi Cisse,Commercial & Ventes,Commercial Senior,CDI,1518797.0,3.6,Statu quo,4,Standard
+EMP0427,Kouassi Ouattara,Informatique & Systemes,Architecte SI,CDI,2964559.0,3.6,Statu quo,4,Standard
+EMP0002,Awa Camara,Direction Generale,Directeur Adjoint,CDI,4212538.0,3.6,Augmentation,4,Standard
+EMP0265,Ibrahim Cisse,Service Client,Agent Junior,CDI,523810.0,3.57,Statu quo,1,Standard
+EMP0091,Thierry Cisse,Commercial & Ventes,Televendeur,CDI,575739.0,3.57,Attention,1,Standard
+EMP0191,Aminata Traore,Technique & Reseau,Technicien Junior,CDI,580469.0,3.57,Formation,1,Standard
+EMP0283,Ibrahim Ndoye,Service Client,Agent Junior,CDI,618907.0,3.57,Formation,1,Standard
+EMP0321,Luc Kone,Service Client,Agent Junior,CDI,629409.0,3.57,Formation,1,Standard
+EMP0323,Thierry Cisse,Service Client,Agent Junior,CDI,634784.0,3.57,Statu quo,1,Standard
+EMP0364,Kofi Kone,Finance & Comptabilite,Comptable Junior,CDI,657311.0,3.57,Augmentation,1,Standard
+EMP0264,Adama Sow,Service Client,Agent Junior,CDI,658947.0,3.57,Statu quo,1,Standard
+EMP0081,Jean Diallo,Commercial & Ventes,Televendeur,CDI,848058.0,3.57,Formation,2,Standard
+EMP0259,Yao Ouattara,Service Client,Agent Senior,CDI,883842.0,3.57,Formation,2,Standard
+EMP0199,Sophie Ouattara,Technique & Reseau,Technicien Junior,CDI,932050.0,3.57,Augmentation,3,Standard
+EMP0039,Jean Toure,Commercial & Ventes,Commercial Junior,CDI,932515.0,3.57,Statu quo,3,Standard
+EMP0145,Awa Ndoye,Technique & Reseau,Technicien Senior,CDI,1030470.0,3.57,Formation,3,Standard
+EMP0061,Fatoumata Cisse,Commercial & Ventes,Commercial Junior,CDI,1078718.0,3.57,Formation,3,Standard
+EMP0156,Thierry Ouattara,Technique & Reseau,Technicien Senior,CDD,1124684.0,3.57,Statu quo,3,Standard
+EMP0125,Moussa Diallo,Technique & Reseau,Ingenieur Reseau Junior,CDI,1444816.0,3.57,Formation,4,Standard
+EMP0007,Eric Kouassi,Commercial & Ventes,Manager Commercial,CDI,2090995.0,3.57,Formation,4,Standard
+EMP0236,Jean Camara,Service Client,Agent Senior,CDI,,3.57,Statu quo,4,Standard
+EMP0076,Sophie Sow,Commercial & Ventes,Televendeur,CDI,622475.0,3.53,Statu quo,1,Standard
+EMP0243,Yao Diallo,Service Client,Agent Senior,CDI,643420.0,3.53,Statu quo,1,Standard
+EMP0080,Moussa Ouattara,Commercial & Ventes,Televendeur,CDI,672707.0,3.53,Promotion,1,Standard
+EMP0035,Thierry Traore,Commercial & Ventes,Commercial Junior,CDI,830131.0,3.53,Augmentation,2,Standard
+EMP0395,Yao Sow,Ressources Humaines,Assistant RH,CDI,832019.0,3.53,Formation,2,Standard
+EMP0421,Aminata Ndoye,Marketing & Communication,Designer,CDI,1011961.0,3.53,Augmentation,3,Standard
+EMP0146,Ibrahim Kone,Technique & Reseau,Technicien Senior,CDI,1037422.0,3.53,Statu quo,3,Standard
+EMP0414,Marie Sow,Marketing & Communication,Charge Marketing,CDI,1077583.0,3.53,Formation,3,Standard
+EMP0147,Adama Diallo,Technique & Reseau,Technicien Senior,CDI,1292158.0,3.53,Promotion,4,Standard
+EMP0471,Laure Bamba,Juridique & Conformite,Directeur Juridique,CDI,3719174.0,3.53,Formation,4,Standard
+EMP0205,Thierry Toure,Technique & Reseau,Technicien Junior,CDI,561703.0,3.5,Statu quo,1,Standard
+EMP0363,Laure Diallo,Finance & Comptabilite,Comptable Junior,Interim,714959.0,3.5,Attention,2,Standard
+EMP0165,Fatoumata Kone,Technique & Reseau,Technicien Junior,CDI,809221.0,3.5,Statu quo,2,Standard
+EMP0229,Jean Bamba,Service Client,Agent Senior,CDI,814686.0,3.5,Formation,2,Standard
+EMP0196,Kouassi Diallo,Technique & Reseau,Technicien Junior,CDI,856862.0,3.5,Augmentation,2,Standard
+EMP0233,Yao Traore,Service Client,Agent Senior,Interim,867065.0,3.5,Formation,2,Standard
+EMP0071,Adama Ouattara,Commercial & Ventes,Commercial Junior,CDI,949453.0,3.5,Augmentation,3,Standard
+EMP0152,Kofi Toure,Technique & Reseau,Technicien Senior,CDI,989019.0,3.5,Statu quo,3,Standard
+EMP0123,Aida Kouassi,Technique & Reseau,Ingenieur Reseau Junior,Interim,1214095.0,3.5,Statu quo,3,Standard
+EMP0489,Adjoua Ouattara,Logistique & Achats,Responsable Achats,CDD,1348451.0,3.5,Formation,4,Standard
+EMP0124,Eric Sow,Technique & Reseau,Ingenieur Reseau Junior,CDI,1451183.0,3.5,Attention,4,Standard
+EMP0219,Paul Bamba,Service Client,Superviseur,CDD,1700375.0,3.5,Statu quo,4,Standard
+EMP0216,Yao Kone,Service Client,Superviseur,CDI,1874832.0,3.5,Statu quo,4,Standard
+EMP0104,Awa Toure,Technique & Reseau,Ingenieur Reseau Senior,CDI,2382396.0,3.5,Statu quo,4,Standard
+EMP0028,Thierry Bamba,Commercial & Ventes,Commercial Senior,CDI,,3.5,Statu quo,4,Standard
+EMP0296,Thierry Bamba,Service Client,Agent Junior,CDI,676061.0,3.47,Statu quo,1,Standard
+EMP0253,Thierry Camara,Service Client,Agent Senior,CDI,874855.0,3.47,Promotion,2,Standard
+EMP0174,Luc Ndoye,Technique & Reseau,Technicien Junior,CDI,914853.0,3.47,Formation,2,Standard
+EMP0403,Kofi Traore,Marketing & Communication,Charge Marketing,CDI,1105596.0,3.47,Statu quo,3,Standard
+EMP0106,Luc Toure,Technique & Reseau,Ingenieur Reseau Senior,CDI,2853555.0,3.47,Formation,4,Standard
+EMP0187,Luc Bamba,Technique & Reseau,Technicien Junior,CDD,,3.47,Statu quo,4,Standard
+EMP0297,Adama Sow,Service Client,Agent Junior,CDI,533835.0,3.43,Attention,1,Standard
+EMP0335,Moussa Sow,Service Client,Agent Junior,CDD,696736.0,3.43,Formation,1,Standard
+EMP0315,Sophie Bamba,Service Client,Agent Junior,CDI,721764.0,3.43,Statu quo,2,Standard
+EMP0230,Ibrahim Ouattara,Service Client,Agent Senior,CDI,757621.0,3.43,Statu quo,2,Standard
+EMP0161,Eric Camara,Technique & Reseau,Technicien Senior,CDI,809549.0,3.43,Statu quo,2,Standard
+EMP0066,Luc Kone,Commercial & Ventes,Commercial Junior,CDI,855029.0,3.43,Statu quo,2,Standard
+EMP0139,Moussa Bamba,Technique & Reseau,Technicien Senior,CDI,1017146.0,3.43,Attention,3,Standard
+EMP0248,Eric Cisse,Service Client,Agent Senior,CDD,1210165.0,3.43,Augmentation,3,Standard
+EMP0404,Bintou Ndoye,Marketing & Communication,Charge Marketing,CDI,1253937.0,3.43,Augmentation,3,Standard
+EMP0127,Fatoumata Kone,Technique & Reseau,Ingenieur Reseau Junior,CDI,1413498.0,3.43,Statu quo,4,Standard
+EMP0133,Kouassi Kouassi,Technique & Reseau,Ingenieur Reseau Junior,CDI,1441577.0,3.43,Statu quo,4,Standard
+EMP0084,Ibrahim Cisse,Commercial & Ventes,Televendeur,CDI,617904.0,3.4,Promotion,1,Standard
+EMP0278,Aida Sow,Service Client,Agent Junior,CDI,665358.0,3.4,Statu quo,1,Standard
+EMP0220,Moussa Toure,Service Client,Agent Senior,CDD,854575.0,3.4,Formation,2,Standard
+EMP0155,Fatoumata Camara,Technique & Reseau,Technicien Senior,CDI,945260.0,3.4,Statu quo,3,Standard
+EMP0072,Marie Kouassi,Commercial & Ventes,Commercial Junior,CDI,1260370.0,3.4,Attention,3,Standard
+EMP0119,Paul Diallo,Technique & Reseau,Ingenieur Reseau Junior,CDI,1609761.0,3.4,Attention,4,Standard
+EMP0211,Aida Kone,Service Client,Directeur Service Client,CDI,4306826.0,3.4,Formation,4,Standard
+EMP0294,Luc Sow,Service Client,Agent Junior,CDI,511541.0,3.37,Statu quo,1,Standard
+EMP0322,Yao Traore,Service Client,Agent Junior,CDI,530811.0,3.37,Attention,1,Standard
+EMP0098,Moussa Ouattara,Commercial & Ventes,Televendeur,CDI,616840.0,3.37,Augmentation,1,Standard
+EMP0269,Sophie Diallo,Service Client,Agent Junior,CDI,664388.0,3.37,Augmentation,1,Standard
+EMP0374,Aida Kouassi,Finance & Comptabilite,Comptable Junior,CDI,692270.0,3.37,Statu quo,1,Standard
+EMP0359,Yao Toure,Finance & Comptabilite,Comptable Junior,CDI,829535.0,3.37,Promotion,2,Standard
+EMP0221,Kouassi Cisse,Service Client,Agent Senior,CDD,845542.0,3.37,Formation,2,Standard
+EMP0369,Paul Kone,Finance & Comptabilite,Comptable Junior,CDI,845666.0,3.37,Statu quo,2,Standard
+EMP0410,Moussa Diallo,Marketing & Communication,Charge Marketing,CDI,1110507.0,3.37,Augmentation,3,Standard
+EMP0030,Adjoua Ndoye,Commercial & Ventes,Commercial Senior,CDI,1196429.0,3.37,Statu quo,3,Standard
+EMP0118,Kouassi Camara,Technique & Reseau,Ingenieur Reseau Junior,CDI,1550953.0,3.37,Promotion,4,Standard
+EMP0474,Yao Bamba,Juridique & Conformite,Juriste Senior,CDD,1941880.0,3.37,Augmentation,4,Standard
+EMP0166,Luc Ouattara,Technique & Reseau,Technicien Junior,CDI,738920.0,3.33,Statu quo,2,Standard
+EMP0362,Jean Bamba,Finance & Comptabilite,Comptable Junior,CDI,837274.0,3.33,Formation,2,Standard
+EMP0019,Moussa Diallo,Commercial & Ventes,Commercial Senior,CDI,1173447.0,3.33,Augmentation,3,Standard
+EMP0085,Luc Ndoye,Commercial & Ventes,Televendeur,CDD,657166.0,3.3,Statu quo,1,Standard
+EMP0226,Awa Camara,Service Client,Agent Senior,CDI,878431.0,3.3,Augmentation,2,Standard
+EMP0380,Sophie Toure,Ressources Humaines,Charge RH,CDI,938173.0,3.3,Augmentation,3,Standard
+EMP0494,Sophie Cisse,Logistique & Achats,Gestionnaire Stock,CDI,1000103.0,3.3,Statu quo,3,Standard
+EMP0117,Thierry Diallo,Technique & Reseau,Ingenieur Reseau Junior,CDI,1257529.0,3.3,Statu quo,3,Standard
+EMP0461,Thierry Toure,Informatique & Systemes,Administrateur Systeme,CDD,1259994.0,3.3,Statu quo,3,Standard
+EMP0029,Fatoumata Ouattara,Commercial & Ventes,Commercial Senior,CDI,1297935.0,3.3,Statu quo,4,Standard
+EMP0134,Yao Kone,Technique & Reseau,Ingenieur Reseau Junior,CDD,1409076.0,3.3,Statu quo,4,Standard
+EMP0006,Yao Traore,Commercial & Ventes,Directeur Commercial,CDI,3259414.0,3.3,Augmentation,4,Standard
+EMP0340,Aminata Ndoye,Service Client,Agent Junior,CDI,541823.0,3.27,Statu quo,1,Standard
+EMP0188,Kouassi Diallo,Technique & Reseau,Technicien Junior,CDI,579263.0,3.27,Augmentation,1,Standard
+EMP0357,Clarisse Ouattara,Finance & Comptabilite,Comptable Junior,CDI,698577.0,3.27,Attention,1,Standard
+EMP0507,Awa Traore,Logistique & Achats,Logisticien,CDI,708098.0,3.27,Augmentation,2,Standard
+EMP0479,Paul Ouattara,Juridique & Conformite,Juriste Junior,CDI,960188.0,3.27,Statu quo,3,Standard
+EMP0478,Kouassi Camara,Juridique & Conformite,Juriste Junior,CDI,1354539.0,3.27,Formation,4,Standard
+EMP0377,Adama Sow,Ressources Humaines,Responsable RH,CDD,1520590.0,3.27,Statu quo,4,Standard
+EMP0389,Paul Bamba,Ressources Humaines,Assistant RH,CDI,511436.0,3.23,Statu quo,1,Standard
+EMP0318,Kofi Toure,Service Client,Agent Junior,CDI,660652.0,3.23,Statu quo,1,Standard
+EMP0089,Adama Toure,Commercial & Ventes,Televendeur,CDI,717663.0,3.23,Formation,2,Standard
+EMP0270,Moussa Cisse,Service Client,Agent Junior,CDD,532181.0,3.2,Statu quo,1,Standard
+EMP0351,Bintou Bamba,Finance & Comptabilite,Comptable Senior,CDI,949466.0,3.2,Statu quo,3,Standard
+EMP0349,Thierry Diallo,Finance & Comptabilite,Comptable Senior,CDI,1008330.0,3.2,Statu quo,3,Standard
+EMP0405,Awa Traore,Marketing & Communication,Charge Marketing,CDI,1079363.0,3.2,Statu quo,3,Standard
+EMP0005,Kouassi Kouassi,Direction Generale,Assistante Direction,CDI,1254307.0,3.2,Statu quo,3,Standard
+EMP0016,Adama Bamba,Commercial & Ventes,Commercial Senior,CDI,1407222.0,3.2,Attention,4,Standard
+EMP0434,Bintou Diallo,Informatique & Systemes,Developpeur Senior,CDI,2226506.0,3.2,Formation,4,Standard
+EMP0176,Awa Kone,Technique & Reseau,Technicien Junior,CDI,905579.0,3.17,Attention,2,Standard
+EMP0162,Adjoua Cisse,Technique & Reseau,Technicien Senior,CDI,928131.0,3.17,Statu quo,3,Standard
+EMP0059,Eric Ndoye,Commercial & Ventes,Commercial Junior,CDI,1119113.0,3.17,Promotion,3,Standard
+EMP0022,Jean Toure,Commercial & Ventes,Commercial Senior,CDI,1182633.0,3.17,Formation,3,Standard
+EMP0439,Marie Diallo,Informatique & Systemes,Developpeur Senior,CDD,1981455.0,3.17,Attention,4,Standard
+EMP0075,Kouassi Ouattara,Commercial & Ventes,Televendeur,Interim,551053.0,3.13,Augmentation,1,Standard
+EMP0038,Aida Bamba,Commercial & Ventes,Commercial Junior,CDD,1104820.0,3.13,Augmentation,3,Standard
+EMP0488,Luc Bamba,Logistique & Achats,Responsable Achats,CDI,1714975.0,3.13,Statu quo,4,Standard
+EMP0206,Thierry Diallo,Technique & Reseau,Technicien Junior,CDI,636915.0,3.1,Statu quo,1,Standard
+EMP0289,Adama Ouattara,Service Client,Agent Junior,CDI,664770.0,3.1,Promotion,1,Standard
+EMP0493,Aida Traore,Logistique & Achats,Gestionnaire Stock,CDI,788544.0,3.1,Statu quo,2,Standard
+EMP0450,Marie Bamba,Informatique & Systemes,Developpeur Junior,CDI,887157.0,3.1,Formation,2,Standard
+EMP0001,Awa Toure,Direction Generale,Directeur General,CDI,5989727.0,3.1,Augmentation,4,Standard
+EMP0426,Luc Diallo,Informatique & Systemes,DSI,CDI,3843934.0,3.07,Attention,4,Standard
+EMP0070,Clarisse Cisse,Commercial & Ventes,Commercial Junior,CDI,706071.0,3.03,Attention,1,Standard
+EMP0151,Aida Diallo,Technique & Reseau,Technicien Senior,CDI,887249.0,3.03,Attention,2,Standard
+EMP0472,Luc Diallo,Juridique & Conformite,Juriste Senior,CDD,1996158.0,3.0,Formation,4,Standard
+EMP0100,Fatoumata Cisse,Commercial & Ventes,Televendeur,CDI,652209.0,2.97,Attention,1,Standard
+EMP0242,Moussa Traore,Service Client,Agent Senior,CDI,910581.0,2.97,Formation,2,Standard
+EMP0360,Jean Ouattara,Finance & Comptabilite,Comptable Junior,CDD,723381.0,2.93,Formation,2,Standard
+EMP0158,Sophie Bamba,Technique & Reseau,Technicien Senior,CDI,966261.0,2.9,Formation,3,Standard
+EMP0484,Thierry Bamba,Juridique & Conformite,Juriste Junior,CDI,1004482.0,2.87,Augmentation,3,Standard

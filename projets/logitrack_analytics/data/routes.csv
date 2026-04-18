@@ -1,0 +1,31 @@
+route_id,pays_origine,pays_destination,distance_km,duree_standard_jours,risque_douanier,nb_points_controle,mode_principal
+RTE001,Côte d'Ivoire,Sénégal,2861,12.4,Faible,5,Routier
+RTE002,Côte d'Ivoire,Cameroun,926,3.8,Moyen,2,Routier
+RTE003,Côte d'Ivoire,Ghana,2753,11.7,Faible,1,Routier
+RTE004,Côte d'Ivoire,Mali,1786,5.4,Élevé,3,Routier
+RTE005,Côte d'Ivoire,Burkina Faso,537,2.4,Élevé,5,Routier
+RTE006,Sénégal,Côte d'Ivoire,650,2.1,Faible,1,Routier
+RTE007,Sénégal,Cameroun,825,2.8,Moyen,5,Routier
+RTE008,Sénégal,Ghana,1385,5.1,Faible,5,Maritime
+RTE009,Sénégal,Mali,1167,3.5,Élevé,2,Multimodal
+RTE010,Sénégal,Burkina Faso,1934,5.5,Élevé,3,Maritime
+RTE011,Cameroun,Côte d'Ivoire,2419,9.4,Moyen,2,Routier
+RTE012,Cameroun,Sénégal,562,2.4,Moyen,5,Routier
+RTE013,Cameroun,Ghana,2710,12.5,Moyen,1,Routier
+RTE014,Cameroun,Mali,1237,6.5,Élevé,1,Multimodal
+RTE015,Cameroun,Burkina Faso,590,2.2,Élevé,3,Maritime
+RTE016,Ghana,Côte d'Ivoire,1177,4.3,Faible,5,Maritime
+RTE017,Ghana,Sénégal,1295,4.1,Faible,4,Routier
+RTE018,Ghana,Cameroun,686,3.5,Moyen,4,Multimodal
+RTE019,Ghana,Mali,2034,8.1,Élevé,1,Routier
+RTE020,Ghana,Burkina Faso,548,2.2,Élevé,3,Routier
+RTE021,Mali,Côte d'Ivoire,1318,6.2,Élevé,5,Maritime
+RTE022,Mali,Sénégal,874,3.5,Élevé,3,Maritime
+RTE023,Mali,Cameroun,1323,4.0,Élevé,1,Maritime
+RTE024,Mali,Ghana,2554,13.0,Élevé,5,Routier
+RTE025,Mali,Burkina Faso,682,2.0,Élevé,2,Routier
+RTE026,Burkina Faso,Côte d'Ivoire,1964,7.5,Élevé,2,Maritime
+RTE027,Burkina Faso,Sénégal,540,2.6,Élevé,1,Maritime
+RTE028,Burkina Faso,Cameroun,1386,4.1,Élevé,4,Multimodal
+RTE029,Burkina Faso,Ghana,2032,6.8,Élevé,5,Maritime
+RTE030,Burkina Faso,Mali,934,4.4,Élevé,2,Routier

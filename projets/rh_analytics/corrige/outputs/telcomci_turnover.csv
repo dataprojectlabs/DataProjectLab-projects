@@ -1,0 +1,17 @@
+departement,annee,nb_departs,effectif_total,taux_turnover_pct,rang_risque
+Logistique & Achats,2021,2,25,8.0,1
+Commercial & Ventes,2021,3,95,3.2,2
+Informatique & Systemes,2021,1,45,2.2,3
+Service Client,2021,2,130,1.5,4
+Logistique & Achats,2022,1,25,4.0,1
+Service Client,2022,5,130,3.8,2
+Marketing & Communication,2022,1,30,3.3,3
+Technique & Reseau,2022,3,110,2.7,4
+Informatique & Systemes,2022,1,45,2.2,5
+Commercial & Ventes,2022,1,95,1.1,6
+Finance & Comptabilite,2023,3,35,8.6,1
+Marketing & Communication,2023,2,30,6.7,2
+Informatique & Systemes,2023,2,45,4.4,3
+Commercial & Ventes,2023,3,95,3.2,4
+Technique & Reseau,2023,3,110,2.7,5
+Service Client,2023,2,130,1.5,6

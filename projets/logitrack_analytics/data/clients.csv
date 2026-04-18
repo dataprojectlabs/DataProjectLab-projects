@@ -1,0 +1,31 @@
+client_id,nom,pays,ville,segment,sla_contractuel_jours,penalite_retard_pct,chiffre_affaires_annuel_fcfa
+CLI001,Orange,Burkina Faso,Koudougou,Grand Compte,3,1.2,62000000
+CLI002,MTN,Sénégal,Saint-Louis,Administration,7,0.0,194000000
+CLI003,Bolloré,Mali,Sikasso,Grand Compte,14,0.6,28000000
+CLI004,Nestlé,Sénégal,Saint-Louis,Grand Compte,14,0.6,55000000
+CLI005,Unilever,Burkina Faso,Ouagadougou,Administration,21,0.0,119000000
+CLI006,Total,Mali,Bamako,PME,7,0.0,183000000
+CLI007,Cargill,Ghana,Accra,PME,14,0.0,60000000
+CLI008,Olam,Cameroun,Yaoundé,Grand Compte,3,0.7,93000000
+CLI009,CFAO,Mali,Kayes,PME,7,0.0,122000000
+CLI010,Sonatel,Mali,Bamako,Grand Compte,10,1.9,165000000
+CLI011,Société Générale,Mali,Kayes,PME,10,0.0,22000000
+CLI012,Ecobank,Côte d'Ivoire,Bouaké,Administration,10,0.0,25000000
+CLI013,BOAD,Sénégal,Thiès,Grand Compte,10,1.6,98000000
+CLI014,CEDEAO Logistics,Sénégal,Dakar,PME,14,0.0,176000000
+CLI015,SIFA,Cameroun,Bafoussam,Administration,7,0.0,167000000
+CLI016,Vivo Energy,Sénégal,Dakar,Administration,10,0.0,123000000
+CLI017,Tractafric,Ghana,Tema,PME,10,0.0,88000000
+CLI018,SMTV,Côte d'Ivoire,Bouaké,Grand Compte,3,1.5,21000000
+CLI019,Ivoire Distribution,Sénégal,Dakar,Administration,14,0.0,172000000
+CLI020,COBACI,Ghana,Accra,PME,21,0.0,72000000
+CLI021,PharmaCIV,Sénégal,Saint-Louis,Grand Compte,14,1.2,154000000
+CLI022,TechnoServe,Ghana,Kumasi,Administration,21,0.0,61000000
+CLI023,Agro-CI,Sénégal,Dakar,Administration,21,0.0,198000000
+CLI024,SITAB,Côte d'Ivoire,San-Pédro,Grand Compte,5,0.9,179000000
+CLI025,SOLIBRA,Ghana,Kumasi,Administration,7,0.0,102000000
+CLI026,Canal+,Mali,Kayes,PME,14,0.0,7000000
+CLI027,Airtel,Burkina Faso,Koudougou,Administration,7,0.0,142000000
+CLI028,BICICI,Cameroun,Douala,Administration,14,0.0,80000000
+CLI029,SIB,Ghana,Accra,Grand Compte,10,2.9,189000000
+CLI030,Versus Bank,Cameroun,Bafoussam,Administration,10,0.0,32000000

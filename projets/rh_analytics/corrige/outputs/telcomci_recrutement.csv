@@ -1,0 +1,6 @@
+canal,nb_recrutements,nb_embauches,taux_embauche_pct,duree_moy_jours,cout_moyen_process,cout_par_embauche,rang_efficacite
+Cabinet,60,47.0,78.3,41.0,1342255.0,1713517.0,1
+Referencement,66,45.0,68.2,44.0,1276897.0,1872783.0,2
+LinkedIn,117,76.0,65.0,43.0,1425962.0,2195231.0,3
+Cooptation,32,21.0,65.6,50.0,1471856.0,2242828.0,4
+Jobboard,75,41.0,54.7,43.0,1323127.0,2420353.0,5

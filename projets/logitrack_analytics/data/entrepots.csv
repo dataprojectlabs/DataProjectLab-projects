@@ -1,0 +1,13 @@
+entrepot_id,nom,pays,ville,capacite_palettes,type,taux_ponctualite
+ENT01,Abidjan Hub Principal,Côte d'Ivoire,Abidjan,1200,Hub,0.92
+ENT02,Abidjan Zone Franche,Côte d'Ivoire,Abidjan,600,Transit,0.87
+ENT03,Dakar Port,Sénégal,Dakar,900,Hub,0.89
+ENT04,Dakar Nord,Sénégal,Dakar,400,Transit,0.83
+ENT05,Douala Port,Cameroun,Douala,850,Hub,0.91
+ENT06,Yaoundé Centre,Cameroun,Yaoundé,350,Transit,0.85
+ENT07,Accra Tema Port,Ghana,Tema,750,Hub,0.9
+ENT08,Kumasi Plateforme,Ghana,Kumasi,300,Transit,0.79
+ENT09,Bamako Hub,Mali,Bamako,500,Hub,0.75
+ENT10,Ouagadougou Hub,Burkina Faso,Ouagadougou,450,Hub,0.77
+ENT11,San-Pédro Port,Côte d'Ivoire,San-Pédro,250,Transit,0.82
+ENT12,Bobo-Dioulasso,Burkina Faso,Bobo-Dioulasso,200,Transit,0.74
