@@ -1,0 +1,26 @@
+client_id,nom,secteur,pays_principal,budget_mensuel_fcfa,type_contrat,date_debut_contrat,account_manager,objectif_principal
+CLI001,Orange CI,Assurance,Burkina Faso,1000000,Mensuel,2022-01-07,Diallo Mamadou,Notoriété
+CLI002,MTN Côte d'Ivoire,E-commerce,Burkina Faso,1000000,Annuel,2022-06-23,Ibrahim Traoré,Acquisition
+CLI003,Jumia,FMCG,Côte d'Ivoire,1000000,Annuel,2022-02-25,Fatou Seck,Acquisition
+CLI004,Ecobank,Santé,Mali,5000000,Mensuel,2022-06-16,Ibrahim Traoré,Rétention
+CLI005,UBA,Santé,Côte d'Ivoire,2500000,Trimestriel,2022-06-28,Clarisse Bamba,Notoriété
+CLI006,SIB,E-commerce,Sénégal,15000000,Trimestriel,2022-01-27,Awa Koné,Rétention
+CLI007,Nestlé Afrique,Éducation,Cameroun,10000000,Annuel,2022-01-12,Awa Koné,Conversion
+CLI008,Unilever CI,Immobilier,Côte d'Ivoire,10000000,Annuel,2022-06-10,Diallo Mamadou,Acquisition
+CLI009,NSIA Assurances,E-commerce,Côte d'Ivoire,5000000,Mensuel,2022-03-16,Awa Koné,Conversion
+CLI010,Allianz CI,Immobilier,Cameroun,50000000,Mensuel,2022-06-12,Clarisse Bamba,Rétention
+CLI011,Moov Africa,E-commerce,Sénégal,10000000,Annuel,2022-06-29,Diallo Mamadou,Notoriété
+CLI012,TotalEnergies,Assurance,Sénégal,50000000,Annuel,2022-04-08,Fatou Seck,Notoriété
+CLI013,Canal+ Afrique,FMCG,Burkina Faso,15000000,Mensuel,2022-01-15,Clarisse Bamba,Conversion
+CLI014,CFAO Motors,Immobilier,Cameroun,1000000,Mensuel,2022-02-24,Ibrahim Traoré,Conversion
+CLI015,Bolloré,Assurance,Burkina Faso,50000000,Mensuel,2022-02-06,Diallo Mamadou,Rétention
+CLI016,Airtel Ghana,Santé,Burkina Faso,20000000,Trimestriel,2022-05-30,Diallo Mamadou,Notoriété
+CLI017,Vivo Energy,Télécoms,Mali,50000000,Mensuel,2022-01-24,Diallo Mamadou,Notoriété
+CLI018,Olam International,E-commerce,Burkina Faso,20000000,Trimestriel,2022-06-02,Ibrahim Traoré,Conversion
+CLI019,SIFCA,Télécoms,Mali,10000000,Annuel,2022-05-22,Awa Koné,Rétention
+CLI020,SIPEM,Assurance,Burkina Faso,15000000,Trimestriel,2022-01-29,Diallo Mamadou,Conversion
+CLI021,Wave Mobile,Banque,Côte d'Ivoire,10000000,Annuel,2022-05-09,Awa Koné,Rétention
+CLI022,Expresso Sénégal,Immobilier,Burkina Faso,5000000,Mensuel,2022-02-09,Fatou Seck,Acquisition
+CLI023,BDK Banque,Télécoms,Mali,15000000,Mensuel,2022-05-06,Clarisse Bamba,Rétention
+CLI024,PharmaCIV,E-commerce,Sénégal,500000,Mensuel,2022-03-03,Ibrahim Traoré,Acquisition
+CLI025,CIE,Éducation,Mali,2500000,Annuel,2022-02-02,Diallo Mamadou,Rétention

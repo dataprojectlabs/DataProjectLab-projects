@@ -1,0 +1,355 @@
+creatif_id,campagne_id,type_format,titre,appel_action,date_creation,date_premiere_diffusion,nb_campagnes_utilise,score_qualite,statut
+CRE001,CAM00001,Texte,Créatif_Tex_CAM00001,En savoir plus,2023-02-02,2023-02-06,2,8.3,Archivé
+CRE002,CAM00002,Vidéo,Créatif_Vid_CAM00002,Télécharger,2023-12-09,2023-12-15,3,7.8,Archivé
+CRE003,CAM00003,Carrousel,Créatif_Car_CAM00003,Télécharger,2023-04-25,2023-05-03,1,6.0,Archivé
+CRE004,CAM00004,Vidéo,Créatif_Vid_CAM00004,Acheter,2024-03-24,2024-03-27,2,5.8,Archivé
+CRE005,CAM00005,Image,Créatif_Ima_CAM00005,Appeler,2023-03-17,2023-03-27,4,8.4,Archivé
+CRE006,CAM00006,Carrousel,Créatif_Car_CAM00006,Appeler,2023-10-16,2023-10-23,1,,Archivé
+CRE007,CAM00007,Image,Créatif_Ima_CAM00007,S'inscrire,2024-01-18,2024-01-23,2,,Archivé
+CRE008,CAM00008,Vidéo,Créatif_Vid_CAM00008,Télécharger,2022-10-16,2022-10-19,4,5.6,Archivé
+CRE009,CAM00009,Story,Créatif_Sto_CAM00009,Acheter,2023-10-06,2023-10-14,4,,Archivé
+CRE010,CAM00010,Image,Créatif_Ima_CAM00010,S'inscrire,2023-11-19,2023-11-25,3,6.2,Archivé
+CRE011,CAM00011,Image,Créatif_Ima_CAM00011,S'inscrire,2024-01-18,2024-01-26,2,8.1,Archivé
+CRE012,CAM00012,Carrousel,Créatif_Car_CAM00012,Acheter,2024-01-02,2024-01-09,4,4.4,Archivé
+CRE013,CAM00013,Texte,Créatif_Tex_CAM00013,S'inscrire,2023-01-26,2023-01-29,1,6.1,Archivé
+CRE014,CAM00014,Story,Créatif_Sto_CAM00014,S'inscrire,2022-10-12,2022-10-22,4,5.0,Archivé
+CRE015,CAM00015,Image,Créatif_Ima_CAM00015,En savoir plus,2023-03-16,2023-03-19,2,8.7,Archivé
+CRE016,CAM00016,Vidéo,Créatif_Vid_CAM00016,Télécharger,2022-11-13,2022-11-16,3,,Archivé
+CRE017,CAM00017,Texte,Créatif_Tex_CAM00017,Appeler,2023-08-18,2023-08-21,2,,Archivé
+CRE018,CAM00018,Bannière,Créatif_Ban_CAM00018,Télécharger,2023-12-27,2024-01-01,2,,Archivé
+CRE019,CAM00019,Bannière,Créatif_Ban_CAM00019,S'inscrire,2022-12-24,2022-12-27,4,7.6,Archivé
+CRE020,CAM00020,Story,Créatif_Sto_CAM00020,S'inscrire,2023-11-06,2023-11-15,3,6.4,Archivé
+CRE021,CAM00021,Bannière,Créatif_Ban_CAM00021,Télécharger,2024-01-31,2024-02-09,1,,Archivé
+CRE022,CAM00022,Bannière,Créatif_Ban_CAM00022,Appeler,2023-04-26,2023-05-06,2,7.8,Archivé
+CRE023,CAM00023,Vidéo,Créatif_Vid_CAM00023,S'inscrire,2023-04-24,2023-04-29,3,6.9,Archivé
+CRE024,CAM00024,Story,Créatif_Sto_CAM00024,S'inscrire,2023-12-08,2023-12-13,1,8.1,Archivé
+CRE025,CAM00025,Bannière,Créatif_Ban_CAM00025,Appeler,2022-06-07,2022-06-17,4,7.7,Archivé
+CRE026,CAM00026,Image,Créatif_Ima_CAM00026,Acheter,2022-10-28,2022-11-04,3,6.5,Archivé
+CRE027,CAM00027,Vidéo,Créatif_Vid_CAM00027,Acheter,2024-03-07,2024-03-13,4,7.9,Archivé
+CRE028,CAM00028,Carrousel,Créatif_Car_CAM00028,S'inscrire,2024-02-05,2024-02-11,4,7.9,Archivé
+CRE029,CAM00029,Carrousel,Créatif_Car_CAM00029,Télécharger,2023-06-30,2023-07-08,1,6.6,Archivé
+CRE030,CAM00030,Story,Créatif_Sto_CAM00030,S'inscrire,2023-11-25,2023-11-30,2,6.0,Archivé
+CRE031,CAM00031,Vidéo,Créatif_Vid_CAM00031,S'inscrire,2023-11-10,2023-11-14,2,,Archivé
+CRE032,CAM00032,Bannière,Créatif_Ban_CAM00032,En savoir plus,2023-02-04,2023-02-14,4,,Archivé
+CRE033,CAM00033,Story,Créatif_Sto_CAM00033,En savoir plus,2022-06-22,2022-06-27,3,6.5,Archivé
+CRE034,CAM00034,Carrousel,Créatif_Car_CAM00034,Appeler,2023-07-12,2023-07-20,3,6.8,Archivé
+CRE035,CAM00035,Carrousel,Créatif_Car_CAM00035,En savoir plus,2022-08-30,2022-09-03,2,,Archivé
+CRE036,CAM00036,Texte,Créatif_Tex_CAM00036,En savoir plus,2022-09-05,2022-09-08,3,6.5,Archivé
+CRE037,CAM00037,Texte,Créatif_Tex_CAM00037,Télécharger,2023-03-12,2023-03-19,1,,Archivé
+CRE038,CAM00038,Story,Créatif_Sto_CAM00038,Acheter,2023-05-08,2023-05-15,2,5.6,Archivé
+CRE039,CAM00039,Bannière,Créatif_Ban_CAM00039,S'inscrire,2023-04-14,2023-04-19,2,,Archivé
+CRE040,CAM00040,Texte,Créatif_Tex_CAM00040,Télécharger,2023-02-01,2023-02-06,2,5.7,Archivé
+CRE041,CAM00041,Vidéo,Créatif_Vid_CAM00041,En savoir plus,2022-10-07,2022-10-10,1,,Archivé
+CRE042,CAM00042,Texte,Créatif_Tex_CAM00042,En savoir plus,2022-05-26,2022-06-02,4,8.6,Archivé
+CRE043,CAM00043,Vidéo,Créatif_Vid_CAM00043,Télécharger,2022-11-08,2022-11-14,2,,Archivé
+CRE044,CAM00044,Carrousel,Créatif_Car_CAM00044,En savoir plus,2023-10-07,2023-10-14,2,7.0,Archivé
+CRE045,CAM00045,Story,Créatif_Sto_CAM00045,S'inscrire,2022-11-05,2022-11-09,4,,Archivé
+CRE046,CAM00046,Story,Créatif_Sto_CAM00046,Appeler,2022-05-30,2022-06-04,3,,Archivé
+CRE047,CAM00047,Carrousel,Créatif_Car_CAM00047,S'inscrire,2022-07-29,2022-08-04,1,5.7,Archivé
+CRE048,CAM00048,Image,Créatif_Ima_CAM00048,Appeler,2023-06-01,2023-06-11,3,5.2,Archivé
+CRE049,CAM00049,Vidéo,Créatif_Vid_CAM00049,Télécharger,2024-01-04,2024-01-12,3,7.2,Archivé
+CRE050,CAM00050,Texte,Créatif_Tex_CAM00050,Appeler,2023-04-13,2023-04-19,2,,Archivé
+CRE051,CAM00051,Vidéo,Créatif_Vid_CAM00051,S'inscrire,2024-01-13,2024-01-16,3,8.9,Archivé
+CRE052,CAM00052,Image,Créatif_Ima_CAM00052,En savoir plus,2023-02-28,2023-03-08,3,,Archivé
+CRE053,CAM00053,Bannière,Créatif_Ban_CAM00053,S'inscrire,2023-03-06,2023-03-10,1,6.5,Archivé
+CRE054,CAM00054,Vidéo,Créatif_Vid_CAM00054,En savoir plus,2023-05-21,2023-05-27,1,,Archivé
+CRE055,CAM00055,Bannière,Créatif_Ban_CAM00055,En savoir plus,2023-11-30,2023-12-10,2,,Archivé
+CRE056,CAM00056,Bannière,Créatif_Ban_CAM00056,Acheter,2024-02-20,2024-02-25,3,7.2,Archivé
+CRE057,CAM00057,Texte,Créatif_Tex_CAM00057,Télécharger,2024-04-26,2024-05-06,3,,Archivé
+CRE058,CAM00058,Carrousel,Créatif_Car_CAM00058,Acheter,2023-03-31,2023-04-08,4,7.3,Archivé
+CRE059,CAM00059,Image,Créatif_Ima_CAM00059,Appeler,2023-01-30,2023-02-06,3,,Archivé
+CRE060,CAM00060,Carrousel,Créatif_Car_CAM00060,Appeler,2023-05-04,2023-05-09,3,8.7,Archivé
+CRE061,CAM00061,Bannière,Créatif_Ban_CAM00061,S'inscrire,2023-09-23,2023-09-27,2,,Archivé
+CRE062,CAM00062,Carrousel,Créatif_Car_CAM00062,Acheter,2022-06-04,2022-06-09,1,,Archivé
+CRE063,CAM00063,Texte,Créatif_Tex_CAM00063,Télécharger,2022-09-30,2022-10-08,4,7.8,Archivé
+CRE064,CAM00064,Texte,Créatif_Tex_CAM00064,En savoir plus,2023-12-16,2023-12-26,2,,Archivé
+CRE065,CAM00065,Vidéo,Créatif_Vid_CAM00065,S'inscrire,2022-12-06,2022-12-15,4,,Archivé
+CRE066,CAM00066,Bannière,Créatif_Ban_CAM00066,Acheter,2023-02-20,2023-03-02,3,,Archivé
+CRE067,CAM00067,Story,Créatif_Sto_CAM00067,Appeler,2024-01-07,2024-01-13,4,7.5,Archivé
+CRE068,CAM00068,Texte,Créatif_Tex_CAM00068,S'inscrire,2022-06-23,2022-06-26,4,5.9,Archivé
+CRE069,CAM00069,Story,Créatif_Sto_CAM00069,S'inscrire,2023-10-27,2023-11-03,1,,Archivé
+CRE070,CAM00070,Story,Créatif_Sto_CAM00070,Télécharger,2024-02-09,2024-02-12,2,5.8,Archivé
+CRE071,CAM00071,Carrousel,Créatif_Car_CAM00071,Appeler,2024-01-27,2024-02-03,1,7.8,Archivé
+CRE072,CAM00072,Image,Créatif_Ima_CAM00072,Télécharger,2024-03-16,2024-03-21,1,,Archivé
+CRE073,CAM00073,Image,Créatif_Ima_CAM00073,Acheter,2023-11-14,2023-11-20,4,6.1,Archivé
+CRE074,CAM00074,Vidéo,Créatif_Vid_CAM00074,En savoir plus,2023-03-23,2023-04-01,2,7.9,Archivé
+CRE075,CAM00075,Story,Créatif_Sto_CAM00075,Appeler,2022-06-21,2022-06-29,1,,Archivé
+CRE076,CAM00076,Story,Créatif_Sto_CAM00076,S'inscrire,2022-08-28,2022-09-03,3,7.1,Archivé
+CRE077,CAM00077,Vidéo,Créatif_Vid_CAM00077,Télécharger,2023-08-17,2023-08-20,4,,Archivé
+CRE078,CAM00078,Story,Créatif_Sto_CAM00078,Télécharger,2022-07-31,2022-08-08,2,5.8,Archivé
+CRE079,CAM00079,Texte,Créatif_Tex_CAM00079,Télécharger,2023-04-15,2023-04-20,2,6.3,Archivé
+CRE080,CAM00080,Image,Créatif_Ima_CAM00080,Télécharger,2023-11-22,2023-12-02,2,6.4,Archivé
+CRE081,CAM00081,Story,Créatif_Sto_CAM00081,Télécharger,2023-11-30,2023-12-08,1,7.6,Archivé
+CRE082,CAM00082,Texte,Créatif_Tex_CAM00082,En savoir plus,2023-04-25,2023-04-30,3,,Archivé
+CRE083,CAM00083,Carrousel,Créatif_Car_CAM00083,Acheter,2022-12-10,2022-12-17,1,,Archivé
+CRE084,CAM00084,Bannière,Créatif_Ban_CAM00084,En savoir plus,2022-07-28,2022-08-05,3,,Archivé
+CRE085,CAM00085,Texte,Créatif_Tex_CAM00085,Télécharger,2023-08-12,2023-08-18,2,4.4,Archivé
+CRE086,CAM00086,Carrousel,Créatif_Car_CAM00086,En savoir plus,2023-10-25,2023-11-01,2,,Archivé
+CRE087,CAM00087,Story,Créatif_Sto_CAM00087,Acheter,2024-03-15,2024-03-20,2,7.2,Archivé
+CRE088,CAM00088,Carrousel,Créatif_Car_CAM00088,Télécharger,2023-04-27,2023-04-30,2,8.7,Archivé
+CRE089,CAM00089,Texte,Créatif_Tex_CAM00089,En savoir plus,2022-11-09,2022-11-14,2,,Archivé
+CRE090,CAM00090,Carrousel,Créatif_Car_CAM00090,Appeler,2023-05-04,2023-05-09,3,7.6,Archivé
+CRE091,CAM00091,Texte,Créatif_Tex_CAM00091,Acheter,2023-12-09,2023-12-14,2,,Archivé
+CRE092,CAM00092,Story,Créatif_Sto_CAM00092,En savoir plus,2024-04-19,2024-04-26,4,4.1,Actif
+CRE093,CAM00093,Image,Créatif_Ima_CAM00093,Appeler,2023-06-19,2023-06-23,4,6.1,Archivé
+CRE094,CAM00094,Bannière,Créatif_Ban_CAM00094,En savoir plus,2023-03-13,2023-03-19,4,5.0,Archivé
+CRE095,CAM00095,Image,Créatif_Ima_CAM00095,S'inscrire,2023-11-10,2023-11-13,2,,Archivé
+CRE096,CAM00096,Story,Créatif_Sto_CAM00096,Acheter,2023-09-14,2023-09-20,3,,Archivé
+CRE097,CAM00097,Carrousel,Créatif_Car_CAM00097,Acheter,2023-10-28,2023-11-05,2,8.2,Archivé
+CRE098,CAM00098,Bannière,Créatif_Ban_CAM00098,En savoir plus,2022-08-30,2022-09-05,1,6.7,Archivé
+CRE099,CAM00099,Image,Créatif_Ima_CAM00099,Télécharger,2022-10-30,2022-11-06,1,,Archivé
+CRE100,CAM00100,Carrousel,Créatif_Car_CAM00100,S'inscrire,2023-06-30,2023-07-03,1,7.8,Archivé
+CRE101,CAM00101,Story,Créatif_Sto_CAM00101,Télécharger,2023-11-14,2023-11-20,1,9.3,Archivé
+CRE102,CAM00102,Carrousel,Créatif_Car_CAM00102,En savoir plus,2023-09-26,2023-09-30,1,,Archivé
+CRE103,CAM00103,Bannière,Créatif_Ban_CAM00103,S'inscrire,2024-04-22,2024-04-30,2,,Archivé
+CRE104,CAM00104,Vidéo,Créatif_Vid_CAM00104,Télécharger,2022-08-03,2022-08-06,4,8.2,Archivé
+CRE105,CAM00105,Vidéo,Créatif_Vid_CAM00105,Télécharger,2023-05-14,2023-05-22,4,7.4,Archivé
+CRE106,CAM00106,Bannière,Créatif_Ban_CAM00106,S'inscrire,2022-11-12,2022-11-19,3,,Archivé
+CRE107,CAM00107,Texte,Créatif_Tex_CAM00107,Télécharger,2023-04-21,2023-04-24,1,5.6,Archivé
+CRE108,CAM00108,Story,Créatif_Sto_CAM00108,Acheter,2022-06-16,2022-06-21,4,7.0,Archivé
+CRE109,CAM00109,Story,Créatif_Sto_CAM00109,S'inscrire,2023-04-15,2023-04-25,4,,Archivé
+CRE110,CAM00110,Story,Créatif_Sto_CAM00110,Appeler,2022-07-06,2022-07-16,3,,Archivé
+CRE111,CAM00111,Carrousel,Créatif_Car_CAM00111,Télécharger,2023-04-08,2023-04-17,1,4.9,Archivé
+CRE112,CAM00112,Texte,Créatif_Tex_CAM00112,Acheter,2022-11-27,2022-12-04,2,,Archivé
+CRE113,CAM00113,Bannière,Créatif_Ban_CAM00113,Télécharger,2022-05-27,2022-06-02,1,,Archivé
+CRE114,CAM00114,Texte,Créatif_Tex_CAM00114,Acheter,2023-07-04,2023-07-13,3,,Archivé
+CRE115,CAM00115,Carrousel,Créatif_Car_CAM00115,Télécharger,2023-10-05,2023-10-14,4,10.0,Archivé
+CRE116,CAM00116,Texte,Créatif_Tex_CAM00116,S'inscrire,2023-04-05,2023-04-09,2,,Archivé
+CRE117,CAM00117,Carrousel,Créatif_Car_CAM00117,En savoir plus,2023-06-27,2023-07-04,2,,Archivé
+CRE118,CAM00118,Story,Créatif_Sto_CAM00118,Acheter,2022-12-11,2022-12-18,2,,Archivé
+CRE119,CAM00119,Image,Créatif_Ima_CAM00119,En savoir plus,2023-05-18,2023-05-23,4,5.5,Archivé
+CRE120,CAM00120,Texte,Créatif_Tex_CAM00120,Acheter,2023-01-07,2023-01-16,1,,Archivé
+CRE121,CAM00121,Bannière,Créatif_Ban_CAM00121,Télécharger,2022-10-17,2022-10-26,3,,Archivé
+CRE122,CAM00122,Story,Créatif_Sto_CAM00122,Appeler,2023-09-30,2023-10-08,3,,Archivé
+CRE123,CAM00123,Story,Créatif_Sto_CAM00123,Acheter,2022-11-21,2022-11-29,4,6.0,Archivé
+CRE124,CAM00124,Texte,Créatif_Tex_CAM00124,Appeler,2022-06-05,2022-06-09,3,,Archivé
+CRE125,CAM00125,Bannière,Créatif_Ban_CAM00125,Acheter,2023-11-11,2023-11-17,2,7.2,Archivé
+CRE126,CAM00126,Story,Créatif_Sto_CAM00126,Appeler,2022-06-05,2022-06-10,4,7.2,Archivé
+CRE127,CAM00127,Texte,Créatif_Tex_CAM00127,Appeler,2023-04-02,2023-04-05,3,6.4,Archivé
+CRE128,CAM00128,Bannière,Créatif_Ban_CAM00128,En savoir plus,2022-08-06,2022-08-16,2,8.3,Archivé
+CRE129,CAM00129,Texte,Créatif_Tex_CAM00129,S'inscrire,2022-08-20,2022-08-23,1,7.1,Archivé
+CRE130,CAM00130,Story,Créatif_Sto_CAM00130,Acheter,2024-05-06,2024-05-13,2,,Actif
+CRE131,CAM00131,Image,Créatif_Ima_CAM00131,Appeler,2023-11-10,2023-11-13,3,,Archivé
+CRE132,CAM00132,Bannière,Créatif_Ban_CAM00132,En savoir plus,2024-01-20,2024-01-28,3,,Archivé
+CRE133,CAM00133,Vidéo,Créatif_Vid_CAM00133,Acheter,2023-05-03,2023-05-11,3,,Archivé
+CRE134,CAM00134,Carrousel,Créatif_Car_CAM00134,Télécharger,2024-02-14,2024-02-21,3,,Archivé
+CRE135,CAM00135,Vidéo,Créatif_Vid_CAM00135,Télécharger,2024-04-10,2024-04-13,1,,Actif
+CRE136,CAM00136,Bannière,Créatif_Ban_CAM00136,Acheter,2023-06-26,2023-07-03,4,8.3,Archivé
+CRE137,CAM00137,Vidéo,Créatif_Vid_CAM00137,Télécharger,2024-04-06,2024-04-12,1,,Archivé
+CRE138,CAM00138,Carrousel,Créatif_Car_CAM00138,S'inscrire,2023-06-11,2023-06-19,4,,Archivé
+CRE139,CAM00139,Bannière,Créatif_Ban_CAM00139,En savoir plus,2023-05-03,2023-05-08,2,,Archivé
+CRE140,CAM00140,Image,Créatif_Ima_CAM00140,Télécharger,2023-11-29,2023-12-06,2,,Archivé
+CRE141,CAM00141,Texte,Créatif_Tex_CAM00141,Appeler,2022-09-28,2022-10-01,2,8.7,Archivé
+CRE142,CAM00142,Vidéo,Créatif_Vid_CAM00142,Acheter,2022-12-03,2022-12-09,4,7.4,Archivé
+CRE143,CAM00143,Story,Créatif_Sto_CAM00143,S'inscrire,2022-12-15,2022-12-22,3,,Archivé
+CRE144,CAM00144,Carrousel,Créatif_Car_CAM00144,En savoir plus,2023-05-18,2023-05-24,2,,Archivé
+CRE145,CAM00145,Carrousel,Créatif_Car_CAM00145,S'inscrire,2023-09-02,2023-09-12,4,9.1,Archivé
+CRE146,CAM00146,Texte,Créatif_Tex_CAM00146,Acheter,2022-12-01,2022-12-06,3,6.6,Archivé
+CRE147,CAM00147,Story,Créatif_Sto_CAM00147,Appeler,2023-02-12,2023-02-18,3,7.1,Archivé
+CRE148,CAM00148,Carrousel,Créatif_Car_CAM00148,S'inscrire,2022-07-07,2022-07-16,1,5.6,Archivé
+CRE149,CAM00149,Story,Créatif_Sto_CAM00149,Acheter,2024-01-30,2024-02-04,2,,Archivé
+CRE150,CAM00150,Vidéo,Créatif_Vid_CAM00150,Appeler,2024-02-04,2024-02-13,3,5.7,Archivé
+CRE151,CAM00151,Image,Créatif_Ima_CAM00151,Appeler,2022-08-29,2022-09-03,2,4.3,Archivé
+CRE152,CAM00152,Vidéo,Créatif_Vid_CAM00152,Appeler,2022-06-24,2022-07-02,4,7.8,Archivé
+CRE153,CAM00153,Story,Créatif_Sto_CAM00153,Acheter,2023-08-14,2023-08-20,4,,Archivé
+CRE154,CAM00154,Story,Créatif_Sto_CAM00154,Appeler,2022-07-10,2022-07-14,4,6.1,Archivé
+CRE155,CAM00155,Texte,Créatif_Tex_CAM00155,Appeler,2024-03-04,2024-03-07,3,,Archivé
+CRE156,CAM00156,Vidéo,Créatif_Vid_CAM00156,Appeler,2023-10-21,2023-10-29,1,6.7,Archivé
+CRE157,CAM00157,Bannière,Créatif_Ban_CAM00157,En savoir plus,2023-09-25,2023-09-30,1,,Archivé
+CRE158,CAM00158,Texte,Créatif_Tex_CAM00158,Acheter,2022-10-29,2022-11-02,1,,Archivé
+CRE159,CAM00159,Bannière,Créatif_Ban_CAM00159,S'inscrire,2022-07-16,2022-07-24,3,7.5,Archivé
+CRE160,CAM00160,Carrousel,Créatif_Car_CAM00160,En savoir plus,2024-01-14,2024-01-18,3,9.1,Archivé
+CRE161,CAM00161,Vidéo,Créatif_Vid_CAM00161,En savoir plus,2023-07-01,2023-07-05,1,5.3,Archivé
+CRE162,CAM00162,Vidéo,Créatif_Vid_CAM00162,En savoir plus,2022-07-28,2022-08-02,1,9.0,Archivé
+CRE163,CAM00163,Story,Créatif_Sto_CAM00163,Télécharger,2023-03-02,2023-03-06,2,7.3,Archivé
+CRE164,CAM00164,Bannière,Créatif_Ban_CAM00164,Télécharger,2022-08-27,2022-09-01,3,7.3,Archivé
+CRE165,CAM00165,Bannière,Créatif_Ban_CAM00165,S'inscrire,2023-11-27,2023-12-06,1,6.0,Archivé
+CRE166,CAM00166,Bannière,Créatif_Ban_CAM00166,Acheter,2023-12-13,2023-12-17,3,7.6,Archivé
+CRE167,CAM00167,Image,Créatif_Ima_CAM00167,Télécharger,2023-12-29,2024-01-03,1,,Archivé
+CRE168,CAM00168,Image,Créatif_Ima_CAM00168,Télécharger,2023-08-16,2023-08-24,3,,Archivé
+CRE169,CAM00169,Bannière,Créatif_Ban_CAM00169,S'inscrire,2022-08-25,2022-08-30,2,6.8,Archivé
+CRE170,CAM00170,Image,Créatif_Ima_CAM00170,S'inscrire,2023-04-16,2023-04-23,1,9.2,Archivé
+CRE171,CAM00171,Texte,Créatif_Tex_CAM00171,En savoir plus,2022-10-17,2022-10-20,4,,Archivé
+CRE172,CAM00172,Carrousel,Créatif_Car_CAM00172,Appeler,2024-02-10,2024-02-13,1,,Archivé
+CRE173,CAM00173,Story,Créatif_Sto_CAM00173,Acheter,2023-08-18,2023-08-22,4,,Archivé
+CRE174,CAM00174,Bannière,Créatif_Ban_CAM00174,S'inscrire,2023-06-18,2023-06-21,2,,Archivé
+CRE175,CAM00175,Vidéo,Créatif_Vid_CAM00175,Appeler,2023-11-01,2023-11-06,1,6.9,Archivé
+CRE176,CAM00176,Texte,Créatif_Tex_CAM00176,Télécharger,2022-12-02,2022-12-07,3,,Archivé
+CRE177,CAM00177,Story,Créatif_Sto_CAM00177,En savoir plus,2023-11-15,2023-11-19,4,8.4,Archivé
+CRE178,CAM00178,Carrousel,Créatif_Car_CAM00178,S'inscrire,2022-08-16,2022-08-20,3,7.0,Archivé
+CRE179,CAM00179,Story,Créatif_Sto_CAM00179,En savoir plus,2022-06-16,2022-06-26,4,5.6,Archivé
+CRE180,CAM00180,Vidéo,Créatif_Vid_CAM00180,En savoir plus,2022-12-02,2022-12-12,2,8.8,Archivé
+CRE181,CAM00181,Image,Créatif_Ima_CAM00181,Acheter,2023-07-30,2023-08-09,3,,Archivé
+CRE182,CAM00182,Carrousel,Créatif_Car_CAM00182,S'inscrire,2023-12-04,2023-12-12,4,,Archivé
+CRE183,CAM00183,Vidéo,Créatif_Vid_CAM00183,En savoir plus,2022-09-15,2022-09-20,2,,Archivé
+CRE184,CAM00184,Vidéo,Créatif_Vid_CAM00184,S'inscrire,2023-10-05,2023-10-15,2,,Archivé
+CRE185,CAM00185,Bannière,Créatif_Ban_CAM00185,S'inscrire,2022-08-21,2022-08-24,2,7.5,Archivé
+CRE186,CAM00186,Bannière,Créatif_Ban_CAM00186,En savoir plus,2023-02-11,2023-02-14,1,5.8,Archivé
+CRE187,CAM00187,Bannière,Créatif_Ban_CAM00187,Appeler,2022-09-08,2022-09-16,4,,Archivé
+CRE188,CAM00188,Texte,Créatif_Tex_CAM00188,S'inscrire,2023-02-06,2023-02-10,4,,Archivé
+CRE189,CAM00189,Story,Créatif_Sto_CAM00189,En savoir plus,2023-02-23,2023-03-01,3,6.7,Archivé
+CRE190,CAM00190,Carrousel,Créatif_Car_CAM00190,En savoir plus,2023-09-16,2023-09-23,1,,Archivé
+CRE191,CAM00191,Texte,Créatif_Tex_CAM00191,En savoir plus,2023-03-19,2023-03-23,1,7.0,Archivé
+CRE192,CAM00192,Bannière,Créatif_Ban_CAM00192,Télécharger,2024-01-02,2024-01-11,2,6.2,Archivé
+CRE193,CAM00193,Image,Créatif_Ima_CAM00193,Télécharger,2023-10-07,2023-10-13,3,,Archivé
+CRE194,CAM00194,Carrousel,Créatif_Car_CAM00194,Télécharger,2023-01-10,2023-01-13,1,,Archivé
+CRE195,CAM00195,Carrousel,Créatif_Car_CAM00195,Appeler,2023-07-21,2023-07-31,4,,Archivé
+CRE196,CAM00196,Image,Créatif_Ima_CAM00196,Appeler,2023-09-22,2023-10-01,4,,Archivé
+CRE197,CAM00197,Vidéo,Créatif_Vid_CAM00197,S'inscrire,2023-12-10,2023-12-18,1,,Archivé
+CRE198,CAM00198,Vidéo,Créatif_Vid_CAM00198,S'inscrire,2022-07-25,2022-08-03,2,9.3,Archivé
+CRE199,CAM00199,Texte,Créatif_Tex_CAM00199,S'inscrire,2022-10-31,2022-11-07,2,,Archivé
+CRE200,CAM00200,Bannière,Créatif_Ban_CAM00200,Acheter,2022-12-24,2022-12-30,3,6.6,Archivé
+CRE201,CAM00201,Image,Créatif_Ima_CAM00201,Acheter,2023-06-14,2023-06-23,2,,Archivé
+CRE202,CAM00202,Image,Créatif_Ima_CAM00202,En savoir plus,2022-09-01,2022-09-04,1,7.8,Archivé
+CRE203,CAM00203,Bannière,Créatif_Ban_CAM00203,En savoir plus,2022-11-02,2022-11-06,1,,Archivé
+CRE204,CAM00204,Bannière,Créatif_Ban_CAM00204,Appeler,2022-08-11,2022-08-17,4,,Archivé
+CRE205,CAM00205,Carrousel,Créatif_Car_CAM00205,Acheter,2022-12-01,2022-12-10,1,,Archivé
+CRE206,CAM00206,Vidéo,Créatif_Vid_CAM00206,Télécharger,2022-10-18,2022-10-28,4,,Archivé
+CRE207,CAM00207,Image,Créatif_Ima_CAM00207,Acheter,2023-11-29,2023-12-05,4,,Archivé
+CRE208,CAM00208,Story,Créatif_Sto_CAM00208,En savoir plus,2023-09-21,2023-09-25,1,,Archivé
+CRE209,CAM00209,Carrousel,Créatif_Car_CAM00209,Appeler,2024-04-17,2024-04-27,1,8.6,Actif
+CRE210,CAM00210,Texte,Créatif_Tex_CAM00210,Acheter,2024-03-08,2024-03-12,2,5.4,Archivé
+CRE211,CAM00211,Story,Créatif_Sto_CAM00211,S'inscrire,2022-12-27,2023-01-01,2,,Archivé
+CRE212,CAM00212,Bannière,Créatif_Ban_CAM00212,Acheter,2023-09-21,2023-09-29,3,10.0,Archivé
+CRE213,CAM00213,Image,Créatif_Ima_CAM00213,S'inscrire,2023-09-21,2023-09-25,3,,Archivé
+CRE214,CAM00214,Texte,Créatif_Tex_CAM00214,Appeler,2022-10-31,2022-11-07,3,,Archivé
+CRE215,CAM00215,Vidéo,Créatif_Vid_CAM00215,En savoir plus,2024-04-11,2024-04-16,4,7.2,Actif
+CRE216,CAM00216,Texte,Créatif_Tex_CAM00216,S'inscrire,2022-05-28,2022-06-07,3,,Archivé
+CRE217,CAM00217,Bannière,Créatif_Ban_CAM00217,Appeler,2023-09-10,2023-09-19,1,,Archivé
+CRE218,CAM00218,Carrousel,Créatif_Car_CAM00218,S'inscrire,2022-06-18,2022-06-27,4,8.5,Archivé
+CRE219,CAM00219,Image,Créatif_Ima_CAM00219,Appeler,2023-05-25,2023-05-28,4,8.9,Archivé
+CRE220,CAM00220,Story,Créatif_Sto_CAM00220,Appeler,2024-01-25,2024-02-03,4,3.4,Archivé
+CRE221,CAM00221,Image,Créatif_Ima_CAM00221,En savoir plus,2024-03-13,2024-03-19,4,7.8,Archivé
+CRE222,CAM00222,Vidéo,Créatif_Vid_CAM00222,En savoir plus,2023-11-18,2023-11-23,3,7.5,Archivé
+CRE223,CAM00223,Carrousel,Créatif_Car_CAM00223,En savoir plus,2022-07-12,2022-07-18,1,4.6,Archivé
+CRE224,CAM00224,Bannière,Créatif_Ban_CAM00224,Acheter,2023-11-17,2023-11-20,4,,Archivé
+CRE225,CAM00225,Bannière,Créatif_Ban_CAM00225,Appeler,2023-12-17,2023-12-23,3,,Archivé
+CRE226,CAM00226,Image,Créatif_Ima_CAM00226,Télécharger,2023-02-19,2023-02-23,2,,Archivé
+CRE227,CAM00227,Carrousel,Créatif_Car_CAM00227,En savoir plus,2023-05-13,2023-05-16,3,4.8,Archivé
+CRE228,CAM00228,Bannière,Créatif_Ban_CAM00228,S'inscrire,2022-12-14,2022-12-22,2,7.2,Archivé
+CRE229,CAM00229,Image,Créatif_Ima_CAM00229,Télécharger,2022-07-02,2022-07-09,1,7.8,Archivé
+CRE230,CAM00230,Image,Créatif_Ima_CAM00230,Appeler,2024-01-09,2024-01-16,4,5.2,Archivé
+CRE231,CAM00231,Carrousel,Créatif_Car_CAM00231,Appeler,2023-02-22,2023-03-03,4,,Archivé
+CRE232,CAM00232,Image,Créatif_Ima_CAM00232,S'inscrire,2024-04-27,2024-05-07,2,6.0,Archivé
+CRE233,CAM00233,Texte,Créatif_Tex_CAM00233,Acheter,2023-06-28,2023-07-08,1,7.5,Archivé
+CRE234,CAM00234,Texte,Créatif_Tex_CAM00234,S'inscrire,2024-02-14,2024-02-17,4,9.5,Archivé
+CRE235,CAM00235,Bannière,Créatif_Ban_CAM00235,Appeler,2023-08-01,2023-08-10,4,,Archivé
+CRE236,CAM00236,Image,Créatif_Ima_CAM00236,S'inscrire,2024-04-02,2024-04-12,2,,Archivé
+CRE237,CAM00237,Texte,Créatif_Tex_CAM00237,Appeler,2022-07-14,2022-07-18,4,7.8,Archivé
+CRE238,CAM00238,Texte,Créatif_Tex_CAM00238,Télécharger,2022-12-21,2022-12-31,4,4.6,Archivé
+CRE239,CAM00239,Story,Créatif_Sto_CAM00239,S'inscrire,2022-09-30,2022-10-07,1,10.0,Archivé
+CRE240,CAM00240,Texte,Créatif_Tex_CAM00240,Acheter,2022-09-23,2022-10-02,2,,Archivé
+CRE241,CAM00241,Carrousel,Créatif_Car_CAM00241,En savoir plus,2023-07-13,2023-07-23,2,,Archivé
+CRE242,CAM00242,Image,Créatif_Ima_CAM00242,Télécharger,2022-06-15,2022-06-22,3,,Archivé
+CRE243,CAM00243,Image,Créatif_Ima_CAM00243,Télécharger,2023-05-16,2023-05-25,3,6.5,Archivé
+CRE244,CAM00244,Story,Créatif_Sto_CAM00244,S'inscrire,2022-07-01,2022-07-11,2,6.6,Archivé
+CRE245,CAM00245,Vidéo,Créatif_Vid_CAM00245,Télécharger,2023-04-27,2023-04-30,2,6.9,Archivé
+CRE246,CAM00246,Story,Créatif_Sto_CAM00246,Appeler,2023-07-29,2023-08-03,4,,Archivé
+CRE247,CAM00247,Bannière,Créatif_Ban_CAM00247,En savoir plus,2024-02-04,2024-02-14,4,7.4,Archivé
+CRE248,CAM00248,Texte,Créatif_Tex_CAM00248,S'inscrire,2024-02-11,2024-02-20,3,,Archivé
+CRE249,CAM00249,Texte,Créatif_Tex_CAM00249,Acheter,2023-04-28,2023-05-05,2,6.9,Archivé
+CRE250,CAM00250,Texte,Créatif_Tex_CAM00250,Télécharger,2024-04-25,2024-05-04,2,,Actif
+CRE251,CAM00251,Bannière,Créatif_Ban_CAM00251,Appeler,2022-09-28,2022-10-03,3,7.2,Archivé
+CRE252,CAM00252,Image,Créatif_Ima_CAM00252,Appeler,2022-07-01,2022-07-07,4,8.5,Archivé
+CRE253,CAM00253,Carrousel,Créatif_Car_CAM00253,En savoir plus,2023-02-07,2023-02-16,3,,Archivé
+CRE254,CAM00254,Bannière,Créatif_Ban_CAM00254,Télécharger,2024-04-13,2024-04-16,2,5.1,Actif
+CRE255,CAM00255,Story,Créatif_Sto_CAM00255,Télécharger,2023-11-11,2023-11-14,1,7.2,Archivé
+CRE256,CAM00256,Bannière,Créatif_Ban_CAM00256,En savoir plus,2023-10-02,2023-10-06,1,,Archivé
+CRE257,CAM00257,Story,Créatif_Sto_CAM00257,Télécharger,2023-11-25,2023-11-29,3,7.8,Archivé
+CRE258,CAM00258,Texte,Créatif_Tex_CAM00258,Acheter,2022-08-06,2022-08-14,1,7.4,Archivé
+CRE259,CAM00259,Vidéo,Créatif_Vid_CAM00259,Appeler,2023-10-20,2023-10-26,4,7.6,Archivé
+CRE260,CAM00260,Image,Créatif_Ima_CAM00260,Télécharger,2023-03-22,2023-03-29,1,8.8,Archivé
+CRE261,CAM00261,Bannière,Créatif_Ban_CAM00261,En savoir plus,2022-07-11,2022-07-17,1,6.8,Archivé
+CRE262,CAM00262,Vidéo,Créatif_Vid_CAM00262,Appeler,2024-01-31,2024-02-03,2,,Archivé
+CRE263,CAM00263,Story,Créatif_Sto_CAM00263,S'inscrire,2023-05-26,2023-05-30,3,6.1,Archivé
+CRE264,CAM00264,Vidéo,Créatif_Vid_CAM00264,Appeler,2022-06-24,2022-06-30,2,3.7,Archivé
+CRE265,CAM00265,Texte,Créatif_Tex_CAM00265,Appeler,2023-01-25,2023-01-28,1,,Archivé
+CRE266,CAM00266,Texte,Créatif_Tex_CAM00266,Appeler,2022-09-21,2022-09-30,1,,Archivé
+CRE267,CAM00267,Bannière,Créatif_Ban_CAM00267,Télécharger,2023-12-16,2023-12-21,3,7.7,Archivé
+CRE268,CAM00268,Story,Créatif_Sto_CAM00268,Appeler,2023-08-02,2023-08-10,4,7.2,Archivé
+CRE269,CAM00269,Vidéo,Créatif_Vid_CAM00269,Appeler,2022-08-06,2022-08-14,1,,Archivé
+CRE270,CAM00270,Image,Créatif_Ima_CAM00270,S'inscrire,2022-06-27,2022-07-01,4,,Archivé
+CRE271,CAM00271,Vidéo,Créatif_Vid_CAM00271,Télécharger,2022-07-13,2022-07-23,1,,Archivé
+CRE272,CAM00272,Carrousel,Créatif_Car_CAM00272,En savoir plus,2024-01-27,2024-01-31,2,7.5,Archivé
+CRE273,CAM00273,Bannière,Créatif_Ban_CAM00273,S'inscrire,2023-11-18,2023-11-26,3,7.4,Archivé
+CRE274,CAM00274,Bannière,Créatif_Ban_CAM00274,Télécharger,2024-03-01,2024-03-11,2,8.7,Archivé
+CRE275,CAM00275,Bannière,Créatif_Ban_CAM00275,En savoir plus,2023-10-23,2023-10-31,2,,Archivé
+CRE276,CAM00276,Carrousel,Créatif_Car_CAM00276,En savoir plus,2024-03-17,2024-03-22,2,6.1,Archivé
+CRE277,CAM00277,Texte,Créatif_Tex_CAM00277,Télécharger,2023-04-20,2023-04-26,4,,Archivé
+CRE278,CAM00278,Story,Créatif_Sto_CAM00278,S'inscrire,2024-02-07,2024-02-15,1,,Archivé
+CRE279,CAM00279,Carrousel,Créatif_Car_CAM00279,En savoir plus,2023-12-30,2024-01-04,2,4.9,Archivé
+CRE280,CAM00280,Texte,Créatif_Tex_CAM00280,Acheter,2023-05-31,2023-06-08,4,5.7,Archivé
+CRE281,CAM00281,Image,Créatif_Ima_CAM00281,En savoir plus,2023-04-17,2023-04-21,1,7.4,Archivé
+CRE282,CAM00282,Texte,Créatif_Tex_CAM00282,S'inscrire,2023-12-27,2024-01-01,1,10.0,Archivé
+CRE283,CAM00283,Bannière,Créatif_Ban_CAM00283,Acheter,2023-09-19,2023-09-23,2,9.1,Archivé
+CRE284,CAM00284,Carrousel,Créatif_Car_CAM00284,Télécharger,2024-02-12,2024-02-17,4,8.7,Archivé
+CRE285,CAM00285,Carrousel,Créatif_Car_CAM00285,En savoir plus,2022-09-11,2022-09-20,4,8.0,Archivé
+CRE286,CAM00286,Image,Créatif_Ima_CAM00286,Télécharger,2023-09-10,2023-09-14,1,,Archivé
+CRE287,CAM00287,Story,Créatif_Sto_CAM00287,Télécharger,2023-09-22,2023-10-02,4,,Archivé
+CRE288,CAM00288,Vidéo,Créatif_Vid_CAM00288,Appeler,2022-10-15,2022-10-25,4,7.6,Archivé
+CRE289,CAM00289,Image,Créatif_Ima_CAM00289,Télécharger,2022-12-09,2022-12-12,2,6.6,Archivé
+CRE290,CAM00290,Image,Créatif_Ima_CAM00290,En savoir plus,2024-04-21,2024-04-24,1,,Actif
+CRE291,CAM00291,Texte,Créatif_Tex_CAM00291,Appeler,2024-03-06,2024-03-09,2,6.1,Archivé
+CRE292,CAM00292,Carrousel,Créatif_Car_CAM00292,En savoir plus,2024-01-12,2024-01-17,3,,Archivé
+CRE293,CAM00293,Vidéo,Créatif_Vid_CAM00293,Acheter,2022-08-23,2022-08-30,2,,Archivé
+CRE294,CAM00294,Vidéo,Créatif_Vid_CAM00294,En savoir plus,2024-01-17,2024-01-25,4,8.0,Archivé
+CRE295,CAM00295,Story,Créatif_Sto_CAM00295,Télécharger,2023-10-30,2023-11-04,2,6.7,Archivé
+CRE296,CAM00296,Carrousel,Créatif_Car_CAM00296,Télécharger,2022-06-28,2022-07-07,4,,Archivé
+CRE297,CAM00297,Texte,Créatif_Tex_CAM00297,S'inscrire,2024-04-09,2024-04-12,4,6.5,Actif
+CRE298,CAM00298,Bannière,Créatif_Ban_CAM00298,Appeler,2023-09-13,2023-09-23,1,7.4,Archivé
+CRE299,CAM00299,Texte,Créatif_Tex_CAM00299,Acheter,2023-03-03,2023-03-09,3,6.5,Archivé
+CRE300,CAM00300,Bannière,Créatif_Ban_CAM00300,Appeler,2022-07-06,2022-07-13,3,7.5,Archivé
+CRE301,CAM00301,Carrousel,Créatif_Car_CAM00301,Acheter,2022-11-28,2022-12-05,1,,Archivé
+CRE302,CAM00302,Texte,Créatif_Tex_CAM00302,Appeler,2023-02-01,2023-02-09,3,8.8,Archivé
+CRE303,CAM00303,Story,Créatif_Sto_CAM00303,S'inscrire,2023-10-22,2023-10-30,4,,Archivé
+CRE304,CAM00304,Image,Créatif_Ima_CAM00304,S'inscrire,2023-05-25,2023-05-30,1,4.6,Archivé
+CRE305,CAM00305,Image,Créatif_Ima_CAM00305,S'inscrire,2023-12-23,2023-12-31,2,,Archivé
+CRE306,CAM00306,Texte,Créatif_Tex_CAM00306,Acheter,2024-04-16,2024-04-22,4,,Archivé
+CRE307,CAM00307,Story,Créatif_Sto_CAM00307,S'inscrire,2023-03-17,2023-03-26,2,10.0,Archivé
+CRE308,CAM00308,Texte,Créatif_Tex_CAM00308,En savoir plus,2023-05-12,2023-05-18,4,,Archivé
+CRE309,CAM00309,Image,Créatif_Ima_CAM00309,Appeler,2023-01-13,2023-01-21,3,,Archivé
+CRE310,CAM00310,Carrousel,Créatif_Car_CAM00310,En savoir plus,2023-10-26,2023-10-30,3,,Archivé
+CRE311,CAM00311,Carrousel,Créatif_Car_CAM00311,S'inscrire,2023-12-14,2023-12-18,4,6.6,Archivé
+CRE312,CAM00312,Image,Créatif_Ima_CAM00312,Appeler,2023-04-14,2023-04-24,2,7.8,Archivé
+CRE313,CAM00313,Story,Créatif_Sto_CAM00313,En savoir plus,2023-01-20,2023-01-30,4,,Archivé
+CRE314,CAM00314,Vidéo,Créatif_Vid_CAM00314,S'inscrire,2023-03-19,2023-03-24,2,,Archivé
+CRE315,CAM00315,Carrousel,Créatif_Car_CAM00315,S'inscrire,2024-01-18,2024-01-28,1,6.5,Archivé
+CRE316,CAM00316,Carrousel,Créatif_Car_CAM00316,Télécharger,2022-06-04,2022-06-07,1,5.6,Archivé
+CRE317,CAM00317,Story,Créatif_Sto_CAM00317,Acheter,2023-02-03,2023-02-08,4,9.5,Archivé
+CRE318,CAM00318,Carrousel,Créatif_Car_CAM00318,S'inscrire,2023-02-20,2023-02-25,3,,Archivé
+CRE319,CAM00319,Texte,Créatif_Tex_CAM00319,S'inscrire,2023-06-11,2023-06-21,4,5.3,Archivé
+CRE320,CAM00320,Image,Créatif_Ima_CAM00320,Acheter,2022-07-25,2022-08-03,3,6.6,Archivé
+CRE321,CAM00321,Vidéo,Créatif_Vid_CAM00321,En savoir plus,2023-07-09,2023-07-13,3,,Archivé
+CRE322,CAM00322,Bannière,Créatif_Ban_CAM00322,Télécharger,2023-02-02,2023-02-07,4,5.4,Archivé
+CRE323,CAM00323,Image,Créatif_Ima_CAM00323,Acheter,2024-05-12,2024-05-15,2,4.2,Actif
+CRE324,CAM00324,Vidéo,Créatif_Vid_CAM00324,Appeler,2024-02-02,2024-02-06,3,,Archivé
+CRE325,CAM00325,Story,Créatif_Sto_CAM00325,En savoir plus,2023-09-27,2023-10-07,4,4.9,Archivé
+CRE326,CAM00326,Bannière,Créatif_Ban_CAM00326,Télécharger,2023-05-31,2023-06-04,2,8.5,Archivé
+CRE327,CAM00327,Image,Créatif_Ima_CAM00327,Télécharger,2023-09-25,2023-09-29,3,8.4,Archivé
+CRE328,CAM00328,Texte,Créatif_Tex_CAM00328,Télécharger,2023-03-26,2023-04-05,3,7.2,Archivé
+CRE329,CAM00329,Bannière,Créatif_Ban_CAM00329,En savoir plus,2023-01-26,2023-01-29,1,8.0,Archivé
+CRE330,CAM00330,Story,Créatif_Sto_CAM00330,Acheter,2023-07-20,2023-07-28,4,,Archivé
+CRE331,CAM00331,Bannière,Créatif_Ban_CAM00331,En savoir plus,2023-09-22,2023-09-28,1,8.7,Archivé
+CRE332,CAM00332,Bannière,Créatif_Ban_CAM00332,Acheter,2022-09-11,2022-09-16,2,4.9,Archivé
+CRE333,CAM00333,Vidéo,Créatif_Vid_CAM00333,S'inscrire,2023-10-09,2023-10-15,1,,Archivé
+CRE334,CAM00334,Vidéo,Créatif_Vid_CAM00334,Appeler,2023-03-15,2023-03-24,4,,Archivé
+CRE335,CAM00335,Carrousel,Créatif_Car_CAM00335,En savoir plus,2022-11-12,2022-11-16,4,5.0,Archivé
+CRE336,CAM00336,Story,Créatif_Sto_CAM00336,S'inscrire,2022-12-29,2023-01-06,2,6.6,Archivé
+CRE337,CAM00337,Bannière,Créatif_Ban_CAM00337,Acheter,2023-12-20,2023-12-28,4,,Archivé
+CRE338,CAM00338,Vidéo,Créatif_Vid_CAM00338,S'inscrire,2022-06-07,2022-06-12,4,7.0,Archivé
+CRE339,CAM00339,Image,Créatif_Ima_CAM00339,S'inscrire,2022-05-24,2022-06-02,3,,Archivé
+CRE340,CAM00340,Image,Créatif_Ima_CAM00340,S'inscrire,2023-08-07,2023-08-12,3,,Archivé
+CRE341,CAM00341,Bannière,Créatif_Ban_CAM00341,Télécharger,2022-07-06,2022-07-11,4,5.9,Archivé
+CRE342,CAM00342,Carrousel,Créatif_Car_CAM00342,Appeler,2022-08-29,2022-09-08,3,,Archivé
+CRE343,CAM00343,Vidéo,Créatif_Vid_CAM00343,Télécharger,2023-02-25,2023-03-01,2,7.7,Archivé
+CRE344,CAM00344,Bannière,Créatif_Ban_CAM00344,Appeler,2022-11-15,2022-11-24,2,6.5,Archivé
+CRE345,CAM00345,Story,Créatif_Sto_CAM00345,Télécharger,2023-03-12,2023-03-17,2,7.6,Archivé
+CRE346,CAM00346,Bannière,Créatif_Ban_CAM00346,S'inscrire,2023-10-10,2023-10-20,1,,Archivé
+CRE347,CAM00347,Vidéo,Créatif_Vid_CAM00347,Télécharger,2022-05-26,2022-06-04,4,6.3,Archivé
+CRE348,CAM00348,Texte,Créatif_Tex_CAM00348,En savoir plus,2023-04-20,2023-04-30,1,7.1,Archivé
+CRE349,CAM00349,Texte,Créatif_Tex_CAM00349,S'inscrire,2022-11-16,2022-11-26,4,5.6,Archivé
+CRE350,CAM00350,Image,Créatif_Ima_CAM00350,Télécharger,2024-03-03,2024-03-10,2,10.0,Archivé
+CRE351,CAM00351,Image,Créatif_Ima_CAM00351,Acheter,2023-04-20,2023-04-29,4,7.3,Archivé
+CRE352,CAM00352,Image,Créatif_Ima_CAM00352,S'inscrire,2024-04-12,2024-04-18,1,,Archivé
+CRE353,CAM00353,Bannière,Créatif_Ban_CAM00353,En savoir plus,2022-06-01,2022-06-05,1,7.9,Archivé
+CRE354,CAM00354,Vidéo,Créatif_Vid_CAM00354,En savoir plus,2023-06-03,2023-06-12,1,,Archivé

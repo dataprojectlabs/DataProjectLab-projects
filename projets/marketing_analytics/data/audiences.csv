@@ -1,0 +1,81 @@
+audience_id,nom_segment,canal,tranche_age,genre,pays,centres_interet,taille_estimee,type_audience
+AUD001,Homme_45+_MA_FA,Facebook,45+,Homme,Mali,"Finance,Investissement",1998072,Lookalike
+AUD002,Femme_35-44_BU_FA,Facebook,35-44,Femme,Burkina Faso,"Musique,Divertissement",1458629,Retargeting
+AUD003,Homme_45+_GH_FA,Facebook,45+,Homme,Ghana,"Sport,Fitness",569895,Froide
+AUD004,Mixte_18-24_CA_FA,Facebook,18-24,Mixte,Cameroun,"Sport,Fitness",1211657,Lookalike
+AUD005,Mixte_18-24_CÔ_FA,Facebook,18-24,Mixte,Côte d'Ivoire,"Mode,Beauté,Shopping",1373518,Lookalike
+AUD006,Femme_18-24_CÔ_FA,Facebook,18-24,Femme,Côte d'Ivoire,"Finance,Investissement",198598,Lookalike
+AUD007,Homme_45+_CA_FA,Facebook,45+,Homme,Cameroun,"Sport,Fitness",1180855,CRM
+AUD008,Femme_45+_SÉ_FA,Facebook,45+,Femme,Sénégal,"Mode,Beauté,Shopping",449318,Froide
+AUD009,Femme_45+_BU_FA,Facebook,45+,Femme,Burkina Faso,"Food,Cuisine",938308,CRM
+AUD010,Mixte_18-24_BU_FA,Facebook,18-24,Mixte,Burkina Faso,"Musique,Divertissement",1420395,Froide
+AUD011,Mixte_45+_CÔ_FA,Facebook,45+,Mixte,Côte d'Ivoire,"Voyage,Lifestyle",761569,Froide
+AUD012,Homme_25-34_SÉ_FA,Facebook,25-34,Homme,Sénégal,"Food,Cuisine",1174672,Lookalike
+AUD013,Femme_25-34_GH_FA,Facebook,25-34,Femme,Ghana,"Sport,Fitness",1020201,Froide
+AUD014,Homme_18-24_GH_FA,Facebook,18-24,Homme,Ghana,"Finance,Investissement",1417646,Froide
+AUD015,Homme_25-34_CÔ_FA,Facebook,25-34,Homme,Côte d'Ivoire,"Food,Cuisine",902312,CRM
+AUD016,Homme_45+_SÉ_FA,Facebook,45+,Homme,Sénégal,"Food,Cuisine",395269,Froide
+AUD017,Femme_35-44_GH_FA,Facebook,35-44,Femme,Ghana,"Food,Cuisine",648210,CRM
+AUD018,Femme_25-34_SÉ_FA,Facebook,25-34,Femme,Sénégal,"Mode,Beauté,Shopping",506551,Froide
+AUD019,Homme_35-44_BU_FA,Facebook,35-44,Homme,Burkina Faso,"Finance,Investissement",155156,CRM
+AUD020,Homme_25-34_MA_FA,Facebook,25-34,Homme,Mali,"Mode,Beauté,Shopping",1114993,Lookalike
+AUD021,Mixte_18-24_CÔ_FA,Facebook,18-24,Mixte,Côte d'Ivoire,"Sport,Fitness",1857365,CRM
+AUD022,Mixte_25-34_CÔ_FA,Facebook,25-34,Mixte,Côte d'Ivoire,"Mode,Beauté,Shopping",1296797,Froide
+AUD023,Femme_35-44_GH_FA,Facebook,35-44,Femme,Ghana,"Musique,Divertissement",478362,Retargeting
+AUD024,Femme_35-44_SÉ_FA,Facebook,35-44,Femme,Sénégal,"Musique,Divertissement",324471,Retargeting
+AUD025,Homme_35-44_GH_FA,Facebook,35-44,Homme,Ghana,"Food,Cuisine",69535,Froide
+AUD026,Mixte_25-34_CÔ_FA,Facebook,25-34,Mixte,Côte d'Ivoire,"Sport,Fitness",606165,Retargeting
+AUD027,Femme_25-34_CÔ_FA,Facebook,25-34,Femme,Côte d'Ivoire,"Sport,Fitness",647661,CRM
+AUD028,Mixte_35-44_MA_FA,Facebook,35-44,Mixte,Mali,"Musique,Divertissement",1742611,Froide
+AUD029,Mixte_35-44_BU_FA,Facebook,35-44,Mixte,Burkina Faso,"Sport,Fitness",267236,Retargeting
+AUD030,Mixte_18-24_CÔ_FA,Facebook,18-24,Mixte,Côte d'Ivoire,"Sport,Fitness",1210194,Retargeting
+AUD031,Mixte_25-34_CA_GO,Google,25-34,Mixte,Cameroun,Recherche marque,769072,Retargeting
+AUD032,Femme_45+_MA_GO,Google,45+,Femme,Mali,Recherche intention achat,1948628,Froide
+AUD033,Femme_45+_BU_GO,Google,45+,Femme,Burkina Faso,Recherche intention achat,142456,Retargeting
+AUD034,Homme_35-44_SÉ_GO,Google,35-44,Homme,Sénégal,Display audiences,1604473,CRM
+AUD035,Homme_18-24_MA_GO,Google,18-24,Homme,Mali,Recherche marque,207797,Froide
+AUD036,Femme_25-34_CA_GO,Google,25-34,Femme,Cameroun,Recherche intention achat,317272,Retargeting
+AUD037,Femme_18-24_CA_GO,Google,18-24,Femme,Cameroun,Recherche marque,490562,Froide
+AUD038,Mixte_45+_CA_GO,Google,45+,Mixte,Cameroun,Recherche marque,1621768,Lookalike
+AUD039,Femme_25-34_SÉ_GO,Google,25-34,Femme,Sénégal,Recherche marque,101980,Retargeting
+AUD040,Femme_25-34_GH_GO,Google,25-34,Femme,Ghana,Recherche intention achat,383862,CRM
+AUD041,Homme_45+_CÔ_GO,Google,45+,Homme,Côte d'Ivoire,Display audiences,468534,Retargeting
+AUD042,Homme_25-34_CA_GO,Google,25-34,Homme,Cameroun,Recherche marque,99627,CRM
+AUD043,Homme_35-44_CA_GO,Google,35-44,Homme,Cameroun,Mots-clés concurrents,1671783,Retargeting
+AUD044,Mixte_45+_BU_GO,Google,45+,Mixte,Burkina Faso,YouTube vidéo,1819285,Retargeting
+AUD045,Femme_18-24_CÔ_GO,Google,18-24,Femme,Côte d'Ivoire,YouTube vidéo,424483,Retargeting
+AUD046,Mixte_18-24_CÔ_GO,Google,18-24,Mixte,Côte d'Ivoire,Mots-clés concurrents,961346,Retargeting
+AUD047,Femme_18-24_GH_GO,Google,18-24,Femme,Ghana,YouTube vidéo,1936398,Lookalike
+AUD048,Mixte_18-24_CA_GO,Google,18-24,Mixte,Cameroun,Recherche intention achat,964478,Lookalike
+AUD049,Homme_45+_CA_GO,Google,45+,Homme,Cameroun,Mots-clés concurrents,1443007,Retargeting
+AUD050,Mixte_18-24_BU_GO,Google,18-24,Mixte,Burkina Faso,Mots-clés concurrents,1937535,Retargeting
+AUD051,Femme_45+_BU_EM,Email,45+,Femme,Burkina Faso,Prospects qualifiés,893894,Lookalike
+AUD052,Mixte_45+_SÉ_EM,Email,45+,Mixte,Sénégal,Anciens clients,845125,Retargeting
+AUD053,Femme_18-24_GH_EM,Email,18-24,Femme,Ghana,Anciens clients,651701,CRM
+AUD054,Femme_35-44_MA_EM,Email,35-44,Femme,Mali,Base partenaire,976492,Lookalike
+AUD055,Mixte_45+_MA_EM,Email,45+,Mixte,Mali,Newsletter inscrits,405868,Retargeting
+AUD056,Homme_35-44_MA_EM,Email,35-44,Homme,Mali,Anciens clients,1766358,Retargeting
+AUD057,Homme_25-34_SÉ_EM,Email,25-34,Homme,Sénégal,Newsletter inscrits,101223,Lookalike
+AUD058,Femme_18-24_GH_EM,Email,18-24,Femme,Ghana,Anciens clients,919145,CRM
+AUD059,Homme_45+_GH_EM,Email,45+,Homme,Ghana,Newsletter inscrits,359479,Froide
+AUD060,Homme_25-34_GH_EM,Email,25-34,Homme,Ghana,Base partenaire,1736340,Froide
+AUD061,Homme_25-34_MA_EM,Email,25-34,Homme,Mali,Anciens clients,1007269,CRM
+AUD062,Femme_35-44_BU_EM,Email,35-44,Femme,Burkina Faso,Base partenaire,1334825,CRM
+AUD063,Femme_45+_SÉ_EM,Email,45+,Femme,Sénégal,Anciens clients,593564,Retargeting
+AUD064,Mixte_45+_MA_EM,Email,45+,Mixte,Mali,Prospects qualifiés,551734,CRM
+AUD065,Homme_35-44_CÔ_EM,Email,35-44,Homme,Côte d'Ivoire,Prospects qualifiés,619827,Retargeting
+AUD066,Homme_18-24_MA_SM,SMS,18-24,Homme,Mali,Base opt-in,366314,CRM
+AUD067,Mixte_25-34_BU_SM,SMS,25-34,Mixte,Burkina Faso,Base opt-in,498691,CRM
+AUD068,Mixte_35-44_GH_SM,SMS,35-44,Mixte,Ghana,Clients actifs,1027114,Froide
+AUD069,Femme_45+_SÉ_SM,SMS,45+,Femme,Sénégal,Prospects mobile,1947583,Froide
+AUD070,Femme_45+_MA_SM,SMS,45+,Femme,Mali,Clients actifs,62364,Retargeting
+AUD071,Mixte_45+_GH_SM,SMS,45+,Mixte,Ghana,Prospects mobile,1617653,Lookalike
+AUD072,Femme_25-34_GH_SM,SMS,25-34,Femme,Ghana,Clients actifs,964014,Froide
+AUD073,Mixte_35-44_GH_SM,SMS,35-44,Mixte,Ghana,Clients actifs,1474263,Lookalike
+AUD074,Mixte_25-34_GH_SM,SMS,25-34,Mixte,Ghana,Base opt-in,1170138,CRM
+AUD075,Homme_18-24_MA_SM,SMS,18-24,Homme,Mali,Clients actifs,1397943,Lookalike
+AUD076,Homme_25-34_GH_SM,SMS,25-34,Homme,Ghana,Clients actifs,595587,Retargeting
+AUD077,Femme_45+_SÉ_SM,SMS,45+,Femme,Sénégal,Clients actifs,757789,Retargeting
+AUD078,Homme_35-44_GH_SM,SMS,35-44,Homme,Ghana,Base opt-in,1036304,Froide
+AUD079,Mixte_25-34_CA_SM,SMS,25-34,Mixte,Cameroun,Prospects mobile,193903,Froide
+AUD080,Homme_25-34_CÔ_SM,SMS,25-34,Homme,Côte d'Ivoire,Base opt-in,1809990,Lookalike
