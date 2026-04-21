@@ -1,0 +1,373 @@
+keyword_id,campaign_id,ad_id,keyword_text,match_type,quality_score,statut
+KW00001,CAMP0001,AD00001,brand tablette pas ch,Phrase,8,Enabled
+KW00002,CAMP0001,AD00002,brand tablette pas ch,Phrase,9,Enabled
+KW00003,CAMP0001,AD00001,brand tv 4k,Phrase,8,Enabled
+KW00004,CAMP0001,AD00003,brand acheter smartph,Phrase,7,Enabled
+KW00005,CAMP0001,AD00002,brand shop en ligne a,Broad,8,Enabled
+KW00006,CAMP0001,AD00007,brand mode femme tend,Exact,9,Enabled
+KW00007,CAMP0001,AD00007,brand soldes high-tec,Phrase,8,Enabled
+KW00008,CAMP0001,AD00003,brand soldes high-tec,Phrase,8,Enabled
+KW00009,CAMP0001,AD00004,brand soldes high-tec,Phrase,10,Paused
+KW00010,CAMP0001,AD00003,brand meilleur ordina,Broad,7,Enabled
+KW00011,CAMP0001,AD00005,brand enceinte connec,Phrase,10,Enabled
+KW00012,CAMP0001,AD00006,brand enceinte connec,Exact,9,Enabled
+KW00013,CAMP0001,AD00008,brand shop en ligne a,Phrase,9,Enabled
+KW00014,CAMP0001,AD00007,brand tablette pas ch,Phrase,8,Enabled
+KW00015,CAMP0001,AD00004,brand meilleur ordina,Broad,10,Enabled
+KW00016,CAMP0001,AD00006,brand acheter smartph,Phrase,11,Enabled
+KW00017,CAMP0001,AD00004,brand shop en ligne a,Phrase,10,Enabled
+KW00018,CAMP0001,AD00006,brand tablette pas ch,Broad,7,Enabled
+KW00019,CAMP0001,AD00001,brand accessoires mob,Broad,7,Paused
+KW00020,CAMP0001,AD00003,brand casque bluetoot,Exact,8,Enabled
+KW00021,CAMP0001,AD00001,brand enceinte connec,Phrase,10,Enabled
+KW00022,CAMP0001,AD00008,brand accessoires mob,Exact,10,Paused
+KW00023,CAMP0001,AD00003,brand tv 4k,Phrase,9,Enabled
+KW00024,CAMP0001,AD00002,brand promo électroni,Broad,8,Enabled
+KW00025,CAMP0001,AD00007,brand meilleur ordina,Exact,9,Enabled
+KW00026,CAMP0001,AD00003,brand shop en ligne a,Phrase,8,Enabled
+KW00027,CAMP0002,AD00009,tablette pas cher,Broad,7,Paused
+KW00028,CAMP0002,AD00009,soldes high-tech,Broad,1,Enabled
+KW00029,CAMP0002,AD00010,soldes high-tech,Phrase,10,Enabled
+KW00030,CAMP0002,AD00009,tv 4k,Phrase,8,Enabled
+KW00031,CAMP0002,AD00010,casque bluetooth,Phrase,4,Enabled
+KW00032,CAMP0002,AD00010,casque bluetooth,Broad,6,Enabled
+KW00033,CAMP0002,AD00010,promo électronique,Phrase,4,Enabled
+KW00034,CAMP0002,AD00010,chaussures sport,Exact,11,Enabled
+KW00035,CAMP0002,AD00009,tablette pas cher,Phrase,8,Enabled
+KW00036,CAMP0002,AD00010,tablette pas cher,Phrase,6,Enabled
+KW00037,CAMP0002,AD00009,accessoires mobile,Exact,7,Enabled
+KW00038,CAMP0002,AD00009,mode femme tendance,Phrase,8,Enabled
+KW00039,CAMP0002,AD00010,soldes high-tech,Exact,5,Enabled
+KW00040,CAMP0002,AD00009,mode femme tendance,Exact,0,Enabled
+KW00041,CAMP0002,AD00010,accessoires mobile,Exact,8,Enabled
+KW00042,CAMP0002,AD00010,shop en ligne abidjan,Broad,10,Enabled
+KW00043,CAMP0002,AD00009,casque bluetooth,Broad,8,Enabled
+KW00044,CAMP0002,AD00010,mode femme tendance,Phrase,7,Enabled
+KW00045,CAMP0002,AD00009,tv 4k,Exact,5,Paused
+KW00046,CAMP0002,AD00010,livraison express CI,Phrase,6,Enabled
+KW00047,CAMP0002,AD00009,acheter smartphone,Exact,7,Enabled
+KW00048,CAMP0002,AD00010,livraison express CI,Exact,5,Enabled
+KW00049,CAMP0002,AD00009,tv 4k,Broad,6,Enabled
+KW00050,CAMP0002,AD00010,meilleur ordinateur portable,Phrase,2,Enabled
+KW00051,CAMP0002,AD00009,casque bluetooth,Phrase,6,Enabled
+KW00052,CAMP0002,AD00009,acheter smartphone,Broad,8,Enabled
+KW00053,CAMP0002,AD00009,accessoires mobile,Exact,10,Enabled
+KW00054,CAMP0002,AD00009,accessoires mobile,Broad,7,Enabled
+KW00055,CAMP0002,AD00009,tablette pas cher,Exact,8,Enabled
+KW00056,CAMP0003,AD00011,promo électronique,Broad,0,Enabled
+KW00057,CAMP0003,AD00011,tv 4k,Phrase,5,Enabled
+KW00058,CAMP0003,AD00012,promo électronique,Phrase,11,Enabled
+KW00059,CAMP0003,AD00012,tablette pas cher,Phrase,5,Enabled
+KW00060,CAMP0003,AD00012,accessoires mobile,Exact,4,Paused
+KW00061,CAMP0003,AD00011,chaussures sport,Exact,7,Enabled
+KW00062,CAMP0003,AD00011,soldes high-tech,Broad,6,Enabled
+KW00063,CAMP0003,AD00012,mode femme tendance,Exact,8,Enabled
+KW00064,CAMP0003,AD00011,livraison express CI,Phrase,7,Enabled
+KW00065,CAMP0003,AD00012,mode femme tendance,Phrase,8,Enabled
+KW00066,CAMP0003,AD00012,livraison express CI,Phrase,5,Enabled
+KW00067,CAMP0003,AD00011,livraison express CI,Exact,7,Enabled
+KW00068,CAMP0003,AD00012,livraison express CI,Phrase,6,Enabled
+KW00069,CAMP0003,AD00011,tv 4k,Phrase,5,Enabled
+KW00070,CAMP0003,AD00012,casque bluetooth,Exact,3,Enabled
+KW00071,CAMP0003,AD00011,acheter smartphone,Phrase,1,Enabled
+KW00072,CAMP0003,AD00012,livraison express CI,Phrase,8,Enabled
+KW00073,CAMP0003,AD00012,enceinte connectée,Phrase,5,Enabled
+KW00074,CAMP0003,AD00012,accessoires mobile,Phrase,8,Enabled
+KW00075,CAMP0004,AD00016,tv 4k,Phrase,8,Enabled
+KW00076,CAMP0004,AD00014,promo électronique,Phrase,7,Enabled
+KW00077,CAMP0005,AD00020,shop en ligne abidjan,Broad,11,Enabled
+KW00078,CAMP0005,AD00018,meilleur ordinateur portable,Phrase,6,Enabled
+KW00079,CAMP0006,AD00023,tablette pas cher,Broad,6,Enabled
+KW00080,CAMP0006,AD00023,tv 4k,Broad,1,Enabled
+KW00081,CAMP0006,AD00023,mode femme tendance,Phrase,8,Enabled
+KW00082,CAMP0006,AD00026,chaussures sport,Phrase,6,Enabled
+KW00083,CAMP0006,AD00025,accessoires mobile,Phrase,7,Enabled
+KW00084,CAMP0006,AD00025,acheter smartphone,Broad,6,Paused
+KW00085,CAMP0006,AD00026,tv 4k,Broad,5,Enabled
+KW00086,CAMP0006,AD00023,chaussures sport,Exact,7,Enabled
+KW00087,CAMP0006,AD00023,soldes high-tech,Broad,7,Enabled
+KW00088,CAMP0006,AD00026,accessoires mobile,Exact,2,Enabled
+KW00089,CAMP0006,AD00023,meilleur ordinateur portable,Exact,1,Enabled
+KW00090,CAMP0006,AD00026,soldes high-tech,Phrase,6,Enabled
+KW00091,CAMP0006,AD00023,meilleur ordinateur portable,Phrase,5,Enabled
+KW00092,CAMP0006,AD00022,meilleur ordinateur portable,Broad,8,Enabled
+KW00093,CAMP0006,AD00025,accessoires mobile,Exact,10,Enabled
+KW00094,CAMP0006,AD00024,soldes high-tech,Phrase,6,Enabled
+KW00095,CAMP0006,AD00022,soldes high-tech,Phrase,4,Enabled
+KW00096,CAMP0006,AD00024,tablette pas cher,Broad,5,Enabled
+KW00097,CAMP0006,AD00025,tv 4k,Phrase,3,Enabled
+KW00098,CAMP0006,AD00024,soldes high-tech,Phrase,7,Enabled
+KW00099,CAMP0006,AD00023,meilleur ordinateur portable,Phrase,3,Enabled
+KW00100,CAMP0006,AD00023,shop en ligne abidjan,Exact,8,Enabled
+KW00101,CAMP0006,AD00024,meilleur ordinateur portable,Exact,5,Enabled
+KW00102,CAMP0006,AD00025,promo électronique,Exact,8,Enabled
+KW00103,CAMP0006,AD00023,meilleur ordinateur portable,Phrase,3,Enabled
+KW00104,CAMP0006,AD00025,tv 4k,Exact,6,Paused
+KW00105,CAMP0006,AD00023,mode femme tendance,Broad,7,Enabled
+KW00106,CAMP0006,AD00022,tablette pas cher,Phrase,6,Enabled
+KW00107,CAMP0006,AD00024,shop en ligne abidjan,Exact,7,Paused
+KW00108,CAMP0006,AD00026,soldes high-tech,Exact,7,Enabled
+KW00109,CAMP0006,AD00023,tv 4k,Broad,5,Paused
+KW00110,CAMP0006,AD00022,chaussures sport,Phrase,8,Enabled
+KW00111,CAMP0006,AD00024,accessoires mobile,Phrase,4,Enabled
+KW00112,CAMP0006,AD00024,chaussures sport,Phrase,6,Enabled
+KW00113,CAMP0006,AD00022,soldes high-tech,Broad,7,Enabled
+KW00114,CAMP0006,AD00022,soldes high-tech,Phrase,6,Enabled
+KW00115,CAMP0006,AD00023,soldes high-tech,Broad,1,Enabled
+KW00116,CAMP0006,AD00025,chaussures sport,Phrase,6,Enabled
+KW00117,CAMP0007,AD00029,brand CRM banque,Phrase,9,Enabled
+KW00118,CAMP0007,AD00032,brand prêt entreprise,Phrase,7,Paused
+KW00119,CAMP0007,AD00033,brand prêt entreprise,Broad,8,Enabled
+KW00120,CAMP0007,AD00031,brand gestion trésore,Exact,11,Paused
+KW00121,CAMP0007,AD00030,brand prêt entreprise,Broad,8,Enabled
+KW00122,CAMP0007,AD00031,brand API bancaire,Phrase,8,Enabled
+KW00123,CAMP0007,AD00030,brand open banking,Exact,9,Enabled
+KW00124,CAMP0007,AD00032,brand open banking,Broad,7,Enabled
+KW00125,CAMP0007,AD00030,brand solution paieme,Exact,8,Enabled
+KW00126,CAMP0007,AD00030,brand gestion trésore,Phrase,10,Enabled
+KW00127,CAMP0007,AD00031,brand logiciel compta,Phrase,0,Enabled
+KW00128,CAMP0007,AD00028,brand open banking,Broad,10,Enabled
+KW00129,CAMP0007,AD00027,brand analyse risque ,Broad,7,Enabled
+KW00130,CAMP0007,AD00033,brand solution paieme,Exact,8,Enabled
+KW00131,CAMP0007,AD00033,brand prêt entreprise,Phrase,9,Enabled
+KW00132,CAMP0007,AD00027,brand gestion trésore,Phrase,7,Enabled
+KW00133,CAMP0007,AD00027,brand API bancaire,Broad,8,Paused
+KW00134,CAMP0007,AD00028,brand CRM banque,Broad,9,Enabled
+KW00135,CAMP0007,AD00029,brand facturation en ,Broad,8,Enabled
+KW00136,CAMP0007,AD00030,brand open banking,Phrase,7,Enabled
+KW00137,CAMP0007,AD00032,brand facturation en ,Broad,10,Paused
+KW00138,CAMP0007,AD00032,brand facturation en ,Phrase,8,Enabled
+KW00139,CAMP0007,AD00027,brand logiciel compta,Exact,9,Enabled
+KW00140,CAMP0007,AD00031,brand gestion trésore,Broad,7,Enabled
+KW00141,CAMP0007,AD00033,brand prêt entreprise,Exact,10,Enabled
+KW00142,CAMP0007,AD00032,brand CRM banque,Phrase,9,Paused
+KW00143,CAMP0007,AD00030,brand logiciel compta,Phrase,7,Enabled
+KW00144,CAMP0007,AD00033,brand open banking,Exact,10,Enabled
+KW00145,CAMP0007,AD00032,brand tableau de bord,Exact,9,Enabled
+KW00146,CAMP0007,AD00029,brand open banking,Exact,8,Enabled
+KW00147,CAMP0007,AD00032,brand API bancaire,Phrase,9,Enabled
+KW00148,CAMP0007,AD00032,brand tableau de bord,Broad,9,Enabled
+KW00149,CAMP0008,AD00038,CRM banque,Phrase,7,Enabled
+KW00150,CAMP0008,AD00035,solution paiement entreprise,Exact,2,Paused
+KW00151,CAMP0008,AD00034,CRM banque,Phrase,7,Enabled
+KW00152,CAMP0008,AD00038,prêt entreprise rapide,Exact,10,Enabled
+KW00153,CAMP0008,AD00037,logiciel comptabilité PME,Broad,8,Enabled
+KW00154,CAMP0008,AD00038,CRM banque,Exact,0,Enabled
+KW00155,CAMP0008,AD00034,CRM banque,Broad,8,Enabled
+KW00156,CAMP0008,AD00038,solution paiement entreprise,Phrase,0,Enabled
+KW00157,CAMP0008,AD00037,solution paiement entreprise,Broad,4,Enabled
+KW00158,CAMP0008,AD00039,prêt entreprise rapide,Phrase,7,Enabled
+KW00159,CAMP0008,AD00035,gestion trésorerie,Exact,5,Enabled
+KW00160,CAMP0008,AD00036,API bancaire,Phrase,6,Paused
+KW00161,CAMP0008,AD00035,open banking,Phrase,3,Enabled
+KW00162,CAMP0008,AD00038,logiciel comptabilité PME,Exact,7,Enabled
+KW00163,CAMP0008,AD00037,gestion trésorerie,Exact,9,Enabled
+KW00164,CAMP0008,AD00039,facturation en ligne,Exact,1,Enabled
+KW00165,CAMP0008,AD00034,open banking,Exact,7,Enabled
+KW00166,CAMP0008,AD00038,CRM banque,Phrase,7,Enabled
+KW00167,CAMP0008,AD00038,gestion trésorerie,Phrase,9,Enabled
+KW00168,CAMP0008,AD00038,solution paiement entreprise,Broad,7,Enabled
+KW00169,CAMP0008,AD00040,gestion trésorerie,Exact,7,Paused
+KW00170,CAMP0009,AD00042,open banking,Exact,8,Enabled
+KW00171,CAMP0009,AD00041,tableau de bord financier,Broad,5,Enabled
+KW00172,CAMP0009,AD00042,logiciel comptabilité PME,Phrase,3,Enabled
+KW00173,CAMP0009,AD00043,gestion trésorerie,Phrase,5,Enabled
+KW00174,CAMP0009,AD00043,API bancaire,Phrase,7,Enabled
+KW00175,CAMP0009,AD00043,solution paiement entreprise,Exact,6,Enabled
+KW00176,CAMP0009,AD00045,CRM banque,Exact,7,Enabled
+KW00177,CAMP0009,AD00046,analyse risque crédit,Broad,8,Enabled
+KW00178,CAMP0009,AD00046,gestion trésorerie,Exact,6,Enabled
+KW00179,CAMP0009,AD00041,facturation en ligne,Exact,7,Enabled
+KW00180,CAMP0009,AD00045,open banking,Phrase,6,Enabled
+KW00181,CAMP0009,AD00043,API bancaire,Broad,4,Enabled
+KW00182,CAMP0009,AD00043,API bancaire,Exact,3,Enabled
+KW00183,CAMP0009,AD00044,API bancaire,Phrase,5,Enabled
+KW00184,CAMP0009,AD00045,CRM banque,Exact,6,Enabled
+KW00185,CAMP0009,AD00045,gestion trésorerie,Phrase,3,Enabled
+KW00186,CAMP0009,AD00045,gestion trésorerie,Phrase,7,Enabled
+KW00187,CAMP0009,AD00041,open banking,Phrase,10,Enabled
+KW00188,CAMP0009,AD00041,logiciel comptabilité PME,Phrase,1,Enabled
+KW00189,CAMP0009,AD00045,CRM banque,Phrase,2,Enabled
+KW00190,CAMP0009,AD00043,analyse risque crédit,Exact,2,Enabled
+KW00191,CAMP0009,AD00046,tableau de bord financier,Exact,7,Enabled
+KW00192,CAMP0009,AD00041,solution paiement entreprise,Exact,5,Enabled
+KW00193,CAMP0010,AD00049,open banking,Broad,4,Enabled
+KW00194,CAMP0010,AD00047,prêt entreprise rapide,Exact,8,Enabled
+KW00195,CAMP0011,AD00052,open banking,Exact,7,Enabled
+KW00196,CAMP0011,AD00052,logiciel comptabilité PME,Phrase,7,Enabled
+KW00197,CAMP0012,AD00058,brand bootcamp dévelo,Exact,8,Enabled
+KW00198,CAMP0012,AD00056,brand certification P,Broad,8,Enabled
+KW00199,CAMP0012,AD00060,brand formation power,Exact,9,Enabled
+KW00200,CAMP0012,AD00056,brand certification P,Broad,9,Enabled
+KW00201,CAMP0012,AD00056,brand certification P,Phrase,7,Paused
+KW00202,CAMP0012,AD00060,brand cours en ligne ,Exact,7,Paused
+KW00203,CAMP0012,AD00058,brand apprendre pytho,Exact,8,Enabled
+KW00204,CAMP0012,AD00057,brand MBA en ligne,Phrase,8,Enabled
+KW00205,CAMP0012,AD00060,brand formation power,Phrase,7,Enabled
+KW00206,CAMP0012,AD00059,brand cours en ligne ,Phrase,8,Paused
+KW00207,CAMP0012,AD00061,brand certification P,Exact,7,Enabled
+KW00208,CAMP0012,AD00059,brand formation marke,Phrase,8,Enabled
+KW00209,CAMP0012,AD00057,brand cours en ligne ,Phrase,7,Enabled
+KW00210,CAMP0012,AD00059,brand masterclass exc,Exact,8,Enabled
+KW00211,CAMP0012,AD00058,brand formation conti,Exact,9,Paused
+KW00212,CAMP0013,AD00063,masterclass excel,Exact,9,Enabled
+KW00213,CAMP0013,AD00065,masterclass excel,Exact,8,Enabled
+KW00214,CAMP0013,AD00064,cours en ligne data,Broad,6,Enabled
+KW00215,CAMP0013,AD00064,formation continue cadre,Phrase,8,Enabled
+KW00216,CAMP0013,AD00064,formation marketing digital,Phrase,8,Enabled
+KW00217,CAMP0013,AD00065,formation power bi,Phrase,7,Paused
+KW00218,CAMP0013,AD00063,masterclass excel,Exact,7,Enabled
+KW00219,CAMP0013,AD00065,bootcamp développement web,Exact,7,Enabled
+KW00220,CAMP0013,AD00062,apprendre python,Broad,7,Paused
+KW00221,CAMP0013,AD00063,certification PMP,Phrase,7,Enabled
+KW00222,CAMP0013,AD00062,formation power bi,Exact,8,Enabled
+KW00223,CAMP0013,AD00063,formation marketing digital,Phrase,5,Enabled
+KW00224,CAMP0013,AD00064,formation marketing digital,Phrase,4,Enabled
+KW00225,CAMP0013,AD00062,cours en ligne data,Exact,5,Enabled
+KW00226,CAMP0013,AD00065,cours en ligne data,Phrase,3,Enabled
+KW00227,CAMP0013,AD00064,cours anglais professionnel,Exact,6,Enabled
+KW00228,CAMP0013,AD00062,apprendre python,Exact,3,Paused
+KW00229,CAMP0013,AD00063,formation continue cadre,Exact,8,Enabled
+KW00230,CAMP0013,AD00065,masterclass excel,Phrase,8,Enabled
+KW00231,CAMP0013,AD00062,bootcamp développement web,Broad,7,Paused
+KW00232,CAMP0013,AD00065,cours en ligne data,Broad,3,Enabled
+KW00233,CAMP0013,AD00064,certification PMP,Phrase,3,Enabled
+KW00234,CAMP0013,AD00065,cours anglais professionnel,Phrase,0,Enabled
+KW00235,CAMP0013,AD00062,MBA en ligne,Exact,8,Enabled
+KW00236,CAMP0013,AD00062,masterclass excel,Broad,8,Enabled
+KW00237,CAMP0013,AD00064,MBA en ligne,Phrase,7,Enabled
+KW00238,CAMP0013,AD00062,MBA en ligne,Broad,7,Enabled
+KW00239,CAMP0013,AD00065,MBA en ligne,Exact,9,Enabled
+KW00240,CAMP0013,AD00065,cours anglais professionnel,Phrase,11,Enabled
+KW00241,CAMP0013,AD00064,formation power bi,Exact,7,Enabled
+KW00242,CAMP0013,AD00063,formation continue cadre,Exact,7,Enabled
+KW00243,CAMP0013,AD00065,apprendre python,Exact,6,Enabled
+KW00244,CAMP0014,AD00068,cours anglais professionnel,Exact,7,Enabled
+KW00245,CAMP0014,AD00066,formation marketing digital,Phrase,7,Enabled
+KW00246,CAMP0014,AD00066,formation continue cadre,Phrase,7,Enabled
+KW00247,CAMP0015,AD00073,bootcamp développement web,Exact,7,Enabled
+KW00248,CAMP0015,AD00071,MBA en ligne,Phrase,9,Enabled
+KW00249,CAMP0015,AD00070,formation power bi,Broad,10,Enabled
+KW00250,CAMP0016,AD00077,formation continue cadre,Broad,5,Enabled
+KW00251,CAMP0016,AD00077,formation marketing digital,Broad,9,Enabled
+KW00252,CAMP0017,AD00079,brand hôtel business ,Exact,8,Paused
+KW00253,CAMP0017,AD00083,brand voyage côte ivo,Exact,8,Enabled
+KW00254,CAMP0017,AD00079,brand séjour all incl,Exact,9,Enabled
+KW00255,CAMP0017,AD00082,brand circuit afrique,Exact,10,Enabled
+KW00256,CAMP0017,AD00084,brand séjour all incl,Phrase,9,Paused
+KW00257,CAMP0017,AD00086,brand hôtel sénégal p,Phrase,9,Paused
+KW00258,CAMP0017,AD00086,brand hôtel business ,Phrase,9,Enabled
+KW00259,CAMP0017,AD00085,brand meilleur hotel ,Phrase,7,Paused
+KW00260,CAMP0017,AD00082,brand hôtel sénégal p,Exact,8,Enabled
+KW00261,CAMP0017,AD00085,brand hôtel 5 étoiles,Phrase,7,Enabled
+KW00262,CAMP0017,AD00079,brand package weekend,Broad,8,Enabled
+KW00263,CAMP0017,AD00079,brand réservation dir,Exact,10,Enabled
+KW00264,CAMP0017,AD00086,brand séjour all incl,Exact,10,Enabled
+KW00265,CAMP0017,AD00086,brand voyage côte ivo,Phrase,10,Enabled
+KW00266,CAMP0017,AD00086,brand voyage côte ivo,Exact,8,Enabled
+KW00267,CAMP0017,AD00079,brand meilleur hotel ,Exact,8,Enabled
+KW00268,CAMP0017,AD00083,brand voyage côte ivo,Phrase,10,Enabled
+KW00269,CAMP0017,AD00083,brand hôtel business ,Phrase,8,Enabled
+KW00270,CAMP0017,AD00079,brand hotel abidjan p,Phrase,8,Enabled
+KW00271,CAMP0018,AD00089,meilleur hotel dakar,Broad,2,Enabled
+KW00272,CAMP0018,AD00088,hôtel business cocody,Broad,10,Enabled
+KW00273,CAMP0018,AD00090,voyage côte ivoire,Broad,8,Enabled
+KW00274,CAMP0018,AD00087,hôtel business cocody,Phrase,4,Enabled
+KW00275,CAMP0018,AD00089,hôtel business cocody,Exact,3,Enabled
+KW00276,CAMP0018,AD00089,meilleur hotel dakar,Phrase,7,Enabled
+KW00277,CAMP0018,AD00087,package weekend,Broad,7,Enabled
+KW00278,CAMP0018,AD00089,séjour all inclusive,Phrase,7,Enabled
+KW00279,CAMP0018,AD00089,réservation directe hotel,Exact,3,Enabled
+KW00280,CAMP0018,AD00090,voyage côte ivoire,Phrase,7,Enabled
+KW00281,CAMP0018,AD00087,meilleur hotel dakar,Broad,5,Enabled
+KW00282,CAMP0018,AD00090,voyage côte ivoire,Broad,2,Enabled
+KW00283,CAMP0018,AD00087,réservation directe hotel,Exact,3,Enabled
+KW00284,CAMP0018,AD00090,voyage côte ivoire,Phrase,6,Enabled
+KW00285,CAMP0018,AD00087,circuit afrique de l ouest,Broad,1,Enabled
+KW00286,CAMP0018,AD00090,voyage côte ivoire,Exact,8,Paused
+KW00287,CAMP0018,AD00090,meilleur hotel dakar,Phrase,5,Enabled
+KW00288,CAMP0018,AD00089,circuit afrique de l ouest,Exact,7,Enabled
+KW00289,CAMP0018,AD00088,séjour all inclusive,Exact,5,Enabled
+KW00290,CAMP0019,AD00093,séjour all inclusive,Phrase,2,Enabled
+KW00291,CAMP0019,AD00094,circuit afrique de l ouest,Broad,4,Enabled
+KW00292,CAMP0019,AD00093,voyage côte ivoire,Phrase,4,Enabled
+KW00293,CAMP0019,AD00092,séjour all inclusive,Exact,4,Paused
+KW00294,CAMP0019,AD00093,séjour all inclusive,Phrase,8,Enabled
+KW00295,CAMP0019,AD00092,package weekend,Phrase,6,Enabled
+KW00296,CAMP0019,AD00091,package weekend,Broad,7,Enabled
+KW00297,CAMP0019,AD00091,réservation directe hotel,Phrase,6,Enabled
+KW00298,CAMP0019,AD00092,hôtel sénégal pas cher,Phrase,5,Enabled
+KW00299,CAMP0019,AD00094,package weekend,Phrase,8,Enabled
+KW00300,CAMP0019,AD00094,circuit afrique de l ouest,Phrase,4,Enabled
+KW00301,CAMP0019,AD00093,circuit afrique de l ouest,Exact,6,Enabled
+KW00302,CAMP0019,AD00094,package weekend,Exact,8,Enabled
+KW00303,CAMP0019,AD00093,hôtel 5 étoiles abidjan,Phrase,6,Enabled
+KW00304,CAMP0019,AD00092,meilleur hotel dakar,Broad,5,Enabled
+KW00305,CAMP0019,AD00094,réservation directe hotel,Phrase,7,Paused
+KW00306,CAMP0019,AD00092,hotel abidjan plateau,Exact,0,Enabled
+KW00307,CAMP0019,AD00094,hotel abidjan plateau,Exact,8,Enabled
+KW00308,CAMP0019,AD00092,réservation directe hotel,Phrase,7,Enabled
+KW00309,CAMP0019,AD00094,hôtel sénégal pas cher,Phrase,7,Enabled
+KW00310,CAMP0019,AD00093,circuit afrique de l ouest,Phrase,8,Paused
+KW00311,CAMP0019,AD00092,meilleur hotel dakar,Exact,7,Enabled
+KW00312,CAMP0019,AD00091,package weekend,Phrase,3,Enabled
+KW00313,CAMP0020,AD00095,package weekend,Broad,8,Enabled
+KW00314,CAMP0020,AD00096,voyage côte ivoire,Phrase,6,Paused
+KW00315,CAMP0021,AD00101,hotel abidjan plateau,Phrase,11,Enabled
+KW00316,CAMP0021,AD00099,package weekend,Exact,8,Enabled
+KW00317,CAMP0021,AD00098,hôtel 5 étoiles abidjan,Broad,7,Enabled
+KW00318,CAMP0022,AD00106,brand matériel labo,Phrase,8,Enabled
+KW00319,CAMP0022,AD00106,brand équipement médi,Exact,8,Paused
+KW00320,CAMP0022,AD00105,brand équipement médi,Phrase,10,Enabled
+KW00321,CAMP0022,AD00102,brand équipement médi,Exact,7,Paused
+KW00322,CAMP0022,AD00104,brand équipement médi,Exact,7,Paused
+KW00323,CAMP0022,AD00102,brand consommables mé,Exact,10,Enabled
+KW00324,CAMP0022,AD00103,brand formation premi,Exact,8,Paused
+KW00325,CAMP0022,AD00102,brand tensiomètre pro,Phrase,10,Enabled
+KW00326,CAMP0022,AD00102,brand équipement médi,Exact,7,Paused
+KW00327,CAMP0022,AD00103,brand défibrillateur ,Phrase,8,Enabled
+KW00328,CAMP0022,AD00105,brand solution e-sant,Exact,11,Enabled
+KW00329,CAMP0022,AD00106,brand tensiomètre pro,Phrase,10,Paused
+KW00330,CAMP0022,AD00103,brand fournisseur mat,Broad,8,Enabled
+KW00331,CAMP0022,AD00103,brand matériel labo,Exact,9,Enabled
+KW00332,CAMP0022,AD00103,brand tensiomètre pro,Phrase,8,Enabled
+KW00333,CAMP0022,AD00103,brand défibrillateur ,Phrase,7,Enabled
+KW00334,CAMP0022,AD00106,brand formation premi,Broad,10,Enabled
+KW00335,CAMP0022,AD00104,brand défibrillateur ,Exact,9,Enabled
+KW00336,CAMP0022,AD00105,brand matériel labo,Phrase,8,Enabled
+KW00337,CAMP0022,AD00103,brand mobilier cliniq,Exact,9,Enabled
+KW00338,CAMP0022,AD00105,brand équipement médi,Phrase,9,Enabled
+KW00339,CAMP0022,AD00105,brand solution e-sant,Phrase,7,Enabled
+KW00340,CAMP0022,AD00105,brand tensiomètre pro,Phrase,8,Enabled
+KW00341,CAMP0022,AD00105,brand consommables mé,Exact,10,Enabled
+KW00342,CAMP0022,AD00104,brand matériel labo,Phrase,9,Enabled
+KW00343,CAMP0022,AD00106,brand mobilier cliniq,Phrase,9,Enabled
+KW00344,CAMP0022,AD00105,brand défibrillateur ,Phrase,8,Enabled
+KW00345,CAMP0022,AD00106,brand consommables mé,Broad,8,Enabled
+KW00346,CAMP0022,AD00104,brand défibrillateur ,Exact,7,Enabled
+KW00347,CAMP0023,AD00110,consommables médicaux,Phrase,8,Enabled
+KW00348,CAMP0023,AD00108,matériel labo,Broad,4,Enabled
+KW00349,CAMP0023,AD00107,solution e-santé,Phrase,6,Enabled
+KW00350,CAMP0023,AD00108,fournisseur matériel hôpital,Phrase,7,Enabled
+KW00351,CAMP0023,AD00113,fournisseur matériel hôpital,Exact,3,Enabled
+KW00352,CAMP0023,AD00111,formation premiers secours,Exact,7,Enabled
+KW00353,CAMP0023,AD00108,matériel labo,Phrase,2,Enabled
+KW00354,CAMP0023,AD00110,mobilier clinique,Phrase,8,Paused
+KW00355,CAMP0023,AD00112,tensiomètre professionnel,Phrase,3,Enabled
+KW00356,CAMP0023,AD00108,solution e-santé,Phrase,4,Paused
+KW00357,CAMP0023,AD00112,matériel labo,Phrase,3,Paused
+KW00358,CAMP0023,AD00111,matériel labo,Broad,6,Enabled
+KW00359,CAMP0023,AD00109,tensiomètre professionnel,Phrase,8,Enabled
+KW00360,CAMP0023,AD00110,mobilier clinique,Phrase,7,Enabled
+KW00361,CAMP0023,AD00109,tensiomètre professionnel,Exact,7,Enabled
+KW00362,CAMP0023,AD00112,équipement médical PME,Exact,3,Enabled
+KW00363,CAMP0023,AD00111,logiciel cabinet médical,Phrase,8,Enabled
+KW00364,CAMP0023,AD00113,défibrillateur entreprise,Phrase,4,Enabled
+KW00365,CAMP0023,AD00112,solution e-santé,Exact,8,Enabled
+KW00366,CAMP0023,AD00110,matériel labo,Exact,3,Enabled
+KW00367,CAMP0023,AD00112,tensiomètre professionnel,Broad,7,Enabled
+KW00368,CAMP0024,AD00115,défibrillateur entreprise,Exact,3,Enabled
+KW00369,CAMP0024,AD00114,solution e-santé,Broad,7,Enabled
+KW00370,CAMP0025,AD00117,défibrillateur entreprise,Broad,5,Enabled
+KW00371,CAMP0025,AD00118,consommables médicaux,Phrase,3,Enabled
+KW00372,CAMP0025,AD00118,équipement médical PME,Phrase,9,Enabled

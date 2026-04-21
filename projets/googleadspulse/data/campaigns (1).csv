@@ -1,0 +1,26 @@
+campaign_id,account_id,campaign_name,campaign_type,bid_strategy,budget_quotidien_eur,statut,start_date,end_date,objectif
+CAMP0001,ACC001,Brand-Search-CI,Search,Manual CPC,35,Removed,2023-01-01,2023-10-11,Leads
+CAMP0002,ACC001,Shopping-Electronics,Shopping,Target ROAS,90,Enabled,2023-01-01,2024-12-31,Sales
+CAMP0003,ACC001,Shopping-Fashion,Shopping,Target ROAS,75,Enabled,2023-08-20,2024-12-31,Sales
+CAMP0004,ACC001,PerfMax-AllProducts,Performance Max,Maximize Conversions,120,Enabled,2023-11-05,2024-12-31,Sales
+CAMP0005,ACC001,Display-Remarketing,Display,Target CPA,25,Enabled,2023-01-01,2024-12-31,Leads
+CAMP0006,ACC001,Search-Generic-Tech,Search,Maximize Clicks,50,Enabled,2023-01-01,2024-12-31,Leads
+CAMP0007,ACC002,Brand-Search-Bank,Search,Manual CPC,28,Enabled,2023-01-01,2024-12-31,Leads
+CAMP0008,ACC002,Search-CompetitorTerms,Search,Target CPA,40,Enabled,2023-01-01,2024-12-31,Sales
+CAMP0009,ACC002,Search-Generic-Banking,Search,Maximize Conversions,60,Enabled,2023-01-01,2024-12-31,Sales
+CAMP0010,ACC002,PerfMax-LeadGen,Performance Max,Target CPA,80,Enabled,2023-01-01,2024-12-31,Sales
+CAMP0011,ACC002,Display-Awareness,Display,Maximize Clicks,22,Paused,2023-12-20,2024-12-31,Sales
+CAMP0012,ACC003,Brand-Search-EdTech,Search,Manual CPC,18,Enabled,2023-01-01,2024-12-31,Leads
+CAMP0013,ACC003,Search-Formations,Search,Maximize Conversions,45,Enabled,2023-01-01,2024-12-31,Sales
+CAMP0014,ACC003,Video-YouTubeAwareness,Video,Maximize Clicks,30,Enabled,2023-04-27,2024-12-31,Sales
+CAMP0015,ACC003,Display-LookAlike,Display,Target CPA,25,Enabled,2023-01-01,2024-12-31,Sales
+CAMP0016,ACC003,PerfMax-Inscriptions,Performance Max,Maximize Conversions,55,Paused,2023-10-17,2024-12-31,Website traffic
+CAMP0017,ACC004,Brand-Hotels-CI,Search,Manual CPC,30,Paused,2023-01-01,2024-12-31,Sales
+CAMP0018,ACC004,Search-Destinations,Search,Target CPA,65,Enabled,2023-01-01,2024-12-31,Sales
+CAMP0019,ACC004,Shopping-Packages,Shopping,Target ROAS,70,Enabled,2023-01-01,2024-12-31,Website traffic
+CAMP0020,ACC004,PerfMax-Bookings,Performance Max,Maximize Conversions,95,Enabled,2023-01-01,2024-12-31,Leads
+CAMP0021,ACC004,Display-Retargeting,Display,Target CPA,28,Paused,2023-01-01,2024-12-31,Sales
+CAMP0022,ACC005,Brand-MedSupply,Search,Manual CPC,25,Enabled,2023-10-16,2024-12-31,Sales
+CAMP0023,ACC005,Search-MedicalEquip,Search,Target CPA,50,Enabled,2023-09-24,2024-12-31,Website traffic
+CAMP0024,ACC005,Display-HealthcareB2B,Display,Maximize Clicks,20,Enabled,2023-01-01,2024-12-31,Sales
+CAMP0025,ACC005,PerfMax-LeadGen,Performance Max,Target CPA,45,Enabled,2023-08-27,2024-12-31,Sales

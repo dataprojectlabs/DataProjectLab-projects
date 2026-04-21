@@ -1,0 +1,6 @@
+account_id,account_name,currency,timezone,industry,statut,manager,date_onboarding
+ACC001,TechShop CI,EUR,Africa/Abidjan,E-commerce,Active,Marc-Aurèle T.,2022-09-15
+ACC002,BankAfrica SaaS,EUR,Africa/Abidjan,SaaS Finance,Active,Marc-Aurèle T.,2023-01-10
+ACC003,FormaProPlus,EUR,Africa/Dakar,EdTech,Active,Aïssatou D.,2023-03-22
+ACC004,AfriHotels Group,EUR,Africa/Abidjan,Travel/Hospitality,Active,Marc-Aurèle T.,2022-06-01
+ACC005,MedSupply Pro,EUR,Africa/Douala,B2B Health,Active,Aïssatou D.,2023-08-05
