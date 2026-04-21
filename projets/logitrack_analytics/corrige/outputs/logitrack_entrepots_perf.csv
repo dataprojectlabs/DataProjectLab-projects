@@ -1,0 +1,13 @@
+entrepot_id,entrepot,type,pays,ponctualite_declaree,nb_departs,taux_breach_depuis,delai_prep_moy_h,ecart_ponctualite,rang_risque
+ENT01,Abidjan Hub Principal,Hub,Côte d'Ivoire,0.92,802,49.3,0.8,41.3,1
+ENT11,San-Pédro Port,Transit,Côte d'Ivoire,0.82,833,47.8,1.0,29.8,2
+ENT05,Douala Port,Hub,Cameroun,0.91,1196,46.4,1.2,37.4,3
+ENT02,Abidjan Zone Franche,Transit,Côte d'Ivoire,0.87,806,46.4,0.9,33.4,4
+ENT06,Yaoundé Centre,Transit,Cameroun,0.85,1303,45.1,1.3,30.1,5
+ENT09,Bamako Hub,Hub,Mali,0.75,2490,45.1,1.1,20.1,6
+ENT10,Ouagadougou Hub,Hub,Burkina Faso,0.77,1235,44.9,1.0,21.9,7
+ENT12,Bobo-Dioulasso,Transit,Burkina Faso,0.74,1273,44.9,0.9,18.9,8
+ENT07,Accra Tema Port,Hub,Ghana,0.9,1246,29.6,1.2,19.6,9
+ENT08,Kumasi Plateforme,Transit,Ghana,0.79,1226,26.2,0.8,5.2,10
+ENT03,Dakar Port,Hub,Sénégal,0.89,1327,24.7,1.1,13.7,11
+ENT04,Dakar Nord,Transit,Sénégal,0.83,1263,21.6,1.1,4.6,12

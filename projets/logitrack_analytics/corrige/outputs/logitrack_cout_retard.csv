@@ -1,0 +1,11 @@
+corridor,nb_livraisons,nb_breach,taux_breach_pct,penalites_directes,cout_reacheminement_estime,cout_total_retard,rang_cout
+Mali → Ghana,501,472.0,94.2,49889.0,97463.0,147352.0,1
+Côte d'Ivoire → Sénégal,511,415.0,81.2,22673.0,108208.0,130881.0,2
+Cameroun → Ghana,488,418.0,85.7,28367.0,93605.0,121972.0,3
+Côte d'Ivoire → Ghana,483,364.0,75.4,23324.0,80286.0,103610.0,4
+Ghana → Mali,520,386.0,74.2,17725.0,76386.0,94111.0,5
+Cameroun → Côte d'Ivoire,488,342.0,70.1,18350.0,74931.0,93281.0,6
+Burkina Faso → Côte d'Ivoire,492,349.0,70.9,19005.0,69681.0,88686.0,7
+Burkina Faso → Ghana,488,331.0,67.8,12618.0,58008.0,70626.0,8
+Sénégal → Burkina Faso,500,281.0,56.2,10673.0,59389.0,70062.0,9
+Cameroun → Mali,490,293.0,59.8,12647.0,55589.0,68236.0,10

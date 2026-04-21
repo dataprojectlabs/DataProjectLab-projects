@@ -1,0 +1,15 @@
+transporteur,mode_transport,nb_livraisons,taux_breach_pct,csat_moyen,duree_moy_j,cout_moy_fcfa,total_penalites,ratio_penalite_cout_pct,rang_fiabilite,rang_csat,rang_cout,tier_fiabilite
+AirFreight Premium,Aérien,906,32.5,3.72,8.2,6832.0,51632.0,0.83,1,1,14,1
+FastCargo CI,Routier,864,35.6,3.68,8.7,1494.0,14570.0,1.13,2,6,10,1
+InterAfrik,Multimodal,898,37.0,3.72,8.9,1871.0,20840.0,1.24,3,1,12,1
+CamLog,Routier,873,37.2,3.66,8.9,1667.0,19475.0,1.34,4,7,11,1
+TransOuest,Multimodal,871,37.2,3.69,8.8,1985.0,26656.0,1.54,4,4,13,1
+RegionalLink,Routier,901,37.8,3.7,9.4,1192.0,12141.0,1.13,6,3,7,2
+GhanaLink,Routier,872,38.2,3.59,9.1,1367.0,13353.0,1.12,7,11,9,2
+LastMile CI,Routier,916,38.3,3.65,9.1,1085.0,11050.0,1.11,8,8,6,2
+OceanRoute,Maritime,886,38.6,3.64,9.0,693.0,6051.0,0.99,9,9,1,2
+CoastCargo,Maritime,949,39.2,3.69,9.6,703.0,10247.0,1.54,10,4,2,2
+WestAfrica Express,Routier,909,39.8,3.57,9.5,1240.0,14877.0,1.32,11,14,8,3
+BurkinaFret,Routier,1827,41.1,3.64,9.7,912.0,31120.0,1.87,12,9,4,3
+Sahel Transport,Routier,1899,42.3,3.59,9.8,953.0,31231.0,1.73,13,11,5,3
+NordSud Express,Routier,1429,42.8,3.59,10.3,742.0,17492.0,1.65,14,11,3,3
