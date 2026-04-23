@@ -1,0 +1,21 @@
+date,campaign_id,campaign_name,campaign_type,spend_jour,moyenne_30j,ecart_type_30j,z_score,niveau_alerte
+2023-10-23,CAMP0016,PerfMax-Inscriptions,Performance Max,46.9,51.91,0.15,-33.71,🔴 Anomalie sévère
+2023-09-01,CAMP0002,Shopping-Electronics,Shopping,94.88,51.25,3.84,11.38,🔴 Anomalie sévère
+2024-09-01,CAMP0009,Search-Generic-Banking,Search,65.27,33.93,3.3,9.49,🔴 Anomalie sévère
+2023-09-01,CAMP0018,Search-Destinations,Search,72.66,35.82,3.97,9.27,🔴 Anomalie sévère
+2024-09-01,CAMP0013,Search-Formations,Search,49.39,25.64,2.85,8.34,🔴 Anomalie sévère
+2023-09-26,CAMP0023,Search-MedicalEquip,Search,58.17,43.2,1.9,7.87,🔴 Anomalie sévère
+2024-09-01,CAMP0018,Search-Destinations,Search,65.33,36.78,3.67,7.78,🔴 Anomalie sévère
+2023-11-07,CAMP0004,PerfMax-AllProducts,Performance Max,142.36,121.28,2.72,7.75,🔴 Anomalie sévère
+2023-09-01,CAMP0010,PerfMax-LeadGen,Performance Max,79.97,46.14,4.46,7.58,🔴 Anomalie sévère
+2024-09-01,CAMP0002,Shopping-Electronics,Shopping,88.49,52.47,4.8,7.51,🔴 Anomalie sévère
+2023-09-01,CAMP0009,Search-Generic-Banking,Search,64.76,32.53,4.29,7.51,🔴 Anomalie sévère
+2024-09-01,CAMP0025,PerfMax-LeadGen,Performance Max,48.11,25.81,3.04,7.33,🔴 Anomalie sévère
+2023-08-29,CAMP0025,PerfMax-LeadGen,Performance Max,33.98,22.87,1.53,7.24,🔴 Anomalie sévère
+2024-09-01,CAMP0008,Search-CompetitorTerms,Search,37.73,21.91,2.41,6.56,🔴 Anomalie sévère
+2024-09-01,CAMP0022,Brand-MedSupply,Search,26.88,13.72,2.02,6.52,🔴 Anomalie sévère
+2024-09-01,CAMP0004,PerfMax-AllProducts,Performance Max,113.06,68.07,7.09,6.34,🔴 Anomalie sévère
+2023-09-01,CAMP0019,Shopping-Packages,Shopping,68.77,40.76,4.56,6.15,🔴 Anomalie sévère
+2024-09-01,CAMP0010,PerfMax-LeadGen,Performance Max,75.68,44.25,5.12,6.14,🔴 Anomalie sévère
+2024-09-02,CAMP0003,Shopping-Fashion,Shopping,81.86,42.81,6.47,6.04,🔴 Anomalie sévère
+2023-09-02,CAMP0008,Search-CompetitorTerms,Search,40.72,22.62,3.0,6.03,🔴 Anomalie sévère
