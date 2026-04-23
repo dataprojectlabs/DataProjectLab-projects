@@ -1,1 +1,41 @@
 departement,annee,masse_totale,nb_employes_moy,pct_annee,rang
+Technique & Reseau,2021,996698792.0,90,23.3,1
+Service Client,2021,883337647.0,106,20.6,2
+Commercial & Ventes,2021,765053902.0,70,17.9,3
+Informatique & Systemes,2021,462448388.0,30,10.8,4
+Marketing & Communication,2021,300043808.0,24,7.0,5
+Finance & Comptabilite,2021,238130255.0,25,5.6,6
+Logistique & Achats,2021,226218629.0,22,5.3,7
+Juridique & Conformite,2021,163034408.0,10,3.8,8
+Ressources Humaines,2021,138712152.0,12,3.2,9
+Direction Generale,2021,107143811.0,4,2.5,10
+Technique & Reseau,2022,1178536333.0,99,23.6,1
+Service Client,2022,989525811.0,115,19.8,2
+Commercial & Ventes,2022,882142530.0,77,17.6,3
+Informatique & Systemes,2022,560855535.0,37,11.2,4
+Marketing & Communication,2022,345760045.0,27,6.9,5
+Finance & Comptabilite,2022,281705457.0,28,5.6,6
+Logistique & Achats,2022,242719371.0,21,4.9,7
+Juridique & Conformite,2022,197649930.0,13,4.0,8
+Ressources Humaines,2022,172603133.0,16,3.5,9
+Direction Generale,2022,149639361.0,5,3.0,10
+Technique & Reseau,2023,1304398507.0,104,22.7,1
+Service Client,2023,1089657628.0,120,18.9,2
+Commercial & Ventes,2023,1016234607.0,88,17.7,3
+Informatique & Systemes,2023,710524114.0,43,12.4,4
+Marketing & Communication,2023,379741830.0,28,6.6,5
+Finance & Comptabilite,2023,371460213.0,34,6.5,6
+Logistique & Achats,2023,264865105.0,22,4.6,7
+Juridique & Conformite,2023,237179527.0,15,4.1,8
+Ressources Humaines,2023,212780682.0,20,3.7,9
+Direction Generale,2023,164359609.0,5,2.9,10
+Technique & Reseau,2024,653542760.0,101,22.7,1
+Service Client,2024,547024541.0,118,19.0,2
+Commercial & Ventes,2024,516709168.0,85,17.9,3
+Informatique & Systemes,2024,355028960.0,41,12.3,4
+Marketing & Communication,2024,180374056.0,26,6.3,5
+Finance & Comptabilite,2024,178234912.0,31,6.2,6
+Logistique & Achats,2024,129690121.0,22,4.5,7
+Juridique & Conformite,2024,129038521.0,15,4.5,8
+Ressources Humaines,2024,112668046.0,20,3.9,9
+Direction Generale,2024,82892721.0,5,2.9,10
