@@ -3,14 +3,18 @@ build_banners.py
 Genere les banners PNG d'en-tete des notebooks DataProjectLab.
 
 Resolution : 1600x240 px par banner (16:2.4)
-Sortie : ../media/banners/banner_<project>.png
+Sortie : ../media/banners/banner_<id>.png
+
+Chaque entree de la liste BANNERS produit un PNG.
+Pour ajouter un notebook : copier-coller un dict, modifier id/tag/title/subtitle/meta.
 
 Prerequis :
-    pip install pillow requests
+    pip install pillow
 
 Usage :
-    python build_banners.py                                    # genere les 3 banners
-    python build_banners.py --project ecommerce_analytics      # un seul
+    python build_banners.py                       # genere TOUS les banners
+    python build_banners.py --id ecom_nb1_sol     # un seul (par son id)
+    python build_banners.py --filter ecom         # tous ceux dont l'id contient "ecom"
 """
 
 from PIL import Image, ImageDraw, ImageFont
@@ -18,6 +22,165 @@ from pathlib import Path
 import argparse
 import sys
 import urllib.request
+
+# ============================================================
+# Liste des banners a generer
+# ============================================================
+#
+# Conventions :
+# - id : kebab-case, sert de nom de fichier (banner_<id>.png)
+# - tag : ligne du haut en uppercase. Exemples :
+#       "DATAPROJECTLAB · VERSION ETUDIANT"
+#       "DATAPROJECTLAB · VERSION CORRIGEE"
+#       "DATAPROJECTLAB · GUIDE POWER BI"
+# - title : nom du projet (Georgia bold 42)
+# - subtitle : focus du notebook (light 20)
+# - meta : 3 a 4 chips affiches en bas
+#
+# Pour ajouter un notebook : dupliquer un dict et adapter.
+# ============================================================
+
+BANNERS = [
+    # ---------- E-COMMERCE ANALYTICS ----------
+    {
+        "id": "ecommerce_main",
+        "tag": "DATAPROJECTLAB  ·  POWER BI  ·  E-COMMERCE",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "Construire le tableau de bord ShopAfrica+ pas a pas",
+        "meta": ["Niveau Intermediaire", "Duree 6 a 8 h", "Python  SQL  Power BI", "5 pages   72 mesures"],
+    },
+    {
+        "id": "ecommerce_nb1_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "Contexte metier & exploration des donnees",
+        "meta": ["Niveau Intermediaire", "Duree 1 a 2 h", "Python  pandas  matplotlib"],
+    },
+    {
+        "id": "ecommerce_nb1_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "Contexte metier & exploration des donnees",
+        "meta": ["Niveau Intermediaire", "Duree 1 a 2 h", "Python  pandas  matplotlib"],
+    },
+    {
+        "id": "ecommerce_nb2_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "Data cleaning & feature engineering",
+        "meta": ["Niveau Intermediaire", "Duree 1 a 2 h", "Python  pandas  numpy"],
+    },
+    {
+        "id": "ecommerce_nb2_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "Data cleaning & feature engineering",
+        "meta": ["Niveau Intermediaire", "Duree 1 a 2 h", "Python  pandas  numpy"],
+    },
+    {
+        "id": "ecommerce_nb3_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "SQL analytics & EDA — KPIs e-commerce",
+        "meta": ["Niveau Intermediaire", "Duree 2 h", "DuckDB  SQL  CTE  fenetres"],
+    },
+    {
+        "id": "ecommerce_nb3_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "SQL analytics & EDA — KPIs e-commerce",
+        "meta": ["Niveau Intermediaire", "Duree 2 h", "DuckDB  SQL  CTE  fenetres"],
+    },
+    {
+        "id": "ecommerce_nb4_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "Machine learning — segmentation RFM & sentiment",
+        "meta": ["Niveau Intermediaire", "Duree 2 h", "scikit-learn  NLP"],
+    },
+    {
+        "id": "ecommerce_nb4_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "Machine learning — segmentation RFM & sentiment",
+        "meta": ["Niveau Intermediaire", "Duree 2 h", "scikit-learn  NLP"],
+    },
+    {
+        "id": "ecommerce_powerbi_guide",
+        "tag": "DATAPROJECTLAB  ·  GUIDE POWER BI",
+        "title": "E-Commerce Analytics 360",
+        "subtitle": "Construire le tableau de bord ShopAfrica+ pas a pas",
+        "meta": ["Niveau Intermediaire", "Duree 6 a 8 h", "Power BI Desktop 2.140+", "5 pages   72 mesures"],
+    },
+
+    # ---------- CUSTOMER SUPPORT ANALYTICS ----------
+    {
+        "id": "customer_support_main",
+        "tag": "DATAPROJECTLAB  ·  POWER BI  ·  CUSTOMER SUPPORT",
+        "title": "AfriCare Support Analytics",
+        "subtitle": "Construire le tableau de bord SLA & Risque ML pas a pas",
+        "meta": ["Niveau Intermediaire", "Duree 6 a 7 h", "Python  SQL  Power BI", "4 pages   48 mesures"],
+    },
+    {
+        "id": "customer_support_nb1_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "title": "AfriCare Support Analytics",
+        "subtitle": "Contexte metier & exploration des tickets",
+        "meta": ["Niveau Intermediaire", "Duree 1 a 2 h", "Python  pandas  matplotlib"],
+    },
+    {
+        "id": "customer_support_nb1_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "AfriCare Support Analytics",
+        "subtitle": "Contexte metier & exploration des tickets",
+        "meta": ["Niveau Intermediaire", "Duree 1 a 2 h", "Python  pandas  matplotlib"],
+    },
+    {
+        "id": "customer_support_nb2_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "title": "AfriCare Support Analytics",
+        "subtitle": "SQL analytics — RANK, LAG sur performance agents",
+        "meta": ["Niveau Intermediaire", "Duree 2 h", "DuckDB  window functions"],
+    },
+    {
+        "id": "customer_support_nb2_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "AfriCare Support Analytics",
+        "subtitle": "SQL analytics — RANK, LAG sur performance agents",
+        "meta": ["Niveau Intermediaire", "Duree 2 h", "DuckDB  window functions"],
+    },
+    {
+        "id": "customer_support_nb3_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "title": "AfriCare Support Analytics",
+        "subtitle": "Machine learning — 3 modeles & seuil metier",
+        "meta": ["Niveau Intermediaire", "Duree 2 h", "scikit-learn  validation temporelle"],
+    },
+    {
+        "id": "customer_support_nb3_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "AfriCare Support Analytics",
+        "subtitle": "Machine learning — 3 modeles & seuil metier",
+        "meta": ["Niveau Intermediaire", "Duree 2 h", "scikit-learn  validation temporelle"],
+    },
+    {
+        "id": "customer_support_powerbi_guide",
+        "tag": "DATAPROJECTLAB  ·  GUIDE POWER BI",
+        "title": "AfriCare Support Analytics",
+        "subtitle": "Construire le tableau de bord SLA & Risque ML pas a pas",
+        "meta": ["Niveau Intermediaire", "Duree 6 a 7 h", "Power BI Desktop 2.140+", "4 pages   48 mesures"],
+    },
+
+    # ---------- ELEARNING ANALYTICS ----------
+    {
+        "id": "elearning_main",
+        "tag": "DATAPROJECTLAB  ·  POWER BI  ·  EDTECH",
+        "title": "EduTrack Analytics",
+        "subtitle": "Construire le tableau de bord pedagogique pas a pas",
+        "meta": ["Niveau Intermediaire", "Duree 6 a 7 h", "Python  SQL  Power BI"],
+    },
+]
+
 
 # ============================================================
 # Configuration
@@ -28,75 +191,31 @@ LOGO_URL = "https://raw.githubusercontent.com/dataprojectlabs/DataProjectLab-pro
 LOGO_CACHE = ROOT / ".cache_logo_dataprojectlab.png"
 OUTPUT_DIR = ROOT.parent / "media" / "banners"
 
-# Resolution finale
 W = 1600
 H = 240
 
-# Couleurs (palette validee DataProjectLab)
-GRAD_LEFT = (249, 249, 248)   # #F9F9F8
-GRAD_MID = (238, 237, 254)    # #EEEDFE
-GRAD_RIGHT = (224, 218, 255)  # #E0DAFF
+GRAD_LEFT = (249, 249, 248)
+GRAD_MID = (238, 237, 254)
+GRAD_RIGHT = (224, 218, 255)
 
-COLOR_TAG = (83, 74, 183)        # #534AB7 violet primary
-COLOR_TITLE = (30, 58, 95)       # #1E3A5F navy
-COLOR_SUBTITLE = (83, 74, 183)   # #534AB7
-COLOR_META = (107, 114, 128)     # #6B7280 grey
-COLOR_BORDER = (199, 210, 254)   # #C7D2FE light violet
+COLOR_TAG = (83, 74, 183)
+COLOR_TITLE = (30, 58, 95)
+COLOR_SUBTITLE = (83, 74, 183)
+COLOR_META = (107, 114, 128)
+COLOR_BORDER = (199, 210, 254)
 
-# Layout (proportions calees sur le HTML)
 PAD_X = 48
 PAD_Y = 36
-COL_TEXT_W = int(W * 8 / 12)  # 8/12
-COL_LOGO_W = W - COL_TEXT_W   # 4/12
+COL_TEXT_W = int(W * 8 / 12)
+COL_LOGO_W = W - COL_TEXT_W
 LOGO_MAX_W = 280
 LOGO_MAX_H = H - PAD_Y * 2
 
 # ============================================================
-# Configurations par projet
-# ============================================================
-
-PROJECTS = {
-    "ecommerce_analytics": {
-        "tag": "DATAPROJECTLAB  ·  POWER BI  ·  E-COMMERCE",
-        "title": "E-Commerce Analytics 360",
-        "subtitle": "Construire le tableau de bord ShopAfrica+ pas a pas",
-        "meta": [
-            "Niveau Intermediaire",
-            "Duree 6 a 8 h",
-            "Power BI Desktop 2.140+",
-            "5 pages   72 mesures",
-        ],
-    },
-    "customer_support_analytics": {
-        "tag": "DATAPROJECTLAB  ·  POWER BI  ·  CUSTOMER SUPPORT",
-        "title": "AfriCare Support Analytics",
-        "subtitle": "Construire le tableau de bord SLA & Risque ML pas a pas",
-        "meta": [
-            "Niveau Intermediaire",
-            "Duree 6 a 7 h",
-            "Power BI Desktop 2.140+",
-            "4 pages   48 mesures",
-        ],
-    },
-    "elearning_analytics": {
-        "tag": "DATAPROJECTLAB  ·  POWER BI  ·  EDTECH",
-        "title": "EduTrack Analytics",
-        "subtitle": "Construire le tableau de bord pedagogique pas a pas",
-        "meta": [
-            "Niveau Intermediaire",
-            "Duree 6 a 7 h",
-            "Power BI Desktop 2.140+",
-            "4 pages",
-        ],
-    },
-}
-
-# ============================================================
-# Helpers polices
+# Helpers
 # ============================================================
 
 def load_font(size, weight="regular"):
-    """weight : 'regular' | 'bold' | 'light' | 'semibold'."""
     paths = {
         "regular":  ["C:/Windows/Fonts/segoeui.ttf", "C:/Windows/Fonts/arial.ttf"],
         "bold":     ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"],
@@ -119,10 +238,6 @@ def load_serif(size):
             continue
     return load_font(size, "bold")
 
-
-# ============================================================
-# Helpers gradient et logo
-# ============================================================
 
 def draw_horizontal_gradient(canvas, left_col, mid_col, right_col):
     draw = ImageDraw.Draw(canvas)
@@ -153,8 +268,8 @@ def download_logo():
 # Construction d'un banner
 # ============================================================
 
-def build_banner(project_id, config):
-    print(f"\n[{project_id}]")
+def build_banner(cfg):
+    print(f"\n[{cfg['id']}]")
     canvas = Image.new("RGB", (W, H), GRAD_LEFT)
     draw_horizontal_gradient(canvas, GRAD_LEFT, GRAD_MID, GRAD_RIGHT)
     draw = ImageDraw.Draw(canvas, "RGBA")
@@ -163,34 +278,25 @@ def build_banner(project_id, config):
     x = PAD_X
     y = PAD_Y
 
-    # Tag (uppercase, letter-spaced via espaces multiples)
     tag_font = load_font(14, "bold")
-    draw.text((x, y), config["tag"], font=tag_font, fill=COLOR_TAG)
+    draw.text((x, y), cfg["tag"], font=tag_font, fill=COLOR_TAG)
     y += 30
 
-    # Titre Georgia serif
     title_font = load_serif(42)
-    draw.text((x, y), config["title"], font=title_font, fill=COLOR_TITLE)
+    draw.text((x, y), cfg["title"], font=title_font, fill=COLOR_TITLE)
     y += 56
 
-    # Sous-titre
     sub_font = load_font(20, "light")
-    draw.text((x, y), config["subtitle"], font=sub_font, fill=COLOR_SUBTITLE)
+    draw.text((x, y), cfg["subtitle"], font=sub_font, fill=COLOR_SUBTITLE)
     y += 38
 
-    # Separateur
     sep_y = y + 6
-    draw.line(
-        [(x, sep_y), (COL_TEXT_W - 16, sep_y)],
-        fill=COLOR_BORDER,
-        width=1,
-    )
+    draw.line([(x, sep_y), (COL_TEXT_W - 16, sep_y)], fill=COLOR_BORDER, width=1)
 
-    # Meta : items separes par "  -  "
     meta_font = load_font(13, "regular")
     mx = x
     my = sep_y + 12
-    for i, item in enumerate(config["meta"]):
+    for i, item in enumerate(cfg["meta"]):
         if i > 0:
             sep = "   -   "
             draw.text((mx, my), sep, font=meta_font, fill=COLOR_BORDER)
@@ -208,9 +314,8 @@ def build_banner(project_id, config):
     logo_y = (H - new_h) // 2
     canvas.paste(logo, (logo_x, logo_y), logo)
 
-    # ---- Sauvegarde ----
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    out = OUTPUT_DIR / f"banner_{project_id}.png"
+    out = OUTPUT_DIR / f"banner_{cfg['id']}.png"
     canvas.save(out, "PNG", optimize=True)
     print(f"  -> {out}  ({W}x{H})")
 
@@ -221,30 +326,42 @@ def build_banner(project_id, config):
 
 def main():
     parser = argparse.ArgumentParser(description="Genere les banners PNG DataProjectLab.")
-    parser.add_argument(
-        "--project",
-        help=f"ID du projet (defaut : tous). Choix : {', '.join(PROJECTS.keys())}",
-    )
+    parser.add_argument("--id", help="Genere uniquement le banner avec cet id exact.")
+    parser.add_argument("--filter", help="Genere les banners dont l'id contient ce mot.")
+    parser.add_argument("--list", action="store_true", help="Liste tous les ids disponibles.")
     args = parser.parse_args()
 
-    if args.project:
-        if args.project not in PROJECTS:
-            print(f"[ERREUR] Projet inconnu : {args.project}")
-            print(f"Disponibles : {', '.join(PROJECTS.keys())}")
-            sys.exit(1)
-        build_banner(args.project, PROJECTS[args.project])
-    else:
-        for pid, cfg in PROJECTS.items():
-            build_banner(pid, cfg)
+    if args.list:
+        print(f"\n{len(BANNERS)} banners definis :\n")
+        for cfg in BANNERS:
+            print(f"  {cfg['id']:40s}  {cfg['title']} - {cfg['subtitle']}")
+        return
 
-    print("\n[OK] Termine.")
+    if args.id:
+        match = [c for c in BANNERS if c["id"] == args.id]
+        if not match:
+            print(f"[ERREUR] Aucun banner avec id='{args.id}'")
+            sys.exit(1)
+        build_banner(match[0])
+    elif args.filter:
+        matches = [c for c in BANNERS if args.filter.lower() in c["id"].lower()]
+        if not matches:
+            print(f"[ERREUR] Aucun banner ne matche le filtre '{args.filter}'")
+            sys.exit(1)
+        for c in matches:
+            build_banner(c)
+    else:
+        for c in BANNERS:
+            build_banner(c)
+
+    print(f"\n[OK] Termine. Banners dans : {OUTPUT_DIR}")
 
 
 if __name__ == "__main__":
     try:
         main()
     except ImportError:
-        print("[ERREUR] Pillow n'est pas installe. Lance : pip install pillow")
+        print("[ERREUR] Pillow manquant : pip install pillow")
         sys.exit(1)
     except Exception as e:
         print(f"[ERREUR] {type(e).__name__} : {e}")
