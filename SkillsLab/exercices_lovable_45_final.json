@@ -1,0 +1,968 @@
+{
+  "spot_the_bug": [
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Debutant",
+      "title": "Top 5 produits par CA",
+      "points": 1,
+      "prompt": "Le code ci-dessous doit retourner le top 5 des produits avec le plus gros chiffre d'affaires. Trouve le bug.",
+      "hint": "Regarde bien le sens du tri. Que veut dire 'top 5' pour un CA ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"com\"># Top 5 produits par CA</span></span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"ventes.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">ca_par_produit <span class=\"punc\">=</span> <span class=\"punc\">(</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\">    df</span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\">    <span class=\"punc\">.</span><span class=\"fn\">groupby</span><span class=\"punc\">(</span><span class=\"str\">\"produit\"</span><span class=\"punc\">)</span><span class=\"punc\">[</span><span class=\"str\">\"ca\"</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"false\">    <span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"8\" data-correct=\"false\">    <span class=\"punc\">.</span><span class=\"fn\">reset_index</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"9\" data-correct=\"true\">    <span class=\"punc\">.</span><span class=\"fn\">sort_values</span><span class=\"punc\">(</span><span class=\"str\">\"ca\"</span><span class=\"punc\">,</span> ascending<span class=\"punc\">=</span><span class=\"kw\">True</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"10\" data-correct=\"false\">    <span class=\"punc\">.</span><span class=\"fn\">head</span><span class=\"punc\">(</span><span class=\"num\">5</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"11\" data-correct=\"false\"><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"12\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>ca_par_produit<span class=\"punc\">)</span></span>",
+      "correct_line": 9,
+      "explanation": "ascending=True trie du plus petit au plus grand. Combine a .head(5), tu obtiens les 5 produits avec le PLUS PETIT CA. Il faut ascending=False pour le top 5.",
+      "trap": "Piege recruteur : tu lis 'top 5' et tu fais .head(5) sans verifier l'ordre de tri."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Debutant",
+      "title": "Suppression des doublons",
+      "points": 1,
+      "prompt": "Le code doit supprimer les lignes en double. Trouve le bug.",
+      "hint": "Est-ce que le resultat de drop_duplicates() est sauvegarde quelque part ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"clients.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"true\">df<span class=\"punc\">.</span><span class=\"fn\">drop_duplicates</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">.</span>shape<span class=\"punc\">)</span></span>",
+      "correct_line": 3,
+      "explanation": "drop_duplicates() retourne un NOUVEAU DataFrame sans modifier l'original. Il faut : df = df.drop_duplicates() ou df.drop_duplicates(inplace=True).",
+      "trap": "Piege classique : la plupart des methodes pandas ne modifient pas le DataFrame en place."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Debutant",
+      "title": "Remplacement des NaN par la mediane",
+      "points": 1,
+      "prompt": "Le code remplace les valeurs manquantes de 'revenu' par la mediane. Trouve le bug.",
+      "hint": "Meme piege que drop_duplicates : le resultat est-il sauvegarde ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"salaires.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">mediane <span class=\"punc\">=</span> df<span class=\"punc\">[</span><span class=\"str\">\"revenu\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">median</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"true\">df<span class=\"punc\">[</span><span class=\"str\">\"revenu\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">fillna</span><span class=\"punc\">(</span>mediane<span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"revenu\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">isnull</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "correct_line": 4,
+      "explanation": "fillna() retourne un nouveau Series sans modifier df. Il faut : df['revenu'] = df['revenu'].fillna(mediane).",
+      "trap": "On croit que fillna modifie directement la colonne. Il retourne une copie."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Operateur or sur des Series",
+      "points": 1,
+      "prompt": "Le code doit garder les lignes ou montant > 0 OU quantite >= 0. Trouve le bug.",
+      "hint": "Python 'or' ne fonctionne pas sur des Series pandas. Quel operateur utiliser ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"transactions.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"true\">df <span class=\"punc\">=</span> df<span class=\"punc\">[</span>df<span class=\"punc\">[</span><span class=\"str\">\"montant\"</span><span class=\"punc\">]</span> <span class=\"punc\">&gt;</span> <span class=\"num\">0</span> <span class=\"kw\">or</span> df<span class=\"punc\">[</span><span class=\"str\">\"quantite\"</span><span class=\"punc\">]</span> <span class=\"punc\">&gt;</span><span class=\"punc\">=</span> <span class=\"num\">0</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">.</span>shape<span class=\"punc\">)</span></span>",
+      "correct_line": 3,
+      "explanation": "L'operateur 'or' ne fonctionne pas sur des Series pandas (ambiguite). Il faut utiliser | avec des parentheses : df[(df['montant'] > 0) | (df['quantite'] >= 0)].",
+      "trap": "Piege : or/and Python vs |/& pandas. Les parentheses sont obligatoires."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Nettoyage de texte et filtre",
+      "points": 1,
+      "prompt": "Le code doit filtrer les clients de la ville 'Paris'. Trouve le bug.",
+      "hint": "Les espaces invisibles autour du texte sont-ils geres ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"clients.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"true\">paris <span class=\"punc\">=</span> df<span class=\"punc\">[</span>df<span class=\"punc\">[</span><span class=\"str\">\"ville\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span><span class=\"punc\">=</span> <span class=\"str\">\"Paris\"</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span><span class=\"kw\">len</span><span class=\"punc\">(</span>paris<span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "correct_line": 3,
+      "explanation": "Les donnees CSV contiennent souvent des espaces autour des valeurs (' Paris '). Il faut d'abord nettoyer : df['ville'] = df['ville'].str.strip() avant de filtrer.",
+      "trap": "Le code semble correct syntaxiquement, mais il ne gere pas les espaces invisibles dans les donnees."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Extraction du mois depuis une date",
+      "points": 1,
+      "prompt": "Le code doit extraire le mois de la colonne 'date'. Trouve le bug.",
+      "hint": "La colonne 'date' est-elle bien au format datetime ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"ventes.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"true\">df<span class=\"punc\">[</span><span class=\"str\">\"mois\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> df<span class=\"punc\">[</span><span class=\"str\">\"date\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span>dt<span class=\"punc\">.</span>month</span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"mois\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">head</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "correct_line": 3,
+      "explanation": "La colonne 'date' est chargee comme string par read_csv. Il faut d'abord convertir : df['date'] = pd.to_datetime(df['date']) ou utiliser parse_dates=['date'] dans read_csv.",
+      "trap": "On oublie que read_csv charge les dates comme des strings par defaut."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Encodage one-hot avec concat",
+      "points": 1,
+      "prompt": "Le code cree des colonnes one-hot pour 'categorie' et les ajoute au DataFrame. Trouve le bug.",
+      "hint": "Regarde le nombre de colonnes du get_dummies. Y a-t-il une colonne de trop ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"produits.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"true\">dummies <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">get_dummies</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"categorie\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">concat</span><span class=\"punc\">(</span><span class=\"punc\">[</span>df<span class=\"punc\">,</span> dummies<span class=\"punc\">]</span><span class=\"punc\">,</span> axis<span class=\"punc\">=</span><span class=\"num\">1</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">.</span><span class=\"fn\">head</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "correct_line": 3,
+      "explanation": "get_dummies sans drop_first=True cree une colonne par modalite, ce qui introduit une multicolinearite parfaite. Il faut : pd.get_dummies(df['categorie'], drop_first=True).",
+      "trap": "Le code fonctionne mais cree un piege statistique. En ML, la multicolinearite fausse les coefficients."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Avance",
+      "title": "Rolling mean avec data leakage",
+      "points": 2,
+      "prompt": "Le code calcule la moyenne mobile sur 7 jours pour predire les ventes. Trouve le bug.",
+      "hint": "La moyenne mobile inclut-elle la valeur du jour courant ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"ventes.csv\"</span><span class=\"punc\">,</span> parse_dates<span class=\"punc\">=</span><span class=\"punc\">[</span><span class=\"str\">\"date\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">df <span class=\"punc\">=</span> df<span class=\"punc\">.</span><span class=\"fn\">sort_values</span><span class=\"punc\">(</span><span class=\"str\">\"date\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"true\">df<span class=\"punc\">[</span><span class=\"str\">\"rolling_7j\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> df<span class=\"punc\">[</span><span class=\"str\">\"ventes\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">rolling</span><span class=\"punc\">(</span><span class=\"num\">7</span><span class=\"punc\">)</span><span class=\"punc\">.</span><span class=\"fn\">mean</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\">df<span class=\"punc\">[</span><span class=\"str\">\"target\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> df<span class=\"punc\">[</span><span class=\"str\">\"ventes\"</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"punc\">[</span><span class=\"str\">\"date\"</span><span class=\"punc\">,</span> <span class=\"str\">\"rolling_7j\"</span><span class=\"punc\">,</span> <span class=\"str\">\"target\"</span><span class=\"punc\">]</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">head</span><span class=\"punc\">(</span><span class=\"num\">10</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "correct_line": 4,
+      "explanation": "rolling(7).mean() inclut la valeur du jour courant dans le calcul. C'est du data leakage car on utilise la target pour la predire. Il faut : df['ventes'].shift(1).rolling(7).mean().",
+      "trap": "Le data leakage est invisible : le modele semble performant en entrainement mais echoue en production."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Normalisation Min-Max incorrecte",
+      "points": 1,
+      "prompt": "Le code normalise la colonne 'prix' entre 0 et 1. Trouve le bug.",
+      "hint": "Regarde bien la formule Min-Max. Quel est le denominateur correct ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"produits.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"true\">df<span class=\"punc\">[</span><span class=\"str\">\"prix_norm\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> <span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"prix\"</span><span class=\"punc\">]</span> <span class=\"punc\">-</span> df<span class=\"punc\">[</span><span class=\"str\">\"prix\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"kw\">min</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span> <span class=\"punc\">/</span> df<span class=\"punc\">[</span><span class=\"str\">\"prix\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"kw\">max</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"prix_norm\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">describe</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "correct_line": 3,
+      "explanation": "La formule Min-Max est (x - min) / (max - min), pas (x - min) / max. Le denominateur doit etre df['prix'].max() - df['prix'].min().",
+      "trap": "On simplifie la formule en oubliant de soustraire le min au denominateur."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Avance",
+      "title": "Label Encoding sur variable ordinale",
+      "points": 2,
+      "prompt": "Le code encode la satisfaction client (Bas, Moyen, Haut) en chiffres. Trouve le bug.",
+      "hint": "LabelEncoder respecte-t-il l'ordre logique des categories ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\"><span class=\"kw\">from</span> sklearn<span class=\"punc\">.</span>preprocessing <span class=\"kw\">import</span> LabelEncoder</span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"clients.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">le <span class=\"punc\">=</span> <span class=\"fn\">LabelEncoder</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"true\">df<span class=\"punc\">[</span><span class=\"str\">\"satisfaction_enc\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> le<span class=\"punc\">.</span><span class=\"fn\">fit_transform</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"satisfaction\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>le<span class=\"punc\">.</span>classes_<span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"satisfaction_enc\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">value_counts</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "correct_line": 5,
+      "explanation": "LabelEncoder encode par ordre alphabetique : Bas=0, Haut=1, Moyen=2. L'ordre logique (Bas < Moyen < Haut) n'est pas respecte. Utiliser pd.Categorical avec categories ordonnees ou un mapping manuel.",
+      "trap": "LabelEncoder ne connait pas la semantique des categories. L'ordre alphabetique != ordre logique."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Debutant",
+      "title": "Graphique savefig apres show",
+      "points": 1,
+      "prompt": "Le code genere un graphique et le sauvegarde en PNG. Trouve le bug.",
+      "hint": "Que se passe-t-il quand plt.show() est appele avant savefig ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\"><span class=\"kw\">import</span> matplotlib<span class=\"punc\">.</span>pyplot <span class=\"kw\">as</span> plt</span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"ventes.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">df<span class=\"punc\">.</span><span class=\"fn\">plot</span><span class=\"punc\">(</span>x<span class=\"punc\">=</span><span class=\"str\">\"mois\"</span><span class=\"punc\">,</span> y<span class=\"punc\">=</span><span class=\"str\">\"ca\"</span><span class=\"punc\">,</span> kind<span class=\"punc\">=</span><span class=\"str\">\"bar\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\">plt<span class=\"punc\">.</span><span class=\"fn\">title</span><span class=\"punc\">(</span><span class=\"str\">\"CA mensuel\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\">plt<span class=\"punc\">.</span><span class=\"fn\">show</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"true\">plt<span class=\"punc\">.</span><span class=\"fn\">savefig</span><span class=\"punc\">(</span><span class=\"str\">\"graphique.png\"</span><span class=\"punc\">)</span></span>",
+      "correct_line": 7,
+      "explanation": "plt.show() vide la figure en memoire. Apres show(), savefig() sauvegarde une image vide. Il faut appeler savefig() AVANT show().",
+      "trap": "L'ordre semble logique (afficher puis sauvegarder) mais matplotlib vide la figure apres show()."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Taux de churn avec accent",
+      "points": 1,
+      "prompt": "Le code calcule le taux de clients 'Resilie'. Trouve le bug.",
+      "hint": "Les accents dans les donnees correspondent-ils exactement au filtre ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"clients.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"true\">nb_resilies <span class=\"punc\">=</span> <span class=\"kw\">len</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span>df<span class=\"punc\">[</span><span class=\"str\">\"statut\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span><span class=\"punc\">=</span> <span class=\"str\">\"Resilie\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">taux_churn <span class=\"punc\">=</span> nb_resilies <span class=\"punc\">/</span> <span class=\"kw\">len</span><span class=\"punc\">(</span>df<span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>f<span class=\"str\">\"Taux de churn : {taux_churn:.1%}\"</span><span class=\"punc\">)</span></span>",
+      "correct_line": 3,
+      "explanation": "Dans le CSV, la valeur est probablement 'Resilie' (avec accent e). Le filtre 'Resilie' (sans accent) ne match rien. Toujours verifier avec df['statut'].unique() avant de filtrer.",
+      "trap": "Les accents sont invisibles a l'oeil dans le code mais font echouer silencieusement le filtre."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Variation mensuelle denominateur zero",
+      "points": 1,
+      "prompt": "Le code calcule la variation mensuelle du CA. Trouve le bug.",
+      "hint": "Que se passe-t-il si le CA du mois precedent est 0 ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"ca_mensuel.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">df <span class=\"punc\">=</span> df<span class=\"punc\">.</span><span class=\"fn\">sort_values</span><span class=\"punc\">(</span><span class=\"str\">\"mois\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"true\">df<span class=\"punc\">[</span><span class=\"str\">\"variation\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> <span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"ca\"</span><span class=\"punc\">]</span> <span class=\"punc\">-</span> df<span class=\"punc\">[</span><span class=\"str\">\"ca\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">shift</span><span class=\"punc\">(</span><span class=\"num\">1</span><span class=\"punc\">)</span><span class=\"punc\">)</span> <span class=\"punc\">/</span> df<span class=\"punc\">[</span><span class=\"str\">\"ca\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">shift</span><span class=\"punc\">(</span><span class=\"num\">1</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"punc\">[</span><span class=\"str\">\"mois\"</span><span class=\"punc\">,</span> <span class=\"str\">\"ca\"</span><span class=\"punc\">,</span> <span class=\"str\">\"variation\"</span><span class=\"punc\">]</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span>",
+      "correct_line": 4,
+      "explanation": "Si le CA du mois precedent est 0, on obtient une division par zero (inf). Il faut utiliser : df['ca'].pct_change() qui gere ce cas, ou ajouter un .replace([np.inf, -np.inf], np.nan).",
+      "trap": "Le calcul est mathematiquement correct mais ne gere pas le cas limite du denominateur nul."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Avance",
+      "title": "CAGR nombre de periodes",
+      "points": 2,
+      "prompt": "Le code calcule le CAGR (taux de croissance annuel compose) sur 5 ans. Trouve le bug.",
+      "hint": "Le nombre de periodes est-il bien 5 ou 4 ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">ca <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">Series</span><span class=\"punc\">(</span><span class=\"punc\">[</span><span class=\"num\">100</span><span class=\"punc\">,</span> <span class=\"num\">120</span><span class=\"punc\">,</span> <span class=\"num\">150</span><span class=\"punc\">,</span> <span class=\"num\">180</span><span class=\"punc\">,</span> <span class=\"num\">200</span><span class=\"punc\">,</span> <span class=\"num\">250</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">n <span class=\"punc\">=</span> <span class=\"kw\">len</span><span class=\"punc\">(</span>ca<span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"true\">cagr <span class=\"punc\">=</span> <span class=\"punc\">(</span>ca<span class=\"punc\">.</span>iloc<span class=\"punc\">[</span><span class=\"punc\">-</span><span class=\"num\">1</span><span class=\"punc\">]</span> <span class=\"punc\">/</span> ca<span class=\"punc\">.</span>iloc<span class=\"punc\">[</span><span class=\"num\">0</span><span class=\"punc\">]</span><span class=\"punc\">)</span> <span class=\"punc\">*</span><span class=\"punc\">*</span> <span class=\"punc\">(</span><span class=\"num\">1</span> <span class=\"punc\">/</span> n<span class=\"punc\">)</span> <span class=\"punc\">-</span> <span class=\"num\">1</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>f<span class=\"str\">\"CAGR : {cagr:.1%}\"</span><span class=\"punc\">)</span></span>",
+      "correct_line": 4,
+      "explanation": "Le CAGR se calcule avec n-1 periodes, pas n. Avec 6 valeurs, il y a 5 periodes. La formule correcte est : (fin/debut) ** (1/(n-1)) - 1.",
+      "trap": "Confusion entre nombre de points de donnees (6) et nombre de periodes (5). Erreur frequente en finance."
+    },
+    {
+      "format": "Spot the Bug (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Merge avec suffixes ignores",
+      "points": 1,
+      "prompt": "Le code fusionne deux tables qui ont une colonne 'nom' en commun. Trouve le bug.",
+      "hint": "Apres le merge, combien de colonnes 'nom' y a-t-il ?",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">clients <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"clients.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">commandes <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">read_csv</span><span class=\"punc\">(</span><span class=\"str\">\"commandes.csv\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">merged <span class=\"punc\">=</span> clients<span class=\"punc\">.</span><span class=\"fn\">merge</span><span class=\"punc\">(</span>commandes<span class=\"punc\">,</span> on<span class=\"punc\">=</span><span class=\"str\">\"client_id\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"true\">total <span class=\"punc\">=</span> merged<span class=\"punc\">.</span><span class=\"fn\">groupby</span><span class=\"punc\">(</span><span class=\"str\">\"nom\"</span><span class=\"punc\">)</span><span class=\"punc\">[</span><span class=\"str\">\"montant\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>total<span class=\"punc\">.</span><span class=\"fn\">head</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "correct_line": 5,
+      "explanation": "Si les deux tables ont une colonne 'nom', le merge cree 'nom_x' et 'nom_y'. Le groupby('nom') echoue car la colonne 'nom' n'existe plus. Il faut specifier suffixes ou renommer avant.",
+      "trap": "On oublie que merge renomme automatiquement les colonnes en doublon avec _x et _y."
+    }
+  ],
+  "predict_the_output": [
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Debutant",
+      "title": "Compter les NaN",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "isnull() retourne True/False pour chaque cellule. sum() additionne les True.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\"><span class=\"kw\">import</span> numpy <span class=\"kw\">as</span> np</span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span><span class=\"str\">\"age\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">25</span><span class=\"punc\">,</span> np<span class=\"punc\">.</span>nan<span class=\"punc\">,</span> <span class=\"num\">30</span><span class=\"punc\">,</span> np<span class=\"punc\">.</span>nan<span class=\"punc\">,</span> <span class=\"num\">45</span><span class=\"punc\">]</span><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"age\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">isnull</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correct ! Il y a 2 valeurs NaN dans la colonne."
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Non. Compte bien les np.nan dans la liste."
+        },
+        {
+          "label": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Non. isnull() ne retourne True que pour les NaN, pas pour toutes les valeurs."
+        },
+        {
+          "label": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Non. Il y a bien des valeurs manquantes dans la colonne."
+        }
+      ],
+      "explication_finale": "isnull() retourne [False, True, False, True, False]. sum() compte les True, donc 2."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Debutant",
+      "title": "Shape apres dropna",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "dropna() supprime les lignes qui contiennent AU MOINS un NaN.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\"><span class=\"kw\">import</span> numpy <span class=\"kw\">as</span> np</span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">    <span class=\"str\">\"nom\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"Alice\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Bob\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Clara\"</span><span class=\"punc\">,</span> <span class=\"str\">\"David\"</span><span class=\"punc\">]</span><span class=\"punc\">,</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\">    <span class=\"str\">\"age\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">25</span><span class=\"punc\">,</span> np<span class=\"punc\">.</span>nan<span class=\"punc\">,</span> <span class=\"num\">30</span><span class=\"punc\">,</span> <span class=\"num\">45</span><span class=\"punc\">]</span><span class=\"punc\">,</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\">    <span class=\"str\">\"ville\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"Paris\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Lyon\"</span><span class=\"punc\">,</span> np<span class=\"punc\">.</span>nan<span class=\"punc\">,</span> <span class=\"str\">\"Lille\"</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"false\"><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"8\" data-correct=\"false\">df2 <span class=\"punc\">=</span> df<span class=\"punc\">.</span><span class=\"fn\">dropna</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"9\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df2<span class=\"punc\">.</span>shape<span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "(2, 3)",
+          "is_correct": true,
+          "feedback": "Correct ! Bob (age NaN) et Clara (ville NaN) sont supprimes. Il reste 2 lignes et 3 colonnes."
+        },
+        {
+          "label": "B",
+          "text": "(3, 3)",
+          "is_correct": false,
+          "feedback": "Non. dropna supprime TOUTE ligne avec au moins un NaN."
+        },
+        {
+          "label": "C",
+          "text": "(4, 3)",
+          "is_correct": false,
+          "feedback": "Non. dropna retourne un nouveau DataFrame sans les lignes contenant des NaN."
+        },
+        {
+          "label": "D",
+          "text": "(4, 2)",
+          "is_correct": false,
+          "feedback": "Non. dropna supprime des lignes, pas des colonnes (sauf si axis=1)."
+        }
+      ],
+      "explication_finale": "Bob a un NaN dans 'age', Clara a un NaN dans 'ville'. dropna() les supprime tous les deux. Resultat : 2 lignes, 3 colonnes."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Duplicated keep=False",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "keep=False marque TOUTES les occurrences comme doublons, y compris la premiere.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span><span class=\"str\">\"produit\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"A\"</span><span class=\"punc\">,</span> <span class=\"str\">\"B\"</span><span class=\"punc\">,</span> <span class=\"str\">\"A\"</span><span class=\"punc\">,</span> <span class=\"str\">\"C\"</span><span class=\"punc\">,</span> <span class=\"str\">\"B\"</span><span class=\"punc\">]</span><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">.</span><span class=\"fn\">duplicated</span><span class=\"punc\">(</span>keep<span class=\"punc\">=</span><span class=\"kw\">False</span><span class=\"punc\">)</span><span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correct ! A apparait 2 fois, B apparait 2 fois. Avec keep=False, les 4 sont marques comme doublons."
+        },
+        {
+          "label": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Non. Avec keep=False, meme la premiere occurrence est marquee comme doublon."
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Non. Recompte les doublons : A (2 fois) + B (2 fois) = 4 lignes marquees."
+        },
+        {
+          "label": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Non. C n'apparait qu'une fois, il n'est pas marque comme doublon."
+        }
+      ],
+      "explication_finale": "keep=False marque TOUTES les occurrences de valeurs dupliquees. A apparait aux index 0 et 2, B aux index 1 et 4. Total : 4 lignes marquees True."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Debutant",
+      "title": "Value counts normalize",
+      "points": 1,
+      "prompt": "Quel est le resultat pour 'Premium' ?",
+      "hint": "normalize=True retourne des proportions (entre 0 et 1), pas des comptages.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span><span class=\"str\">\"plan\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"Free\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Premium\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Free\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Premium\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Premium\"</span><span class=\"punc\">]</span><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"plan\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">value_counts</span><span class=\"punc\">(</span>normalize<span class=\"punc\">=</span><span class=\"kw\">True</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.6",
+          "is_correct": true,
+          "feedback": "Correct ! Premium apparait 3 fois sur 5, soit 3/5 = 0.6."
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Non. normalize=True donne des proportions, pas des comptages."
+        },
+        {
+          "label": "C",
+          "text": "0.4",
+          "is_correct": false,
+          "feedback": "Non. 0.4 correspond a Free (2/5). Premium est 3/5."
+        },
+        {
+          "label": "D",
+          "text": "60",
+          "is_correct": false,
+          "feedback": "Non. normalize=True retourne des proportions entre 0 et 1, pas des pourcentages."
+        }
+      ],
+      "explication_finale": "Premium = 3 occurrences / 5 total = 0.6. Free = 2/5 = 0.4."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Debutant",
+      "title": "Mediane avec describe",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "describe() affiche le percentile 50% qui correspond a la mediane.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span><span class=\"str\">\"prix\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">10</span><span class=\"punc\">,</span> <span class=\"num\">20</span><span class=\"punc\">,</span> <span class=\"num\">30</span><span class=\"punc\">,</span> <span class=\"num\">40</span><span class=\"punc\">,</span> <span class=\"num\">50</span><span class=\"punc\">]</span><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"prix\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">describe</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">[</span><span class=\"str\">\"50%\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "30.0",
+          "is_correct": true,
+          "feedback": "Correct ! La mediane de [10, 20, 30, 40, 50] est 30."
+        },
+        {
+          "label": "B",
+          "text": "25.0",
+          "is_correct": false,
+          "feedback": "Non. 25 serait le percentile 25% (Q1)."
+        },
+        {
+          "label": "C",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Presque ! Mais describe() retourne des floats, donc c'est 30.0."
+        },
+        {
+          "label": "D",
+          "text": "50.0",
+          "is_correct": false,
+          "feedback": "Non. 50 est la valeur maximale, pas la mediane."
+        }
+      ],
+      "explication_finale": "describe()['50%'] retourne le percentile 50%, c'est-a-dire la mediane. Pour [10, 20, 30, 40, 50], la mediane est 30.0."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Intermediaire",
+      "title": "GroupBy sum du Nord",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "Additionne les ventes pour la region 'Nord' uniquement.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">    <span class=\"str\">\"region\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"Nord\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Sud\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Nord\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Sud\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Nord\"</span><span class=\"punc\">]</span><span class=\"punc\">,</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">    <span class=\"str\">\"ventes\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">100</span><span class=\"punc\">,</span> <span class=\"num\">200</span><span class=\"punc\">,</span> <span class=\"num\">150</span><span class=\"punc\">,</span> <span class=\"num\">300</span><span class=\"punc\">,</span> <span class=\"num\">250</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\">result <span class=\"punc\">=</span> df<span class=\"punc\">.</span><span class=\"fn\">groupby</span><span class=\"punc\">(</span><span class=\"str\">\"region\"</span><span class=\"punc\">)</span><span class=\"punc\">[</span><span class=\"str\">\"ventes\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>result<span class=\"punc\">[</span><span class=\"str\">\"Nord\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "500",
+          "is_correct": true,
+          "feedback": "Correct ! Nord : 100 + 150 + 250 = 500."
+        },
+        {
+          "label": "B",
+          "text": "1000",
+          "is_correct": false,
+          "feedback": "Non. 1000 est la somme totale, pas uniquement le Nord."
+        },
+        {
+          "label": "C",
+          "text": "150",
+          "is_correct": false,
+          "feedback": "Non. groupby.sum() additionne toutes les ventes du Nord, pas une seule."
+        },
+        {
+          "label": "D",
+          "text": "250",
+          "is_correct": false,
+          "feedback": "Non. 250 est la derniere valeur du Nord, pas la somme."
+        }
+      ],
+      "explication_finale": "groupby('region')['ventes'].sum() : Nord = 100 + 150 + 250 = 500, Sud = 200 + 300 = 500."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Pivot table simple",
+      "points": 1,
+      "prompt": "Quel est le resultat pour (Nord, Q1) ?",
+      "hint": "La pivot_table utilise mean par defaut comme fonction d'agregation.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">    <span class=\"str\">\"region\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"Nord\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Nord\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Sud\"</span><span class=\"punc\">]</span><span class=\"punc\">,</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">    <span class=\"str\">\"trimestre\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"Q1\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Q1\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Q1\"</span><span class=\"punc\">]</span><span class=\"punc\">,</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\">    <span class=\"str\">\"ca\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">100</span><span class=\"punc\">,</span> <span class=\"num\">200</span><span class=\"punc\">,</span> <span class=\"num\">300</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\"><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"false\">pivot <span class=\"punc\">=</span> df<span class=\"punc\">.</span><span class=\"fn\">pivot_table</span><span class=\"punc\">(</span>values<span class=\"punc\">=</span><span class=\"str\">\"ca\"</span><span class=\"punc\">,</span> index<span class=\"punc\">=</span><span class=\"str\">\"region\"</span><span class=\"punc\">,</span> columns<span class=\"punc\">=</span><span class=\"str\">\"trimestre\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"8\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>pivot<span class=\"punc\">.</span>loc<span class=\"punc\">[</span><span class=\"str\">\"Nord\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Q1\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "150.0",
+          "is_correct": true,
+          "feedback": "Correct ! pivot_table utilise mean par defaut. Nord Q1 : (100 + 200) / 2 = 150."
+        },
+        {
+          "label": "B",
+          "text": "300",
+          "is_correct": false,
+          "feedback": "Non. Ce serait la somme. pivot_table fait la moyenne par defaut."
+        },
+        {
+          "label": "C",
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Non. 100 est la premiere valeur. pivot_table agrege toutes les valeurs."
+        },
+        {
+          "label": "D",
+          "text": "200",
+          "is_correct": false,
+          "feedback": "Non. 200 est la deuxieme valeur. pivot_table agrege avec mean par defaut."
+        }
+      ],
+      "explication_finale": "pivot_table utilise aggfunc='mean' par defaut. Nord Q1 a deux valeurs (100, 200), donc la moyenne = 150.0."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Apply avec lambda Premium",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "La lambda s'applique element par element sur la Series.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span><span class=\"str\">\"ca\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">500</span><span class=\"punc\">,</span> <span class=\"num\">1500</span><span class=\"punc\">,</span> <span class=\"num\">800</span><span class=\"punc\">,</span> <span class=\"num\">2000</span><span class=\"punc\">]</span><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">df<span class=\"punc\">[</span><span class=\"str\">\"segment\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> df<span class=\"punc\">[</span><span class=\"str\">\"ca\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">apply</span><span class=\"punc\">(</span><span class=\"kw\">lambda</span> x<span class=\"punc\">:</span> <span class=\"str\">\"Premium\"</span> <span class=\"kw\">if</span> x <span class=\"punc\">&gt;</span><span class=\"punc\">=</span> <span class=\"num\">1000</span> <span class=\"kw\">else</span> <span class=\"str\">\"Standard\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"segment\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">value_counts</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">[</span><span class=\"str\">\"Premium\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correct ! 1500 et 2000 sont >= 1000, donc 2 Premium."
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Non. 500 et 800 sont < 1000, ils sont Standard."
+        },
+        {
+          "label": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Non. Il y a deux valeurs >= 1000 : 1500 et 2000."
+        },
+        {
+          "label": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Non. Seules les valeurs >= 1000 sont Premium."
+        }
+      ],
+      "explication_finale": "500 < 1000 : Standard. 1500 >= 1000 : Premium. 800 < 1000 : Standard. 2000 >= 1000 : Premium. Total Premium : 2."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Panier moyen",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "Le panier moyen = CA total / nombre de commandes.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">    <span class=\"str\">\"commande_id\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">1</span><span class=\"punc\">,</span> <span class=\"num\">2</span><span class=\"punc\">,</span> <span class=\"num\">3</span><span class=\"punc\">,</span> <span class=\"num\">4</span><span class=\"punc\">]</span><span class=\"punc\">,</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">    <span class=\"str\">\"montant\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">50</span><span class=\"punc\">,</span> <span class=\"num\">100</span><span class=\"punc\">,</span> <span class=\"num\">75</span><span class=\"punc\">,</span> <span class=\"num\">175</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\">panier_moyen <span class=\"punc\">=</span> df<span class=\"punc\">[</span><span class=\"str\">\"montant\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span> <span class=\"punc\">/</span> df<span class=\"punc\">[</span><span class=\"str\">\"commande_id\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">nunique</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>panier_moyen<span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "100.0",
+          "is_correct": true,
+          "feedback": "Correct ! Total = 400, 4 commandes uniques. 400 / 4 = 100.0."
+        },
+        {
+          "label": "B",
+          "text": "75.0",
+          "is_correct": false,
+          "feedback": "Non. 75 serait la mediane, pas le panier moyen."
+        },
+        {
+          "label": "C",
+          "text": "400",
+          "is_correct": false,
+          "feedback": "Non. 400 est le total, pas le panier moyen."
+        },
+        {
+          "label": "D",
+          "text": "175",
+          "is_correct": false,
+          "feedback": "Non. 175 est le montant max, pas le panier moyen."
+        }
+      ],
+      "explication_finale": "sum() = 50 + 100 + 75 + 175 = 400. nunique() = 4 commandes. Panier moyen = 400 / 4 = 100.0."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Taux de conversion funnel",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "Combien de visiteurs ont achete ? Divise par le total.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">    <span class=\"str\">\"user\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"A\"</span><span class=\"punc\">,</span> <span class=\"str\">\"B\"</span><span class=\"punc\">,</span> <span class=\"str\">\"C\"</span><span class=\"punc\">,</span> <span class=\"str\">\"D\"</span><span class=\"punc\">,</span> <span class=\"str\">\"E\"</span><span class=\"punc\">]</span><span class=\"punc\">,</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">    <span class=\"str\">\"etape\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"visite\"</span><span class=\"punc\">,</span> <span class=\"str\">\"panier\"</span><span class=\"punc\">,</span> <span class=\"str\">\"achat\"</span><span class=\"punc\">,</span> <span class=\"str\">\"visite\"</span><span class=\"punc\">,</span> <span class=\"str\">\"achat\"</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\">taux <span class=\"punc\">=</span> <span class=\"kw\">len</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span>df<span class=\"punc\">[</span><span class=\"str\">\"etape\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span><span class=\"punc\">=</span> <span class=\"str\">\"achat\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span> <span class=\"punc\">/</span> <span class=\"kw\">len</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"user\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">unique</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>f<span class=\"str\">\"{taux:.0%}\"</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "40%",
+          "is_correct": true,
+          "feedback": "Correct ! 2 achats / 5 users uniques = 0.4 = 40%."
+        },
+        {
+          "label": "B",
+          "text": "20%",
+          "is_correct": false,
+          "feedback": "Non. Il y a bien 2 lignes avec 'achat', pas 1."
+        },
+        {
+          "label": "C",
+          "text": "50%",
+          "is_correct": false,
+          "feedback": "Non. Il y a 5 users uniques, pas 4."
+        },
+        {
+          "label": "D",
+          "text": "60%",
+          "is_correct": false,
+          "feedback": "Non. 3 users sur 5 n'ont pas achete (A=visite, B=panier, D=visite)."
+        }
+      ],
+      "explication_finale": "2 lignes avec etape='achat' (C et E). 5 users uniques (A-E). Taux = 2/5 = 40%."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Avance",
+      "title": "Pareto 80/20",
+      "points": 2,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "cumsum() fait la somme cumulee des proportions triees.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">    <span class=\"str\">\"produit\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"A\"</span><span class=\"punc\">,</span> <span class=\"str\">\"B\"</span><span class=\"punc\">,</span> <span class=\"str\">\"C\"</span><span class=\"punc\">,</span> <span class=\"str\">\"D\"</span><span class=\"punc\">,</span> <span class=\"str\">\"E\"</span><span class=\"punc\">]</span><span class=\"punc\">,</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">    <span class=\"str\">\"ca\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">500</span><span class=\"punc\">,</span> <span class=\"num\">300</span><span class=\"punc\">,</span> <span class=\"num\">100</span><span class=\"punc\">,</span> <span class=\"num\">50</span><span class=\"punc\">,</span> <span class=\"num\">50</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\">df<span class=\"punc\">[</span><span class=\"str\">\"pct\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> df<span class=\"punc\">[</span><span class=\"str\">\"ca\"</span><span class=\"punc\">]</span> <span class=\"punc\">/</span> df<span class=\"punc\">[</span><span class=\"str\">\"ca\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"false\">df<span class=\"punc\">[</span><span class=\"str\">\"cum_pct\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> df<span class=\"punc\">[</span><span class=\"str\">\"pct\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">cumsum</span><span class=\"punc\">(</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"8\" data-correct=\"false\">pareto <span class=\"punc\">=</span> df<span class=\"punc\">[</span>df<span class=\"punc\">[</span><span class=\"str\">\"cum_pct\"</span><span class=\"punc\">]</span> <span class=\"punc\">&lt;</span><span class=\"punc\">=</span> <span class=\"num\">0.80</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"9\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span><span class=\"kw\">len</span><span class=\"punc\">(</span>pareto<span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correct ! A=50% (cum 50%), B=30% (cum 80%). C serait 90%, donc > 80%. 2 produits."
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Non. Le cumul atteint 80% au produit B. C ferait depasser 80%."
+        },
+        {
+          "label": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Non. A seul ne represente que 50% du CA."
+        },
+        {
+          "label": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Non. 4 produits representent 95% du CA, pas besoin d'aller si loin."
+        }
+      ],
+      "explication_finale": "A: 500/1000=0.5 (cum=0.5). B: 300/1000=0.3 (cum=0.8). C: 0.1 (cum=0.9 > 0.8). Seuls A et B ont cum_pct <= 0.80."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Binning avec pd.cut",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "pd.cut cree des intervalles. Par defaut, la borne gauche est exclue.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">ages <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">Series</span><span class=\"punc\">(</span><span class=\"punc\">[</span><span class=\"num\">18</span><span class=\"punc\">,</span> <span class=\"num\">25</span><span class=\"punc\">,</span> <span class=\"num\">35</span><span class=\"punc\">,</span> <span class=\"num\">45</span><span class=\"punc\">,</span> <span class=\"num\">60</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">bins <span class=\"punc\">=</span> <span class=\"punc\">[</span><span class=\"num\">0</span><span class=\"punc\">,</span> <span class=\"num\">25</span><span class=\"punc\">,</span> <span class=\"num\">45</span><span class=\"punc\">,</span> <span class=\"num\">100</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">labels <span class=\"punc\">=</span> <span class=\"punc\">[</span><span class=\"str\">\"Jeune\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Adulte\"</span><span class=\"punc\">,</span> <span class=\"str\">\"Senior\"</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\">result <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">cut</span><span class=\"punc\">(</span>ages<span class=\"punc\">,</span> bins<span class=\"punc\">=</span>bins<span class=\"punc\">,</span> labels<span class=\"punc\">=</span>labels<span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>result<span class=\"punc\">.</span><span class=\"fn\">value_counts</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">[</span><span class=\"str\">\"Adulte\"</span><span class=\"punc\">]</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correct ! Adulte = (25, 45]. 35 et 45 sont dans cet intervalle."
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Non. 25 est dans (0, 25], pas (25, 45]."
+        },
+        {
+          "label": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Non. 35 et 45 sont tous les deux dans l'intervalle (25, 45]."
+        },
+        {
+          "label": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Non. Il y a bien des valeurs dans l'intervalle Adulte."
+        }
+      ],
+      "explication_finale": "pd.cut avec bins [0,25,45,100] cree : Jeune=(0,25], Adulte=(25,45], Senior=(45,100]. 18 et 25 sont Jeune, 35 et 45 sont Adulte, 60 est Senior."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Merge left avec NaN",
+      "points": 1,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "Un merge 'left' garde toutes les lignes de gauche, meme sans correspondance.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">clients <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span><span class=\"str\">\"id\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">1</span><span class=\"punc\">,</span> <span class=\"num\">2</span><span class=\"punc\">,</span> <span class=\"num\">3</span><span class=\"punc\">]</span><span class=\"punc\">,</span> <span class=\"str\">\"nom\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"A\"</span><span class=\"punc\">,</span> <span class=\"str\">\"B\"</span><span class=\"punc\">,</span> <span class=\"str\">\"C\"</span><span class=\"punc\">]</span><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">achats <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span><span class=\"str\">\"id\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">1</span><span class=\"punc\">,</span> <span class=\"num\">3</span><span class=\"punc\">]</span><span class=\"punc\">,</span> <span class=\"str\">\"montant\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">100</span><span class=\"punc\">,</span> <span class=\"num\">200</span><span class=\"punc\">]</span><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">merged <span class=\"punc\">=</span> clients<span class=\"punc\">.</span><span class=\"fn\">merge</span><span class=\"punc\">(</span>achats<span class=\"punc\">,</span> on<span class=\"punc\">=</span><span class=\"str\">\"id\"</span><span class=\"punc\">,</span> how<span class=\"punc\">=</span><span class=\"str\">\"left\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>merged<span class=\"punc\">[</span><span class=\"str\">\"montant\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">isnull</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "is_correct": true,
+          "feedback": "Correct ! Le client B (id=2) n'a pas d'achat, donc montant = NaN. 1 seule valeur nulle."
+        },
+        {
+          "label": "B",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Non. Le client id=2 n'a pas de correspondance dans achats, donc NaN."
+        },
+        {
+          "label": "C",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Non. Seul id=2 n'a pas de correspondance. id=1 et id=3 matchent."
+        },
+        {
+          "label": "D",
+          "text": "3",
+          "is_correct": false,
+          "feedback": "Non. Les clients id=1 et id=3 ont des achats correspondants."
+        }
+      ],
+      "explication_finale": "Merge left : toutes les lignes de 'clients' sont conservees. id=2 (client B) n'a pas de correspondance dans achats, donc montant=NaN."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Avance",
+      "title": "String contains avec regex",
+      "points": 2,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "str.contains() utilise les regex par defaut. Le point '.' est special en regex.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span><span class=\"str\">\"email\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"a@test.com\"</span><span class=\"punc\">,</span> <span class=\"str\">\"b@testXcom\"</span><span class=\"punc\">,</span> <span class=\"str\">\"c@test.com\"</span><span class=\"punc\">]</span><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">mask <span class=\"punc\">=</span> df<span class=\"punc\">[</span><span class=\"str\">\"email\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"kw\">str</span><span class=\"punc\">.</span><span class=\"fn\">contains</span><span class=\"punc\">(</span><span class=\"str\">\"test.com\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>mask<span class=\"punc\">.</span><span class=\"kw\">sum</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correct ! Le '.' en regex matche N'IMPORTE QUEL caractere. 'testXcom' matche aussi car le X remplace le point."
+        },
+        {
+          "label": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Non. En regex, '.' matche tout caractere. 'testXcom' matche aussi 'test.com'."
+        },
+        {
+          "label": "C",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Non. Toutes les chaines contiennent un pattern qui matche 'test.com' en regex."
+        },
+        {
+          "label": "D",
+          "text": "0",
+          "is_correct": false,
+          "feedback": "Non. Les 3 chaines matchent le pattern regex 'test.com'."
+        }
+      ],
+      "explication_finale": "str.contains utilise regex par defaut. Le '.' matche tout caractere. 'test.com' matche a@test.com, b@testXcom et c@test.com. Pour un point litteral : regex=False ou 'test\\.com'."
+    },
+    {
+      "format": "Predict the Output (Python)",
+      "difficulty": "Avance",
+      "title": "GroupBy transform vs apply",
+      "points": 2,
+      "prompt": "Quel est le resultat affiche par ce code ?",
+      "hint": "transform garde la meme taille que le DataFrame original.",
+      "hint_malus": 0,
+      "code_html": "<span class=\"ln\" data-ln=\"1\" data-correct=\"false\"><span class=\"kw\">import</span> pandas <span class=\"kw\">as</span> pd</span><span class=\"ln\" data-ln=\"2\" data-correct=\"false\">df <span class=\"punc\">=</span> pd<span class=\"punc\">.</span><span class=\"fn\">DataFrame</span><span class=\"punc\">(</span><span class=\"punc\">{</span></span><span class=\"ln\" data-ln=\"3\" data-correct=\"false\">    <span class=\"str\">\"groupe\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"str\">\"A\"</span><span class=\"punc\">,</span> <span class=\"str\">\"A\"</span><span class=\"punc\">,</span> <span class=\"str\">\"B\"</span><span class=\"punc\">,</span> <span class=\"str\">\"B\"</span><span class=\"punc\">]</span><span class=\"punc\">,</span></span><span class=\"ln\" data-ln=\"4\" data-correct=\"false\">    <span class=\"str\">\"valeur\"</span><span class=\"punc\">:</span> <span class=\"punc\">[</span><span class=\"num\">10</span><span class=\"punc\">,</span> <span class=\"num\">20</span><span class=\"punc\">,</span> <span class=\"num\">30</span><span class=\"punc\">,</span> <span class=\"num\">40</span><span class=\"punc\">]</span></span><span class=\"ln\" data-ln=\"5\" data-correct=\"false\"><span class=\"punc\">}</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"6\" data-correct=\"false\">df<span class=\"punc\">[</span><span class=\"str\">\"moyenne_grp\"</span><span class=\"punc\">]</span> <span class=\"punc\">=</span> df<span class=\"punc\">.</span><span class=\"fn\">groupby</span><span class=\"punc\">(</span><span class=\"str\">\"groupe\"</span><span class=\"punc\">)</span><span class=\"punc\">[</span><span class=\"str\">\"valeur\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">transform</span><span class=\"punc\">(</span><span class=\"str\">\"mean\"</span><span class=\"punc\">)</span></span><span class=\"ln\" data-ln=\"7\" data-correct=\"false\"><span class=\"kw\">print</span><span class=\"punc\">(</span>df<span class=\"punc\">[</span><span class=\"str\">\"moyenne_grp\"</span><span class=\"punc\">]</span><span class=\"punc\">.</span><span class=\"fn\">tolist</span><span class=\"punc\">(</span><span class=\"punc\">)</span><span class=\"punc\">)</span></span>",
+      "options": [
+        {
+          "label": "A",
+          "text": "[15.0, 15.0, 35.0, 35.0]",
+          "is_correct": true,
+          "feedback": "Correct ! A=(10+20)/2=15, B=(30+40)/2=35. Transform repete la valeur pour chaque ligne du groupe."
+        },
+        {
+          "label": "B",
+          "text": "[15.0, 35.0]",
+          "is_correct": false,
+          "feedback": "Non. Ce serait le resultat de groupby.mean(). Transform garde la taille originale."
+        },
+        {
+          "label": "C",
+          "text": "[10, 20, 30, 40]",
+          "is_correct": false,
+          "feedback": "Non. transform('mean') remplace chaque valeur par la moyenne de son groupe."
+        },
+        {
+          "label": "D",
+          "text": "[25.0, 25.0, 25.0, 25.0]",
+          "is_correct": false,
+          "feedback": "Non. 25 serait la moyenne globale. transform applique la moyenne PAR GROUPE."
+        }
+      ],
+      "explication_finale": "transform garde la meme dimension que le DataFrame. Chaque ligne recoit la moyenne de son groupe : A=15.0, B=35.0."
+    }
+  ],
+  "read_the_dataframe": [
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Debutant",
+      "title": "Identifie le produit cle",
+      "points": 1,
+      "prompt": "Observe ce DataFrame et reponds a la question.",
+      "hint": "Compare les valeurs de la colonne CA pour trouver le produit dominant.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>produit</th><th>ca</th><th>marge_pct</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>Widget A</td><td>12500</td><td>15%</td></tr><tr data-row=\"2\" data-correct=\"true\"><td class=\"df-idx\">1</td><td>Widget B</td><td>45000</td><td>22%</td></tr><tr data-row=\"3\" data-correct=\"false\"><td class=\"df-idx\">2</td><td>Widget C</td><td>8900</td><td>35%</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>Widget D</td><td>3200</td><td>10%</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>Widget E</td><td>1500</td><td>42%</td></tr></tbody></table>",
+      "question": "Quel produit represente le plus gros CA ?",
+      "correct_row": 2,
+      "explanation": "Widget B avec 45 000 de CA est largement en tete. Il represente 63% du CA total a lui seul.",
+      "decision_business": "Concentrer les efforts marketing sur Widget B tout en surveillant sa marge (22%). Widget C a une meilleure marge (35%) mais un CA faible."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Debutant",
+      "title": "Trouve l'anomalie dans les dates",
+      "points": 1,
+      "prompt": "Observe ce DataFrame et reponds a la question.",
+      "hint": "Regarde si les dates sont coherentes et dans le bon ordre chronologique.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>date</th><th>ventes</th><th>clients</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>2024-01-15</td><td>1200</td><td>45</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>2024-02-15</td><td>1350</td><td>52</td></tr><tr data-row=\"3\" data-correct=\"true\"><td class=\"df-idx\">2</td><td>2024-13-15</td><td>1100</td><td>38</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>2024-04-15</td><td>1500</td><td>60</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>2024-05-15</td><td>1400</td><td>55</td></tr></tbody></table>",
+      "question": "Quelle ligne contient une anomalie ?",
+      "correct_row": 3,
+      "explanation": "La ligne 3 a la date '2024-13-15'. Le mois 13 n'existe pas. C'est probablement mars (03) avec une erreur de saisie.",
+      "decision_business": "Corriger la date en 2024-03-15 avant toute analyse temporelle. Mettre en place une validation de format de date a l'import."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Detecte le doublon metier",
+      "points": 1,
+      "prompt": "Observe ce DataFrame et reponds a la question.",
+      "hint": "Un doublon metier n'est pas forcement une ligne identique. Cherche les incoherences.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>client_id</th><th>nom</th><th>email</th><th>ville</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>C001</td><td>Alice Martin</td><td>alice@mail.com</td><td>Paris</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>C002</td><td>Bob Dupont</td><td>bob@mail.com</td><td>Lyon</td></tr><tr data-row=\"3\" data-correct=\"true\"><td class=\"df-idx\">2</td><td>C003</td><td>Alice Martin</td><td>alice.m@mail.com</td><td>Paris</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>C004</td><td>Clara Leroy</td><td>clara@mail.com</td><td>Marseille</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>C005</td><td>David Petit</td><td>david@mail.com</td><td>Lille</td></tr></tbody></table>",
+      "question": "Quelle ligne est probablement un doublon metier ?",
+      "correct_row": 3,
+      "explanation": "C003 'Alice Martin' de Paris est tres probablement la meme personne que C001. L'email differe legerement (alice@ vs alice.m@). C'est un doublon metier.",
+      "decision_business": "Fusionner C001 et C003 apres verification. Mettre en place un controle de deduplication sur nom + ville a l'inscription."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Debutant",
+      "title": "Identifie la colonne a nettoyer",
+      "points": 1,
+      "prompt": "Observe ce DataFrame et reponds a la question.",
+      "hint": "Cherche les valeurs incoherentes ou les formats mixtes dans une meme colonne.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>nom</th><th>age</th><th>salaire</th><th>departement</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>Alice</td><td>28</td><td>35000</td><td>Marketing</td></tr><tr data-row=\"2\" data-correct=\"true\"><td class=\"df-idx\">1</td><td>Bob</td><td>trente-deux</td><td>42000</td><td>IT</td></tr><tr data-row=\"3\" data-correct=\"false\"><td class=\"df-idx\">2</td><td>Clara</td><td>25</td><td>38000</td><td>Marketing</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>David</td><td>45</td><td>N/A</td><td>Finance</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>Eve</td><td>31</td><td>41000</td><td>marketing</td></tr></tbody></table>",
+      "question": "Quelle colonne necessite le plus de nettoyage ?",
+      "correct_row": 2,
+      "explanation": "Plusieurs colonnes ont des problemes : 'age' contient du texte (ligne 2 : 'trente-deux'), 'salaire' a un N/A (ligne 4), 'departement' a un probleme de casse ('Marketing' vs 'marketing'). La colonne 'age' est la plus critique car le type est incorrect.",
+      "decision_business": "Priorite 1 : convertir 'age' en numerique. Priorite 2 : normaliser la casse de 'departement'. Priorite 3 : gerer le N/A de 'salaire'."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Quel KPI est en alerte ?",
+      "points": 1,
+      "prompt": "Observe ce tableau de KPIs et reponds a la question.",
+      "hint": "Compare chaque KPI avec son objectif. Lequel est le plus loin de sa cible ?",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>kpi</th><th>valeur_actuelle</th><th>objectif</th><th>ecart</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>Taux de conversion</td><td>3.2%</td><td>4.0%</td><td>-20%</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>Panier moyen</td><td>48 EUR</td><td>45 EUR</td><td>+6.7%</td></tr><tr data-row=\"3\" data-correct=\"false\"><td class=\"df-idx\">2</td><td>NPS</td><td>42</td><td>50</td><td>-16%</td></tr><tr data-row=\"4\" data-correct=\"true\"><td class=\"df-idx\">3</td><td>Taux de churn</td><td>8.5%</td><td>5.0%</td><td>+70%</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>CAC</td><td>25 EUR</td><td>30 EUR</td><td>-16.7%</td></tr></tbody></table>",
+      "question": "Quel KPI est le plus critique ?",
+      "correct_row": 4,
+      "explanation": "Le taux de churn a 8.5% est 70% au-dessus de l'objectif (5%). C'est l'ecart le plus important et le plus dangereux car chaque client perdu coute cher a remplacer.",
+      "decision_business": "Lancer immediatement un programme de retention client. Analyser les raisons de churn par cohorte. Objectif : ramener le churn sous 6% en 3 mois."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Avance",
+      "title": "Repere la fuite de donnees",
+      "points": 2,
+      "prompt": "Ce DataFrame sert a predire si un client va churner. Observe les features et reponds.",
+      "hint": "Une feature qui n'existerait pas au moment de la prediction est une fuite de donnees.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>client_id</th><th>anciennete_mois</th><th>nb_reclamations</th><th>motif_resiliation</th><th>churned</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>C001</td><td>24</td><td>1</td><td>NaN</td><td>0</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>C002</td><td>6</td><td>5</td><td>prix</td><td>1</td></tr><tr data-row=\"3\" data-correct=\"false\"><td class=\"df-idx\">2</td><td>C003</td><td>36</td><td>0</td><td>NaN</td><td>0</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>C004</td><td>12</td><td>3</td><td>service</td><td>1</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>C005</td><td>18</td><td>2</td><td>NaN</td><td>0</td></tr></tbody></table>",
+      "question": "Quelle colonne est une fuite de donnees (data leakage) ?",
+      "correct_row": null,
+      "explanation": "La colonne 'motif_resiliation' est remplie UNIQUEMENT pour les clients qui ont churne. C'est une information post-evenement : on ne connait le motif qu'APRES la resiliation. L'utiliser pour predire le churn est du data leakage.",
+      "decision_business": "Supprimer 'motif_resiliation' des features de prediction. Garder uniquement les variables connues AVANT l'evenement : anciennete, nb_reclamations."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Quel segment cibler ?",
+      "points": 1,
+      "prompt": "Observe cette analyse RFM et reponds a la question.",
+      "hint": "Le meilleur segment a cibler est celui avec le plus fort potentiel de reactivation.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>segment</th><th>nb_clients</th><th>ca_moyen</th><th>derniere_visite_jours</th><th>frequence_mois</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>Champions</td><td>120</td><td>850</td><td>5</td><td>4.2</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>Loyaux</td><td>340</td><td>520</td><td>15</td><td>2.8</td></tr><tr data-row=\"3\" data-correct=\"true\"><td class=\"df-idx\">2</td><td>A risque</td><td>180</td><td>680</td><td>45</td><td>1.5</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>Perdus</td><td>95</td><td>320</td><td>120</td><td>0.3</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>Nouveaux</td><td>200</td><td>150</td><td>8</td><td>1.0</td></tr></tbody></table>",
+      "question": "Quel segment faut-il cibler en priorite pour une campagne de retention ?",
+      "correct_row": 3,
+      "explanation": "Le segment 'A risque' : 180 clients avec un CA moyen eleve (680) mais qui n'ont pas visite depuis 45 jours. Ils ont du potentiel mais sont en train de partir.",
+      "decision_business": "Lancer une campagne de reactivation ciblee sur les 'A risque' avec des offres personnalisees. ROI potentiel : 180 x 680 = 122 400 de CA a sauver."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Debutant",
+      "title": "Trouve l'outlier",
+      "points": 1,
+      "prompt": "Observe ce DataFrame et reponds a la question.",
+      "hint": "Cherche la valeur qui semble anormalement differente des autres.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>employe</th><th>departement</th><th>salaire</th><th>anciennete</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>Alice</td><td>IT</td><td>42000</td><td>3</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>Bob</td><td>IT</td><td>45000</td><td>5</td></tr><tr data-row=\"3\" data-correct=\"true\"><td class=\"df-idx\">2</td><td>Clara</td><td>IT</td><td>380000</td><td>4</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>David</td><td>IT</td><td>41000</td><td>2</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>Eve</td><td>IT</td><td>44000</td><td>6</td></tr></tbody></table>",
+      "question": "Quelle ligne contient un outlier ?",
+      "correct_row": 3,
+      "explanation": "Clara a un salaire de 380 000 alors que les autres sont entre 41 000 et 45 000. C'est probablement une erreur de saisie (un zero en trop : 38 000 -> 380 000).",
+      "decision_business": "Verifier avec les RH si le salaire de Clara est correct. Si erreur, corriger a 38 000. Mettre en place une alerte automatique pour les valeurs > 3 ecarts-types."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Analyse la saisonnalite",
+      "points": 1,
+      "prompt": "Observe les ventes mensuelles et reponds a la question.",
+      "hint": "Compare les mois pour identifier un pattern recurrent.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>mois</th><th>ventes_2023</th><th>ventes_2024</th><th>variation</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>Janvier</td><td>8500</td><td>9200</td><td>+8.2%</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>Fevrier</td><td>7800</td><td>8100</td><td>+3.8%</td></tr><tr data-row=\"3\" data-correct=\"false\"><td class=\"df-idx\">2</td><td>Mars</td><td>9200</td><td>9800</td><td>+6.5%</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>Avril</td><td>8000</td><td>8500</td><td>+6.3%</td></tr><tr data-row=\"5\" data-correct=\"true\"><td class=\"df-idx\">4</td><td>Decembre</td><td>15200</td><td>16800</td><td>+10.5%</td></tr></tbody></table>",
+      "question": "Quel mois presente la saisonnalite la plus marquee ?",
+      "correct_row": 5,
+      "explanation": "Decembre est nettement au-dessus des autres mois (15 200 et 16 800 vs moyenne ~8 500). C'est le pic saisonnier, probablement lie aux fetes de fin d'annee.",
+      "decision_business": "Preparer le stock et les ressources pour le pic de decembre. Prevoir +10% par rapport a 2024, soit ~18 500 ventes. Lancer les recrutements saisonniers en octobre."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Comprends la jointure",
+      "points": 1,
+      "prompt": "Observe le resultat de ce merge et reponds a la question.",
+      "hint": "NaN dans une colonne apres un merge signifie qu'il n'y avait pas de correspondance.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>client_id</th><th>nom</th><th>commande_id</th><th>montant</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>C001</td><td>Alice</td><td>CMD001</td><td>150</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>C001</td><td>Alice</td><td>CMD003</td><td>200</td></tr><tr data-row=\"3\" data-correct=\"true\"><td class=\"df-idx\">2</td><td>C002</td><td>Bob</td><td>NaN</td><td>NaN</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>C003</td><td>Clara</td><td>CMD002</td><td>350</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>C004</td><td>David</td><td>NaN</td><td>NaN</td></tr></tbody></table>",
+      "question": "Quel type de merge a produit ce resultat ?",
+      "correct_row": 3,
+      "explanation": "C'est un merge LEFT. Tous les clients sont presents (meme Bob et David qui n'ont pas de commande = NaN). Un inner merge les aurait exclus.",
+      "decision_business": "Bob et David sont des clients sans commande. Soit ils sont nouveaux, soit ils sont inactifs. A cibler avec une campagne d'activation."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Avance",
+      "title": "Detecte le biais d'echantillonnage",
+      "points": 2,
+      "prompt": "Ce DataFrame resume les reponses a une enquete de satisfaction. Reponds a la question.",
+      "hint": "Regarde la repartition des repondants par canal. Est-elle representative ?",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>canal</th><th>nb_repondants</th><th>satisfaction_moy</th><th>pct_total</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"true\"><td class=\"df-idx\">0</td><td>App mobile</td><td>850</td><td>4.5</td><td>68%</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>Email</td><td>250</td><td>3.8</td><td>20%</td></tr><tr data-row=\"3\" data-correct=\"false\"><td class=\"df-idx\">2</td><td>Telephone</td><td>50</td><td>2.9</td><td>4%</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>En magasin</td><td>100</td><td>3.2</td><td>8%</td></tr></tbody></table>",
+      "question": "Pourquoi la satisfaction moyenne globale serait-elle biaisee ?",
+      "correct_row": 1,
+      "explanation": "68% des reponses viennent de l'app mobile, qui a la satisfaction la plus haute (4.5). Les clients mecontents utilisent plutot le telephone (2.9) ou le magasin (3.2), mais sont sous-representes.",
+      "decision_business": "Ne pas communiquer la satisfaction globale brute. Ponderer les resultats par canal ou par volume reel de contacts. Le vrai score est probablement plus proche de 3.8."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Identifie la correlation trompeuse",
+      "points": 1,
+      "prompt": "Observe les metriques marketing et reponds a la question.",
+      "hint": "Le budget pub augmente-t-il toujours les ventes ? Regarde bien les periodes.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>mois</th><th>budget_pub</th><th>ventes</th><th>temperature_moy</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>Juin</td><td>5000</td><td>12000</td><td>25</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>Juillet</td><td>8000</td><td>18000</td><td>30</td></tr><tr data-row=\"3\" data-correct=\"false\"><td class=\"df-idx\">2</td><td>Aout</td><td>7000</td><td>17000</td><td>32</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>Septembre</td><td>3000</td><td>9000</td><td>22</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>Octobre</td><td>4000</td><td>7500</td><td>15</td></tr></tbody></table>",
+      "question": "Le budget pub cause-t-il la hausse des ventes ?",
+      "correct_row": null,
+      "explanation": "Les ventes et le budget pub sont correles, mais la temperature l'est aussi. L'ete booste naturellement les ventes (saisonnalite), et le budget pub est augmente en reponse. La correlation n'implique pas la causalite.",
+      "decision_business": "Pour mesurer le vrai impact du budget pub, faire un test A/B ou une analyse avec variable de controle (temperature). Ne pas conclure que doubler le budget doublera les ventes."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Repere l'incoherence metier",
+      "points": 1,
+      "prompt": "Observe ces donnees de commandes et reponds a la question.",
+      "hint": "Verifie la coherence entre quantite, prix unitaire et total.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>commande_id</th><th>produit</th><th>quantite</th><th>prix_unitaire</th><th>total</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>CMD001</td><td>Clavier</td><td>2</td><td>45</td><td>90</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>CMD002</td><td>Souris</td><td>3</td><td>25</td><td>75</td></tr><tr data-row=\"3\" data-correct=\"false\"><td class=\"df-idx\">2</td><td>CMD003</td><td>Ecran</td><td>1</td><td>350</td><td>350</td></tr><tr data-row=\"4\" data-correct=\"true\"><td class=\"df-idx\">3</td><td>CMD004</td><td>Cable</td><td>5</td><td>12</td><td>120</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>CMD005</td><td>Casque</td><td>2</td><td>80</td><td>160</td></tr></tbody></table>",
+      "question": "Quelle ligne a une incoherence ?",
+      "correct_row": 4,
+      "explanation": "CMD004 : 5 cables x 12 EUR = 60 EUR, mais le total affiche 120 EUR. Le total est le double de ce qu'il devrait etre. Erreur de calcul ou de saisie.",
+      "decision_business": "Corriger le total de CMD004 a 60 EUR. Mettre en place une validation automatique : total = quantite * prix_unitaire a l'insertion."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Debutant",
+      "title": "Analyse le taux de remplissage",
+      "points": 1,
+      "prompt": "Observe ce rapport de qualite des donnees et reponds a la question.",
+      "hint": "La colonne avec le plus de valeurs manquantes est la plus problematique.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>colonne</th><th>nb_valeurs</th><th>nb_manquants</th><th>taux_remplissage</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>nom</td><td>1000</td><td>0</td><td>100%</td></tr><tr data-row=\"2\" data-correct=\"false\"><td class=\"df-idx\">1</td><td>email</td><td>1000</td><td>12</td><td>98.8%</td></tr><tr data-row=\"3\" data-correct=\"true\"><td class=\"df-idx\">2</td><td>telephone</td><td>1000</td><td>450</td><td>55%</td></tr><tr data-row=\"4\" data-correct=\"false\"><td class=\"df-idx\">3</td><td>adresse</td><td>1000</td><td>180</td><td>82%</td></tr><tr data-row=\"5\" data-correct=\"false\"><td class=\"df-idx\">4</td><td>date_naissance</td><td>1000</td><td>320</td><td>68%</td></tr></tbody></table>",
+      "question": "Quelle colonne est la plus problematique pour l'analyse ?",
+      "correct_row": 3,
+      "explanation": "La colonne 'telephone' avec seulement 55% de taux de remplissage (450 valeurs manquantes sur 1000). Presque la moitie des donnees sont absentes.",
+      "decision_business": "Si le telephone est essentiel (ex: campagnes SMS), lancer une campagne de mise a jour des profils. Sinon, privilegier l'email (98.8%) comme canal de contact."
+    },
+    {
+      "format": "Read the DataFrame (Python)",
+      "difficulty": "Intermediaire",
+      "title": "Trouve le desequilibre de classes",
+      "points": 1,
+      "prompt": "Ce DataFrame resume la distribution de la variable cible pour un modele de classification. Reponds a la question.",
+      "hint": "Un ratio > 1:10 entre les classes est considere comme un desequilibre important.",
+      "hint_malus": 0,
+      "df_table_html": "<table class=\"df-table\"><thead><tr><th class=\"df-idx\"></th><th>classe</th><th>nb_exemples</th><th>pourcentage</th></tr></thead><tbody><tr data-row=\"1\" data-correct=\"false\"><td class=\"df-idx\">0</td><td>Non-fraude</td><td>9750</td><td>97.5%</td></tr><tr data-row=\"2\" data-correct=\"true\"><td class=\"df-idx\">1</td><td>Fraude</td><td>250</td><td>2.5%</td></tr></tbody></table>",
+      "question": "Quel probleme ce desequilibre pose-t-il pour le ML ?",
+      "correct_row": 2,
+      "explanation": "Le ratio est 39:1 (9750/250). Un modele naif qui predit toujours 'Non-fraude' aurait 97.5% de precision mais ne detecterait aucune fraude. L'accuracy est trompeuse.",
+      "decision_business": "Utiliser des metriques adaptees (F1, Recall, AUC-ROC), pas l'accuracy. Appliquer du SMOTE ou sous-echantillonnage. Privilegier le recall pour ne pas rater de fraudes."
+    }
+  ]
+}

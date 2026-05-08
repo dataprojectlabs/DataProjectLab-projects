@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Mosaïque 2×3 — ShopAfrica+ Dashboard</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0F1F3A;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 24px;
+    min-width: 1920px;
+  }
+  .mosaic {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 16px;
+    width: 1920px;
+    height: 1080px;
+    margin: 0 auto;
+  }
+  .tile {
+    position: relative;
+    background: #1A1F2E;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  }
+  .tile img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .tile-label {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    background: rgba(15, 31, 58, 0.92);
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    padding: 6px 12px;
+    border-radius: 4px;
+    border-left: 3px solid #1D9E75;
+  }
+  .cover {
+    background: linear-gradient(135deg, #0F1F3A 0%, #1E3A5F 60%, #2C5282 100%);
+    color: #FFFFFF;
+    padding: 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .cover-tag {
+    font-size: 11px;
+    letter-spacing: 4px;
+    color: #9AB6E0;
+    text-transform: uppercase;
+  }
+  .cover-title {
+    font-family: Georgia, serif;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 16px 0 10px 0;
+  }
+  .cover-sub {
+    font-size: 16px;
+    font-weight: 300;
+    color: #CBD5E0;
+    margin-bottom: 20px;
+  }
+  .cover-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 13px;
+    color: #9AB6E0;
+    border-top: 1px solid #4A5F88;
+    padding-top: 16px;
+  }
+  .cover-meta span { display: flex; align-items: center; gap: 8px; }
+  .cover-meta .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: #1D9E75;
+  }
+  .footer-note {
+    position: fixed;
+    bottom: 8px;
+    right: 16px;
+    color: #6B7C9A;
+    font-size: 11px;
+  }
+</style>
+</head>
+<body>
+  <div class="mosaic">
+    <div class="tile">
+      <img src="screenshot/screenshot 1.png" alt="Overview">
+      <div class="tile-label">1 · Overview</div>
+    </div>
+    <div class="tile">
+      <img src="screenshot/screenshot 2.png" alt="Produits">
+      <div class="tile-label">2 · Produits</div>
+    </div>
+    <div class="tile">
+      <img src="screenshot/screenshot 3.png" alt="Clients">
+      <div class="tile-label">3 · Clients</div>
+    </div>
+    <div class="tile">
+      <img src="screenshot/screenshot 4.png" alt="Funnel Digital">
+      <div class="tile-label">4 · Funnel digital</div>
+    </div>
+    <div class="tile">
+      <img src="screenshot/screenshot 5.png" alt="Satisfaction">
+      <div class="tile-label">5 · Satisfaction</div>
+    </div>
+    <div class="tile cover">
+      <div>
+        <div class="cover-tag">DATAPROJECTLAB · POWER BI</div>
+        <div class="cover-title">ShopAfrica+<br>Dashboard 360</div>
+        <div class="cover-sub">5 pages · 72 mesures · 2 colonnes calculées</div>
+      </div>
+      <div class="cover-meta">
+        <span><span class="dot"></span>Niveau · Intermédiaire</span>
+        <span><span class="dot"></span>Durée · 6 à 8 h</span>
+        <span><span class="dot"></span>Power BI Desktop · 2.140+</span>
+        <span><span class="dot"></span>Janv — Déc 2023</span>
+      </div>
+    </div>
+  </div>
+  <div class="footer-note">Ouvrir dans Chrome puis &laquo; Imprimer &rarr; Enregistrer en PDF &raquo; ou faire une capture pleine fenêtre pour exporter en PNG.</div>
+</body>
+</html>

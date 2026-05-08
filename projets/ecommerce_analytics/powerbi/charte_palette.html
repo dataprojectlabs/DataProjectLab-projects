@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Charte ShopAfrica+ — Palette</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #F9F9F8;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    padding: 64px;
+    min-height: 100vh;
+  }
+  .frame {
+    background: #FFFFFF;
+    border-radius: 18px;
+    box-shadow: 0 12px 40px rgba(15,31,58,0.12);
+    padding: 56px 64px;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .head {
+    border-bottom: 1px solid #E5E7EB;
+    padding-bottom: 24px;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+  .tag {
+    font-size: 11px;
+    letter-spacing: 4px;
+    color: #534AB7;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  h1 {
+    font-family: Georgia, serif;
+    font-size: 36px;
+    color: #1E3A5F;
+    line-height: 1;
+  }
+  .head-meta {
+    font-size: 13px;
+    color: #888780;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .card {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    background: #FFFFFF;
+    border: 1px solid #EFEFEF;
+  }
+  .swatch {
+    height: 130px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 16px 18px;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .swatch.dark   { color: #FFFFFF; }
+  .swatch.light  { color: #2C2C2A; }
+  .info {
+    padding: 18px 20px;
+  }
+  .role {
+    font-size: 14px;
+    font-weight: 700;
+    color: #1E3A5F;
+    margin-bottom: 4px;
+  }
+  .usage {
+    font-size: 12px;
+    color: #888780;
+    line-height: 1.45;
+    margin-bottom: 10px;
+  }
+  .hex {
+    font-family: 'Consolas', monospace;
+    font-size: 12px;
+    color: #534AB7;
+    background: #EEEDFE;
+    padding: 4px 10px;
+    border-radius: 4px;
+    display: inline-block;
+    letter-spacing: 0.4px;
+  }
+  .footer {
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 1px solid #E5E7EB;
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    color: #888780;
+    letter-spacing: 1px;
+  }
+</style>
+</head>
+<body>
+  <div class="frame">
+    <div class="head">
+      <div>
+        <div class="tag">DataProjectLab · Power BI · Charte</div>
+        <h1>ShopAfrica+ — Palette graphique</h1>
+      </div>
+      <div class="head-meta">9 rôles · sémantique immuable</div>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <div class="swatch dark" style="background:#1E3A5F">Sidebar / titres</div>
+        <div class="info"><div class="role">Sidebar / titres</div><div class="usage">Bandeaux, headers, navigation</div><span class="hex">#1E3A5F</span></div>
+      </div>
+      <div class="card">
+        <div class="swatch dark" style="background:#534AB7">Primaire</div>
+        <div class="info"><div class="role">Primaire</div><div class="usage">Courbes principales, KPIs neutres</div><span class="hex">#534AB7</span></div>
+      </div>
+      <div class="card">
+        <div class="swatch dark" style="background:#1D9E75">Secondaire / Success</div>
+        <div class="info"><div class="role">Secondaire</div><div class="usage">Variations positives, état OK</div><span class="hex">#1D9E75</span></div>
+      </div>
+
+      <div class="card">
+        <div class="swatch dark" style="background:#EF9F27">Warning</div>
+        <div class="info"><div class="role">Warning</div><div class="usage">Attention, à surveiller</div><span class="hex">#EF9F27</span></div>
+      </div>
+      <div class="card">
+        <div class="swatch dark" style="background:#E24B4A">Danger</div>
+        <div class="info"><div class="role">Danger</div><div class="usage">Alertes, variations négatives</div><span class="hex">#E24B4A</span></div>
+      </div>
+      <div class="card">
+        <div class="swatch dark" style="background:#888780">Neutre</div>
+        <div class="info"><div class="role">Neutre</div><div class="usage">Labels, axes, gris textuel</div><span class="hex">#888780</span></div>
+      </div>
+
+      <div class="card">
+        <div class="swatch light" style="background:#EEEDFE;border-bottom:1px solid #E5E7EB">Fond clair</div>
+        <div class="info"><div class="role">Fond clair</div><div class="usage">Cards alternées, surlignage</div><span class="hex">#EEEDFE</span></div>
+      </div>
+      <div class="card">
+        <div class="swatch light" style="background:#F9F9F8;border-bottom:1px solid #E5E7EB">Fond page</div>
+        <div class="info"><div class="role">Fond page</div><div class="usage">Arrière-plan rapport Power BI</div><span class="hex">#F9F9F8</span></div>
+      </div>
+      <div class="card">
+        <div class="swatch dark" style="background:#2C2C2A">Texte principal</div>
+        <div class="info"><div class="role">Texte principal</div><div class="usage">Hero numbers, titres KPI</div><span class="hex">#2C2C2A</span></div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>SÉMANTIQUE FIXE · Rouge = agir · Orange = surveiller · Vert = OK</span>
+      <span>DATAPROJECTLAB ACADEMY</span>
+    </div>
+  </div>
+</body>
+</html>
