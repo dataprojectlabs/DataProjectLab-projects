@@ -30,7 +30,7 @@ import urllib.request
 # Conventions :
 # - id : kebab-case, sert de nom de fichier (banner_<id>.png)
 # - tag : ligne du haut en uppercase. Exemples :
-#       "DATAPROJECTLAB · VERSION ETUDIANT"
+#       "DATAPROJECTLAB · VERSION APPRENANT"
 #       "DATAPROJECTLAB · VERSION CORRIGEE"
 #       "DATAPROJECTLAB · GUIDE POWER BI"
 # - title : nom du projet (Georgia bold 42)
@@ -51,7 +51,7 @@ BANNERS = [
     },
     {
         "id": "ecommerce_nb1_enonce",
-        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
         "title": "E-Commerce Analytics 360",
         "subtitle": "Contexte metier & exploration des donnees",
         "meta": ["Niveau Intermediaire", "Duree 1 a 2 h", "Python  pandas  matplotlib"],
@@ -65,7 +65,7 @@ BANNERS = [
     },
     {
         "id": "ecommerce_nb2_enonce",
-        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
         "title": "E-Commerce Analytics 360",
         "subtitle": "Data cleaning & feature engineering",
         "meta": ["Niveau Intermediaire", "Duree 1 a 2 h", "Python  pandas  numpy"],
@@ -79,31 +79,17 @@ BANNERS = [
     },
     {
         "id": "ecommerce_nb3_enonce",
-        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
         "title": "E-Commerce Analytics 360",
-        "subtitle": "SQL analytics & EDA — KPIs e-commerce",
+        "subtitle": "SQL analytics & segmentation RFM — KPIs e-commerce",
         "meta": ["Niveau Intermediaire", "Duree 2 h", "DuckDB  SQL  CTE  fenetres"],
     },
     {
         "id": "ecommerce_nb3_solution",
         "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
         "title": "E-Commerce Analytics 360",
-        "subtitle": "SQL analytics & EDA — KPIs e-commerce",
+        "subtitle": "SQL analytics & segmentation RFM — KPIs e-commerce",
         "meta": ["Niveau Intermediaire", "Duree 2 h", "DuckDB  SQL  CTE  fenetres"],
-    },
-    {
-        "id": "ecommerce_nb4_enonce",
-        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
-        "title": "E-Commerce Analytics 360",
-        "subtitle": "Machine learning — segmentation RFM & sentiment",
-        "meta": ["Niveau Intermediaire", "Duree 2 h", "scikit-learn  NLP"],
-    },
-    {
-        "id": "ecommerce_nb4_solution",
-        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
-        "title": "E-Commerce Analytics 360",
-        "subtitle": "Machine learning — segmentation RFM & sentiment",
-        "meta": ["Niveau Intermediaire", "Duree 2 h", "scikit-learn  NLP"],
     },
     {
         "id": "ecommerce_powerbi_guide",
@@ -123,7 +109,7 @@ BANNERS = [
     },
     {
         "id": "customer_support_nb1_enonce",
-        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
         "title": "AfriCare Support Analytics",
         "subtitle": "Contexte metier & exploration des tickets",
         "meta": ["Niveau Intermediaire", "Duree 1 a 2 h", "Python  pandas  matplotlib"],
@@ -137,7 +123,7 @@ BANNERS = [
     },
     {
         "id": "customer_support_nb2_enonce",
-        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
         "title": "AfriCare Support Analytics",
         "subtitle": "SQL analytics — RANK, LAG sur performance agents",
         "meta": ["Niveau Intermediaire", "Duree 2 h", "DuckDB  window functions"],
@@ -151,7 +137,7 @@ BANNERS = [
     },
     {
         "id": "customer_support_nb3_enonce",
-        "tag": "DATAPROJECTLAB  ·  VERSION ETUDIANT",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
         "title": "AfriCare Support Analytics",
         "subtitle": "Machine learning — 3 modeles & seuil metier",
         "meta": ["Niveau Intermediaire", "Duree 2 h", "scikit-learn  validation temporelle"],
@@ -193,7 +179,7 @@ OUTPUT_DIR = ROOT.parent / "media" / "banners"
 
 W = 1600
 H = 240
-BORDER_RADIUS = 18  # rayon des coins arrondis
+BORDER_RADIUS = 32  # rayon des coins arrondis (visible apres scaling notebook)
 
 GRAD_LEFT = (249, 249, 248)
 GRAD_MID = (238, 237, 254)
