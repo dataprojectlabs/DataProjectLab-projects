@@ -222,6 +222,20 @@ BANNERS = [
         "meta": ["Avancé", "Duree 3 - 4 h", "Python, DuckDB (JupySQL), matplotlib "],
     },
     {
+        "id": "elearning_nb4_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
+        "title": "EduTrack Analytics",
+        "subtitle": "Machine Learning Premium : Détection du Décrochage",
+        "meta": ["Avancé", "Duree 3 - 4 h", "scikit-learn — classification, validation temporelle, optimisation seuil"],
+    },
+    {
+        "id": "elearning_nb4_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "EduTrack Analytics",
+        "subtitle": "Machine Learning Premium : Détection du Décrochage",
+        "meta": ["Avancé", "Duree 3 - 4 h", "scikit-learn — classification, validation temporelle, optimisation seuil"],
+    },
+    {
         "id": "elearning_powerbi_guide",
         "tag": "DATAPROJECTLAB  ·  GUIDE POWER BI",
         "title": "EduTrack Analytics",
