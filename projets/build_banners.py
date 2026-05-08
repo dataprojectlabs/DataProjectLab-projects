@@ -193,6 +193,7 @@ OUTPUT_DIR = ROOT.parent / "media" / "banners"
 
 W = 1600
 H = 240
+BORDER_RADIUS = 18  # rayon des coins arrondis
 
 GRAD_LEFT = (249, 249, 248)
 GRAD_MID = (238, 237, 254)
@@ -270,6 +271,7 @@ def download_logo():
 
 def build_banner(cfg):
     print(f"\n[{cfg['id']}]")
+    # On dessine sur un canvas RGB plein, puis on appliquera une mask arrondie
     canvas = Image.new("RGB", (W, H), GRAD_LEFT)
     draw_horizontal_gradient(canvas, GRAD_LEFT, GRAD_MID, GRAD_RIGHT)
     draw = ImageDraw.Draw(canvas, "RGBA")
@@ -314,10 +316,23 @@ def build_banner(cfg):
     logo_y = (H - new_h) // 2
     canvas.paste(logo, (logo_x, logo_y), logo)
 
+    # ---- COINS ARRONDIS ----
+    # Convertir en RGBA et appliquer une mask de rectangle arrondi
+    canvas_rgba = canvas.convert("RGBA")
+    mask = Image.new("L", (W, H), 0)
+    mask_draw = ImageDraw.Draw(mask)
+    mask_draw.rounded_rectangle(
+        [(0, 0), (W - 1, H - 1)],
+        radius=BORDER_RADIUS,
+        fill=255,
+    )
+    rounded = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    rounded.paste(canvas_rgba, (0, 0), mask)
+
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     out = OUTPUT_DIR / f"banner_{cfg['id']}.png"
-    canvas.save(out, "PNG", optimize=True)
-    print(f"  -> {out}  ({W}x{H})")
+    rounded.save(out, "PNG", optimize=True)
+    print(f"  -> {out}  ({W}x{H})  border-radius={BORDER_RADIUS}px")
 
 
 # ============================================================
