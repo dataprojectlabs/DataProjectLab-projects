@@ -491,6 +491,36 @@ BANNERS = [
         "meta": ["Niveau Avance", "Duree 3 a 4 h", "scikit-learn — classification, validation temporelle, optimisation seuil"],
     },
 
+    # ---------- CUSTOMER CHURN ANALYTICS — TELECOM CI ----------
+    {
+        "id": "customer_churn_main",
+        "tag": "DATAPROJECTLAB  ·  POWER BI  ·  TELECOM",
+        "title": "Customer Churn Analytics",
+        "subtitle": "Piloter la base abonnes IvoirCom et identifier les leviers de retention",
+        "meta": ["Niveau Avance", "Duree 7 a 9 h", "Python  SQL  Power BI", "5 pages   50 mesures"],
+    },
+    {
+        "id": "customer_churn_nb1_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
+        "title": "Customer Churn Analytics",
+        "subtitle": "SQL Analytics : KPIs Churn, Cohortes, Reclamations & RFM Telecom",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "Python, DuckDB (JupySQL), pandas, matplotlib"],
+    },
+    {
+        "id": "customer_churn_nb1_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "Customer Churn Analytics",
+        "subtitle": "SQL Analytics : KPIs Churn, Cohortes, Reclamations & RFM Telecom",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "Python, DuckDB (JupySQL), pandas, matplotlib"],
+    },
+    {
+        "id": "customer_churn_powerbi_guide",
+        "tag": "DATAPROJECTLAB  ·  GUIDE POWER BI",
+        "title": "Customer Churn Analytics",
+        "subtitle": "Construire le tableau de bord IvoirCom pas a pas",
+        "meta": ["Niveau Avance", "Duree 4 a 5 h", "Power BI, DAX, USERELATIONSHIP, TREATAS", "5 pages   50 mesures"],
+    },
+
 ]
 
 
