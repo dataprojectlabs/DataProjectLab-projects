@@ -419,6 +419,78 @@ BANNERS = [
         "meta": ["Niveau Avance", "Duree 7 a 9 h", "Power BI, DAX, HTML Content", "5 pages   82 mesures"],
     },
 
+    # ---------- LOGITRACK ANALYTICS — SUPPLY CHAIN ----------
+    {
+        "id": "logitrack_main",
+        "tag": "DATAPROJECTLAB  ·  POWER BI  ·  SUPPLY CHAIN",
+        "title": "LogiTrack Analytics",
+        "subtitle": "Piloter la performance livraison d'un transporteur ouest-africain",
+        "meta": ["Niveau Avance", "Duree 16 a 20 h", "Python  SQL  Power BI  ML", "5 pages   56 mesures"],
+    },
+    {
+        "id": "logitrack_nb1_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
+        "title": "LogiTrack Analytics",
+        "subtitle": "Contexte metier & Exploration des donnees",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "Python, DuckDB (JupySQL), matplotlib"],
+    },
+    {
+        "id": "logitrack_nb1_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "LogiTrack Analytics",
+        "subtitle": "Contexte metier & Exploration des donnees",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "Python, DuckDB (JupySQL), matplotlib"],
+    },
+    {
+        "id": "logitrack_nb2_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
+        "title": "LogiTrack Analytics",
+        "subtitle": "Data Cleaning & Feature Engineering",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "Python — pandas, numpy, matplotlib"],
+    },
+    {
+        "id": "logitrack_nb2_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "LogiTrack Analytics",
+        "subtitle": "Data Cleaning & Feature Engineering",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "Python — pandas, numpy, matplotlib"],
+    },
+    {
+        "id": "logitrack_nb3_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
+        "title": "LogiTrack Analytics",
+        "subtitle": "SQL Analytics, KPIs & Performance",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "Python, DuckDB (JupySQL), pandas, matplotlib"],
+    },
+    {
+        "id": "logitrack_nb3_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "LogiTrack Analytics",
+        "subtitle": "SQL Analytics, KPIs & Performance",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "Python, DuckDB (JupySQL), pandas, matplotlib"],
+    },
+    {
+        "id": "logitrack_powerbi_guide",
+        "tag": "DATAPROJECTLAB  ·  GUIDE POWER BI",
+        "title": "LogiTrack Analytics",
+        "subtitle": "Construire le tableau de bord supply chain pas a pas",
+        "meta": ["Niveau Avance", "Duree 4 a 5 h", "Power BI, DAX, HTML Content", "5 pages   56 mesures"],
+    },
+    {
+        "id": "logitrack_nb5_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
+        "title": "LogiTrack Analytics",
+        "subtitle": "Machine Learning Premium : Prediction des retards",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "scikit-learn — classification, validation temporelle, optimisation seuil"],
+    },
+    {
+        "id": "logitrack_nb5_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "LogiTrack Analytics",
+        "subtitle": "Machine Learning Premium : Prediction des retards",
+        "meta": ["Niveau Avance", "Duree 3 a 4 h", "scikit-learn — classification, validation temporelle, optimisation seuil"],
+    },
+
 ]
 
 
