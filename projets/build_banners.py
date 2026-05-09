@@ -375,6 +375,50 @@ BANNERS = [
         "meta": ["Niveau Intermediaire", "Duree 6 a 8 h", "Power BI, DAX"],
     },
 
+    # ---------- GOOGLEADSPULSE — PAID MEDIA ANALYTICS ----------
+    {
+        "id": "googleadspulse_main",
+        "tag": "DATAPROJECTLAB  ·  POWER BI  ·  PAID MEDIA",
+        "title": "GoogleAdsPulse Analytics",
+        "subtitle": "Piloter la performance Google Ads de 5 comptes clients",
+        "meta": ["Niveau Avance", "Duree 7 a 9 h", "Python  SQL  Power BI", "5 pages   82 mesures"],
+    },
+    {
+        "id": "googleadspulse_nb1_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
+        "title": "GoogleAdsPulse Analytics",
+        "subtitle": "Contexte metier & Vue d'ensemble des KPIs",
+        "meta": ["Niveau Intermediaire", "Duree 2h30 a 3h30", "Python — pandas, matplotlib"],
+    },
+    {
+        "id": "googleadspulse_nb1_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "GoogleAdsPulse Analytics",
+        "subtitle": "Contexte metier & Vue d'ensemble des KPIs",
+        "meta": ["Niveau Intermediaire", "Duree 2h30 a 3h30", "Python — pandas, matplotlib"],
+    },
+    {
+        "id": "googleadspulse_nb2_enonce",
+        "tag": "DATAPROJECTLAB  ·  VERSION APPRENANT",
+        "title": "GoogleAdsPulse Analytics",
+        "subtitle": "SQL Analytics Avance — RANK, NTILE, LAG, Window Functions",
+        "meta": ["Avance", "Duree 3 a 4 h", "DuckDB — RANK(), NTILE(), LAG(), SUM() OVER, DATE_TRUNC, STDDEV(), self-join"],
+    },
+    {
+        "id": "googleadspulse_nb2_solution",
+        "tag": "DATAPROJECTLAB  ·  VERSION CORRIGEE",
+        "title": "GoogleAdsPulse Analytics",
+        "subtitle": "SQL Analytics Avance — RANK, NTILE, LAG, Window Functions",
+        "meta": ["Avance", "Duree 3 a 4 h", "DuckDB — RANK(), NTILE(), LAG(), SUM() OVER, DATE_TRUNC, STDDEV(), self-join"],
+    },
+    {
+        "id": "googleadspulse_powerbi_guide",
+        "tag": "DATAPROJECTLAB  ·  GUIDE POWER BI",
+        "title": "GoogleAdsPulse Analytics",
+        "subtitle": "Construire le tableau de bord Paid Media pas a pas",
+        "meta": ["Niveau Avance", "Duree 7 a 9 h", "Power BI, DAX, HTML Content", "5 pages   82 mesures"],
+    },
+
 ]
 
 
