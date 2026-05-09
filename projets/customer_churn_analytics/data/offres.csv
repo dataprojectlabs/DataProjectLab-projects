@@ -1,0 +1,7 @@
+code_offre,libelle,prix_fcfa,data_inclus_go,voix_incluses_min,segment_cible
+PULSE,Pulse 1 Go,3000,1,100,Etudiants jeunes
+CONNECT,Connect 5 Go,7500,5,300,Grand public
+PREMIUM,Premium 15 Go,15000,15,600,Famille
+PRO,Pro 30 Go,25000,30,1200,Entrepreneurs
+ETUDIANT,Etudiant 8 Go,4500,8,150,Etudiants
+SENIOR,Senior 2 Go Voix,4000,2,500,Seniors 60+
